@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(\"C:\\\\Users\\\\alibe\\\\Documents\\\\palword\\\\palworld_team_optimizer\\\\.venv\\\\Scripts\\\\python.exe\" -m pip list)"
+    ]
+  }
+}
