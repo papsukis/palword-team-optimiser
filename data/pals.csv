@@ -1,300 +1,300 @@
 Pal,Index,Primary Element,Secondary Element,Rarity,HP,Attack,Defense,Work Speed,Support,HP Lvl80 Min,HP Lvl80 Max,Attack Lvl80 Min,Attack Lvl80 Max,Defense Lvl80 Min,Defense Lvl80 Max,Combat Rating (/10),Role,Partner Skill,Passive Skill,Mountable,Source URL,Data Date
-Lamball,1,Neutral,,1,70,70,70,100,100,3700.0,4540.0,520.0,646.0,470.0,596.0,1.2,All-Rounder,Bouclier Duveteux,,False,https://paldb.cc/fr/Lamball,2026-08-05
-Cattiva,2,Neutral,,1,70,70,70,100,100,3700.0,4540.0,520.0,646.0,470.0,596.0,1.2,All-Rounder,Chat Porteur,Lâche,False,https://paldb.cc/fr/Cattiva,2026-08-05
-Chikipi,3,Neutral,,1,60,60,60,100,70,3300.0,4020.0,460.0,568.0,410.0,518.0,0.5,All-Rounder,Production d'œufs,,False,https://paldb.cc/fr/Chikipi,2026-08-05
-Lifmunk,4,Grass,,1,75,70,70,100,100,3900.0,4800.0,520.0,646.0,470.0,596.0,1.3,All-Rounder,Soutien de Lifmunk,,False,https://paldb.cc/fr/Lifmunk,2026-08-05
-Fuack,5,Water,,1,60,80,60,100,100,3300.0,4020.0,580.0,724.0,410.0,518.0,1.1,Attacker,Coud'Surf,,False,https://paldb.cc/fr/Fuack,2026-08-05
-Fuack Ignis,5,Water,Fire,2,60,85,60,100,100,3300.0,4020.0,610.0,763.0,410.0,518.0,1.3,Attacker,Tacle de Feu,,False,https://paldb.cc/fr/Fuack_Ignis,2026-08-05
-Vixy,6,Neutral,,2,70,70,70,100,140,3700.0,4540.0,520.0,646.0,470.0,596.0,1.2,All-Rounder,Creuse et creuse,,False,https://paldb.cc/fr/Vixy,2026-08-05
-Celaray,7,Water,,3,80,70,80,100,100,4100.0,5060.0,520.0,646.0,530.0,674.0,1.6,All-Rounder,Planeur sur Brise,,False,https://paldb.cc/fr/Celaray,2026-08-05
-Celaray Lux,7,Water,Electric,4,80,75,80,100,100,4100.0,5060.0,550.0,685.0,530.0,674.0,1.7,All-Rounder,Planair,,False,https://paldb.cc/fr/Celaray_Lux,2026-08-05
-Cremis,8,Neutral,,1,70,70,75,100,100,3700.0,4540.0,520.0,646.0,500.0,635.0,1.3,All-Rounder,Laine Soyeuse,,False,https://paldb.cc/fr/Cremis,2026-08-05
-Croajiro,9,Water,,4,80,100,85,100,100,4100.0,5060.0,700.0,880.0,560.0,713.0,2.6,All-Rounder,Position Saut,,False,https://paldb.cc/fr/Croajiro,2026-08-05
-Croajiro Noct,9,Water,Dark,5,85,110,90,100,100,4300.0,5320.0,760.0,958.0,590.0,752.0,3.1,All-Rounder,Posture Annonciatrice,,False,https://paldb.cc/fr/Croajiro_Noct,2026-08-05
-Herbil,10,Grass,Neutral,3,80,75,75,100,100,4100.0,5060.0,550.0,685.0,500.0,635.0,1.6,All-Rounder,Herbapulsion,,False,https://paldb.cc/fr/Herbil,2026-08-05
-Teafant,11,Water,,1,70,60,70,100,100,3700.0,4540.0,460.0,568.0,470.0,596.0,0.9,All-Rounder,Douche Apaisante,,False,https://paldb.cc/fr/Teafant,2026-08-05
-Gumoss,12,Grass,Ground,10,70,70,70,100,100,3700.0,4540.0,520.0,646.0,470.0,596.0,1.2,All-Rounder,Aide aux Bûcherons,,False,https://paldb.cc/fr/Gumoss,2026-08-05
-Pupperai,13,Ground,,2,70,80,70,100,100,3700.0,4540.0,580.0,724.0,470.0,596.0,1.5,All-Rounder,Soutien Sincère,,False,https://paldb.cc/fr/Pupperai,2026-08-05
-Clovee,14,Grass,Neutral,2,80,65,65,100,100,4100.0,5060.0,490.0,607.0,440.0,557.0,1.1,All-Rounder,Joyeux Trèfle,,False,https://paldb.cc/fr/Clovee,2026-08-05
-Jolthog,15,Electric,,1,70,75,70,100,100,3700.0,4540.0,550.0,685.0,470.0,596.0,1.4,All-Rounder,Bombe Zap,,False,https://paldb.cc/fr/Jolthog,2026-08-05
-Jolthog Cryst,15,Ice,,2,70,75,80,100,100,3700.0,4540.0,550.0,685.0,530.0,674.0,1.6,All-Rounder,Bombe Glagla,,False,https://paldb.cc/fr/Jolthog_Cryst,2026-08-05
-Depresso,16,Dark,,1,70,70,70,100,100,3700.0,4540.0,520.0,646.0,470.0,596.0,1.2,All-Rounder,Shot de Caféine,,False,https://paldb.cc/fr/Depresso,2026-08-05
-Pengullet,17,Water,Ice,1,70,75,70,100,100,3700.0,4540.0,550.0,685.0,470.0,596.0,1.4,All-Rounder,Lance-Pengullet,,False,https://paldb.cc/fr/Pengullet,2026-08-05
-Pengullet Lux,17,Water,Electric,2,70,80,70,100,100,3700.0,4540.0,580.0,724.0,470.0,596.0,1.5,All-Rounder,Lance-Pengullet Lux,,False,https://paldb.cc/fr/Pengullet_Lux,2026-08-05
-Penking,18,Water,Ice,6,95,95,95,100,100,4700.0,5840.0,670.0,841.0,620.0,791.0,2.9,All-Rounder,Guerrier des Mers,,False,https://paldb.cc/fr/Penking,2026-08-05
-Penking Lux,18,Water,Electric,7,100,100,100,100,100,4900.0,6100.0,700.0,880.0,650.0,830.0,3.2,All-Rounder,Commandement Inflexible,,False,https://paldb.cc/fr/Penking_Lux,2026-08-05
-Hoocrates,19,Dark,,1,70,70,80,100,100,3700.0,4540.0,520.0,646.0,530.0,674.0,1.4,All-Rounder,Sagesse Obscure,,False,https://paldb.cc/fr/Hoocrates,2026-08-05
-Melpaca,20,Neutral,,3,90,75,90,100,100,4500.0,5580.0,550.0,685.0,590.0,752.0,2.1,All-Rounder,Paca-Laine,,True,https://paldb.cc/fr/Melpaca,2026-08-05
-Kingpaca,21,Neutral,,8,120,85,90,100,100,5700.0,7140.0,610.0,763.0,590.0,752.0,2.8,All-Rounder,Montagne de Muscles,Poids Lourd,True,https://paldb.cc/fr/Kingpaca,2026-08-05
-Kingpaca Cryst,21,Ice,,9,120,85,90,100,100,5700.0,7140.0,610.0,763.0,590.0,752.0,2.8,All-Rounder,Roi des Glaces,Poids Lourd,True,https://paldb.cc/fr/Kingpaca_Cryst,2026-08-05
-Daedream,22,Dark,,1,70,75,60,100,100,3700.0,4540.0,550.0,685.0,410.0,518.0,1.1,Attacker,Charognard Onirique,,False,https://paldb.cc/fr/Daedream,2026-08-05
-Tanzee,23,Grass,,1,80,70,70,100,100,4100.0,5060.0,520.0,646.0,470.0,596.0,1.4,All-Rounder,Fusil Jovial,,False,https://paldb.cc/fr/Tanzee,2026-08-05
-Tanzee Ignis,23,Fire,,2,80,75,70,100,100,4100.0,5060.0,550.0,685.0,470.0,596.0,1.5,All-Rounder,Fou de la Gâchette,,False,https://paldb.cc/fr/Tanzee_Ignis,2026-08-05
-Nox,24,Dark,,6,75,85,70,100,140,3900.0,4800.0,610.0,763.0,470.0,596.0,1.7,All-Rounder,Cœur de Pierre,,False,https://paldb.cc/fr/Nox,2026-08-05
-Flambelle,25,Fire,,1,60,70,80,100,100,3300.0,4020.0,520.0,646.0,530.0,674.0,1.3,All-Rounder,Larmes de Lave,,False,https://paldb.cc/fr/Flambelle,2026-08-05
-Rooby,26,Fire,,2,75,70,75,100,100,3900.0,4800.0,520.0,646.0,500.0,635.0,1.4,All-Rounder,Petite Étincelle,,False,https://paldb.cc/fr/Rooby,2026-08-05
-Mau,27,Dark,,1,70,60,70,100,100,3700.0,4540.0,460.0,568.0,470.0,596.0,0.9,All-Rounder,Chercheur d'or,,False,https://paldb.cc/fr/Mau,2026-08-05
-Mau Cryst,27,Ice,,2,70,65,70,100,100,3700.0,4540.0,490.0,607.0,470.0,596.0,1.1,All-Rounder,Douche Froide,,False,https://paldb.cc/fr/Mau_Cryst,2026-08-05
-Rushoar,28,Ground,,1,80,70,70,100,100,4100.0,5060.0,520.0,646.0,470.0,596.0,1.4,All-Rounder,Tête Dure,,True,https://paldb.cc/fr/Rushoar,2026-08-05
-Foxparks,29,Fire,,1,65,75,70,100,100,3500.0,4280.0,550.0,685.0,470.0,596.0,1.3,All-Rounder,Câlin de Flammes,,False,https://paldb.cc/fr/Foxparks,2026-08-05
-Foxparks Cryst,29,Ice,,1,65,80,70,100,100,3500.0,4280.0,580.0,724.0,470.0,596.0,1.4,All-Rounder,Câlin Glacé,,False,https://paldb.cc/fr/Foxparks_Cryst,2026-08-05
-Killamari,30,Dark,Water,1,60,60,70,100,100,3300.0,4020.0,460.0,568.0,470.0,596.0,0.8,All-Rounder,Calamar Frit,,False,https://paldb.cc/fr/Killamari,2026-08-05
-Killamari Primo,30,Neutral,Water,2,70,60,70,100,100,3700.0,4540.0,460.0,568.0,470.0,596.0,0.9,All-Rounder,Aspirêves,,False,https://paldb.cc/fr/Killamari_Primo,2026-08-05
-Fuddler,31,Ground,,1,65,80,50,100,100,3500.0,4280.0,580.0,724.0,350.0,440.0,1.0,Attacker,Appui Minier,,False,https://paldb.cc/fr/Fuddler,2026-08-05
-Eikthyrdeer,32,Neutral,,5,95,80,80,100,100,4700.0,5840.0,580.0,724.0,530.0,674.0,2.1,All-Rounder,Gardien des Bois,,True,https://paldb.cc/fr/Eikthyrdeer,2026-08-05
-Eikthyrdeer Terra,32,Ground,,6,95,80,80,100,100,4700.0,5840.0,580.0,724.0,530.0,674.0,2.1,All-Rounder,Gardien des Bois Dorés,,True,https://paldb.cc/fr/Eikthyrdeer_Terra,2026-08-05
-Direhowl,33,Neutral,,2,80,90,75,100,100,4100.0,5060.0,640.0,802.0,500.0,635.0,2.1,All-Rounder,Virée Sauvage,,False,https://paldb.cc/fr/Direhowl,2026-08-05
-Caprity,34,Grass,,3,100,70,90,100,120,4900.0,6100.0,520.0,646.0,590.0,752.0,2.1,All-Rounder,Cueillette de baies,,False,https://paldb.cc/fr/Caprity,2026-08-05
-Caprity Noct,34,Dark,,3,100,75,90,100,120,4900.0,6100.0,550.0,685.0,590.0,752.0,2.3,All-Rounder,Pince-Venin,,False,https://paldb.cc/fr/Caprity_Noct,2026-08-05
-Swee,35,Ice,,1,60,60,60,100,100,3300.0,4020.0,460.0,568.0,410.0,518.0,0.5,All-Rounder,Gouzi-Gouzi,,False,https://paldb.cc/fr/Swee,2026-08-05
-Sweepa,36,Ice,,6,100,90,90,100,100,4900.0,6100.0,640.0,802.0,590.0,752.0,2.7,All-Rounder,Gouzi-Gouzi Royal,,True,https://paldb.cc/fr/Sweepa,2026-08-05
-Turtacle,37,Water,,3,75,75,115,100,100,3900.0,4800.0,550.0,685.0,740.0,947.0,2.5,Tank,Support Pointu,,False,https://paldb.cc/fr/Turtacle,2026-08-05
-Turtacle Terra,37,Water,Ground,4,85,85,125,100,100,4300.0,5320.0,610.0,763.0,800.0,1025.0,3.2,Tank,Support Brillant,,False,https://paldb.cc/fr/Turtacle_Terra,2026-08-05
-Hangyu,38,Ground,,1,80,70,70,100,100,4100.0,5060.0,520.0,646.0,470.0,596.0,1.4,All-Rounder,Trapéziste,,False,https://paldb.cc/fr/Hangyu,2026-08-05
-Hangyu Cryst,38,Ice,,2,80,80,70,100,100,4100.0,5060.0,580.0,724.0,470.0,596.0,1.7,All-Rounder,Trapéziste du Froid,,False,https://paldb.cc/fr/Hangyu_Cryst,2026-08-05
-Woolipop,39,Neutral,,3,70,70,90,100,100,3700.0,4540.0,520.0,646.0,590.0,752.0,1.7,All-Rounder,Petit Bonbon,,False,https://paldb.cc/fr/Woolipop,2026-08-05
-Woolipop Terra,39,Ground,,4,70,70,95,100,100,3700.0,4540.0,520.0,646.0,620.0,791.0,1.8,All-Rounder,Bonbon Amer,,False,https://paldb.cc/fr/Woolipop_Terra,2026-08-05
-Mozzarina,40,Neutral,,2,90,50,80,100,100,4500.0,5580.0,400.0,490.0,530.0,674.0,1.1,Tank,Production de lait,,False,https://paldb.cc/fr/Mozzarina,2026-08-05
-Azurobe,41,Water,Dragon,7,110,100,100,100,100,5300.0,6620.0,700.0,880.0,650.0,830.0,3.4,All-Rounder,Danse de l'eau,,True,https://paldb.cc/fr/Azurobe,2026-08-05
-Azurobe Cryst,41,Ice,Dragon,8,115,105,105,100,100,5500.0,6880.0,730.0,919.0,680.0,869.0,3.7,All-Rounder,Danse Glagla,,True,https://paldb.cc/fr/Azurobe_Cryst,2026-08-05
-Sparkit,42,Electric,,1,60,75,70,100,80,3300.0,4020.0,550.0,685.0,470.0,596.0,1.2,All-Rounder,Électricité Statique,,False,https://paldb.cc/fr/Sparkit,2026-08-05
-Kelpsea,43,Water,,1,70,70,70,100,100,3700.0,4540.0,520.0,646.0,470.0,596.0,1.2,All-Rounder,Giclée d'eau,,False,https://paldb.cc/fr/Kelpsea,2026-08-05
-Kelpsea Ignis,43,Fire,,2,70,70,70,100,100,3700.0,4540.0,520.0,646.0,470.0,596.0,1.2,All-Rounder,Jet de Lave,,False,https://paldb.cc/fr/Kelpsea_Ignis,2026-08-05
-Ribbuny,44,Neutral,,1,75,65,70,100,100,3900.0,4800.0,490.0,607.0,470.0,596.0,1.1,All-Rounder,Princesse Lapinou Souriant,,False,https://paldb.cc/fr/Ribbuny,2026-08-05
-Ribbuny Botan,44,Grass,,1,80,65,70,100,100,4100.0,5060.0,490.0,607.0,470.0,596.0,1.2,All-Rounder,Lapin Dézerbe,,False,https://paldb.cc/fr/Ribbuny_Botan,2026-08-05
-Jelliette,45,Water,,3,75,90,70,100,100,3900.0,4800.0,640.0,802.0,470.0,596.0,1.9,Attacker,Largue-Jelliette,,False,https://paldb.cc/fr/Jelliette,2026-08-05
-Jellroy,46,Water,Dark,3,90,75,75,100,100,4500.0,5580.0,550.0,685.0,500.0,635.0,1.8,All-Rounder,Largue-Jellroy,,False,https://paldb.cc/fr/Jellroy,2026-08-05
-Amione,47,Water,,2,65,70,65,100,100,3500.0,4280.0,520.0,646.0,440.0,557.0,1.0,All-Rounder,Jumelage Magique,,False,https://paldb.cc/fr/Amione,2026-08-05
-Gloopie,48,Water,Dark,5,70,85,70,100,100,3700.0,4540.0,610.0,763.0,470.0,596.0,1.7,All-Rounder,Tapette Princière,,False,https://paldb.cc/fr/Gloopie,2026-08-05
-Gloopie Primo,48,Water,Neutral,6,75,85,70,100,100,3900.0,4800.0,610.0,763.0,470.0,596.0,1.7,All-Rounder,Princesse Ventouse,,False,https://paldb.cc/fr/Gloopie_Primo,2026-08-05
-Galeclaw,49,Neutral,,2,75,85,60,100,100,3900.0,4800.0,610.0,763.0,410.0,518.0,1.5,Attacker,Monte-Galeclaw,,False,https://paldb.cc/fr/Galeclaw,2026-08-05
-Wispaw,50,Dark,,5,85,95,70,100,100,4300.0,5320.0,670.0,841.0,470.0,596.0,2.2,Attacker,Félin Possédé,,False,https://paldb.cc/fr/Wispaw,2026-08-05
-Nitewing,51,Neutral,,3,100,95,80,100,100,4900.0,6100.0,670.0,841.0,530.0,674.0,2.6,All-Rounder,Compagnon de Voyage,,True,https://paldb.cc/fr/Nitewing,2026-08-05
-Tombat,52,Dark,,5,95,95,80,100,100,4700.0,5840.0,670.0,841.0,530.0,674.0,2.6,All-Rounder,Sixième Sens,,False,https://paldb.cc/fr/Tombat,2026-08-05
-Tocotoco,53,Neutral,,1,60,75,70,100,70,3300.0,4020.0,550.0,685.0,470.0,596.0,1.2,All-Rounder,Lance-œufs Explosifs,,False,https://paldb.cc/fr/Tocotoco,2026-08-05
-Univolt,54,Electric,,5,80,105,105,100,100,4100.0,5060.0,730.0,919.0,680.0,869.0,3.2,All-Rounder,Éclair Foudroyant,,True,https://paldb.cc/fr/Univolt,2026-08-05
-Univolt Cryst,54,Ice,,6,80,105,110,100,100,4100.0,5060.0,730.0,919.0,710.0,908.0,3.3,All-Rounder,Conflit Polaire,,True,https://paldb.cc/fr/Univolt_Cryst,2026-08-05
-Gobfin,55,Water,,2,90,90,75,100,100,4500.0,5580.0,640.0,802.0,500.0,635.0,2.2,All-Rounder,Squale Ronchon,,False,https://paldb.cc/fr/Gobfin,2026-08-05
-Gobfin Ignis,55,Fire,,3,90,90,75,100,100,4500.0,5580.0,640.0,802.0,500.0,635.0,2.2,All-Rounder,Squale Ronchon,,False,https://paldb.cc/fr/Gobfin_Ignis,2026-08-05
-Loupmoon,56,Dark,,3,80,100,80,100,100,4100.0,5060.0,700.0,880.0,530.0,674.0,2.5,Attacker,Grilles Scintillantes,,False,https://paldb.cc/fr/Loupmoon,2026-08-05
-Loupmoon Cryst,56,Ice,,3,80,105,80,100,100,4100.0,5060.0,730.0,919.0,530.0,674.0,2.6,Attacker,Coup de Griffes Glacées,,False,https://paldb.cc/fr/Loupmoon_Cryst,2026-08-05
-Cawgnito,57,Dark,,3,75,95,80,100,100,3900.0,4800.0,670.0,841.0,530.0,674.0,2.3,All-Rounder,Oiseau de Nuit,,False,https://paldb.cc/fr/Cawgnito,2026-08-05
-Arsox,58,Fire,,4,85,95,95,100,100,4300.0,5320.0,670.0,841.0,620.0,791.0,2.8,All-Rounder,Chaleur Corporelle,,True,https://paldb.cc/fr/Arsox,2026-08-05
-Muffly,59,Ice,,2,60,80,55,100,100,3300.0,4020.0,580.0,724.0,380.0,479.0,1.0,Attacker,Tourontoudou,,False,https://paldb.cc/fr/Muffly,2026-08-05
-Bristla,60,Grass,,1,80,80,80,100,100,4100.0,5060.0,580.0,724.0,530.0,674.0,1.9,All-Rounder,Regard de Princesse,,False,https://paldb.cc/fr/Bristla,2026-08-05
-Cinnamoth,61,Grass,,4,70,80,80,100,100,3700.0,4540.0,580.0,724.0,530.0,674.0,1.7,All-Rounder,Écailles Mystérieuses,,False,https://paldb.cc/fr/Cinnamoth,2026-08-05
-Puffolt,62,Electric,,2,75,80,70,100,100,3900.0,4800.0,580.0,724.0,470.0,596.0,1.6,All-Rounder,Poussée Crépitante,,False,https://paldb.cc/fr/Puffolt,2026-08-05
-Elphidran,63,Dragon,,7,110,80,90,100,100,5300.0,6620.0,580.0,724.0,590.0,752.0,2.5,All-Rounder,Dragon Sacré au Grand Cœur,,True,https://paldb.cc/fr/Elphidran,2026-08-05
-Elphidran Aqua,63,Dragon,Water,8,115,80,95,100,100,5500.0,6880.0,580.0,724.0,620.0,791.0,2.7,All-Rounder,Dragon Aquatique au Grand Cœur,,True,https://paldb.cc/fr/Elphidran_Aqua,2026-08-05
-Vanwyrm,64,Fire,Dark,5,90,115,90,100,100,4500.0,5580.0,790.0,997.0,590.0,752.0,3.3,Attacker,Assaillant Céleste,,True,https://paldb.cc/fr/Vanwyrm,2026-08-05
-Vanwyrm Cryst,64,Ice,Dark,5,90,120,95,100,100,4500.0,5580.0,820.0,1036.0,620.0,791.0,3.6,Attacker,Assaillant Céleste,,True,https://paldb.cc/fr/Vanwyrm_Cryst,2026-08-05
-Felbat,65,Dark,,6,100,105,110,100,110,4900.0,6100.0,730.0,919.0,710.0,908.0,3.6,All-Rounder,Vol de vie,,False,https://paldb.cc/fr/Felbat,2026-08-05
-Vaelet,66,Grass,,8,100,100,120,100,100,4900.0,6100.0,700.0,880.0,770.0,986.0,3.7,All-Rounder,Purification Tellurique,,False,https://paldb.cc/fr/Vaelet,2026-08-05
-Beegarde,67,Grass,,4,80,90,90,100,100,4100.0,5060.0,640.0,802.0,590.0,752.0,2.4,All-Rounder,Abeille Ouvrière,,False,https://paldb.cc/fr/Beegarde,2026-08-05
-Elizabee,68,Grass,,8,90,105,100,100,100,4500.0,5580.0,730.0,919.0,650.0,830.0,3.2,All-Rounder,Reine des Abeilles,,False,https://paldb.cc/fr/Elizabee,2026-08-05
-Lovander,69,Dark,,5,120,70,70,100,140,5700.0,7140.0,520.0,646.0,470.0,596.0,1.9,All-Rounder,Draine-Cœur,Anormal,False,https://paldb.cc/fr/Lovander,2026-08-05
-Grintale,70,Neutral,,6,110,80,80,100,100,5300.0,6620.0,580.0,724.0,530.0,674.0,2.3,All-Rounder,Œil de Lynx,,True,https://paldb.cc/fr/Grintale,2026-08-05
-Tarantriss,71,Dark,,3,110,100,100,100,100,5300.0,6620.0,700.0,880.0,650.0,830.0,3.4,All-Rounder,Toile de Tarantriss,,True,https://paldb.cc/fr/Tarantriss,2026-08-05
-Polapup,72,Ice,Water,5,95,105,105,100,100,4700.0,5840.0,730.0,919.0,680.0,869.0,3.4,All-Rounder,Dévale Montagne,,True,https://paldb.cc/fr/Polapup,2026-08-05
-Polapup Terra,72,Ice,Ground,6,95,105,110,100,100,4700.0,5840.0,730.0,919.0,710.0,908.0,3.5,All-Rounder,Dévale-Montagne,,True,https://paldb.cc/fr/Polapup_Terra,2026-08-05
-Leezpunk,73,Dark,,2,80,80,50,100,100,4100.0,5060.0,580.0,724.0,350.0,440.0,1.2,Attacker,Camouflage,,False,https://paldb.cc/fr/Leezpunk,2026-08-05
-Leezpunk Ignis,73,Fire,,3,80,80,50,100,100,4100.0,5060.0,580.0,724.0,350.0,440.0,1.2,Attacker,Camouflage,,False,https://paldb.cc/fr/Leezpunk_Ignis,2026-08-05
-Gorirat,74,Neutral,,5,90,95,90,100,100,4500.0,5580.0,670.0,841.0,590.0,752.0,2.7,All-Rounder,Mode Enragé,Trouble-Fête,False,https://paldb.cc/fr/Gorirat,2026-08-05
-Gorirat Terra,74,Ground,,5,90,100,90,100,100,4500.0,5580.0,700.0,880.0,590.0,752.0,2.9,All-Rounder,Bras de Gorille Ultime,Trouble-Fête,False,https://paldb.cc/fr/Gorirat_Terra,2026-08-05
-Surfent,75,Water,,4,90,90,80,100,100,4500.0,5580.0,640.0,802.0,530.0,674.0,2.3,All-Rounder,Fouisseur Furtif,,True,https://paldb.cc/fr/Surfent,2026-08-05
-Surfent Terra,75,Ground,,5,90,90,100,100,100,4500.0,5580.0,640.0,802.0,650.0,830.0,2.8,All-Rounder,Fouisseur des Sables,,True,https://paldb.cc/fr/Surfent_Terra,2026-08-05
-Robinquill,76,Grass,,5,90,105,80,100,100,4500.0,5580.0,730.0,919.0,530.0,674.0,2.8,Attacker,Maître Archer,,False,https://paldb.cc/fr/Robinquill,2026-08-05
-Robinquill Terra,76,Grass,Ground,6,90,105,80,100,100,4500.0,5580.0,730.0,919.0,530.0,674.0,2.8,Attacker,Archer d’Elite,,False,https://paldb.cc/fr/Robinquill_Terra,2026-08-05
-Flopie,77,Grass,,1,75,65,70,100,100,3900.0,4800.0,490.0,607.0,470.0,596.0,1.1,All-Rounder,Lapin Serviable,,False,https://paldb.cc/fr/Flopie,2026-08-05
-Wixen,78,Fire,,6,90,110,80,100,120,4500.0,5580.0,760.0,958.0,530.0,674.0,2.9,Attacker,Maître Renard,,False,https://paldb.cc/fr/Wixen,2026-08-05
-Wixen Noct,78,Fire,Dark,6,90,110,85,100,120,4500.0,5580.0,760.0,958.0,560.0,713.0,3.0,Attacker,Grand Renard Noir,,False,https://paldb.cc/fr/Wixen_Noct,2026-08-05
-Katress,79,Dark,,6,90,105,90,100,100,4500.0,5580.0,730.0,919.0,590.0,752.0,3.0,All-Rounder,Étrange Sorcellerie,,False,https://paldb.cc/fr/Katress,2026-08-05
-Katress Ignis,79,Dark,Fire,6,95,105,90,100,100,4700.0,5840.0,730.0,919.0,590.0,752.0,3.1,All-Rounder,Passion Magie Noire,,False,https://paldb.cc/fr/Katress_Ignis,2026-08-05
-Helzephyr,80,Dark,,7,100,125,100,100,100,4900.0,6100.0,850.0,1075.0,650.0,830.0,4.0,Attacker,Ailes des Enfers,,True,https://paldb.cc/fr/Helzephyr,2026-08-05
-Helzephyr Lux,80,Dark,Electric,8,105,125,100,100,100,5100.0,6360.0,850.0,1075.0,650.0,830.0,4.1,Attacker,Ailes Foudroyantes,,True,https://paldb.cc/fr/Helzephyr_Lux,2026-08-05
-Elgrove,81,Grass,,6,110,105,105,100,100,5300.0,6620.0,730.0,919.0,680.0,869.0,3.6,All-Rounder,Menace Naturelle,,False,https://paldb.cc/fr/Elgrove,2026-08-05
-Elgrove Cryst,81,Ice,,7,120,100,105,100,100,5700.0,7140.0,700.0,880.0,680.0,869.0,3.6,All-Rounder,Pergélisol Menaçant,,False,https://paldb.cc/fr/Elgrove_Cryst,2026-08-05
-Lunaris,82,Neutral,,6,90,100,90,100,100,4500.0,5580.0,700.0,880.0,590.0,752.0,2.9,All-Rounder,Antigravité,,False,https://paldb.cc/fr/Lunaris,2026-08-05
-Fenglope,83,Neutral,,3,110,110,90,100,100,5300.0,6620.0,760.0,958.0,590.0,752.0,3.4,All-Rounder,Vent et Nuages,,True,https://paldb.cc/fr/Fenglope,2026-08-05
-Fenglope Lux,83,Electric,,3,110,115,90,100,100,5300.0,6620.0,790.0,997.0,590.0,752.0,3.6,Attacker,Nuage d'Orage,,True,https://paldb.cc/fr/Fenglope_Lux,2026-08-05
-Dinossom,84,Grass,Dragon,6,110,85,90,100,150,5300.0,6620.0,610.0,763.0,590.0,752.0,2.7,All-Rounder,Dragon Fleurissant,,True,https://paldb.cc/fr/Dinossom,2026-08-05
-Dinossom Lux,84,Electric,Dragon,7,110,90,90,100,150,5300.0,6620.0,640.0,802.0,590.0,752.0,2.8,All-Rounder,Dragon Orageux,,True,https://paldb.cc/fr/Dinossom_Lux,2026-08-05
-Bushi,85,Fire,,7,80,125,80,100,100,4100.0,5060.0,850.0,1075.0,530.0,674.0,3.2,Attacker,Flash Furtif,,False,https://paldb.cc/fr/Bushi,2026-08-05
-Bushi Noct,85,Fire,Dark,7,80,130,80,100,100,4100.0,5060.0,880.0,1114.0,530.0,674.0,3.4,Attacker,Flash Furtif Inversé,,False,https://paldb.cc/fr/Bushi_Noct,2026-08-05
-Munchill,86,Ice,Water,3,75,80,85,100,100,3900.0,4800.0,580.0,724.0,560.0,713.0,1.9,All-Rounder,Entrailles Glacées,,False,https://paldb.cc/fr/Munchill,2026-08-05
-Mammorest,87,Grass,Ground,8,150,85,90,100,30,6900.0,8700.0,610.0,763.0,590.0,752.0,3.3,All-Rounder,Broyeur Tellurique,Poids Lourd,True,https://paldb.cc/fr/Mammorest,2026-08-05
-Mammorest Cryst,87,Ice,Ground,9,150,85,90,100,30,6900.0,8700.0,610.0,763.0,590.0,752.0,3.3,All-Rounder,Broyeur à Glace,Poids Lourd,True,https://paldb.cc/fr/Mammorest_Cryst,2026-08-05
-Finsider,88,Water,,3,75,85,80,100,100,3900.0,4800.0,610.0,763.0,530.0,674.0,2.0,All-Rounder,Aqua-Gâchette,,False,https://paldb.cc/fr/Finsider,2026-08-05
-Finsider Ignis,88,Water,Fire,4,75,90,80,100,100,3900.0,4800.0,640.0,802.0,530.0,674.0,2.1,All-Rounder,Chambre de Braises,,False,https://paldb.cc/fr/Finsider_Ignis,2026-08-05
-Petallia,89,Grass,,8,100,95,100,100,100,4900.0,6100.0,670.0,841.0,650.0,830.0,3.1,All-Rounder,Bénédiction Florale,,False,https://paldb.cc/fr/Petallia,2026-08-05
-Petallia Ignis,89,Grass,Fire,9,95,105,100,100,100,4700.0,5840.0,730.0,919.0,650.0,830.0,3.3,All-Rounder,Ferveur Florale,,False,https://paldb.cc/fr/Petallia_Ignis,2026-08-05
-Leafan,90,Grass,,7,100,115,95,100,100,4900.0,6100.0,790.0,997.0,620.0,791.0,3.6,All-Rounder,Abnégation,,False,https://paldb.cc/fr/Leafan,2026-08-05
-Incineram,91,Fire,Dark,4,95,100,85,100,100,4700.0,5840.0,700.0,880.0,560.0,713.0,2.8,All-Rounder,Chasseur aux Griffes Ardentes,,False,https://paldb.cc/fr/Incineram,2026-08-05
-Incineram Noct,91,Dark,,5,95,105,85,100,100,4700.0,5840.0,730.0,919.0,560.0,713.0,3.0,All-Rounder,Chasseur aux Griffes Noires,,False,https://paldb.cc/fr/Incineram_Noct,2026-08-05
-Dazzi,92,Electric,,2,70,80,70,100,100,3700.0,4540.0,580.0,724.0,470.0,596.0,1.5,All-Rounder,Fille de la Foudre,,False,https://paldb.cc/fr/Dazzi,2026-08-05
-Dazzi Noct,92,Dark,Electric,2,70,80,75,100,100,3700.0,4540.0,580.0,724.0,500.0,635.0,1.6,All-Rounder,Fille de l'Orage Obscur,,False,https://paldb.cc/fr/Dazzi_Noct,2026-08-05
-Pyrin,93,Fire,,6,100,95,90,100,100,4900.0,6100.0,670.0,841.0,590.0,752.0,2.9,All-Rounder,Cheval Rouge,,True,https://paldb.cc/fr/Pyrin,2026-08-05
-Pyrin Noct,93,Fire,Dark,7,100,95,90,100,100,4900.0,6100.0,670.0,841.0,590.0,752.0,2.9,All-Rounder,Cheval Noir,,True,https://paldb.cc/fr/Pyrin_Noct,2026-08-05
-Relaxaurus,94,Dragon,Water,8,120,115,110,100,100,5700.0,7140.0,790.0,997.0,710.0,908.0,4.2,All-Rounder,Missile Affamé,Glouton,False,https://paldb.cc/fr/Relaxaurus,2026-08-05
-Relaxaurus Lux,94,Dragon,Electric,9,120,120,110,100,100,5700.0,7140.0,820.0,1036.0,710.0,908.0,4.4,All-Rounder,Fête aux Missiles,,False,https://paldb.cc/fr/Relaxaurus_Lux,2026-08-05
-Foxcicle,95,Ice,,5,90,95,105,100,100,4500.0,5580.0,670.0,841.0,680.0,869.0,3.1,All-Rounder,Instinct Boréal,,False,https://paldb.cc/fr/Foxcicle,2026-08-05
-Beakon,96,Electric,,6,105,115,80,100,100,5100.0,6360.0,790.0,997.0,530.0,674.0,3.3,Attacker,Orage,,True,https://paldb.cc/fr/Beakon,2026-08-05
-Beakon Cryst,96,Ice,,7,105,115,85,100,100,5100.0,6360.0,790.0,997.0,560.0,713.0,3.4,Attacker,Grésil Céleste,,True,https://paldb.cc/fr/Beakon_Cryst,2026-08-05
-Ghangler,97,Dark,Water,5,90,125,105,100,100,4500.0,5580.0,850.0,1075.0,680.0,869.0,4.0,All-Rounder,Guide des Ténèbres,,True,https://paldb.cc/fr/Ghangler,2026-08-05
-Ghangler Ignis,97,Fire,Water,6,90,130,105,100,100,4500.0,5580.0,880.0,1114.0,680.0,869.0,4.1,All-Rounder,Cordon-bleu des Profondeurs,,True,https://paldb.cc/fr/Ghangler_Ignis,2026-08-05
-Rayhound,98,Electric,,5,90,100,80,100,100,4500.0,5580.0,700.0,880.0,530.0,674.0,2.6,Attacker,Chien Électrique,,True,https://paldb.cc/fr/Rayhound,2026-08-05
-Rayhound Cryst,98,Ice,,6,90,105,80,100,100,4500.0,5580.0,730.0,919.0,530.0,674.0,2.8,Attacker,Blizzarus-K9,,True,https://paldb.cc/fr/Rayhound_Cryst,2026-08-05
-Menasting,99,Dark,Ground,9,100,100,130,100,100,4900.0,6100.0,700.0,880.0,830.0,1064.0,3.9,All-Rounder,Scorpion d'Acier,,False,https://paldb.cc/fr/Menasting,2026-08-05
-Menasting Terra,99,Ground,,10,100,105,130,100,100,4900.0,6100.0,730.0,919.0,830.0,1064.0,4.1,All-Rounder,Scorpion Doré,,False,https://paldb.cc/fr/Menasting_Terra,2026-08-05
-Needoll,100,Grass,,2,75,85,70,100,100,3900.0,4800.0,610.0,763.0,470.0,596.0,1.7,All-Rounder,Free Hug,,False,https://paldb.cc/fr/Needoll,2026-08-05
-Needoll Noct,100,Dark,Grass,3,75,90,70,100,100,3900.0,4800.0,640.0,802.0,470.0,596.0,1.9,Attacker,Câlin Piquant,,False,https://paldb.cc/fr/Needoll_Noct,2026-08-05
-Reindrix,101,Ice,,4,100,85,110,100,100,4900.0,6100.0,610.0,763.0,710.0,908.0,3.0,All-Rounder,Fraîcheur Corporelle,,True,https://paldb.cc/fr/Reindrix,2026-08-05
-Mossanda,102,Grass,,6,100,90,90,100,100,4900.0,6100.0,640.0,802.0,590.0,752.0,2.7,All-Rounder,Pandanade,,False,https://paldb.cc/fr/Mossanda,2026-08-05
-Mossanda Lux,102,Electric,,7,100,100,100,100,100,4900.0,6100.0,700.0,880.0,650.0,830.0,3.2,All-Rounder,Pandanade,,False,https://paldb.cc/fr/Mossanda_Lux,2026-08-05
-Chillet,103,Ice,Dragon,4,90,80,80,100,100,4500.0,5580.0,580.0,724.0,530.0,674.0,2.0,All-Rounder,Belette Stupéfiante,,True,https://paldb.cc/fr/Chillet,2026-08-05
-Chillet Ignis,103,Fire,Dragon,5,90,85,80,100,100,4500.0,5580.0,610.0,763.0,530.0,674.0,2.2,All-Rounder,Belette Crépitante,,True,https://paldb.cc/fr/Chillet_Ignis,2026-08-05
-Ragnahawk,104,Fire,,7,95,105,120,100,100,4700.0,5840.0,730.0,919.0,770.0,986.0,3.8,All-Rounder,Ailes Enflammées,,True,https://paldb.cc/fr/Ragnahawk,2026-08-05
-Moldron,105,Fire,Ground,7,110,125,115,100,100,5300.0,6620.0,850.0,1075.0,740.0,947.0,4.5,All-Rounder,Trop-Plein de Magma,,True,https://paldb.cc/fr/Moldron,2026-08-05
-Moldron Cryst,105,Ice,Ground,8,110,125,120,100,100,5300.0,6620.0,850.0,1075.0,770.0,986.0,4.6,All-Rounder,Trop-Plein de Glace,,True,https://paldb.cc/fr/Moldron_Cryst,2026-08-05
-Palumba,106,Grass,,6,105,110,115,100,100,5100.0,6360.0,760.0,958.0,740.0,947.0,4.0,All-Rounder,Bain de Soleil,,True,https://paldb.cc/fr/Palumba,2026-08-05
-Digtoise,107,Ground,,5,80,95,120,100,100,4100.0,5060.0,670.0,841.0,770.0,986.0,3.3,All-Rounder,Perceuse Broyeuse,Peau dure,False,https://paldb.cc/fr/Digtoise,2026-08-05
-Broncherry,108,Grass,,8,120,90,100,100,120,5700.0,7140.0,640.0,802.0,650.0,830.0,3.2,All-Rounder,Floraison du Premier Amour,Poids Lourd,True,https://paldb.cc/fr/Broncherry,2026-08-05
-Broncherry Aqua,108,Grass,Water,8,120,95,100,100,120,5700.0,7140.0,670.0,841.0,650.0,830.0,3.4,All-Rounder,Floraison de Pureté,Poids Lourd,True,https://paldb.cc/fr/Broncherry_Aqua,2026-08-05
-Dumud,109,Ground,Water,4,100,70,95,100,100,4900.0,6100.0,520.0,646.0,620.0,791.0,2.2,All-Rounder,Amélioration Terrestre,,False,https://paldb.cc/fr/Dumud,2026-08-05
-Dumud Gild,109,Ground,Water,5,105,75,100,100,100,5100.0,6360.0,550.0,685.0,650.0,830.0,2.6,All-Rounder,Ruée vers L'Or,,False,https://paldb.cc/fr/Dumud_Gild,2026-08-05
-Braloha,110,Grass,Ground,8,130,95,120,100,100,6100.0,7660.0,670.0,841.0,770.0,986.0,4.0,All-Rounder,Soleil Accablant,Poids Lourd,True,https://paldb.cc/fr/Braloha,2026-08-05
-Kitsun,111,Fire,,6,100,115,100,100,110,4900.0,6100.0,790.0,997.0,650.0,830.0,3.7,All-Rounder,Loup Solaire,,True,https://paldb.cc/fr/Kitsun,2026-08-05
-Kitsun Noct,111,Dark,,6,100,115,105,100,110,4900.0,6100.0,790.0,997.0,680.0,869.0,3.8,All-Rounder,Loup Morose,,True,https://paldb.cc/fr/Kitsun_Noct,2026-08-05
-Blazehowl,112,Fire,,7,105,110,80,100,100,5100.0,6360.0,760.0,958.0,530.0,674.0,3.1,Attacker,Lion Infernal,,True,https://paldb.cc/fr/Blazehowl,2026-08-05
-Blazehowl Noct,112,Fire,Dark,8,105,115,80,100,100,5100.0,6360.0,790.0,997.0,530.0,674.0,3.3,Attacker,Lion des Flammes Noires,,True,https://paldb.cc/fr/Blazehowl_Noct,2026-08-05
-Warsect,113,Ground,Grass,8,120,100,120,100,100,5700.0,7140.0,700.0,880.0,770.0,986.0,4.0,All-Rounder,Armure Noire,Peau dure,False,https://paldb.cc/fr/Warsect,2026-08-05
-Warsect Terra,113,Ground,,9,120,105,120,100,100,5700.0,7140.0,730.0,919.0,770.0,986.0,4.1,All-Rounder,Armure Or,Peau dure,False,https://paldb.cc/fr/Warsect_Terra,2026-08-05
-Frostplume,114,Ice,,4,110,100,100,100,100,5300.0,6620.0,700.0,880.0,650.0,830.0,3.4,All-Rounder,Paon Pan,,False,https://paldb.cc/fr/Frostplume,2026-08-05
-Majex,115,Dark,Fire,5,110,115,90,100,100,5300.0,6620.0,790.0,997.0,590.0,752.0,3.6,Attacker,Incantation Secrète,,False,https://paldb.cc/fr/Majex,2026-08-05
-Sibelyx,116,Ice,,7,110,90,100,100,90,5300.0,6620.0,640.0,802.0,650.0,830.0,3.1,All-Rounder,Voile Soyeux,,False,https://paldb.cc/fr/Sibelyx,2026-08-05
-Sibelyx Primo,116,Neutral,,8,115,90,100,100,90,5500.0,6880.0,640.0,802.0,650.0,830.0,3.2,All-Rounder,Voile Doré,,False,https://paldb.cc/fr/Sibelyx_Primo,2026-08-05
-Maraith,117,Dark,,6,75,105,80,100,100,3900.0,4800.0,730.0,919.0,530.0,674.0,2.6,Attacker,Messager de la Mort,,True,https://paldb.cc/fr/Maraith,2026-08-05
-Shroomer,118,Grass,,4,110,80,90,100,100,5300.0,6620.0,580.0,724.0,590.0,752.0,2.5,All-Rounder,Spores Vivaces,,True,https://paldb.cc/fr/Shroomer,2026-08-05
-Shroomer Noct,118,Grass,Dark,5,110,85,90,100,100,5300.0,6620.0,610.0,763.0,590.0,752.0,2.7,All-Rounder,Spores Fumantes,,True,https://paldb.cc/fr/Shroomer_Noct,2026-08-05
-Icelyn,119,Ice,,4,95,115,105,100,100,4700.0,5840.0,790.0,997.0,680.0,869.0,3.7,All-Rounder,Sorcière Frigorifique,,False,https://paldb.cc/fr/Icelyn,2026-08-05
-Gildra,120,Dark,Ground,5,105,120,105,100,100,5100.0,6360.0,820.0,1036.0,680.0,869.0,4.0,All-Rounder,Résurrection,,False,https://paldb.cc/fr/Gildra,2026-08-05
-Jormuntide,121,Dragon,Water,8,130,120,100,100,100,6100.0,7660.0,820.0,1036.0,650.0,830.0,4.3,All-Rounder,Dragon Marin Tempétueux,Seigneur des Mers,True,https://paldb.cc/fr/Jormuntide,2026-08-05
-Jormuntide Ignis,121,Dragon,Fire,9,130,130,100,100,100,6100.0,7660.0,880.0,1114.0,650.0,830.0,4.6,Attacker,Dragon de Lave Tempétueux,,True,https://paldb.cc/fr/Jormuntide_Ignis,2026-08-05
-Suzaku,122,Fire,,8,120,105,105,100,100,5700.0,7140.0,730.0,919.0,680.0,869.0,3.8,All-Rounder,Ailes de Feu,,True,https://paldb.cc/fr/Suzaku,2026-08-05
-Suzaku Aqua,122,Water,,9,125,105,105,100,100,5900.0,7400.0,730.0,919.0,680.0,869.0,3.9,All-Rounder,Ailes d'Eau,,True,https://paldb.cc/fr/Suzaku_Aqua,2026-08-05
-Dazemu,123,Ground,,5,95,90,80,100,100,4700.0,5840.0,640.0,802.0,530.0,674.0,2.4,All-Rounder,Ruée Sablonneuse,,True,https://paldb.cc/fr/Dazemu,2026-08-05
-Quivern,124,Dragon,,7,105,100,100,100,100,5100.0,6360.0,700.0,880.0,650.0,830.0,3.3,All-Rounder,Compassion du Dragon Céleste,,True,https://paldb.cc/fr/Quivern,2026-08-05
-Quivern Botan,124,Dragon,Grass,8,105,105,100,100,100,5100.0,6360.0,730.0,919.0,650.0,830.0,3.5,All-Rounder,Affection du Dragon Sylvestre,,True,https://paldb.cc/fr/Quivern_Botan,2026-08-05
-Lullu,125,Grass,,4,90,90,80,100,100,4500.0,5580.0,640.0,802.0,530.0,674.0,2.3,All-Rounder,Turbo Floral,,False,https://paldb.cc/fr/Lullu,2026-08-05
-Kikit,126,Ground,,4,75,70,90,100,100,3900.0,4800.0,520.0,646.0,590.0,752.0,1.7,All-Rounder,Balle de Plage,,False,https://paldb.cc/fr/Kikit,2026-08-05
-Yakumo,127,Neutral,,4,85,85,85,100,110,4300.0,5320.0,610.0,763.0,560.0,713.0,2.2,All-Rounder,Qui se ressemble s'assemble,"Colère Divine, Corps Adamantin, Vigueur Éternelle, Inébranlable, Roi des Vagues, Grand Prince, Légèreté, Maîtrise de la Faim, Maître Éleveur, Maîtrise Exceptionnelle, Sprinteur, Vampire, Coursier Marin, Appliqué, Corps Robuste, Nutritionniste, Apprenti Éleveur, Féroce, Ange Médecin, Infatigable, Chef d'Abattage, Chef d'Extraction, Motivateur, Noble, Philanthrope, Instructeur de Tir, Coursier, Sérénité, Généreux, Stratège de Forteresse, Chef d'Assaut, Guide de l'effort, Acharné, Poids Lourd, Impulsif, Anormal, Rentre-Dedans, Sang de Dragon, Protection Végétale, Brave, Condensateur, Lumineux, Sang Froid, Vaniteux, Frugal, Tueur de Dragons, Parasismique, Belle Fourrure, Force de la Nature, Fragrance Boisée, Peau dure, Sang Chaud, Trouble-Fête, Hydrophile, Impatient, Nocturne, Isolant, Masochiste, Vif, Optimiste, Force Tellurique, Pyromane, Sadique, Sérieux, Nage Fluide, Esprit Zen, Bronzage Naturel, Voile des Ténèbres, Imperméabilité, Soumis, Maladroit, Lâche, Vulnérable aux Coups, Tranquille, Glouton, Pitié, Oiseau de Nuit, Miteux, Reclus, Mentalement Instable, Estomac sans Fond, Soif de Destruction, Os fragiles, Pacifiste, Négligent",True,https://paldb.cc/fr/Yakumo,2026-08-05
-Skutlass,128,Water,,5,70,100,80,100,100,3700.0,4540.0,700.0,880.0,530.0,674.0,2.3,Attacker,Désossage,,False,https://paldb.cc/fr/Skutlass,2026-08-05
-Skutlass Ignis,128,Water,Fire,5,70,105,80,100,100,3700.0,4540.0,730.0,919.0,530.0,674.0,2.5,Attacker,Barbecue,,False,https://paldb.cc/fr/Skutlass_Ignis,2026-08-05
-Reptyro,129,Fire,Ground,6,110,105,120,100,100,5300.0,6620.0,730.0,919.0,770.0,986.0,4.0,All-Rounder,Bête Briseuse de Cristal,Poids Lourd,True,https://paldb.cc/fr/Reptyro,2026-08-05
-Reptyro Cryst,129,Ice,Ground,7,110,105,130,100,100,5300.0,6620.0,730.0,919.0,830.0,1064.0,4.2,All-Rounder,Bête Biseuse d'Icebergs,Poids Lourd,True,https://paldb.cc/fr/Reptyro_Cryst,2026-08-05
-Starryon,130,Dark,,7,110,100,100,100,100,5300.0,6620.0,700.0,880.0,650.0,830.0,3.4,All-Rounder,Danseur de Minuit,,True,https://paldb.cc/fr/Starryon,2026-08-05
-Starryon Primo,130,Neutral,,8,110,105,100,100,100,5300.0,6620.0,730.0,919.0,650.0,830.0,3.5,All-Rounder,Danseur Radieux,,True,https://paldb.cc/fr/Starryon_Primo,2026-08-05
-Pierdon,131,Ground,,6,100,105,120,100,100,4900.0,6100.0,730.0,919.0,770.0,986.0,3.9,All-Rounder,Pierre de Force,Poids Lourd,False,https://paldb.cc/fr/Pierdon,2026-08-05
-Pierdon Cryst,131,Ice,,7,100,110,120,100,100,4900.0,6100.0,760.0,958.0,770.0,986.0,4.0,All-Rounder,Cristal de Force,Poids Lourd,False,https://paldb.cc/fr/Pierdon_Cryst,2026-08-05
-Cryolinx,132,Ice,,7,100,100,110,100,100,4900.0,6100.0,700.0,880.0,710.0,908.0,3.5,All-Rounder,Chasseur de Dragons,,False,https://paldb.cc/fr/Cryolinx,2026-08-05
-Cryolinx Terra,132,Ground,,7,100,105,110,100,100,4900.0,6100.0,730.0,919.0,710.0,908.0,3.6,All-Rounder,Poigne Explosive,,False,https://paldb.cc/fr/Cryolinx_Terra,2026-08-05
-Snugloo,133,Ice,,3,80,75,85,100,100,4100.0,5060.0,550.0,685.0,560.0,713.0,1.9,All-Rounder,Œil Invisible,,False,https://paldb.cc/fr/Snugloo,2026-08-05
-Wumpo,134,Ice,,7,140,80,100,100,100,6500.0,8180.0,580.0,724.0,650.0,830.0,3.2,All-Rounder,Gardien des Montagnes Enneigées,Poids Lourd,True,https://paldb.cc/fr/Wumpo,2026-08-05
-Wumpo Botan,134,Grass,,8,140,80,110,100,100,6500.0,8180.0,580.0,724.0,710.0,908.0,3.4,All-Rounder,Gardien du Sud,Poids Lourd,True,https://paldb.cc/fr/Wumpo_Botan,2026-08-05
-Sootseer,135,Dark,Fire,7,105,125,90,100,100,5100.0,6360.0,850.0,1075.0,590.0,752.0,3.8,Attacker,Pille-Tombes,,False,https://paldb.cc/fr/Sootseer,2026-08-05
-Carnibora,136,Grass,,6,85,90,85,100,100,4300.0,5320.0,640.0,802.0,560.0,713.0,2.4,All-Rounder,Langue Fourchue,,False,https://paldb.cc/fr/Carnibora,2026-08-05
-Blazamut,137,Fire,,9,100,125,120,100,50,4900.0,6100.0,850.0,1075.0,770.0,986.0,4.5,All-Rounder,Empereur Magmatique,Empereur Enflammé,True,https://paldb.cc/fr/Blazamut,2026-08-05
-Blazamut Ryu,137,Dragon,Fire,10,105,130,125,100,50,5100.0,6360.0,880.0,1114.0,800.0,1025.0,4.8,All-Rounder,Roi des Dragons,Feu Éternel,True,https://paldb.cc/fr/Blazamut_Ryu,2026-08-05
-Dualith,138,Ground,Grass,8,110,105,125,100,100,5300.0,6620.0,730.0,919.0,800.0,1025.0,4.1,All-Rounder,Laser Sylvain,Poids Lourd,True,https://paldb.cc/fr/Dualith,2026-08-05
-Dualith Noct,138,Ground,Dark,8,110,110,125,100,100,5300.0,6620.0,760.0,958.0,800.0,1025.0,4.3,All-Rounder,Laser Corrompu,Poids Lourd,True,https://paldb.cc/fr/Dualith_Noct,2026-08-05
-Anubis,139,Ground,,10,120,130,100,100,100,5700.0,7140.0,880.0,1114.0,650.0,830.0,4.4,Attacker,Gardien du Désert,Empereur Terrestre,False,https://paldb.cc/fr/Anubis,2026-08-05
-Sekhmet,140,Ground,,5,110,115,100,100,100,5300.0,6620.0,790.0,997.0,650.0,830.0,3.8,All-Rounder,Impératrice des Sables,,False,https://paldb.cc/fr/Sekhmet,2026-08-05
-Prixter,141,Dark,Ground,5,90,110,90,100,100,4500.0,5580.0,760.0,958.0,590.0,752.0,3.2,All-Rounder,Scorpion Patoxique,,False,https://paldb.cc/fr/Prixter,2026-08-05
-Prixter Lux,141,Electric,Ground,6,90,115,90,100,100,4500.0,5580.0,790.0,997.0,590.0,752.0,3.3,Attacker,Scorpion Statique,,False,https://paldb.cc/fr/Prixter_Lux,2026-08-05
-Tetroise,142,Ground,,8,95,100,135,100,100,4700.0,5840.0,700.0,880.0,860.0,1103.0,4.0,All-Rounder,Tortue Maçonne,,True,https://paldb.cc/fr/Tetroise,2026-08-05
-Tetroise Primo,142,Neutral,,8,95,100,140,100,100,4700.0,5840.0,700.0,880.0,890.0,1142.0,4.1,All-Rounder,Tortue Madone,,True,https://paldb.cc/fr/Tetroise_Primo,2026-08-05
-Nyafia,143,Dark,,4,110,100,100,100,100,5300.0,6620.0,700.0,880.0,650.0,830.0,3.4,All-Rounder,Furie Féline,,False,https://paldb.cc/fr/Nyafia,2026-08-05
-Mimog,144,Neutral,,7,60,60,130,100,100,3300.0,4020.0,460.0,568.0,830.0,1064.0,2.2,Tank,Crochetage,,False,https://paldb.cc/fr/Mimog,2026-08-05
-Xenovader,145,Dark,,7,90,125,85,100,100,4500.0,5580.0,850.0,1075.0,560.0,713.0,3.5,Attacker,Envahisseur Non Identifié,Organisme Inconnu,False,https://paldb.cc/fr/Xenovader,2026-08-05
-Xenogard,146,Dragon,,9,110,120,130,100,100,5300.0,6620.0,820.0,1036.0,830.0,1064.0,4.7,All-Rounder,Intrus Non Identifié,Organisme Inconnu,True,https://paldb.cc/fr/Xenogard,2026-08-05
-Prunelia,147,Grass,Dark,5,105,95,100,100,100,5100.0,6360.0,670.0,841.0,650.0,830.0,3.2,All-Rounder,Prospérité Agricole,,False,https://paldb.cc/fr/Prunelia,2026-08-05
-Nitemary,148,Dark,,6,105,95,105,100,100,5100.0,6360.0,670.0,841.0,680.0,869.0,3.3,All-Rounder,Lapin Volâme,,False,https://paldb.cc/fr/Nitemary,2026-08-05
-Nitemary Botan,148,Grass,,7,110,95,105,100,100,5300.0,6620.0,670.0,841.0,680.0,869.0,3.3,All-Rounder,Lapin Blokâme,,False,https://paldb.cc/fr/Nitemary_Botan,2026-08-05
-Smokie,149,Dark,,2,85,90,85,100,100,4300.0,5320.0,640.0,802.0,560.0,713.0,2.4,All-Rounder,Chien fidèle Smokie,,False,https://paldb.cc/fr/Smokie,2026-08-05
-Smokie Cryst,149,Dark,Ice,3,85,90,90,100,100,4300.0,5320.0,640.0,802.0,590.0,752.0,2.5,All-Rounder,Froide Bête,,False,https://paldb.cc/fr/Smokie_Cryst,2026-08-05
-Omascul,150,Dark,,4,95,105,100,100,100,4700.0,5840.0,730.0,919.0,650.0,830.0,3.3,All-Rounder,Danse du Masque,,False,https://paldb.cc/fr/Omascul,2026-08-05
-Whalaska,151,Ice,Water,8,105,115,110,100,100,5100.0,6360.0,790.0,997.0,710.0,908.0,4.0,All-Rounder,Céta-Frais,,True,https://paldb.cc/fr/Whalaska,2026-08-05
-Whalaska Ignis,151,Ice,Fire,8,105,120,110,100,100,5100.0,6360.0,820.0,1036.0,710.0,908.0,4.1,All-Rounder,Céta-Chaud,,True,https://paldb.cc/fr/Whalaska_Ignis,2026-08-05
-Verdash,152,Grass,,8,90,115,90,100,100,4500.0,5580.0,790.0,997.0,590.0,752.0,3.3,Attacker,Acrobate des Plaines,,False,https://paldb.cc/fr/Verdash,2026-08-05
-Splatterina,153,Dark,,4,95,115,105,100,100,4700.0,5840.0,790.0,997.0,680.0,869.0,3.7,All-Rounder,Lame Amoureuse,Sadique,False,https://paldb.cc/fr/Splatterina,2026-08-05
-Gildane,154,Ground,,8,120,110,110,100,100,5700.0,7140.0,760.0,958.0,710.0,908.0,4.1,All-Rounder,Protection Sablonneuse,,True,https://paldb.cc/fr/Gildane,2026-08-05
-Dogen,155,Neutral,,6,90,100,100,100,100,4500.0,5580.0,700.0,880.0,650.0,830.0,3.1,All-Rounder,Prière de Retour,,False,https://paldb.cc/fr/Dogen,2026-08-05
-Bulldosu,156,Ground,,4,115,95,100,100,100,5500.0,6880.0,670.0,841.0,650.0,830.0,3.3,All-Rounder,Carrure de Champion,,True,https://paldb.cc/fr/Bulldosu,2026-08-05
-Celesdir,157,Neutral,,6,120,110,100,100,100,5700.0,7140.0,760.0,958.0,650.0,830.0,3.8,All-Rounder,Bénédiction Purificatrice,,True,https://paldb.cc/fr/Celesdir,2026-08-05
-Celesdir Noct,157,Dark,,7,120,115,100,100,100,5700.0,7140.0,790.0,997.0,650.0,830.0,4.0,All-Rounder,Bénédiction du Chaos,,True,https://paldb.cc/fr/Celesdir_Noct,2026-08-05
-Astegon,158,Dragon,Dark,9,100,125,125,100,100,4900.0,6100.0,850.0,1075.0,800.0,1025.0,4.6,All-Rounder,Dragon en Armure Noire,Peau dure,True,https://paldb.cc/fr/Astegon,2026-08-05
-Knocklem,159,Ground,,9,126,110,135,100,100,5940.0,7452.0,760.0,958.0,860.0,1103.0,4.7,All-Rounder,Mode Gardien d'Acier,Poids Lourd,False,https://paldb.cc/fr/Knocklem,2026-08-05
-Knocklem Ignis,159,Fire,,10,105,115,135,100,100,5100.0,6360.0,790.0,997.0,860.0,1103.0,4.6,All-Rounder,Mode Gardien de Sang,Poids Lourd,False,https://paldb.cc/fr/Knocklem_Ignis,2026-08-05
-Silvegis,160,Dragon,,8,120,110,115,100,100,5700.0,7140.0,760.0,958.0,740.0,947.0,4.2,All-Rounder,Bouclier Aegis,Poids Lourd,True,https://paldb.cc/fr/Silvegis,2026-08-05
-Azurmane,161,Electric,,7,130,120,110,100,100,6100.0,7660.0,820.0,1036.0,710.0,908.0,4.5,All-Rounder,Charge Plasma,,True,https://paldb.cc/fr/Azurmane,2026-08-05
-Valentail,162,Neutral,,2,75,80,70,100,100,3900.0,4800.0,580.0,724.0,470.0,596.0,1.6,All-Rounder,Extensibilité Féline,,False,https://paldb.cc/fr/Valentail,2026-08-05
-Snock,163,Electric,,2,65,70,75,100,100,3500.0,4280.0,520.0,646.0,500.0,635.0,1.3,All-Rounder,Batterie Dissuasive,,False,https://paldb.cc/fr/Snock,2026-08-05
-Snock Lux,163,Electric,Ground,3,65,70,80,100,100,3500.0,4280.0,520.0,646.0,530.0,674.0,1.4,All-Rounder,Coquille Invasive,,False,https://paldb.cc/fr/Snock_Lux,2026-08-05
-Souffline,164,Grass,,3,70,75,60,100,100,3700.0,4540.0,550.0,685.0,410.0,518.0,1.1,Attacker,Fée Duveteuse,,False,https://paldb.cc/fr/Souffline,2026-08-05
-Lapiron,165,Ground,,3,70,75,80,100,100,3700.0,4540.0,550.0,685.0,530.0,674.0,1.6,All-Rounder,Terre Chérie,,False,https://paldb.cc/fr/Lapiron,2026-08-05
-Hoodle,166,Dark,,3,70,85,80,100,100,3700.0,4540.0,610.0,763.0,530.0,674.0,1.9,All-Rounder,Rôdeur du Néant,,False,https://paldb.cc/fr/Hoodle,2026-08-05
-Slowatt,167,Electric,,4,80,75,70,100,100,4100.0,5060.0,550.0,685.0,470.0,596.0,1.5,All-Rounder,Mode Relax,,False,https://paldb.cc/fr/Slowatt,2026-08-05
-Bakemi,168,Dark,,4,70,85,80,100,100,3700.0,4540.0,610.0,763.0,530.0,674.0,1.9,All-Rounder,Fantômette Joviale,,False,https://paldb.cc/fr/Bakemi,2026-08-05
-Solmora,169,Water,,4,90,90,85,100,100,4500.0,5580.0,640.0,802.0,560.0,713.0,2.4,All-Rounder,Môle Charismatique,,True,https://paldb.cc/fr/Solmora,2026-08-05
-Solmora Lux,169,Water,Electric,5,90,95,85,100,100,4500.0,5580.0,670.0,841.0,560.0,713.0,2.6,All-Rounder,Môle Plasmique,,True,https://paldb.cc/fr/Solmora_Lux,2026-08-05
-Lapure,170,Neutral,,4,105,100,100,100,100,5100.0,6360.0,700.0,880.0,650.0,830.0,3.3,All-Rounder,Manches Longues Triomphantes,,False,https://paldb.cc/fr/Lapure,2026-08-05
-Eidrolon,171,Dragon,Dark,7,115,125,120,100,100,5500.0,6880.0,850.0,1075.0,770.0,986.0,4.7,All-Rounder,Ptérodactyle Libre,,True,https://paldb.cc/fr/Eidrolon,2026-08-05
-Eidrolon Ignis,171,Dragon,Fire,8,115,130,120,100,100,5500.0,6880.0,880.0,1114.0,770.0,986.0,4.8,All-Rounder,Ptérodactyle Furieux,,True,https://paldb.cc/fr/Eidrolon_Ignis,2026-08-05
-Dynamoff,172,Electric,,6,75,85,80,100,100,3900.0,4800.0,610.0,763.0,530.0,674.0,2.0,All-Rounder,Couvaison Électromassante,,True,https://paldb.cc/fr/Dynamoff,2026-08-05
-Tropicaw,173,Grass,,5,85,85,90,100,100,4300.0,5320.0,610.0,763.0,590.0,752.0,2.3,All-Rounder,Danse Florale,,False,https://paldb.cc/fr/Tropicaw,2026-08-05
-Flaracle,174,Fire,,7,110,125,105,100,100,5300.0,6620.0,850.0,1075.0,680.0,869.0,4.2,All-Rounder,Avenir Brûlant,,False,https://paldb.cc/fr/Flaracle,2026-08-05
-Ophydia,175,Grass,Water,9,130,115,120,100,100,6100.0,7660.0,790.0,997.0,770.0,986.0,4.6,All-Rounder,Brume Glorieuse,,True,https://paldb.cc/fr/Ophydia,2026-08-05
-Dupin,176,Fire,,7,100,110,100,100,100,4900.0,6100.0,760.0,958.0,650.0,830.0,3.5,All-Rounder,Passe-casse,,False,https://paldb.cc/fr/Dupin,2026-08-05
-Roujay,177,Dark,,5,110,115,95,100,100,5300.0,6620.0,790.0,997.0,620.0,791.0,3.7,All-Rounder,Ailes des Ténèbres,,True,https://paldb.cc/fr/Roujay,2026-08-05
-Venusa,178,Dark,,5,80,85,90,100,100,4100.0,5060.0,610.0,763.0,590.0,752.0,2.3,All-Rounder,Sagacité Reptilienne,,False,https://paldb.cc/fr/Venusa,2026-08-05
-Mycora,179,Grass,,6,105,95,90,100,100,5100.0,6360.0,670.0,841.0,590.0,752.0,2.9,All-Rounder,Spores Charmants,,False,https://paldb.cc/fr/Mycora,2026-08-05
-Loomen,180,Dark,Fire,5,90,100,95,100,100,4500.0,5580.0,700.0,880.0,620.0,791.0,3.0,All-Rounder,Lanterne Enchantée,,False,https://paldb.cc/fr/Loomen,2026-08-05
-Wistella,181,Dark,,2,80,90,60,100,100,4100.0,5060.0,640.0,802.0,410.0,518.0,1.7,Attacker,Énergie Noire Secrète,,False,https://paldb.cc/fr/Wistella,2026-08-05
-Solenne,182,Dark,Neutral,7,110,115,115,100,100,5300.0,6620.0,790.0,997.0,740.0,947.0,4.2,All-Rounder,Princesse Indomptable,,False,https://paldb.cc/fr/Solenne,2026-08-05
-Renjishi,183,Fire,,7,105,120,100,100,100,5100.0,6360.0,820.0,1036.0,650.0,830.0,3.9,All-Rounder,Scène de Combat,,False,https://paldb.cc/fr/Renjishi,2026-08-05
-Aegidron,184,Dragon,Ground,8,105,125,140,100,100,5100.0,6360.0,850.0,1075.0,890.0,1142.0,5.0,All-Rounder,Dragon Inébranlable,Poids Lourd,True,https://paldb.cc/fr/Aegidron,2026-08-05
-Grizzbolt,185,Electric,,8,120,105,105,100,100,5700.0,7140.0,730.0,919.0,680.0,869.0,3.8,All-Rounder,Tank Jaune,,False,https://paldb.cc/fr/Grizzbolt,2026-08-05
-Lyleen,186,Grass,,9,120,120,110,100,100,5700.0,7140.0,820.0,1036.0,710.0,908.0,4.4,All-Rounder,Déesse de la Fertilité,Divinité de la Forêt,False,https://paldb.cc/fr/Lyleen,2026-08-05
-Lyleen Noct,186,Dark,,10,115,120,115,100,100,5500.0,6880.0,820.0,1036.0,740.0,947.0,4.4,All-Rounder,Déesse de la Pénombre,,False,https://paldb.cc/fr/Lyleen_Noct,2026-08-05
-Orserk,187,Dragon,Electric,9,120,130,115,100,100,5700.0,7140.0,880.0,1114.0,740.0,947.0,4.8,All-Rounder,Dragon Tempétueux,Seigneur des Tempêtes,False,https://paldb.cc/fr/Orserk,2026-08-05
-Faleris,188,Fire,,9,105,110,115,100,90,5100.0,6360.0,760.0,958.0,740.0,947.0,4.0,All-Rounder,Prédateur Brûlant,,True,https://paldb.cc/fr/Faleris,2026-08-05
-Faleris Aqua,188,Water,,9,110,110,115,100,90,5300.0,6620.0,760.0,958.0,740.0,947.0,4.0,All-Rounder,Prédateur Aquatique,,True,https://paldb.cc/fr/Faleris_Aqua,2026-08-05
-Shadowbeak,189,Dark,,10,120,120,140,100,90,5700.0,7140.0,820.0,1036.0,890.0,1142.0,5.1,All-Rounder,Gènes modifiés,,True,https://paldb.cc/fr/Shadowbeak,2026-08-05
-Selyne,190,Dark,Neutral,9,130,115,110,100,100,6100.0,7660.0,790.0,997.0,710.0,908.0,4.4,All-Rounder,Ténèbres Célestes,,True,https://paldb.cc/fr/Selyne,2026-08-05
-Bastigor,191,Ice,,8,140,130,120,100,100,6500.0,8180.0,880.0,1114.0,770.0,986.0,5.2,All-Rounder,Écrasement Blizzard,,False,https://paldb.cc/fr/Bastigor,2026-08-05
-Shaolong,192,Dragon,Water,9,140,135,120,100,100,6500.0,8180.0,910.0,1153.0,770.0,986.0,5.3,All-Rounder,Souverain du Ciel d'Azur,,True,https://paldb.cc/fr/Shaolong,2026-08-05
-Silvance,193,Grass,,8,140,120,110,100,100,6500.0,8180.0,820.0,1036.0,710.0,908.0,4.6,All-Rounder,Gardien des Spores,,False,https://paldb.cc/fr/Silvance,2026-08-05
-Dandilord,194,Grass,Dark,8,125,135,110,100,100,5900.0,7400.0,910.0,1153.0,710.0,908.0,4.9,All-Rounder,Gardien du Brouillard,,False,https://paldb.cc/fr/Dandilord,2026-08-05
-Bellanoir,195,Dark,,20,120,150,100,100,100,5700.0,7140.0,1000.0,1270.0,650.0,830.0,5.0,Attacker,Pupille Cauchemardesque,,False,https://paldb.cc/fr/Bellanoir,2026-08-05
-Bellanoir Libero,195,Dark,,20,120,150,100,100,100,5700.0,7140.0,1000.0,1270.0,650.0,830.0,5.0,Attacker,Regard Cauchemardesque,Sorcière,False,https://paldb.cc/fr/Bellanoir_Libero,2026-08-05
-Xenolord,196,Dark,Dragon,8,130,120,120,100,100,6100.0,7660.0,820.0,1036.0,770.0,986.0,4.7,All-Rounder,Ailes Météores,"Envahisseur, Organisme Inconnu",True,https://paldb.cc/fr/Xenolord,2026-08-05
-Hartalis,197,Neutral,,10,135,130,110,100,100,6300.0,7920.0,880.0,1114.0,710.0,908.0,4.9,All-Rounder,Barrière Sacrée,Sauveur,True,https://paldb.cc/fr/Hartalis,2026-08-05
-Paladius,198,Neutral,,20,130,120,145,100,100,6100.0,7660.0,820.0,1036.0,920.0,1181.0,5.3,All-Rounder,Chevalier Céleste,"Légende, Empereur Céleste",True,https://paldb.cc/fr/Paladius,2026-08-05
-Necromus,199,Dark,,20,130,145,120,100,100,6100.0,7660.0,970.0,1231.0,770.0,986.0,5.5,All-Rounder,Chevalier Noir Abyssal,"Légende, Seigneur des Enfers",True,https://paldb.cc/fr/Necromus,2026-08-05
-Frostallion,200,Ice,,20,140,140,120,100,70,6500.0,8180.0,940.0,1192.0,770.0,986.0,5.5,All-Rounder,Pégase des Glaces,"Légende, Empereur Glacial",True,https://paldb.cc/fr/Frostallion,2026-08-05
-Frostallion Noct,200,Dark,,20,140,140,135,100,70,6500.0,8180.0,940.0,1192.0,860.0,1103.0,5.8,All-Rounder,Pégase Noir,"Légende, Seigneur des Enfers",True,https://paldb.cc/fr/Frostallion_Noct,2026-08-05
-Neptilius,201,Water,,20,105,145,125,100,100,5100.0,6360.0,970.0,1231.0,800.0,1025.0,5.2,All-Rounder,Conquérant des Océans,"Légende, Trophée des Flots",True,https://paldb.cc/fr/Neptilius,2026-08-05
-Jetragon,202,Dragon,,20,115,140,120,100,100,5500.0,6880.0,940.0,1192.0,770.0,986.0,5.1,All-Rounder,Missile Aérien,"Légende, Dragon Divin",False,https://paldb.cc/fr/Jetragon,2026-08-05
-Panthalus,203,Water,,10,200,120,180,100,100,8900.0,11300.0,820.0,1036.0,1130.0,1454.0,7.1,Tank,Gardien des Échos,,False,https://paldb.cc/fr/Panthalus,2026-08-05
-Astralym,204,,,10,200,200,200,100,100,8900.0,11300.0,1300.0,1660.0,1250.0,1610.0,10.0,All-Rounder,-,,False,https://paldb.cc/fr/Astralym,2026-08-05
-Gelée verte,0,Grass,,3,65,70,80,100,100,3500.0,4280.0,520.0,646.0,530.0,674.0,1.4,All-Rounder,Corps Gélatineux,,False,https://paldb.cc/fr/Green_Slime,2026-08-05
-Gelée bleue,0,Water,,3,70,70,80,100,100,3700.0,4540.0,520.0,646.0,530.0,674.0,1.4,All-Rounder,Corps Gélatineux,,False,https://paldb.cc/fr/Blue_Slime,2026-08-05
-Gelée rouge,0,Fire,,3,70,75,85,100,100,3700.0,4540.0,550.0,685.0,560.0,713.0,1.7,All-Rounder,Corps Gélatineux,,False,https://paldb.cc/fr/Red_Slime,2026-08-05
-Gelée violette,0,Dark,,3,75,70,80,100,100,3900.0,4800.0,520.0,646.0,530.0,674.0,1.5,All-Rounder,Corps Gélatineux,,False,https://paldb.cc/fr/Purple_Slime,2026-08-05
-Gelée lumineuse,0,Neutral,,4,80,75,85,100,100,4100.0,5060.0,550.0,685.0,560.0,713.0,1.9,All-Rounder,Corps Gélatineux,,False,https://paldb.cc/fr/Illuminant_Slime,2026-08-05
-Gelée arc-en-ciel,0,Neutral,,4,105,95,105,100,100,5100.0,6360.0,670.0,841.0,680.0,869.0,3.3,All-Rounder,Corps Gélatineux,,False,https://paldb.cc/fr/Rainbow_Slime,2026-08-05
-Épée envoûtée,0,Neutral,,3,95,105,90,100,100,4700.0,5840.0,730.0,919.0,590.0,752.0,3.1,All-Rounder,Enchantement,,False,https://paldb.cc/fr/Enchanted_Sword,2026-08-05
-Chauve-souris des grottes,0,Neutral,,3,65,75,80,100,100,3500.0,4280.0,550.0,685.0,530.0,674.0,1.5,All-Rounder,Soutien de Chauve-souris,,False,https://paldb.cc/fr/Cave_Bat,2026-08-05
-Chauve-souris lumineuse,0,Neutral,,4,80,80,95,100,100,4100.0,5060.0,580.0,724.0,620.0,791.0,2.2,All-Rounder,Soutien de Chauve-souris,,False,https://paldb.cc/fr/Illuminant_Bat,2026-08-05
-Œil de Cthulhu,0,Dark,,6,125,115,100,100,100,5900.0,7400.0,790.0,997.0,650.0,830.0,4.0,All-Rounder,Ruée de l’Œil de Cthulhu,,False,https://paldb.cc/fr/Eye_of_Cthulhu,2026-08-05
-Œil de démon,0,Dark,,3,105,110,95,100,100,5100.0,6360.0,760.0,958.0,620.0,791.0,3.5,All-Rounder,Vision Démoniaque,,False,https://paldb.cc/fr/Demon_Eye,2026-08-05
+Lamball,1,Neutral,,1,70,70,70,100,100,3700.0,4540.0,520.0,646.0,470.0,596.0,1.2,All-Rounder,Bouclier Duveteux,,False,https://paldb.cc/fr/Lamball,2026-08-06
+Cattiva,2,Neutral,,1,70,70,70,100,100,3700.0,4540.0,520.0,646.0,470.0,596.0,1.2,All-Rounder,Chat Porteur,Lâche,False,https://paldb.cc/fr/Cattiva,2026-08-06
+Chikipi,3,Neutral,,1,60,60,60,100,70,3300.0,4020.0,460.0,568.0,410.0,518.0,0.5,All-Rounder,Production d'œufs,,False,https://paldb.cc/fr/Chikipi,2026-08-06
+Lifmunk,4,Grass,,1,75,70,70,100,100,3900.0,4800.0,520.0,646.0,470.0,596.0,1.3,All-Rounder,Soutien de Lifmunk,,False,https://paldb.cc/fr/Lifmunk,2026-08-06
+Fuack,5,Water,,1,60,80,60,100,100,3300.0,4020.0,580.0,724.0,410.0,518.0,1.1,Attacker,Coud'Surf,,False,https://paldb.cc/fr/Fuack,2026-08-06
+Fuack Ignis,5,Water,Fire,2,60,85,60,100,100,3300.0,4020.0,610.0,763.0,410.0,518.0,1.3,Attacker,Tacle de Feu,,False,https://paldb.cc/fr/Fuack_Ignis,2026-08-06
+Vixy,6,Neutral,,2,70,70,70,100,140,3700.0,4540.0,520.0,646.0,470.0,596.0,1.2,All-Rounder,Creuse et creuse,,False,https://paldb.cc/fr/Vixy,2026-08-06
+Celaray,7,Water,,3,80,70,80,100,100,4100.0,5060.0,520.0,646.0,530.0,674.0,1.6,All-Rounder,Planeur sur Brise,,False,https://paldb.cc/fr/Celaray,2026-08-06
+Celaray Lux,7,Water,Electric,4,80,75,80,100,100,4100.0,5060.0,550.0,685.0,530.0,674.0,1.7,All-Rounder,Planair,,False,https://paldb.cc/fr/Celaray_Lux,2026-08-06
+Cremis,8,Neutral,,1,70,70,75,100,100,3700.0,4540.0,520.0,646.0,500.0,635.0,1.3,All-Rounder,Laine Soyeuse,,False,https://paldb.cc/fr/Cremis,2026-08-06
+Croajiro,9,Water,,4,80,100,85,100,100,4100.0,5060.0,700.0,880.0,560.0,713.0,2.6,All-Rounder,Position Saut,,False,https://paldb.cc/fr/Croajiro,2026-08-06
+Croajiro Noct,9,Water,Dark,5,85,110,90,100,100,4300.0,5320.0,760.0,958.0,590.0,752.0,3.1,All-Rounder,Posture Annonciatrice,,False,https://paldb.cc/fr/Croajiro_Noct,2026-08-06
+Herbil,10,Grass,Neutral,3,80,75,75,100,100,4100.0,5060.0,550.0,685.0,500.0,635.0,1.6,All-Rounder,Herbapulsion,,False,https://paldb.cc/fr/Herbil,2026-08-06
+Teafant,11,Water,,1,70,60,70,100,100,3700.0,4540.0,460.0,568.0,470.0,596.0,0.9,All-Rounder,Douche Apaisante,,False,https://paldb.cc/fr/Teafant,2026-08-06
+Gumoss,12,Grass,Ground,10,70,70,70,100,100,3700.0,4540.0,520.0,646.0,470.0,596.0,1.2,All-Rounder,Aide aux Bûcherons,,False,https://paldb.cc/fr/Gumoss,2026-08-06
+Pupperai,13,Ground,,2,70,80,70,100,100,3700.0,4540.0,580.0,724.0,470.0,596.0,1.5,All-Rounder,Soutien Sincère,,False,https://paldb.cc/fr/Pupperai,2026-08-06
+Clovee,14,Grass,Neutral,2,80,65,65,100,100,4100.0,5060.0,490.0,607.0,440.0,557.0,1.1,All-Rounder,Joyeux Trèfle,,False,https://paldb.cc/fr/Clovee,2026-08-06
+Jolthog,15,Electric,,1,70,75,70,100,100,3700.0,4540.0,550.0,685.0,470.0,596.0,1.4,All-Rounder,Bombe Zap,,False,https://paldb.cc/fr/Jolthog,2026-08-06
+Jolthog Cryst,15,Ice,,2,70,75,80,100,100,3700.0,4540.0,550.0,685.0,530.0,674.0,1.6,All-Rounder,Bombe Glagla,,False,https://paldb.cc/fr/Jolthog_Cryst,2026-08-06
+Depresso,16,Dark,,1,70,70,70,100,100,3700.0,4540.0,520.0,646.0,470.0,596.0,1.2,All-Rounder,Shot de Caféine,,False,https://paldb.cc/fr/Depresso,2026-08-06
+Pengullet,17,Water,Ice,1,70,75,70,100,100,3700.0,4540.0,550.0,685.0,470.0,596.0,1.4,All-Rounder,Lance-Pengullet,,False,https://paldb.cc/fr/Pengullet,2026-08-06
+Pengullet Lux,17,Water,Electric,2,70,80,70,100,100,3700.0,4540.0,580.0,724.0,470.0,596.0,1.5,All-Rounder,Lance-Pengullet Lux,,False,https://paldb.cc/fr/Pengullet_Lux,2026-08-06
+Penking,18,Water,Ice,6,95,95,95,100,100,4700.0,5840.0,670.0,841.0,620.0,791.0,2.9,All-Rounder,Guerrier des Mers,,False,https://paldb.cc/fr/Penking,2026-08-06
+Penking Lux,18,Water,Electric,7,100,100,100,100,100,4900.0,6100.0,700.0,880.0,650.0,830.0,3.2,All-Rounder,Commandement Inflexible,,False,https://paldb.cc/fr/Penking_Lux,2026-08-06
+Hoocrates,19,Dark,,1,70,70,80,100,100,3700.0,4540.0,520.0,646.0,530.0,674.0,1.4,All-Rounder,Sagesse Obscure,,False,https://paldb.cc/fr/Hoocrates,2026-08-06
+Melpaca,20,Neutral,,3,90,75,90,100,100,4500.0,5580.0,550.0,685.0,590.0,752.0,2.1,All-Rounder,Paca-Laine,,True,https://paldb.cc/fr/Melpaca,2026-08-06
+Kingpaca,21,Neutral,,8,120,85,90,100,100,5700.0,7140.0,610.0,763.0,590.0,752.0,2.8,All-Rounder,Montagne de Muscles,Poids Lourd,True,https://paldb.cc/fr/Kingpaca,2026-08-06
+Kingpaca Cryst,21,Ice,,9,120,85,90,100,100,5700.0,7140.0,610.0,763.0,590.0,752.0,2.8,All-Rounder,Roi des Glaces,Poids Lourd,True,https://paldb.cc/fr/Kingpaca_Cryst,2026-08-06
+Daedream,22,Dark,,1,70,75,60,100,100,3700.0,4540.0,550.0,685.0,410.0,518.0,1.1,Attacker,Charognard Onirique,,False,https://paldb.cc/fr/Daedream,2026-08-06
+Tanzee,23,Grass,,1,80,70,70,100,100,4100.0,5060.0,520.0,646.0,470.0,596.0,1.4,All-Rounder,Fusil Jovial,,False,https://paldb.cc/fr/Tanzee,2026-08-06
+Tanzee Ignis,23,Fire,,2,80,75,70,100,100,4100.0,5060.0,550.0,685.0,470.0,596.0,1.5,All-Rounder,Fou de la Gâchette,,False,https://paldb.cc/fr/Tanzee_Ignis,2026-08-06
+Nox,24,Dark,,6,75,85,70,100,140,3900.0,4800.0,610.0,763.0,470.0,596.0,1.7,All-Rounder,Cœur de Pierre,,False,https://paldb.cc/fr/Nox,2026-08-06
+Flambelle,25,Fire,,1,60,70,80,100,100,3300.0,4020.0,520.0,646.0,530.0,674.0,1.3,All-Rounder,Larmes de Lave,,False,https://paldb.cc/fr/Flambelle,2026-08-06
+Rooby,26,Fire,,2,75,70,75,100,100,3900.0,4800.0,520.0,646.0,500.0,635.0,1.4,All-Rounder,Petite Étincelle,,False,https://paldb.cc/fr/Rooby,2026-08-06
+Mau,27,Dark,,1,70,60,70,100,100,3700.0,4540.0,460.0,568.0,470.0,596.0,0.9,All-Rounder,Chercheur d'or,,False,https://paldb.cc/fr/Mau,2026-08-06
+Mau Cryst,27,Ice,,2,70,65,70,100,100,3700.0,4540.0,490.0,607.0,470.0,596.0,1.1,All-Rounder,Douche Froide,,False,https://paldb.cc/fr/Mau_Cryst,2026-08-06
+Rushoar,28,Ground,,1,80,70,70,100,100,4100.0,5060.0,520.0,646.0,470.0,596.0,1.4,All-Rounder,Tête Dure,,True,https://paldb.cc/fr/Rushoar,2026-08-06
+Foxparks,29,Fire,,1,65,75,70,100,100,3500.0,4280.0,550.0,685.0,470.0,596.0,1.3,All-Rounder,Câlin de Flammes,,False,https://paldb.cc/fr/Foxparks,2026-08-06
+Foxparks Cryst,29,Ice,,1,65,80,70,100,100,3500.0,4280.0,580.0,724.0,470.0,596.0,1.4,All-Rounder,Câlin Glacé,,False,https://paldb.cc/fr/Foxparks_Cryst,2026-08-06
+Killamari,30,Dark,Water,1,60,60,70,100,100,3300.0,4020.0,460.0,568.0,470.0,596.0,0.8,All-Rounder,Calamar Frit,,False,https://paldb.cc/fr/Killamari,2026-08-06
+Killamari Primo,30,Neutral,Water,2,70,60,70,100,100,3700.0,4540.0,460.0,568.0,470.0,596.0,0.9,All-Rounder,Aspirêves,,False,https://paldb.cc/fr/Killamari_Primo,2026-08-06
+Fuddler,31,Ground,,1,65,80,50,100,100,3500.0,4280.0,580.0,724.0,350.0,440.0,1.0,Attacker,Appui Minier,,False,https://paldb.cc/fr/Fuddler,2026-08-06
+Eikthyrdeer,32,Neutral,,5,95,80,80,100,100,4700.0,5840.0,580.0,724.0,530.0,674.0,2.1,All-Rounder,Gardien des Bois,,True,https://paldb.cc/fr/Eikthyrdeer,2026-08-06
+Eikthyrdeer Terra,32,Ground,,6,95,80,80,100,100,4700.0,5840.0,580.0,724.0,530.0,674.0,2.1,All-Rounder,Gardien des Bois Dorés,,True,https://paldb.cc/fr/Eikthyrdeer_Terra,2026-08-06
+Direhowl,33,Neutral,,2,80,90,75,100,100,4100.0,5060.0,640.0,802.0,500.0,635.0,2.1,All-Rounder,Virée Sauvage,,False,https://paldb.cc/fr/Direhowl,2026-08-06
+Caprity,34,Grass,,3,100,70,90,100,120,4900.0,6100.0,520.0,646.0,590.0,752.0,2.1,All-Rounder,Cueillette de baies,,False,https://paldb.cc/fr/Caprity,2026-08-06
+Caprity Noct,34,Dark,,3,100,75,90,100,120,4900.0,6100.0,550.0,685.0,590.0,752.0,2.3,All-Rounder,Pince-Venin,,False,https://paldb.cc/fr/Caprity_Noct,2026-08-06
+Swee,35,Ice,,1,60,60,60,100,100,3300.0,4020.0,460.0,568.0,410.0,518.0,0.5,All-Rounder,Gouzi-Gouzi,,False,https://paldb.cc/fr/Swee,2026-08-06
+Sweepa,36,Ice,,6,100,90,90,100,100,4900.0,6100.0,640.0,802.0,590.0,752.0,2.7,All-Rounder,Gouzi-Gouzi Royal,,True,https://paldb.cc/fr/Sweepa,2026-08-06
+Turtacle,37,Water,,3,75,75,115,100,100,3900.0,4800.0,550.0,685.0,740.0,947.0,2.5,Tank,Support Pointu,,False,https://paldb.cc/fr/Turtacle,2026-08-06
+Turtacle Terra,37,Water,Ground,4,85,85,125,100,100,4300.0,5320.0,610.0,763.0,800.0,1025.0,3.2,Tank,Support Brillant,,False,https://paldb.cc/fr/Turtacle_Terra,2026-08-06
+Hangyu,38,Ground,,1,80,70,70,100,100,4100.0,5060.0,520.0,646.0,470.0,596.0,1.4,All-Rounder,Trapéziste,,False,https://paldb.cc/fr/Hangyu,2026-08-06
+Hangyu Cryst,38,Ice,,2,80,80,70,100,100,4100.0,5060.0,580.0,724.0,470.0,596.0,1.7,All-Rounder,Trapéziste du Froid,,False,https://paldb.cc/fr/Hangyu_Cryst,2026-08-06
+Woolipop,39,Neutral,,3,70,70,90,100,100,3700.0,4540.0,520.0,646.0,590.0,752.0,1.7,All-Rounder,Petit Bonbon,,False,https://paldb.cc/fr/Woolipop,2026-08-06
+Woolipop Terra,39,Ground,,4,70,70,95,100,100,3700.0,4540.0,520.0,646.0,620.0,791.0,1.8,All-Rounder,Bonbon Amer,,False,https://paldb.cc/fr/Woolipop_Terra,2026-08-06
+Mozzarina,40,Neutral,,2,90,50,80,100,100,4500.0,5580.0,400.0,490.0,530.0,674.0,1.1,Tank,Production de lait,,False,https://paldb.cc/fr/Mozzarina,2026-08-06
+Azurobe,41,Water,Dragon,7,110,100,100,100,100,5300.0,6620.0,700.0,880.0,650.0,830.0,3.4,All-Rounder,Danse de l'eau,,True,https://paldb.cc/fr/Azurobe,2026-08-06
+Azurobe Cryst,41,Ice,Dragon,8,115,105,105,100,100,5500.0,6880.0,730.0,919.0,680.0,869.0,3.7,All-Rounder,Danse Glagla,,True,https://paldb.cc/fr/Azurobe_Cryst,2026-08-06
+Sparkit,42,Electric,,1,60,75,70,100,80,3300.0,4020.0,550.0,685.0,470.0,596.0,1.2,All-Rounder,Électricité Statique,,False,https://paldb.cc/fr/Sparkit,2026-08-06
+Kelpsea,43,Water,,1,70,70,70,100,100,3700.0,4540.0,520.0,646.0,470.0,596.0,1.2,All-Rounder,Giclée d'eau,,False,https://paldb.cc/fr/Kelpsea,2026-08-06
+Kelpsea Ignis,43,Fire,,2,70,70,70,100,100,3700.0,4540.0,520.0,646.0,470.0,596.0,1.2,All-Rounder,Jet de Lave,,False,https://paldb.cc/fr/Kelpsea_Ignis,2026-08-06
+Ribbuny,44,Neutral,,1,75,65,70,100,100,3900.0,4800.0,490.0,607.0,470.0,596.0,1.1,All-Rounder,Princesse Lapinou Souriant,,False,https://paldb.cc/fr/Ribbuny,2026-08-06
+Ribbuny Botan,44,Grass,,1,80,65,70,100,100,4100.0,5060.0,490.0,607.0,470.0,596.0,1.2,All-Rounder,Lapin Dézerbe,,False,https://paldb.cc/fr/Ribbuny_Botan,2026-08-06
+Jelliette,45,Water,,3,75,90,70,100,100,3900.0,4800.0,640.0,802.0,470.0,596.0,1.9,Attacker,Largue-Jelliette,,False,https://paldb.cc/fr/Jelliette,2026-08-06
+Jellroy,46,Water,Dark,3,90,75,75,100,100,4500.0,5580.0,550.0,685.0,500.0,635.0,1.8,All-Rounder,Largue-Jellroy,,False,https://paldb.cc/fr/Jellroy,2026-08-06
+Amione,47,Water,,2,65,70,65,100,100,3500.0,4280.0,520.0,646.0,440.0,557.0,1.0,All-Rounder,Jumelage Magique,,False,https://paldb.cc/fr/Amione,2026-08-06
+Gloopie,48,Water,Dark,5,70,85,70,100,100,3700.0,4540.0,610.0,763.0,470.0,596.0,1.7,All-Rounder,Tapette Princière,,False,https://paldb.cc/fr/Gloopie,2026-08-06
+Gloopie Primo,48,Water,Neutral,6,75,85,70,100,100,3900.0,4800.0,610.0,763.0,470.0,596.0,1.7,All-Rounder,Princesse Ventouse,,False,https://paldb.cc/fr/Gloopie_Primo,2026-08-06
+Galeclaw,49,Neutral,,2,75,85,60,100,100,3900.0,4800.0,610.0,763.0,410.0,518.0,1.5,Attacker,Monte-Galeclaw,,False,https://paldb.cc/fr/Galeclaw,2026-08-06
+Wispaw,50,Dark,,5,85,95,70,100,100,4300.0,5320.0,670.0,841.0,470.0,596.0,2.2,Attacker,Félin Possédé,,False,https://paldb.cc/fr/Wispaw,2026-08-06
+Nitewing,51,Neutral,,3,100,95,80,100,100,4900.0,6100.0,670.0,841.0,530.0,674.0,2.6,All-Rounder,Compagnon de Voyage,,True,https://paldb.cc/fr/Nitewing,2026-08-06
+Tombat,52,Dark,,5,95,95,80,100,100,4700.0,5840.0,670.0,841.0,530.0,674.0,2.6,All-Rounder,Sixième Sens,,False,https://paldb.cc/fr/Tombat,2026-08-06
+Tocotoco,53,Neutral,,1,60,75,70,100,70,3300.0,4020.0,550.0,685.0,470.0,596.0,1.2,All-Rounder,Lance-œufs Explosifs,,False,https://paldb.cc/fr/Tocotoco,2026-08-06
+Univolt,54,Electric,,5,80,105,105,100,100,4100.0,5060.0,730.0,919.0,680.0,869.0,3.2,All-Rounder,Éclair Foudroyant,,True,https://paldb.cc/fr/Univolt,2026-08-06
+Univolt Cryst,54,Ice,,6,80,105,110,100,100,4100.0,5060.0,730.0,919.0,710.0,908.0,3.3,All-Rounder,Conflit Polaire,,True,https://paldb.cc/fr/Univolt_Cryst,2026-08-06
+Gobfin,55,Water,,2,90,90,75,100,100,4500.0,5580.0,640.0,802.0,500.0,635.0,2.2,All-Rounder,Squale Ronchon,,False,https://paldb.cc/fr/Gobfin,2026-08-06
+Gobfin Ignis,55,Fire,,3,90,90,75,100,100,4500.0,5580.0,640.0,802.0,500.0,635.0,2.2,All-Rounder,Squale Ronchon,,False,https://paldb.cc/fr/Gobfin_Ignis,2026-08-06
+Loupmoon,56,Dark,,3,80,100,80,100,100,4100.0,5060.0,700.0,880.0,530.0,674.0,2.5,Attacker,Grilles Scintillantes,,False,https://paldb.cc/fr/Loupmoon,2026-08-06
+Loupmoon Cryst,56,Ice,,3,80,105,80,100,100,4100.0,5060.0,730.0,919.0,530.0,674.0,2.6,Attacker,Coup de Griffes Glacées,,False,https://paldb.cc/fr/Loupmoon_Cryst,2026-08-06
+Cawgnito,57,Dark,,3,75,95,80,100,100,3900.0,4800.0,670.0,841.0,530.0,674.0,2.3,All-Rounder,Oiseau de Nuit,,False,https://paldb.cc/fr/Cawgnito,2026-08-06
+Arsox,58,Fire,,4,85,95,95,100,100,4300.0,5320.0,670.0,841.0,620.0,791.0,2.8,All-Rounder,Chaleur Corporelle,,True,https://paldb.cc/fr/Arsox,2026-08-06
+Muffly,59,Ice,,2,60,80,55,100,100,3300.0,4020.0,580.0,724.0,380.0,479.0,1.0,Attacker,Tourontoudou,,False,https://paldb.cc/fr/Muffly,2026-08-06
+Bristla,60,Grass,,1,80,80,80,100,100,4100.0,5060.0,580.0,724.0,530.0,674.0,1.9,All-Rounder,Regard de Princesse,,False,https://paldb.cc/fr/Bristla,2026-08-06
+Cinnamoth,61,Grass,,4,70,80,80,100,100,3700.0,4540.0,580.0,724.0,530.0,674.0,1.7,All-Rounder,Écailles Mystérieuses,,False,https://paldb.cc/fr/Cinnamoth,2026-08-06
+Puffolt,62,Electric,,2,75,80,70,100,100,3900.0,4800.0,580.0,724.0,470.0,596.0,1.6,All-Rounder,Poussée Crépitante,,False,https://paldb.cc/fr/Puffolt,2026-08-06
+Elphidran,63,Dragon,,7,110,80,90,100,100,5300.0,6620.0,580.0,724.0,590.0,752.0,2.5,All-Rounder,Dragon Sacré au Grand Cœur,,True,https://paldb.cc/fr/Elphidran,2026-08-06
+Elphidran Aqua,63,Dragon,Water,8,115,80,95,100,100,5500.0,6880.0,580.0,724.0,620.0,791.0,2.7,All-Rounder,Dragon Aquatique au Grand Cœur,,True,https://paldb.cc/fr/Elphidran_Aqua,2026-08-06
+Vanwyrm,64,Fire,Dark,5,90,115,90,100,100,4500.0,5580.0,790.0,997.0,590.0,752.0,3.3,Attacker,Assaillant Céleste,,True,https://paldb.cc/fr/Vanwyrm,2026-08-06
+Vanwyrm Cryst,64,Ice,Dark,5,90,120,95,100,100,4500.0,5580.0,820.0,1036.0,620.0,791.0,3.6,Attacker,Assaillant Céleste,,True,https://paldb.cc/fr/Vanwyrm_Cryst,2026-08-06
+Felbat,65,Dark,,6,100,105,110,100,110,4900.0,6100.0,730.0,919.0,710.0,908.0,3.6,All-Rounder,Vol de vie,,False,https://paldb.cc/fr/Felbat,2026-08-06
+Vaelet,66,Grass,,8,100,100,120,100,100,4900.0,6100.0,700.0,880.0,770.0,986.0,3.7,All-Rounder,Purification Tellurique,,False,https://paldb.cc/fr/Vaelet,2026-08-06
+Beegarde,67,Grass,,4,80,90,90,100,100,4100.0,5060.0,640.0,802.0,590.0,752.0,2.4,All-Rounder,Abeille Ouvrière,,False,https://paldb.cc/fr/Beegarde,2026-08-06
+Elizabee,68,Grass,,8,90,105,100,100,100,4500.0,5580.0,730.0,919.0,650.0,830.0,3.2,All-Rounder,Reine des Abeilles,,False,https://paldb.cc/fr/Elizabee,2026-08-06
+Lovander,69,Dark,,5,120,70,70,100,140,5700.0,7140.0,520.0,646.0,470.0,596.0,1.9,All-Rounder,Draine-Cœur,Anormal,False,https://paldb.cc/fr/Lovander,2026-08-06
+Grintale,70,Neutral,,6,110,80,80,100,100,5300.0,6620.0,580.0,724.0,530.0,674.0,2.3,All-Rounder,Œil de Lynx,,True,https://paldb.cc/fr/Grintale,2026-08-06
+Tarantriss,71,Dark,,3,110,100,100,100,100,5300.0,6620.0,700.0,880.0,650.0,830.0,3.4,All-Rounder,Toile de Tarantriss,,True,https://paldb.cc/fr/Tarantriss,2026-08-06
+Polapup,72,Ice,Water,5,95,105,105,100,100,4700.0,5840.0,730.0,919.0,680.0,869.0,3.4,All-Rounder,Dévale Montagne,,True,https://paldb.cc/fr/Polapup,2026-08-06
+Polapup Terra,72,Ice,Ground,6,95,105,110,100,100,4700.0,5840.0,730.0,919.0,710.0,908.0,3.5,All-Rounder,Dévale-Montagne,,True,https://paldb.cc/fr/Polapup_Terra,2026-08-06
+Leezpunk,73,Dark,,2,80,80,50,100,100,4100.0,5060.0,580.0,724.0,350.0,440.0,1.2,Attacker,Camouflage,,False,https://paldb.cc/fr/Leezpunk,2026-08-06
+Leezpunk Ignis,73,Fire,,3,80,80,50,100,100,4100.0,5060.0,580.0,724.0,350.0,440.0,1.2,Attacker,Camouflage,,False,https://paldb.cc/fr/Leezpunk_Ignis,2026-08-06
+Gorirat,74,Neutral,,5,90,95,90,100,100,4500.0,5580.0,670.0,841.0,590.0,752.0,2.7,All-Rounder,Mode Enragé,Trouble-Fête,False,https://paldb.cc/fr/Gorirat,2026-08-06
+Gorirat Terra,74,Ground,,5,90,100,90,100,100,4500.0,5580.0,700.0,880.0,590.0,752.0,2.9,All-Rounder,Bras de Gorille Ultime,Trouble-Fête,False,https://paldb.cc/fr/Gorirat_Terra,2026-08-06
+Surfent,75,Water,,4,90,90,80,100,100,4500.0,5580.0,640.0,802.0,530.0,674.0,2.3,All-Rounder,Fouisseur Furtif,,True,https://paldb.cc/fr/Surfent,2026-08-06
+Surfent Terra,75,Ground,,5,90,90,100,100,100,4500.0,5580.0,640.0,802.0,650.0,830.0,2.8,All-Rounder,Fouisseur des Sables,,True,https://paldb.cc/fr/Surfent_Terra,2026-08-06
+Robinquill,76,Grass,,5,90,105,80,100,100,4500.0,5580.0,730.0,919.0,530.0,674.0,2.8,Attacker,Maître Archer,,False,https://paldb.cc/fr/Robinquill,2026-08-06
+Robinquill Terra,76,Grass,Ground,6,90,105,80,100,100,4500.0,5580.0,730.0,919.0,530.0,674.0,2.8,Attacker,Archer d’Elite,,False,https://paldb.cc/fr/Robinquill_Terra,2026-08-06
+Flopie,77,Grass,,1,75,65,70,100,100,3900.0,4800.0,490.0,607.0,470.0,596.0,1.1,All-Rounder,Lapin Serviable,,False,https://paldb.cc/fr/Flopie,2026-08-06
+Wixen,78,Fire,,6,90,110,80,100,120,4500.0,5580.0,760.0,958.0,530.0,674.0,2.9,Attacker,Maître Renard,,False,https://paldb.cc/fr/Wixen,2026-08-06
+Wixen Noct,78,Fire,Dark,6,90,110,85,100,120,4500.0,5580.0,760.0,958.0,560.0,713.0,3.0,Attacker,Grand Renard Noir,,False,https://paldb.cc/fr/Wixen_Noct,2026-08-06
+Katress,79,Dark,,6,90,105,90,100,100,4500.0,5580.0,730.0,919.0,590.0,752.0,3.0,All-Rounder,Étrange Sorcellerie,,False,https://paldb.cc/fr/Katress,2026-08-06
+Katress Ignis,79,Dark,Fire,6,95,105,90,100,100,4700.0,5840.0,730.0,919.0,590.0,752.0,3.1,All-Rounder,Passion Magie Noire,,False,https://paldb.cc/fr/Katress_Ignis,2026-08-06
+Helzephyr,80,Dark,,7,100,125,100,100,100,4900.0,6100.0,850.0,1075.0,650.0,830.0,4.0,Attacker,Ailes des Enfers,,True,https://paldb.cc/fr/Helzephyr,2026-08-06
+Helzephyr Lux,80,Dark,Electric,8,105,125,100,100,100,5100.0,6360.0,850.0,1075.0,650.0,830.0,4.1,Attacker,Ailes Foudroyantes,,True,https://paldb.cc/fr/Helzephyr_Lux,2026-08-06
+Elgrove,81,Grass,,6,110,105,105,100,100,5300.0,6620.0,730.0,919.0,680.0,869.0,3.6,All-Rounder,Menace Naturelle,,False,https://paldb.cc/fr/Elgrove,2026-08-06
+Elgrove Cryst,81,Ice,,7,120,100,105,100,100,5700.0,7140.0,700.0,880.0,680.0,869.0,3.6,All-Rounder,Pergélisol Menaçant,,False,https://paldb.cc/fr/Elgrove_Cryst,2026-08-06
+Lunaris,82,Neutral,,6,90,100,90,100,100,4500.0,5580.0,700.0,880.0,590.0,752.0,2.9,All-Rounder,Antigravité,,False,https://paldb.cc/fr/Lunaris,2026-08-06
+Fenglope,83,Neutral,,3,110,110,90,100,100,5300.0,6620.0,760.0,958.0,590.0,752.0,3.4,All-Rounder,Vent et Nuages,,True,https://paldb.cc/fr/Fenglope,2026-08-06
+Fenglope Lux,83,Electric,,3,110,115,90,100,100,5300.0,6620.0,790.0,997.0,590.0,752.0,3.6,Attacker,Nuage d'Orage,,True,https://paldb.cc/fr/Fenglope_Lux,2026-08-06
+Dinossom,84,Grass,Dragon,6,110,85,90,100,150,5300.0,6620.0,610.0,763.0,590.0,752.0,2.7,All-Rounder,Dragon Fleurissant,,True,https://paldb.cc/fr/Dinossom,2026-08-06
+Dinossom Lux,84,Electric,Dragon,7,110,90,90,100,150,5300.0,6620.0,640.0,802.0,590.0,752.0,2.8,All-Rounder,Dragon Orageux,,True,https://paldb.cc/fr/Dinossom_Lux,2026-08-06
+Bushi,85,Fire,,7,80,125,80,100,100,4100.0,5060.0,850.0,1075.0,530.0,674.0,3.2,Attacker,Flash Furtif,,False,https://paldb.cc/fr/Bushi,2026-08-06
+Bushi Noct,85,Fire,Dark,7,80,130,80,100,100,4100.0,5060.0,880.0,1114.0,530.0,674.0,3.4,Attacker,Flash Furtif Inversé,,False,https://paldb.cc/fr/Bushi_Noct,2026-08-06
+Munchill,86,Ice,Water,3,75,80,85,100,100,3900.0,4800.0,580.0,724.0,560.0,713.0,1.9,All-Rounder,Entrailles Glacées,,False,https://paldb.cc/fr/Munchill,2026-08-06
+Mammorest,87,Grass,Ground,8,150,85,90,100,30,6900.0,8700.0,610.0,763.0,590.0,752.0,3.3,All-Rounder,Broyeur Tellurique,Poids Lourd,True,https://paldb.cc/fr/Mammorest,2026-08-06
+Mammorest Cryst,87,Ice,Ground,9,150,85,90,100,30,6900.0,8700.0,610.0,763.0,590.0,752.0,3.3,All-Rounder,Broyeur à Glace,Poids Lourd,True,https://paldb.cc/fr/Mammorest_Cryst,2026-08-06
+Finsider,88,Water,,3,75,85,80,100,100,3900.0,4800.0,610.0,763.0,530.0,674.0,2.0,All-Rounder,Aqua-Gâchette,,False,https://paldb.cc/fr/Finsider,2026-08-06
+Finsider Ignis,88,Water,Fire,4,75,90,80,100,100,3900.0,4800.0,640.0,802.0,530.0,674.0,2.1,All-Rounder,Chambre de Braises,,False,https://paldb.cc/fr/Finsider_Ignis,2026-08-06
+Petallia,89,Grass,,8,100,95,100,100,100,4900.0,6100.0,670.0,841.0,650.0,830.0,3.1,All-Rounder,Bénédiction Florale,,False,https://paldb.cc/fr/Petallia,2026-08-06
+Petallia Ignis,89,Grass,Fire,9,95,105,100,100,100,4700.0,5840.0,730.0,919.0,650.0,830.0,3.3,All-Rounder,Ferveur Florale,,False,https://paldb.cc/fr/Petallia_Ignis,2026-08-06
+Leafan,90,Grass,,7,100,115,95,100,100,4900.0,6100.0,790.0,997.0,620.0,791.0,3.6,All-Rounder,Abnégation,,False,https://paldb.cc/fr/Leafan,2026-08-06
+Incineram,91,Fire,Dark,4,95,100,85,100,100,4700.0,5840.0,700.0,880.0,560.0,713.0,2.8,All-Rounder,Chasseur aux Griffes Ardentes,,False,https://paldb.cc/fr/Incineram,2026-08-06
+Incineram Noct,91,Dark,,5,95,105,85,100,100,4700.0,5840.0,730.0,919.0,560.0,713.0,3.0,All-Rounder,Chasseur aux Griffes Noires,,False,https://paldb.cc/fr/Incineram_Noct,2026-08-06
+Dazzi,92,Electric,,2,70,80,70,100,100,3700.0,4540.0,580.0,724.0,470.0,596.0,1.5,All-Rounder,Fille de la Foudre,,False,https://paldb.cc/fr/Dazzi,2026-08-06
+Dazzi Noct,92,Dark,Electric,2,70,80,75,100,100,3700.0,4540.0,580.0,724.0,500.0,635.0,1.6,All-Rounder,Fille de l'Orage Obscur,,False,https://paldb.cc/fr/Dazzi_Noct,2026-08-06
+Pyrin,93,Fire,,6,100,95,90,100,100,4900.0,6100.0,670.0,841.0,590.0,752.0,2.9,All-Rounder,Cheval Rouge,,True,https://paldb.cc/fr/Pyrin,2026-08-06
+Pyrin Noct,93,Fire,Dark,7,100,95,90,100,100,4900.0,6100.0,670.0,841.0,590.0,752.0,2.9,All-Rounder,Cheval Noir,,True,https://paldb.cc/fr/Pyrin_Noct,2026-08-06
+Relaxaurus,94,Dragon,Water,8,120,115,110,100,100,5700.0,7140.0,790.0,997.0,710.0,908.0,4.2,All-Rounder,Missile Affamé,Glouton,False,https://paldb.cc/fr/Relaxaurus,2026-08-06
+Relaxaurus Lux,94,Dragon,Electric,9,120,120,110,100,100,5700.0,7140.0,820.0,1036.0,710.0,908.0,4.4,All-Rounder,Fête aux Missiles,,False,https://paldb.cc/fr/Relaxaurus_Lux,2026-08-06
+Foxcicle,95,Ice,,5,90,95,105,100,100,4500.0,5580.0,670.0,841.0,680.0,869.0,3.1,All-Rounder,Instinct Boréal,,False,https://paldb.cc/fr/Foxcicle,2026-08-06
+Beakon,96,Electric,,6,105,115,80,100,100,5100.0,6360.0,790.0,997.0,530.0,674.0,3.3,Attacker,Orage,,True,https://paldb.cc/fr/Beakon,2026-08-06
+Beakon Cryst,96,Ice,,7,105,115,85,100,100,5100.0,6360.0,790.0,997.0,560.0,713.0,3.4,Attacker,Grésil Céleste,,True,https://paldb.cc/fr/Beakon_Cryst,2026-08-06
+Ghangler,97,Dark,Water,5,90,125,105,100,100,4500.0,5580.0,850.0,1075.0,680.0,869.0,4.0,All-Rounder,Guide des Ténèbres,,True,https://paldb.cc/fr/Ghangler,2026-08-06
+Ghangler Ignis,97,Fire,Water,6,90,130,105,100,100,4500.0,5580.0,880.0,1114.0,680.0,869.0,4.1,All-Rounder,Cordon-bleu des Profondeurs,,True,https://paldb.cc/fr/Ghangler_Ignis,2026-08-06
+Rayhound,98,Electric,,5,90,100,80,100,100,4500.0,5580.0,700.0,880.0,530.0,674.0,2.6,Attacker,Chien Électrique,,True,https://paldb.cc/fr/Rayhound,2026-08-06
+Rayhound Cryst,98,Ice,,6,90,105,80,100,100,4500.0,5580.0,730.0,919.0,530.0,674.0,2.8,Attacker,Blizzarus-K9,,True,https://paldb.cc/fr/Rayhound_Cryst,2026-08-06
+Menasting,99,Dark,Ground,9,100,100,130,100,100,4900.0,6100.0,700.0,880.0,830.0,1064.0,3.9,All-Rounder,Scorpion d'Acier,,False,https://paldb.cc/fr/Menasting,2026-08-06
+Menasting Terra,99,Ground,,10,100,105,130,100,100,4900.0,6100.0,730.0,919.0,830.0,1064.0,4.1,All-Rounder,Scorpion Doré,,False,https://paldb.cc/fr/Menasting_Terra,2026-08-06
+Needoll,100,Grass,,2,75,85,70,100,100,3900.0,4800.0,610.0,763.0,470.0,596.0,1.7,All-Rounder,Free Hug,,False,https://paldb.cc/fr/Needoll,2026-08-06
+Needoll Noct,100,Dark,Grass,3,75,90,70,100,100,3900.0,4800.0,640.0,802.0,470.0,596.0,1.9,Attacker,Câlin Piquant,,False,https://paldb.cc/fr/Needoll_Noct,2026-08-06
+Reindrix,101,Ice,,4,100,85,110,100,100,4900.0,6100.0,610.0,763.0,710.0,908.0,3.0,All-Rounder,Fraîcheur Corporelle,,True,https://paldb.cc/fr/Reindrix,2026-08-06
+Mossanda,102,Grass,,6,100,90,90,100,100,4900.0,6100.0,640.0,802.0,590.0,752.0,2.7,All-Rounder,Pandanade,,False,https://paldb.cc/fr/Mossanda,2026-08-06
+Mossanda Lux,102,Electric,,7,100,100,100,100,100,4900.0,6100.0,700.0,880.0,650.0,830.0,3.2,All-Rounder,Pandanade,,False,https://paldb.cc/fr/Mossanda_Lux,2026-08-06
+Chillet,103,Ice,Dragon,4,90,80,80,100,100,4500.0,5580.0,580.0,724.0,530.0,674.0,2.0,All-Rounder,Belette Stupéfiante,,True,https://paldb.cc/fr/Chillet,2026-08-06
+Chillet Ignis,103,Fire,Dragon,5,90,85,80,100,100,4500.0,5580.0,610.0,763.0,530.0,674.0,2.2,All-Rounder,Belette Crépitante,,True,https://paldb.cc/fr/Chillet_Ignis,2026-08-06
+Ragnahawk,104,Fire,,7,95,105,120,100,100,4700.0,5840.0,730.0,919.0,770.0,986.0,3.8,All-Rounder,Ailes Enflammées,,True,https://paldb.cc/fr/Ragnahawk,2026-08-06
+Moldron,105,Fire,Ground,7,110,125,115,100,100,5300.0,6620.0,850.0,1075.0,740.0,947.0,4.5,All-Rounder,Trop-Plein de Magma,,True,https://paldb.cc/fr/Moldron,2026-08-06
+Moldron Cryst,105,Ice,Ground,8,110,125,120,100,100,5300.0,6620.0,850.0,1075.0,770.0,986.0,4.6,All-Rounder,Trop-Plein de Glace,,True,https://paldb.cc/fr/Moldron_Cryst,2026-08-06
+Palumba,106,Grass,,6,105,110,115,100,100,5100.0,6360.0,760.0,958.0,740.0,947.0,4.0,All-Rounder,Bain de Soleil,,True,https://paldb.cc/fr/Palumba,2026-08-06
+Digtoise,107,Ground,,5,80,95,120,100,100,4100.0,5060.0,670.0,841.0,770.0,986.0,3.3,All-Rounder,Perceuse Broyeuse,Peau dure,False,https://paldb.cc/fr/Digtoise,2026-08-06
+Broncherry,108,Grass,,8,120,90,100,100,120,5700.0,7140.0,640.0,802.0,650.0,830.0,3.2,All-Rounder,Floraison du Premier Amour,Poids Lourd,True,https://paldb.cc/fr/Broncherry,2026-08-06
+Broncherry Aqua,108,Grass,Water,8,120,95,100,100,120,5700.0,7140.0,670.0,841.0,650.0,830.0,3.4,All-Rounder,Floraison de Pureté,Poids Lourd,True,https://paldb.cc/fr/Broncherry_Aqua,2026-08-06
+Dumud,109,Ground,Water,4,100,70,95,100,100,4900.0,6100.0,520.0,646.0,620.0,791.0,2.2,All-Rounder,Amélioration Terrestre,,False,https://paldb.cc/fr/Dumud,2026-08-06
+Dumud Gild,109,Ground,Water,5,105,75,100,100,100,5100.0,6360.0,550.0,685.0,650.0,830.0,2.6,All-Rounder,Ruée vers L'Or,,False,https://paldb.cc/fr/Dumud_Gild,2026-08-06
+Braloha,110,Grass,Ground,8,130,95,120,100,100,6100.0,7660.0,670.0,841.0,770.0,986.0,4.0,All-Rounder,Soleil Accablant,Poids Lourd,True,https://paldb.cc/fr/Braloha,2026-08-06
+Kitsun,111,Fire,,6,100,115,100,100,110,4900.0,6100.0,790.0,997.0,650.0,830.0,3.7,All-Rounder,Loup Solaire,,True,https://paldb.cc/fr/Kitsun,2026-08-06
+Kitsun Noct,111,Dark,,6,100,115,105,100,110,4900.0,6100.0,790.0,997.0,680.0,869.0,3.8,All-Rounder,Loup Morose,,True,https://paldb.cc/fr/Kitsun_Noct,2026-08-06
+Blazehowl,112,Fire,,7,105,110,80,100,100,5100.0,6360.0,760.0,958.0,530.0,674.0,3.1,Attacker,Lion Infernal,,True,https://paldb.cc/fr/Blazehowl,2026-08-06
+Blazehowl Noct,112,Fire,Dark,8,105,115,80,100,100,5100.0,6360.0,790.0,997.0,530.0,674.0,3.3,Attacker,Lion des Flammes Noires,,True,https://paldb.cc/fr/Blazehowl_Noct,2026-08-06
+Warsect,113,Ground,Grass,8,120,100,120,100,100,5700.0,7140.0,700.0,880.0,770.0,986.0,4.0,All-Rounder,Armure Noire,Peau dure,False,https://paldb.cc/fr/Warsect,2026-08-06
+Warsect Terra,113,Ground,,9,120,105,120,100,100,5700.0,7140.0,730.0,919.0,770.0,986.0,4.1,All-Rounder,Armure Or,Peau dure,False,https://paldb.cc/fr/Warsect_Terra,2026-08-06
+Frostplume,114,Ice,,4,110,100,100,100,100,5300.0,6620.0,700.0,880.0,650.0,830.0,3.4,All-Rounder,Paon Pan,,False,https://paldb.cc/fr/Frostplume,2026-08-06
+Majex,115,Dark,Fire,5,110,115,90,100,100,5300.0,6620.0,790.0,997.0,590.0,752.0,3.6,Attacker,Incantation Secrète,,False,https://paldb.cc/fr/Majex,2026-08-06
+Sibelyx,116,Ice,,7,110,90,100,100,90,5300.0,6620.0,640.0,802.0,650.0,830.0,3.1,All-Rounder,Voile Soyeux,,False,https://paldb.cc/fr/Sibelyx,2026-08-06
+Sibelyx Primo,116,Neutral,,8,115,90,100,100,90,5500.0,6880.0,640.0,802.0,650.0,830.0,3.2,All-Rounder,Voile Doré,,False,https://paldb.cc/fr/Sibelyx_Primo,2026-08-06
+Maraith,117,Dark,,6,75,105,80,100,100,3900.0,4800.0,730.0,919.0,530.0,674.0,2.6,Attacker,Messager de la Mort,,True,https://paldb.cc/fr/Maraith,2026-08-06
+Shroomer,118,Grass,,4,110,80,90,100,100,5300.0,6620.0,580.0,724.0,590.0,752.0,2.5,All-Rounder,Spores Vivaces,,True,https://paldb.cc/fr/Shroomer,2026-08-06
+Shroomer Noct,118,Grass,Dark,5,110,85,90,100,100,5300.0,6620.0,610.0,763.0,590.0,752.0,2.7,All-Rounder,Spores Fumantes,,True,https://paldb.cc/fr/Shroomer_Noct,2026-08-06
+Icelyn,119,Ice,,4,95,115,105,100,100,4700.0,5840.0,790.0,997.0,680.0,869.0,3.7,All-Rounder,Sorcière Frigorifique,,False,https://paldb.cc/fr/Icelyn,2026-08-06
+Gildra,120,Dark,Ground,5,105,120,105,100,100,5100.0,6360.0,820.0,1036.0,680.0,869.0,4.0,All-Rounder,Résurrection,,False,https://paldb.cc/fr/Gildra,2026-08-06
+Jormuntide,121,Dragon,Water,8,130,120,100,100,100,6100.0,7660.0,820.0,1036.0,650.0,830.0,4.3,All-Rounder,Dragon Marin Tempétueux,Seigneur des Mers,True,https://paldb.cc/fr/Jormuntide,2026-08-06
+Jormuntide Ignis,121,Dragon,Fire,9,130,130,100,100,100,6100.0,7660.0,880.0,1114.0,650.0,830.0,4.6,Attacker,Dragon de Lave Tempétueux,,True,https://paldb.cc/fr/Jormuntide_Ignis,2026-08-06
+Suzaku,122,Fire,,8,120,105,105,100,100,5700.0,7140.0,730.0,919.0,680.0,869.0,3.8,All-Rounder,Ailes de Feu,,True,https://paldb.cc/fr/Suzaku,2026-08-06
+Suzaku Aqua,122,Water,,9,125,105,105,100,100,5900.0,7400.0,730.0,919.0,680.0,869.0,3.9,All-Rounder,Ailes d'Eau,,True,https://paldb.cc/fr/Suzaku_Aqua,2026-08-06
+Dazemu,123,Ground,,5,95,90,80,100,100,4700.0,5840.0,640.0,802.0,530.0,674.0,2.4,All-Rounder,Ruée Sablonneuse,,True,https://paldb.cc/fr/Dazemu,2026-08-06
+Quivern,124,Dragon,,7,105,100,100,100,100,5100.0,6360.0,700.0,880.0,650.0,830.0,3.3,All-Rounder,Compassion du Dragon Céleste,,True,https://paldb.cc/fr/Quivern,2026-08-06
+Quivern Botan,124,Dragon,Grass,8,105,105,100,100,100,5100.0,6360.0,730.0,919.0,650.0,830.0,3.5,All-Rounder,Affection du Dragon Sylvestre,,True,https://paldb.cc/fr/Quivern_Botan,2026-08-06
+Lullu,125,Grass,,4,90,90,80,100,100,4500.0,5580.0,640.0,802.0,530.0,674.0,2.3,All-Rounder,Turbo Floral,,False,https://paldb.cc/fr/Lullu,2026-08-06
+Kikit,126,Ground,,4,75,70,90,100,100,3900.0,4800.0,520.0,646.0,590.0,752.0,1.7,All-Rounder,Balle de Plage,,False,https://paldb.cc/fr/Kikit,2026-08-06
+Yakumo,127,Neutral,,4,85,85,85,100,110,4300.0,5320.0,610.0,763.0,560.0,713.0,2.2,All-Rounder,Qui se ressemble s'assemble,"Colère Divine, Corps Adamantin, Vigueur Éternelle, Inébranlable, Roi des Vagues, Grand Prince, Légèreté, Maîtrise de la Faim, Maître Éleveur, Maîtrise Exceptionnelle, Sprinteur, Vampire, Coursier Marin, Appliqué, Corps Robuste, Nutritionniste, Apprenti Éleveur, Féroce, Ange Médecin, Infatigable, Chef d'Abattage, Chef d'Extraction, Motivateur, Noble, Philanthrope, Instructeur de Tir, Coursier, Sérénité, Généreux, Stratège de Forteresse, Chef d'Assaut, Guide de l'effort, Acharné, Poids Lourd, Impulsif, Anormal, Rentre-Dedans, Sang de Dragon, Protection Végétale, Brave, Condensateur, Lumineux, Sang Froid, Vaniteux, Frugal, Tueur de Dragons, Parasismique, Belle Fourrure, Force de la Nature, Fragrance Boisée, Peau dure, Sang Chaud, Trouble-Fête, Hydrophile, Impatient, Nocturne, Isolant, Masochiste, Vif, Optimiste, Force Tellurique, Pyromane, Sadique, Sérieux, Nage Fluide, Esprit Zen, Bronzage Naturel, Voile des Ténèbres, Imperméabilité, Soumis, Maladroit, Lâche, Vulnérable aux Coups, Tranquille, Glouton, Pitié, Oiseau de Nuit, Miteux, Reclus, Mentalement Instable, Estomac sans Fond, Soif de Destruction, Os fragiles, Pacifiste, Négligent",True,https://paldb.cc/fr/Yakumo,2026-08-06
+Skutlass,128,Water,,5,70,100,80,100,100,3700.0,4540.0,700.0,880.0,530.0,674.0,2.3,Attacker,Désossage,,False,https://paldb.cc/fr/Skutlass,2026-08-06
+Skutlass Ignis,128,Water,Fire,5,70,105,80,100,100,3700.0,4540.0,730.0,919.0,530.0,674.0,2.5,Attacker,Barbecue,,False,https://paldb.cc/fr/Skutlass_Ignis,2026-08-06
+Reptyro,129,Fire,Ground,6,110,105,120,100,100,5300.0,6620.0,730.0,919.0,770.0,986.0,4.0,All-Rounder,Bête Briseuse de Cristal,Poids Lourd,True,https://paldb.cc/fr/Reptyro,2026-08-06
+Reptyro Cryst,129,Ice,Ground,7,110,105,130,100,100,5300.0,6620.0,730.0,919.0,830.0,1064.0,4.2,All-Rounder,Bête Biseuse d'Icebergs,Poids Lourd,True,https://paldb.cc/fr/Reptyro_Cryst,2026-08-06
+Starryon,130,Dark,,7,110,100,100,100,100,5300.0,6620.0,700.0,880.0,650.0,830.0,3.4,All-Rounder,Danseur de Minuit,,True,https://paldb.cc/fr/Starryon,2026-08-06
+Starryon Primo,130,Neutral,,8,110,105,100,100,100,5300.0,6620.0,730.0,919.0,650.0,830.0,3.5,All-Rounder,Danseur Radieux,,True,https://paldb.cc/fr/Starryon_Primo,2026-08-06
+Pierdon,131,Ground,,6,100,105,120,100,100,4900.0,6100.0,730.0,919.0,770.0,986.0,3.9,All-Rounder,Pierre de Force,Poids Lourd,False,https://paldb.cc/fr/Pierdon,2026-08-06
+Pierdon Cryst,131,Ice,,7,100,110,120,100,100,4900.0,6100.0,760.0,958.0,770.0,986.0,4.0,All-Rounder,Cristal de Force,Poids Lourd,False,https://paldb.cc/fr/Pierdon_Cryst,2026-08-06
+Cryolinx,132,Ice,,7,100,100,110,100,100,4900.0,6100.0,700.0,880.0,710.0,908.0,3.5,All-Rounder,Chasseur de Dragons,,False,https://paldb.cc/fr/Cryolinx,2026-08-06
+Cryolinx Terra,132,Ground,,7,100,105,110,100,100,4900.0,6100.0,730.0,919.0,710.0,908.0,3.6,All-Rounder,Poigne Explosive,,False,https://paldb.cc/fr/Cryolinx_Terra,2026-08-06
+Snugloo,133,Ice,,3,80,75,85,100,100,4100.0,5060.0,550.0,685.0,560.0,713.0,1.9,All-Rounder,Œil Invisible,,False,https://paldb.cc/fr/Snugloo,2026-08-06
+Wumpo,134,Ice,,7,140,80,100,100,100,6500.0,8180.0,580.0,724.0,650.0,830.0,3.2,All-Rounder,Gardien des Montagnes Enneigées,Poids Lourd,True,https://paldb.cc/fr/Wumpo,2026-08-06
+Wumpo Botan,134,Grass,,8,140,80,110,100,100,6500.0,8180.0,580.0,724.0,710.0,908.0,3.4,All-Rounder,Gardien du Sud,Poids Lourd,True,https://paldb.cc/fr/Wumpo_Botan,2026-08-06
+Sootseer,135,Dark,Fire,7,105,125,90,100,100,5100.0,6360.0,850.0,1075.0,590.0,752.0,3.8,Attacker,Pille-Tombes,,False,https://paldb.cc/fr/Sootseer,2026-08-06
+Carnibora,136,Grass,,6,85,90,85,100,100,4300.0,5320.0,640.0,802.0,560.0,713.0,2.4,All-Rounder,Langue Fourchue,,False,https://paldb.cc/fr/Carnibora,2026-08-06
+Blazamut,137,Fire,,9,100,125,120,100,50,4900.0,6100.0,850.0,1075.0,770.0,986.0,4.5,All-Rounder,Empereur Magmatique,Empereur Enflammé,True,https://paldb.cc/fr/Blazamut,2026-08-06
+Blazamut Ryu,137,Dragon,Fire,10,105,130,125,100,50,5100.0,6360.0,880.0,1114.0,800.0,1025.0,4.8,All-Rounder,Roi des Dragons,Feu Éternel,True,https://paldb.cc/fr/Blazamut_Ryu,2026-08-06
+Dualith,138,Ground,Grass,8,110,105,125,100,100,5300.0,6620.0,730.0,919.0,800.0,1025.0,4.1,All-Rounder,Laser Sylvain,Poids Lourd,True,https://paldb.cc/fr/Dualith,2026-08-06
+Dualith Noct,138,Ground,Dark,8,110,110,125,100,100,5300.0,6620.0,760.0,958.0,800.0,1025.0,4.3,All-Rounder,Laser Corrompu,Poids Lourd,True,https://paldb.cc/fr/Dualith_Noct,2026-08-06
+Anubis,139,Ground,,10,120,130,100,100,100,5700.0,7140.0,880.0,1114.0,650.0,830.0,4.4,Attacker,Gardien du Désert,Empereur Terrestre,False,https://paldb.cc/fr/Anubis,2026-08-06
+Sekhmet,140,Ground,,5,110,115,100,100,100,5300.0,6620.0,790.0,997.0,650.0,830.0,3.8,All-Rounder,Impératrice des Sables,,False,https://paldb.cc/fr/Sekhmet,2026-08-06
+Prixter,141,Dark,Ground,5,90,110,90,100,100,4500.0,5580.0,760.0,958.0,590.0,752.0,3.2,All-Rounder,Scorpion Patoxique,,False,https://paldb.cc/fr/Prixter,2026-08-06
+Prixter Lux,141,Electric,Ground,6,90,115,90,100,100,4500.0,5580.0,790.0,997.0,590.0,752.0,3.3,Attacker,Scorpion Statique,,False,https://paldb.cc/fr/Prixter_Lux,2026-08-06
+Tetroise,142,Ground,,8,95,100,135,100,100,4700.0,5840.0,700.0,880.0,860.0,1103.0,4.0,All-Rounder,Tortue Maçonne,,True,https://paldb.cc/fr/Tetroise,2026-08-06
+Tetroise Primo,142,Neutral,,8,95,100,140,100,100,4700.0,5840.0,700.0,880.0,890.0,1142.0,4.1,All-Rounder,Tortue Madone,,True,https://paldb.cc/fr/Tetroise_Primo,2026-08-06
+Nyafia,143,Dark,,4,110,100,100,100,100,5300.0,6620.0,700.0,880.0,650.0,830.0,3.4,All-Rounder,Furie Féline,,False,https://paldb.cc/fr/Nyafia,2026-08-06
+Mimog,144,Neutral,,7,60,60,130,100,100,3300.0,4020.0,460.0,568.0,830.0,1064.0,2.2,Tank,Crochetage,,False,https://paldb.cc/fr/Mimog,2026-08-06
+Xenovader,145,Dark,,7,90,125,85,100,100,4500.0,5580.0,850.0,1075.0,560.0,713.0,3.5,Attacker,Envahisseur Non Identifié,Organisme Inconnu,False,https://paldb.cc/fr/Xenovader,2026-08-06
+Xenogard,146,Dragon,,9,110,120,130,100,100,5300.0,6620.0,820.0,1036.0,830.0,1064.0,4.7,All-Rounder,Intrus Non Identifié,Organisme Inconnu,True,https://paldb.cc/fr/Xenogard,2026-08-06
+Prunelia,147,Grass,Dark,5,105,95,100,100,100,5100.0,6360.0,670.0,841.0,650.0,830.0,3.2,All-Rounder,Prospérité Agricole,,False,https://paldb.cc/fr/Prunelia,2026-08-06
+Nitemary,148,Dark,,6,105,95,105,100,100,5100.0,6360.0,670.0,841.0,680.0,869.0,3.3,All-Rounder,Lapin Volâme,,False,https://paldb.cc/fr/Nitemary,2026-08-06
+Nitemary Botan,148,Grass,,7,110,95,105,100,100,5300.0,6620.0,670.0,841.0,680.0,869.0,3.3,All-Rounder,Lapin Blokâme,,False,https://paldb.cc/fr/Nitemary_Botan,2026-08-06
+Smokie,149,Dark,,2,85,90,85,100,100,4300.0,5320.0,640.0,802.0,560.0,713.0,2.4,All-Rounder,Chien fidèle Smokie,,False,https://paldb.cc/fr/Smokie,2026-08-06
+Smokie Cryst,149,Dark,Ice,3,85,90,90,100,100,4300.0,5320.0,640.0,802.0,590.0,752.0,2.5,All-Rounder,Froide Bête,,False,https://paldb.cc/fr/Smokie_Cryst,2026-08-06
+Omascul,150,Dark,,4,95,105,100,100,100,4700.0,5840.0,730.0,919.0,650.0,830.0,3.3,All-Rounder,Danse du Masque,,False,https://paldb.cc/fr/Omascul,2026-08-06
+Whalaska,151,Ice,Water,8,105,115,110,100,100,5100.0,6360.0,790.0,997.0,710.0,908.0,4.0,All-Rounder,Céta-Frais,,True,https://paldb.cc/fr/Whalaska,2026-08-06
+Whalaska Ignis,151,Ice,Fire,8,105,120,110,100,100,5100.0,6360.0,820.0,1036.0,710.0,908.0,4.1,All-Rounder,Céta-Chaud,,True,https://paldb.cc/fr/Whalaska_Ignis,2026-08-06
+Verdash,152,Grass,,8,90,115,90,100,100,4500.0,5580.0,790.0,997.0,590.0,752.0,3.3,Attacker,Acrobate des Plaines,,False,https://paldb.cc/fr/Verdash,2026-08-06
+Splatterina,153,Dark,,4,95,115,105,100,100,4700.0,5840.0,790.0,997.0,680.0,869.0,3.7,All-Rounder,Lame Amoureuse,Sadique,False,https://paldb.cc/fr/Splatterina,2026-08-06
+Gildane,154,Ground,,8,120,110,110,100,100,5700.0,7140.0,760.0,958.0,710.0,908.0,4.1,All-Rounder,Protection Sablonneuse,,True,https://paldb.cc/fr/Gildane,2026-08-06
+Dogen,155,Neutral,,6,90,100,100,100,100,4500.0,5580.0,700.0,880.0,650.0,830.0,3.1,All-Rounder,Prière de Retour,,False,https://paldb.cc/fr/Dogen,2026-08-06
+Bulldosu,156,Ground,,4,115,95,100,100,100,5500.0,6880.0,670.0,841.0,650.0,830.0,3.3,All-Rounder,Carrure de Champion,,True,https://paldb.cc/fr/Bulldosu,2026-08-06
+Celesdir,157,Neutral,,6,120,110,100,100,100,5700.0,7140.0,760.0,958.0,650.0,830.0,3.8,All-Rounder,Bénédiction Purificatrice,,True,https://paldb.cc/fr/Celesdir,2026-08-06
+Celesdir Noct,157,Dark,,7,120,115,100,100,100,5700.0,7140.0,790.0,997.0,650.0,830.0,4.0,All-Rounder,Bénédiction du Chaos,,True,https://paldb.cc/fr/Celesdir_Noct,2026-08-06
+Astegon,158,Dragon,Dark,9,100,125,125,100,100,4900.0,6100.0,850.0,1075.0,800.0,1025.0,4.6,All-Rounder,Dragon en Armure Noire,Peau dure,True,https://paldb.cc/fr/Astegon,2026-08-06
+Knocklem,159,Ground,,9,126,110,135,100,100,5940.0,7452.0,760.0,958.0,860.0,1103.0,4.7,All-Rounder,Mode Gardien d'Acier,Poids Lourd,False,https://paldb.cc/fr/Knocklem,2026-08-06
+Knocklem Ignis,159,Fire,,10,105,115,135,100,100,5100.0,6360.0,790.0,997.0,860.0,1103.0,4.6,All-Rounder,Mode Gardien de Sang,Poids Lourd,False,https://paldb.cc/fr/Knocklem_Ignis,2026-08-06
+Silvegis,160,Dragon,,8,120,110,115,100,100,5700.0,7140.0,760.0,958.0,740.0,947.0,4.2,All-Rounder,Bouclier Aegis,Poids Lourd,True,https://paldb.cc/fr/Silvegis,2026-08-06
+Azurmane,161,Electric,,7,130,120,110,100,100,6100.0,7660.0,820.0,1036.0,710.0,908.0,4.5,All-Rounder,Charge Plasma,,True,https://paldb.cc/fr/Azurmane,2026-08-06
+Valentail,162,Neutral,,2,75,80,70,100,100,3900.0,4800.0,580.0,724.0,470.0,596.0,1.6,All-Rounder,Extensibilité Féline,,False,https://paldb.cc/fr/Valentail,2026-08-06
+Snock,163,Electric,,2,65,70,75,100,100,3500.0,4280.0,520.0,646.0,500.0,635.0,1.3,All-Rounder,Batterie Dissuasive,,False,https://paldb.cc/fr/Snock,2026-08-06
+Snock Lux,163,Electric,Ground,3,65,70,80,100,100,3500.0,4280.0,520.0,646.0,530.0,674.0,1.4,All-Rounder,Coquille Invasive,,False,https://paldb.cc/fr/Snock_Lux,2026-08-06
+Souffline,164,Grass,,3,70,75,60,100,100,3700.0,4540.0,550.0,685.0,410.0,518.0,1.1,Attacker,Fée Duveteuse,,False,https://paldb.cc/fr/Souffline,2026-08-06
+Lapiron,165,Ground,,3,70,75,80,100,100,3700.0,4540.0,550.0,685.0,530.0,674.0,1.6,All-Rounder,Terre Chérie,,False,https://paldb.cc/fr/Lapiron,2026-08-06
+Hoodle,166,Dark,,3,70,85,80,100,100,3700.0,4540.0,610.0,763.0,530.0,674.0,1.9,All-Rounder,Rôdeur du Néant,,False,https://paldb.cc/fr/Hoodle,2026-08-06
+Slowatt,167,Electric,,4,80,75,70,100,100,4100.0,5060.0,550.0,685.0,470.0,596.0,1.5,All-Rounder,Mode Relax,,False,https://paldb.cc/fr/Slowatt,2026-08-06
+Bakemi,168,Dark,,4,70,85,80,100,100,3700.0,4540.0,610.0,763.0,530.0,674.0,1.9,All-Rounder,Fantômette Joviale,,False,https://paldb.cc/fr/Bakemi,2026-08-06
+Solmora,169,Water,,4,90,90,85,100,100,4500.0,5580.0,640.0,802.0,560.0,713.0,2.4,All-Rounder,Môle Charismatique,,True,https://paldb.cc/fr/Solmora,2026-08-06
+Solmora Lux,169,Water,Electric,5,90,95,85,100,100,4500.0,5580.0,670.0,841.0,560.0,713.0,2.6,All-Rounder,Môle Plasmique,,True,https://paldb.cc/fr/Solmora_Lux,2026-08-06
+Lapure,170,Neutral,,4,105,100,100,100,100,5100.0,6360.0,700.0,880.0,650.0,830.0,3.3,All-Rounder,Manches Longues Triomphantes,,False,https://paldb.cc/fr/Lapure,2026-08-06
+Eidrolon,171,Dragon,Dark,7,115,125,120,100,100,5500.0,6880.0,850.0,1075.0,770.0,986.0,4.7,All-Rounder,Ptérodactyle Libre,,True,https://paldb.cc/fr/Eidrolon,2026-08-06
+Eidrolon Ignis,171,Dragon,Fire,8,115,130,120,100,100,5500.0,6880.0,880.0,1114.0,770.0,986.0,4.8,All-Rounder,Ptérodactyle Furieux,,True,https://paldb.cc/fr/Eidrolon_Ignis,2026-08-06
+Dynamoff,172,Electric,,6,75,85,80,100,100,3900.0,4800.0,610.0,763.0,530.0,674.0,2.0,All-Rounder,Couvaison Électromassante,,True,https://paldb.cc/fr/Dynamoff,2026-08-06
+Tropicaw,173,Grass,,5,85,85,90,100,100,4300.0,5320.0,610.0,763.0,590.0,752.0,2.3,All-Rounder,Danse Florale,,False,https://paldb.cc/fr/Tropicaw,2026-08-06
+Flaracle,174,Fire,,7,110,125,105,100,100,5300.0,6620.0,850.0,1075.0,680.0,869.0,4.2,All-Rounder,Avenir Brûlant,,False,https://paldb.cc/fr/Flaracle,2026-08-06
+Ophydia,175,Grass,Water,9,130,115,120,100,100,6100.0,7660.0,790.0,997.0,770.0,986.0,4.6,All-Rounder,Brume Glorieuse,,True,https://paldb.cc/fr/Ophydia,2026-08-06
+Dupin,176,Fire,,7,100,110,100,100,100,4900.0,6100.0,760.0,958.0,650.0,830.0,3.5,All-Rounder,Passe-casse,,False,https://paldb.cc/fr/Dupin,2026-08-06
+Roujay,177,Dark,,5,110,115,95,100,100,5300.0,6620.0,790.0,997.0,620.0,791.0,3.7,All-Rounder,Ailes des Ténèbres,,True,https://paldb.cc/fr/Roujay,2026-08-06
+Venusa,178,Dark,,5,80,85,90,100,100,4100.0,5060.0,610.0,763.0,590.0,752.0,2.3,All-Rounder,Sagacité Reptilienne,,False,https://paldb.cc/fr/Venusa,2026-08-06
+Mycora,179,Grass,,6,105,95,90,100,100,5100.0,6360.0,670.0,841.0,590.0,752.0,2.9,All-Rounder,Spores Charmants,,False,https://paldb.cc/fr/Mycora,2026-08-06
+Loomen,180,Dark,Fire,5,90,100,95,100,100,4500.0,5580.0,700.0,880.0,620.0,791.0,3.0,All-Rounder,Lanterne Enchantée,,False,https://paldb.cc/fr/Loomen,2026-08-06
+Wistella,181,Dark,,2,80,90,60,100,100,4100.0,5060.0,640.0,802.0,410.0,518.0,1.7,Attacker,Énergie Noire Secrète,,False,https://paldb.cc/fr/Wistella,2026-08-06
+Solenne,182,Dark,Neutral,7,110,115,115,100,100,5300.0,6620.0,790.0,997.0,740.0,947.0,4.2,All-Rounder,Princesse Indomptable,,False,https://paldb.cc/fr/Solenne,2026-08-06
+Renjishi,183,Fire,,7,105,120,100,100,100,5100.0,6360.0,820.0,1036.0,650.0,830.0,3.9,All-Rounder,Scène de Combat,,False,https://paldb.cc/fr/Renjishi,2026-08-06
+Aegidron,184,Dragon,Ground,8,105,125,140,100,100,5100.0,6360.0,850.0,1075.0,890.0,1142.0,5.0,All-Rounder,Dragon Inébranlable,Poids Lourd,True,https://paldb.cc/fr/Aegidron,2026-08-06
+Grizzbolt,185,Electric,,8,120,105,105,100,100,5700.0,7140.0,730.0,919.0,680.0,869.0,3.8,All-Rounder,Tank Jaune,,False,https://paldb.cc/fr/Grizzbolt,2026-08-06
+Lyleen,186,Grass,,9,120,120,110,100,100,5700.0,7140.0,820.0,1036.0,710.0,908.0,4.4,All-Rounder,Déesse de la Fertilité,Divinité de la Forêt,False,https://paldb.cc/fr/Lyleen,2026-08-06
+Lyleen Noct,186,Dark,,10,115,120,115,100,100,5500.0,6880.0,820.0,1036.0,740.0,947.0,4.4,All-Rounder,Déesse de la Pénombre,,False,https://paldb.cc/fr/Lyleen_Noct,2026-08-06
+Orserk,187,Dragon,Electric,9,120,130,115,100,100,5700.0,7140.0,880.0,1114.0,740.0,947.0,4.8,All-Rounder,Dragon Tempétueux,Seigneur des Tempêtes,False,https://paldb.cc/fr/Orserk,2026-08-06
+Faleris,188,Fire,,9,105,110,115,100,90,5100.0,6360.0,760.0,958.0,740.0,947.0,4.0,All-Rounder,Prédateur Brûlant,,True,https://paldb.cc/fr/Faleris,2026-08-06
+Faleris Aqua,188,Water,,9,110,110,115,100,90,5300.0,6620.0,760.0,958.0,740.0,947.0,4.0,All-Rounder,Prédateur Aquatique,,True,https://paldb.cc/fr/Faleris_Aqua,2026-08-06
+Shadowbeak,189,Dark,,10,120,120,140,100,90,5700.0,7140.0,820.0,1036.0,890.0,1142.0,5.1,All-Rounder,Gènes modifiés,,True,https://paldb.cc/fr/Shadowbeak,2026-08-06
+Selyne,190,Dark,Neutral,9,130,115,110,100,100,6100.0,7660.0,790.0,997.0,710.0,908.0,4.4,All-Rounder,Ténèbres Célestes,,True,https://paldb.cc/fr/Selyne,2026-08-06
+Bastigor,191,Ice,,8,140,130,120,100,100,6500.0,8180.0,880.0,1114.0,770.0,986.0,5.2,All-Rounder,Écrasement Blizzard,,False,https://paldb.cc/fr/Bastigor,2026-08-06
+Shaolong,192,Dragon,Water,9,140,135,120,100,100,6500.0,8180.0,910.0,1153.0,770.0,986.0,5.3,All-Rounder,Souverain du Ciel d'Azur,,True,https://paldb.cc/fr/Shaolong,2026-08-06
+Silvance,193,Grass,,8,140,120,110,100,100,6500.0,8180.0,820.0,1036.0,710.0,908.0,4.6,All-Rounder,Gardien des Spores,,False,https://paldb.cc/fr/Silvance,2026-08-06
+Dandilord,194,Grass,Dark,8,125,135,110,100,100,5900.0,7400.0,910.0,1153.0,710.0,908.0,4.9,All-Rounder,Gardien du Brouillard,,False,https://paldb.cc/fr/Dandilord,2026-08-06
+Bellanoir,195,Dark,,20,120,150,100,100,100,5700.0,7140.0,1000.0,1270.0,650.0,830.0,5.0,Attacker,Pupille Cauchemardesque,,False,https://paldb.cc/fr/Bellanoir,2026-08-06
+Bellanoir Libero,195,Dark,,20,120,150,100,100,100,5700.0,7140.0,1000.0,1270.0,650.0,830.0,5.0,Attacker,Regard Cauchemardesque,Sorcière,False,https://paldb.cc/fr/Bellanoir_Libero,2026-08-06
+Xenolord,196,Dark,Dragon,8,130,120,120,100,100,6100.0,7660.0,820.0,1036.0,770.0,986.0,4.7,All-Rounder,Ailes Météores,"Envahisseur, Organisme Inconnu",True,https://paldb.cc/fr/Xenolord,2026-08-06
+Hartalis,197,Neutral,,10,135,130,110,100,100,6300.0,7920.0,880.0,1114.0,710.0,908.0,4.9,All-Rounder,Barrière Sacrée,Sauveur,True,https://paldb.cc/fr/Hartalis,2026-08-06
+Paladius,198,Neutral,,20,130,120,145,100,100,6100.0,7660.0,820.0,1036.0,920.0,1181.0,5.3,All-Rounder,Chevalier Céleste,"Légende, Empereur Céleste",True,https://paldb.cc/fr/Paladius,2026-08-06
+Necromus,199,Dark,,20,130,145,120,100,100,6100.0,7660.0,970.0,1231.0,770.0,986.0,5.5,All-Rounder,Chevalier Noir Abyssal,"Légende, Seigneur des Enfers",True,https://paldb.cc/fr/Necromus,2026-08-06
+Frostallion,200,Ice,,20,140,140,120,100,70,6500.0,8180.0,940.0,1192.0,770.0,986.0,5.5,All-Rounder,Pégase des Glaces,"Légende, Empereur Glacial",True,https://paldb.cc/fr/Frostallion,2026-08-06
+Frostallion Noct,200,Dark,,20,140,140,135,100,70,6500.0,8180.0,940.0,1192.0,860.0,1103.0,5.8,All-Rounder,Pégase Noir,"Légende, Seigneur des Enfers",True,https://paldb.cc/fr/Frostallion_Noct,2026-08-06
+Neptilius,201,Water,,20,105,145,125,100,100,5100.0,6360.0,970.0,1231.0,800.0,1025.0,5.2,All-Rounder,Conquérant des Océans,"Légende, Trophée des Flots",True,https://paldb.cc/fr/Neptilius,2026-08-06
+Jetragon,202,Dragon,,20,115,140,120,100,100,5500.0,6880.0,940.0,1192.0,770.0,986.0,5.1,All-Rounder,Missile Aérien,"Légende, Dragon Divin",False,https://paldb.cc/fr/Jetragon,2026-08-06
+Panthalus,203,Water,,10,200,120,180,100,100,8900.0,11300.0,820.0,1036.0,1130.0,1454.0,7.1,Tank,Gardien des Échos,,False,https://paldb.cc/fr/Panthalus,2026-08-06
+Astralym,204,,,10,200,200,200,100,100,8900.0,11300.0,1300.0,1660.0,1250.0,1610.0,10.0,All-Rounder,-,,False,https://paldb.cc/fr/Astralym,2026-08-06
+Gelée verte,0,Grass,,3,65,70,80,100,100,3500.0,4280.0,520.0,646.0,530.0,674.0,1.4,All-Rounder,Corps Gélatineux,,False,https://paldb.cc/fr/Green_Slime,2026-08-06
+Gelée bleue,0,Water,,3,70,70,80,100,100,3700.0,4540.0,520.0,646.0,530.0,674.0,1.4,All-Rounder,Corps Gélatineux,,False,https://paldb.cc/fr/Blue_Slime,2026-08-06
+Gelée rouge,0,Fire,,3,70,75,85,100,100,3700.0,4540.0,550.0,685.0,560.0,713.0,1.7,All-Rounder,Corps Gélatineux,,False,https://paldb.cc/fr/Red_Slime,2026-08-06
+Gelée violette,0,Dark,,3,75,70,80,100,100,3900.0,4800.0,520.0,646.0,530.0,674.0,1.5,All-Rounder,Corps Gélatineux,,False,https://paldb.cc/fr/Purple_Slime,2026-08-06
+Gelée lumineuse,0,Neutral,,4,80,75,85,100,100,4100.0,5060.0,550.0,685.0,560.0,713.0,1.9,All-Rounder,Corps Gélatineux,,False,https://paldb.cc/fr/Illuminant_Slime,2026-08-06
+Gelée arc-en-ciel,0,Neutral,,4,105,95,105,100,100,5100.0,6360.0,670.0,841.0,680.0,869.0,3.3,All-Rounder,Corps Gélatineux,,False,https://paldb.cc/fr/Rainbow_Slime,2026-08-06
+Épée envoûtée,0,Neutral,,3,95,105,90,100,100,4700.0,5840.0,730.0,919.0,590.0,752.0,3.1,All-Rounder,Enchantement,,False,https://paldb.cc/fr/Enchanted_Sword,2026-08-06
+Chauve-souris des grottes,0,Neutral,,3,65,75,80,100,100,3500.0,4280.0,550.0,685.0,530.0,674.0,1.5,All-Rounder,Soutien de Chauve-souris,,False,https://paldb.cc/fr/Cave_Bat,2026-08-06
+Chauve-souris lumineuse,0,Neutral,,4,80,80,95,100,100,4100.0,5060.0,580.0,724.0,620.0,791.0,2.2,All-Rounder,Soutien de Chauve-souris,,False,https://paldb.cc/fr/Illuminant_Bat,2026-08-06
+Œil de Cthulhu,0,Dark,,6,125,115,100,100,100,5900.0,7400.0,790.0,997.0,650.0,830.0,4.0,All-Rounder,Ruée de l’Œil de Cthulhu,,False,https://paldb.cc/fr/Eye_of_Cthulhu,2026-08-06
+Œil de démon,0,Dark,,3,105,110,95,100,100,5100.0,6360.0,760.0,958.0,620.0,791.0,3.5,All-Rounder,Vision Démoniaque,,False,https://paldb.cc/fr/Demon_Eye,2026-08-06

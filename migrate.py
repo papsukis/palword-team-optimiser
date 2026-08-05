@@ -41,13 +41,13 @@ TABLES: dict[str, dict] = {
         "csv": "active_skills.csv",
         "columns": {
             "Skill": Text, "Element": Text, "Cooldown (s)": Float, "Power": Float,
-            "Status": Text, "Status Build-up": Float,
+            "Status": Text, "Status Build-up": Float, "Transferable": Boolean,
             "Source URL": Text, "Data Date": Text,
         },
     },
     "passive_skills": {
         "csv": "passive_skills.csv",
-        "columns": {"Passive Skill": Text, "Source URL": Text, "Data Date": Text},
+        "columns": {"Passive Skill": Text, "Description": Text, "Source URL": Text, "Data Date": Text},
     },
     "buff_graph": {
         "csv": "buff_graph.csv",

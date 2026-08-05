@@ -212,10 +212,40 @@ def _is_mountable(soup: BeautifulSoup, slug: str) -> bool:
     return soup.select_one(f'a[href="{slug}_Saddle"]') is not None
 
 
+def fetch_passive_skill_descriptions(session: requests.Session) -> dict[str, str]:
+    """Passive Skill name -> effect description, from the paldb.cc catalog page.
+
+    The page renders several overlapping tab panes (World Tree, standard,
+    etc.) all in the same document, so we scan every passive "card" site-wide
+    rather than trying to scope to one pane, keeping the first non-empty
+    description for each name.
+    """
+    html = fetch(session, "Passive_Skills")
+    soup = BeautifulSoup(html, "lxml")
+    descriptions: dict[str, str] = {}
+    for card in soup.select("div.border.bg-dark"):
+        name_el = card.select_one('div[class*="passive-rank"]')
+        if not name_el:
+            continue
+        name = name_el.get_text(strip=True)
+        if descriptions.get(name):
+            continue
+        desc_container = card.select_one("div.p-2")
+        desc = ""
+        if desc_container:
+            first_div = desc_container.find("div", recursive=False)
+            if first_div:
+                desc = first_div.get_text(" ", strip=True)
+        desc = re.sub(r"\s+", " ", desc).rstrip(">").strip()
+        descriptions[name] = desc
+    return descriptions
+
+
 def _active_skills(soup: BeautifulSoup) -> list[dict]:
     skills = []
     for card in soup.select("div.card.itemPopup.activeSkill"):
-        head = card.select_one("div.itemHead .align-self-center")
+        item_head = card.select_one("div.itemHead")
+        head = item_head.select_one(".align-self-center") if item_head else None
         if not head:
             continue
         head_text = head.get_text(" ", strip=True)
@@ -223,6 +253,10 @@ def _active_skills(soup: BeautifulSoup) -> list[dict]:
         level = int(level_match.group(1)) if level_match else None
         name_el = head.select_one("a")
         name = name_el.get_text(strip=True) if name_el else ""
+        # A "Skill Fruit" link on the card means this active skill can be
+        # taught to any compatible Pal via that fruit, regardless of whether
+        # the Pal learns it naturally.
+        transferable = item_head.select_one('a[href*="Skill_Fruit"]') is not None
 
         element = ""
         elem_div = card.select_one("div.me-auto span")
@@ -256,6 +290,7 @@ def _active_skills(soup: BeautifulSoup) -> list[dict]:
                     "Power": power,
                     "Status": status,
                     "Status Build-up": status_buildup,
+                    "Transferable": transferable,
                 }
             )
     return skills
@@ -341,7 +376,7 @@ def parse_pal_page(html: str, name: str, slug: str, index: int) -> dict:
     }
 
 
-def scrape_all(limit: int | None = None) -> list[dict]:
+def scrape_all(limit: int | None = None) -> tuple[list[dict], dict[str, str]]:
     session = _session()
     roster = fetch_roster(session)
     if limit:
@@ -353,10 +388,12 @@ def scrape_all(limit: int | None = None) -> list[dict]:
         row["Image Base64"] = fetch_image_base64(session, slug, image_url)
         rows.append(row)
         print(f"[{i}/{len(roster)}] {name} ({slug})")
-    return rows
+    passive_descriptions = fetch_passive_skill_descriptions(session)
+    return rows, passive_descriptions
 
 
-def build_datasets(rows: list[dict]) -> dict[str, pd.DataFrame]:
+def build_datasets(rows: list[dict], passive_descriptions: dict[str, str] | None = None) -> dict[str, pd.DataFrame]:
+    passive_descriptions = passive_descriptions or {}
     pals_df = pd.DataFrame(rows)
 
     def _num(col: str) -> pd.Series:
@@ -460,9 +497,12 @@ def build_datasets(rows: list[dict]) -> dict[str, pd.DataFrame]:
                     "Power": skill["Power"],
                     "Status": skill["Status"],
                     "Status Build-up": skill["Status Build-up"],
+                    "Transferable": skill["Transferable"],
                     "Source URL": row["Source URL"],
                     "Data Date": row["Data Date"],
                 }
+            elif skill["Transferable"]:
+                active_catalog[skill["Skill"]]["Transferable"] = True
             pal_active_rows.append({"Pal": row["Pal"], "Level": skill["Level"], "Skill": skill["Skill"]})
     active_skills_out = pd.DataFrame(list(active_catalog.values()))
     pal_active_skills_out = pd.DataFrame(pal_active_rows)
@@ -474,6 +514,7 @@ def build_datasets(rows: list[dict]) -> dict[str, pd.DataFrame]:
             if passive not in passive_catalog:
                 passive_catalog[passive] = {
                     "Passive Skill": passive,
+                    "Description": passive_descriptions.get(passive, ""),
                     "Source URL": row["Source URL"],
                     "Data Date": row["Data Date"],
                 }
@@ -513,8 +554,8 @@ def main() -> None:
     parser.add_argument("--dry-run", action="store_true", help="Print row counts instead of writing CSVs")
     args = parser.parse_args()
 
-    rows = scrape_all(limit=args.limit)
-    datasets = build_datasets(rows)
+    rows, passive_descriptions = scrape_all(limit=args.limit)
+    datasets = build_datasets(rows, passive_descriptions)
 
     for filename, df in datasets.items():
         if args.dry_run:

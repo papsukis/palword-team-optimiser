@@ -1,307 +1,307 @@
-Skill,Element,Cooldown (s),Power,Status,Status Build-up,Source URL,Data Date
-Roulé-Boulé,Neutral,2,40,,,https://paldb.cc/fr/Lamball,2026-08-05
-Canon à Air,Neutral,2,40,,,https://paldb.cc/fr/Lamball,2026-08-05
-Tir Puissant,Neutral,4,80,,,https://paldb.cc/fr/Lamball,2026-08-05
-Autodestruction,Neutral,16,300,Brûlure,100,https://paldb.cc/fr/Lamball,2026-08-05
-Boule de Foudre,Electric,8,100,Électrisation,50,https://paldb.cc/fr/Lamball,2026-08-05
-Boule d'Énergie,Neutral,8,120,,,https://paldb.cc/fr/Lamball,2026-08-05
-Hyper Rayon,Neutral,20,450,,,https://paldb.cc/fr/Lamball,2026-08-05
-Explosion Sacrée,Neutral,30,700,,,https://paldb.cc/fr/Lamball,2026-08-05
-Enchaînement de Poings,Neutral,2,40,,,https://paldb.cc/fr/Cattiva,2026-08-05
-Tir Boueux,Ground,2,40,Embourbement,50,https://paldb.cc/fr/Cattiva,2026-08-05
-Coupe-Rafale,Grass,2,40,Entrave,35,https://paldb.cc/fr/Cattiva,2026-08-05
-Mitraille-Graines,Grass,4,80,Entrave,100,https://paldb.cc/fr/Cattiva,2026-08-05
-Coup de Bec,Neutral,2,30,,,https://paldb.cc/fr/Chikipi,2026-08-05
-Tornade Verte,Grass,12,200,Entrave,65,https://paldb.cc/fr/Chikipi,2026-08-05
-Tornade de Sable,Ground,12,200,Embourbement,65,https://paldb.cc/fr/Chikipi,2026-08-05
-Tempête Ardente,Fire,12,200,Brûlure,65,https://paldb.cc/fr/Chikipi,2026-08-05
-Lierre Rampant,Grass,12,250,Entrave,100,https://paldb.cc/fr/Lifmunk,2026-08-05
-Rayon Solaire,Grass,20,450,Entrave,100,https://paldb.cc/fr/Lifmunk,2026-08-05
-Rafale Vent,Grass,30,600,Entrave,100,https://paldb.cc/fr/Lifmunk,2026-08-05
-Tir Aquatique,Water,2,50,Trempé,50,https://paldb.cc/fr/Fuack,2026-08-05
-Jet d'Eau,Water,2,40,Trempé,35,https://paldb.cc/fr/Fuack,2026-08-05
-Missile de Glace,Ice,2,40,Gel,102,https://paldb.cc/fr/Fuack,2026-08-05
-Tir Bulleux,Water,4,80,Trempé,100,https://paldb.cc/fr/Fuack,2026-08-05
-Bombao,Water,12,200,Trempé,100,https://paldb.cc/fr/Fuack,2026-08-05
-Hydro-Laser,Water,20,450,Trempé,100,https://paldb.cc/fr/Fuack,2026-08-05
-Éruption Aquatique,Water,30,600,Trempé,100,https://paldb.cc/fr/Fuack,2026-08-05
-Tir Enflammé,Fire,2,40,Brûlure,50,https://paldb.cc/fr/Fuack_Ignis,2026-08-05
-Flammes Scindées,Fire,4,80,Brûlure,100,https://paldb.cc/fr/Fuack_Ignis,2026-08-05
-Souffle Enflammé,Fire,8,160,Brûlure,100,https://paldb.cc/fr/Fuack_Ignis,2026-08-05
-Mur de Flammes,Fire,12,250,Brûlure,100,https://paldb.cc/fr/Fuack_Ignis,2026-08-05
-Hydro Tranchant,Water,16,350,Trempé,100,https://paldb.cc/fr/Fuack_Ignis,2026-08-05
-Pluie Volcanique,Fire,20,450,Brûlure,100,https://paldb.cc/fr/Fuack_Ignis,2026-08-05
-Boule Enflammée,Fire,30,600,Brûlure,100,https://paldb.cc/fr/Fuack_Ignis,2026-08-05
-Lance Foudroyante,Electric,2,40,Électrisation,35,https://paldb.cc/fr/Celaray_Lux,2026-08-05
-Onde Électrique,Electric,4,80,Électrisation,103,https://paldb.cc/fr/Celaray_Lux,2026-08-05
-Éclair Horizontal,Electric,8,160,Électrisation,100,https://paldb.cc/fr/Celaray_Lux,2026-08-05
-Geyser,Water,8,160,Trempé,100,https://paldb.cc/fr/Celaray_Lux,2026-08-05
-Double-Aqua,Water,12,250,Trempé,100,https://paldb.cc/fr/Celaray_Lux,2026-08-05
-Éclair Fulgurant,Electric,20,450,Électrisation,100,https://paldb.cc/fr/Celaray_Lux,2026-08-05
-Tempête Éclair,Electric,30,600,,,https://paldb.cc/fr/Celaray_Lux,2026-08-05
-Tir Étincelant,Electric,2,50,Électrisation,100,https://paldb.cc/fr/Cremis,2026-08-05
-Pluie Acide,Water,8,120,Trempé,100,https://paldb.cc/fr/Croajiro,2026-08-05
-Éclabousse-Mur,Water,16,300,Trempé,100,https://paldb.cc/fr/Croajiro,2026-08-05
-Tir Empoisonné,Dark,2,30,Empoisonnement,100,https://paldb.cc/fr/Croajiro_Noct,2026-08-05
-Tir Obscur,Dark,2,40,Cécité,20,https://paldb.cc/fr/Croajiro_Noct,2026-08-05
-Flèche Noire,Dark,8,120,Cécité,102,https://paldb.cc/fr/Croajiro_Noct,2026-08-05
-Balle Cauchemar,Dark,16,300,Cécité,65,https://paldb.cc/fr/Croajiro_Noct,2026-08-05
-Laser Noir,Dark,20,450,Cécité,100,https://paldb.cc/fr/Croajiro_Noct,2026-08-05
-Légion Sombre,Dark,30,600,Cécité,100,https://paldb.cc/fr/Croajiro_Noct,2026-08-05
-Lame Aérienne,Neutral,8,160,,,https://paldb.cc/fr/Herbil,2026-08-05
-Volte-Feuille,Grass,12,250,Entrave,100,https://paldb.cc/fr/Herbil,2026-08-05
-Feuille Ricochet,Grass,20,400,Entrave,100,https://paldb.cc/fr/Herbil,2026-08-05
-Vent Croisé,Grass,24,500,Entrave,100,https://paldb.cc/fr/Herbil,2026-08-05
-Explosion Rocailleuse,Ground,4,80,Embourbement,100,https://paldb.cc/fr/Gumoss,2026-08-05
-Explose-Graines,Grass,8,120,Entrave,100,https://paldb.cc/fr/Gumoss,2026-08-05
-Double Croc (Terra),Ground,2,40,Embourbement,50,https://paldb.cc/fr/Pupperai,2026-08-05
-Croc Sauvage (Terra),Ground,2,50,Embourbement,50,https://paldb.cc/fr/Pupperai,2026-08-05
-Taillade Vaillante,Ground,4,90,,,https://paldb.cc/fr/Pupperai,2026-08-05
-Canon à Pierre,Ground,8,120,Embourbement,35,https://paldb.cc/fr/Pupperai,2026-08-05
-Lance-Roche,Ground,20,400,Embourbement,100,https://paldb.cc/fr/Pupperai,2026-08-05
-Tourbillon de Sable,Ground,24,500,Embourbement,100,https://paldb.cc/fr/Pupperai,2026-08-05
-Impact Rocheux,Ground,30,600,Embourbement,100,https://paldb.cc/fr/Pupperai,2026-08-05
-Triple Éclair,Electric,12,200,Électrisation,103,https://paldb.cc/fr/Jolthog,2026-08-05
-Canon Fulgurant,Electric,30,600,Électrisation,100,https://paldb.cc/fr/Jolthog,2026-08-05
-Iceberg,Ice,8,120,Gel,100,https://paldb.cc/fr/Jolthog_Cryst,2026-08-05
-Coupe-Glace,Ice,4,80,Gel,50,https://paldb.cc/fr/Jolthog_Cryst,2026-08-05
-Souffle Givré,Ice,8,160,Gel,100,https://paldb.cc/fr/Jolthog_Cryst,2026-08-05
-Morsure du Blizzard,Ice,20,450,Gel,100,https://paldb.cc/fr/Jolthog_Cryst,2026-08-05
-Chute de Diamants,Ice,30,600,Gel,100,https://paldb.cc/fr/Jolthog_Cryst,2026-08-05
-Balle Sombre,Dark,2,50,Cécité,50,https://paldb.cc/fr/Depresso,2026-08-05
-Déchaînement d'Ombre,Dark,4,80,Cécité,50,https://paldb.cc/fr/Depresso,2026-08-05
-Triple Étincelle,Electric,12,250,Électrisation,100,https://paldb.cc/fr/Pengullet_Lux,2026-08-05
-Coup de Foudre,Electric,16,300,Électrisation,100,https://paldb.cc/fr/Pengullet_Lux,2026-08-05
-Capitaine Glissade,Ice,8,140,Gel,50,https://paldb.cc/fr/Penking,2026-08-05
-Orbes de Plasma,Electric,8,120,Électrisation,100,https://paldb.cc/fr/Penking_Lux,2026-08-05
-Glissade Foudroyante,Electric,20,400,Électrisation,100,https://paldb.cc/fr/Penking_Lux,2026-08-05
-Vague Scélérate,Water,24,500,Trempé,100,https://paldb.cc/fr/Penking_Lux,2026-08-05
-Flamme Spirituelle,Dark,12,200,Brûlure,102,https://paldb.cc/fr/Hoocrates,2026-08-05
-Tacle Duveteux,Neutral,2,50,,,https://paldb.cc/fr/Melpaca,2026-08-05
-Presse Royale,Neutral,12,200,,,https://paldb.cc/fr/Kingpaca,2026-08-05
-Presse Glaciale,Ice,20,400,Gel,100,https://paldb.cc/fr/Kingpaca_Cryst,2026-08-05
-Trait de Feu,Fire,8,120,Brûlure,102,https://paldb.cc/fr/Tanzee_Ignis,2026-08-05
-Concentration de Flammes,Fire,16,300,Brûlure,100,https://paldb.cc/fr/Tanzee_Ignis,2026-08-05
-Inferno,Fire,24,500,Brûlure,100,https://paldb.cc/fr/Tanzee_Ignis,2026-08-05
-Charge Furieuse,Ground,4,60,,,https://paldb.cc/fr/Rushoar,2026-08-05
-Météore Draconique,Dragon,30,600,Brûlure,45,https://paldb.cc/fr/Foxparks,2026-08-05
-Grêle Tranchante,Ice,12,250,Gel,100,https://paldb.cc/fr/Foxparks_Cryst,2026-08-05
-Fouission,Ground,4,60,Embourbement,50,https://paldb.cc/fr/Fuddler,2026-08-05
-Corne Ascendante,Neutral,4,90,,,https://paldb.cc/fr/Eikthyrdeer,2026-08-05
-Corne Boueuse,Ground,8,120,Embourbement,100,https://paldb.cc/fr/Eikthyrdeer_Terra,2026-08-05
-Double Croc,Neutral,2,40,,,https://paldb.cc/fr/Direhowl,2026-08-05
-Croc Sauvage,Neutral,2,50,,,https://paldb.cc/fr/Direhowl,2026-08-05
-Nuage Toxique,Dark,30,0,Empoisonnement,9999,https://paldb.cc/fr/Caprity_Noct,2026-08-05
-Multi-Coupe,Grass,8,160,Entrave,35,https://paldb.cc/fr/Caprity_Noct,2026-08-05
-Douche Toxique,Dark,8,160,Empoisonnement,100,https://paldb.cc/fr/Caprity_Noct,2026-08-05
-Lierre Circulaire,Grass,16,300,Entrave,100,https://paldb.cc/fr/Caprity_Noct,2026-08-05
-Hydro-Tourbillon,Water,8,160,Trempé,100,https://paldb.cc/fr/Turtacle,2026-08-05
-Tremblement,Ground,16,300,Embourbement,100,https://paldb.cc/fr/Turtacle_Terra,2026-08-05
-Canon Draconique,Dragon,2,40,Brûlure,35,https://paldb.cc/fr/Azurobe,2026-08-05
-Déchaînement Draconique,Dragon,4,80,Brûlure,50,https://paldb.cc/fr/Azurobe,2026-08-05
-Souffle Draconique,Dragon,8,160,Brûlure,100,https://paldb.cc/fr/Azurobe,2026-08-05
-Canon Chargé,Dragon,20,400,Brûlure,100,https://paldb.cc/fr/Azurobe_Cryst,2026-08-05
-Tranche Venteuse,Grass,12,200,Entrave,35,https://paldb.cc/fr/Ribbuny_Botan,2026-08-05
-Noirceur Expansive,Dark,4,60,Cécité,35,https://paldb.cc/fr/Jellroy,2026-08-05
-Fumée de Jais,Water,8,120,Trempé,100,https://paldb.cc/fr/Gloopie,2026-08-05
-Griffe Planante,Neutral,4,80,,,https://paldb.cc/fr/Galeclaw,2026-08-05
-Apocalypse,Dark,20,400,Cécité,100,https://paldb.cc/fr/Wispaw,2026-08-05
-Attaque Tornade,Neutral,4,80,,,https://paldb.cc/fr/Nitewing,2026-08-05
-Autodestruction Ultime,Neutral,60,1200,Brûlure,100,https://paldb.cc/fr/Tocotoco,2026-08-05
-Ruée Foudroyante,Electric,8,120,Électrisation,100,https://paldb.cc/fr/Univolt,2026-08-05
-Laser Chercheur,Electric,8,140,Électrisation,100,https://paldb.cc/fr/Univolt,2026-08-05
-Mur de Glace,Ice,12,200,Gel,100,https://paldb.cc/fr/Univolt_Cryst,2026-08-05
-Ère Glaciaire,Ice,30,700,Gel,100,https://paldb.cc/fr/Univolt_Cryst,2026-08-05
-Ouraglace,Ice,30,600,Gel,100,https://paldb.cc/fr/Univolt_Cryst,2026-08-05
-Griffe Sautée,Dark,4,80,Cécité,50,https://paldb.cc/fr/Loupmoon,2026-08-05
-Griffe Neigeuse,Ice,8,160,Gel,100,https://paldb.cc/fr/Loupmoon_Cryst,2026-08-05
-Trident Glacé,Ice,16,300,Gel,100,https://paldb.cc/fr/Loupmoon_Cryst,2026-08-05
-Assaut Fantôme,Dark,4,70,Cécité,50,https://paldb.cc/fr/Cawgnito,2026-08-05
-Corne Brûlante,Fire,4,80,Brûlure,50,https://paldb.cc/fr/Arsox,2026-08-05
-Double Croc (Fulgura),Electric,2,40,Électrisation,50,https://paldb.cc/fr/Puffolt,2026-08-05
-Croc Sauvage (Fulgura),Electric,2,50,Électrisation,50,https://paldb.cc/fr/Puffolt,2026-08-05
-Tonnerre Omniprésent,Electric,24,500,Électrisation,100,https://paldb.cc/fr/Puffolt,2026-08-05
-Ouragan Mystique,Dragon,8,150,,,https://paldb.cc/fr/Elphidran,2026-08-05
-Souffle Aérien,Fire,12,200,Brûlure,100,https://paldb.cc/fr/Vanwyrm,2026-08-05
-Tempête de Glace,Ice,12,200,Gel,100,https://paldb.cc/fr/Vanwyrm_Cryst,2026-08-05
-Lance Aiguille,Grass,8,120,Empoisonnement,55,https://paldb.cc/fr/Beegarde,2026-08-05
-Sacrifice Ultime,Grass,16,300,Brûlure,100,https://paldb.cc/fr/Beegarde,2026-08-05
-Bâton Tournoyant,Grass,8,160,Entrave,100,https://paldb.cc/fr/Elizabee,2026-08-05
-Presse Féline,Neutral,8,120,,,https://paldb.cc/fr/Grintale,2026-08-05
-Charge Arachnéenne,Dark,12,250,Empoisonnement,100,https://paldb.cc/fr/Tarantriss,2026-08-05
-Combo Gorille,Neutral,8,120,,,https://paldb.cc/fr/Gorirat,2026-08-05
-Combo Primate,Ground,16,300,Embourbement,100,https://paldb.cc/fr/Gorirat_Terra,2026-08-05
-Tir Précis,Grass,8,120,Entrave,100,https://paldb.cc/fr/Robinquill,2026-08-05
-Canon Noir,Dark,4,70,Cécité,20,https://paldb.cc/fr/Wixen_Noct,2026-08-05
-Pluie Foudroyante,Electric,20,400,Électrisation,100,https://paldb.cc/fr/Helzephyr_Lux,2026-08-05
-Ruée Taurine,Grass,12,250,Entrave,100,https://paldb.cc/fr/Elgrove,2026-08-05
-Ruée Taurine Furieuse,Grass,30,650,Entrave,100,https://paldb.cc/fr/Elgrove,2026-08-05
-Ruée Boréale,Ice,12,250,Gel,100,https://paldb.cc/fr/Elgrove_Cryst,2026-08-05
-Ruée Boréale Furieuse,Ice,30,650,Gel,100,https://paldb.cc/fr/Elgrove_Cryst,2026-08-05
-Tempête Nuageuse,Neutral,8,120,,,https://paldb.cc/fr/Fenglope,2026-08-05
-Tempête Orageuse,Electric,16,300,Électrisation,100,https://paldb.cc/fr/Fenglope_Lux,2026-08-05
-Fracas Botanique,Grass,4,80,Entrave,100,https://paldb.cc/fr/Dinossom,2026-08-05
-Fracas Éclair,Electric,16,300,Électrisation,100,https://paldb.cc/fr/Dinossom_Lux,2026-08-05
-Iaigiri,Fire,8,160,Brûlure,50,https://paldb.cc/fr/Bushi,2026-08-05
-Crachat Glacé,Ice,8,180,Gel,100,https://paldb.cc/fr/Munchill,2026-08-05
-Impact Terrestre,Ground,16,300,,,https://paldb.cc/fr/Mammorest,2026-08-05
-Fou de la Gâchette,Water,16,300,Trempé,100,https://paldb.cc/fr/Finsider,2026-08-05
-Combo Mawashi,Grass,12,250,Entrave,100,https://paldb.cc/fr/Leafan,2026-08-05
-Tranche-Rafale,Grass,20,400,Entrave,35,https://paldb.cc/fr/Leafan,2026-08-05
-Griffe Infernale,Fire,12,200,Brûlure,100,https://paldb.cc/fr/Incineram,2026-08-05
-Griffe Cauchemardesque,Dark,20,400,Cécité,100,https://paldb.cc/fr/Incineram_Noct,2026-08-05
-Charge-Flammes,Fire,16,300,Brûlure,100,https://paldb.cc/fr/Pyrin,2026-08-05
-Charge-Ombre,Dark,16,300,Cécité,50,https://paldb.cc/fr/Pyrin_Noct,2026-08-05
-Plongeon Éclair,Electric,8,180,Électrisation,100,https://paldb.cc/fr/Beakon,2026-08-05
-Plongeon Glacial,Ice,30,600,Gel,100,https://paldb.cc/fr/Beakon_Cryst,2026-08-05
-Fouet-Lanterne,Water,20,450,Trempé,100,https://paldb.cc/fr/Ghangler,2026-08-05
-Fouet-Lanterne Ardente,Fire,20,450,Brûlure,100,https://paldb.cc/fr/Ghangler_Ignis,2026-08-05
-Appel Éclair,Electric,8,100,Électrisation,100,https://paldb.cc/fr/Rayhound,2026-08-05
-Double Croc (Glacia),Ice,2,40,Gel,50,https://paldb.cc/fr/Rayhound_Cryst,2026-08-05
-Croc Sauvage (Glacia),Ice,2,50,Gel,50,https://paldb.cc/fr/Rayhound_Cryst,2026-08-05
-Frimas,Ice,16,300,Gel,100,https://paldb.cc/fr/Rayhound_Cryst,2026-08-05
-Piqûre Sautée,Ground,16,350,Empoisonnement,100,https://paldb.cc/fr/Menasting,2026-08-05
-Ruée Glacée,Ice,8,120,Gel,50,https://paldb.cc/fr/Reindrix,2026-08-05
-Poing Musclé,Grass,8,120,,,https://paldb.cc/fr/Mossanda,2026-08-05
-Explo-Poing,Electric,8,180,Électrisation,100,https://paldb.cc/fr/Mossanda_Lux,2026-08-05
-Piqué Fusée,Dragon,4,80,,,https://paldb.cc/fr/Chillet,2026-08-05
-Ruée Aviaire,Fire,12,200,Brûlure,100,https://paldb.cc/fr/Ragnahawk,2026-08-05
-Crache-Magma,Fire,30,600,Brûlure,100,https://paldb.cc/fr/Moldron,2026-08-05
-Laser Magma,Fire,30,700,Brûlure,100,https://paldb.cc/fr/Moldron,2026-08-05
-Crache-Glace,Ice,30,600,Gel,100,https://paldb.cc/fr/Moldron_Cryst,2026-08-05
-Laser-Glace,Ice,30,700,Gel,100,https://paldb.cc/fr/Moldron_Cryst,2026-08-05
-Coup de Pied Fulgurant,Grass,16,300,Entrave,100,https://paldb.cc/fr/Palumba,2026-08-05
-Coquille Rotative,Ground,8,120,,,https://paldb.cc/fr/Digtoise,2026-08-05
-Fracas Corporel,Grass,8,120,,,https://paldb.cc/fr/Broncherry,2026-08-05
-Plaquage Trempé,Water,12,250,Trempé,100,https://paldb.cc/fr/Broncherry_Aqua,2026-08-05
-Souffle Persistant,Grass,20,400,Entrave,50,https://paldb.cc/fr/Braloha,2026-08-05
-Double Croc (Flamma),Fire,2,40,Brûlure,50,https://paldb.cc/fr/Kitsun,2026-08-05
-Croc Sauvage (Flamma),Fire,2,50,Brûlure,50,https://paldb.cc/fr/Kitsun,2026-08-05
-Flammes Azur,Fire,12,200,Brûlure,100,https://paldb.cc/fr/Kitsun,2026-08-05
-Double Croc (Tenebrae),Dark,2,40,Cécité,50,https://paldb.cc/fr/Kitsun_Noct,2026-08-05
-Croc Sauvage (Tenebrae),Dark,2,50,Cécité,50,https://paldb.cc/fr/Kitsun_Noct,2026-08-05
-Éclair Ardent de l'Ombre,Dark,12,250,Cécité,50,https://paldb.cc/fr/Kitsun_Noct,2026-08-05
-Croc Volcanique,Fire,20,400,Brûlure,50,https://paldb.cc/fr/Blazehowl,2026-08-05
-Gigacorne,Ground,12,250,,,https://paldb.cc/fr/Warsect,2026-08-05
-Ruée Spirituelle,Dark,16,300,Cécité,100,https://paldb.cc/fr/Maraith,2026-08-05
-Momirage,Dark,24,500,Cécité,100,https://paldb.cc/fr/Gildra,2026-08-05
-Serpent Marin,Water,20,400,Trempé,100,https://paldb.cc/fr/Jormuntide,2026-08-05
-Serpent de Feu,Fire,20,400,Brûlure,100,https://paldb.cc/fr/Jormuntide_Ignis,2026-08-05
-Ruée Terrestre,Ground,12,250,,,https://paldb.cc/fr/Dazemu,2026-08-05
-Comète,Dragon,8,180,Brûlure,100,https://paldb.cc/fr/Quivern_Botan,2026-08-05
-Déchaînement Volcanique,Fire,16,300,Brûlure,100,https://paldb.cc/fr/Reptyro,2026-08-05
-Explosion Givrée,Ice,20,400,Gel,100,https://paldb.cc/fr/Reptyro_Cryst,2026-08-05
-Galopade Spectrale,Dark,20,450,Cécité,50,https://paldb.cc/fr/Starryon,2026-08-05
-Piétinement Mortel,Dark,24,550,Cécité,100,https://paldb.cc/fr/Starryon,2026-08-05
-Galopade Argentée,Neutral,30,700,,,https://paldb.cc/fr/Starryon_Primo,2026-08-05
-Pas Royal,Neutral,30,800,,,https://paldb.cc/fr/Starryon_Primo,2026-08-05
-Carnage Cornu,Ground,30,600,Embourbement,100,https://paldb.cc/fr/Pierdon,2026-08-05
-Carnage Glacé,Ice,30,600,Gel,100,https://paldb.cc/fr/Pierdon_Cryst,2026-08-05
-Griffe Blizzard,Ice,16,300,Gel,100,https://paldb.cc/fr/Cryolinx,2026-08-05
-Griffe Rocailleuse,Ground,16,300,Embourbement,100,https://paldb.cc/fr/Cryolinx_Terra,2026-08-05
-Boule de Neige,Ice,20,400,Gel,100,https://paldb.cc/fr/Wumpo,2026-08-05
-Roulade Herbeuse,Grass,20,400,Entrave,100,https://paldb.cc/fr/Wumpo_Botan,2026-08-05
-Impact Brûlant,Fire,30,600,Brûlure,100,https://paldb.cc/fr/Blazamut,2026-08-05
-Tranche-Faisceau,Dragon,16,350,Brûlure,100,https://paldb.cc/fr/Blazamut_Ryu,2026-08-05
-Magna-Écrasement,Dragon,30,700,Brûlure,100,https://paldb.cc/fr/Blazamut_Ryu,2026-08-05
-Pluie de Météorites,Dragon,30,700,Brûlure,100,https://paldb.cc/fr/Blazamut_Ryu,2026-08-05
-Bras Fusée,Ground,30,600,,,https://paldb.cc/fr/Dualith,2026-08-05
-Germocanon,Grass,30,700,Entrave,100,https://paldb.cc/fr/Dualith,2026-08-05
-Obscuracine,Dark,30,700,,,https://paldb.cc/fr/Dualith_Noct,2026-08-05
-Coup de Pied tournoyant,Ground,16,300,,,https://paldb.cc/fr/Anubis,2026-08-05
-Frappe Énergique,Ground,20,400,,,https://paldb.cc/fr/Anubis,2026-08-05
-Fracasse-Sol,Ground,24,500,Embourbement,100,https://paldb.cc/fr/Anubis,2026-08-05
-Saltogriffe,Ground,16,300,,,https://paldb.cc/fr/Sekhmet,2026-08-05
-Roulagriffe,Ground,20,400,,,https://paldb.cc/fr/Sekhmet,2026-08-05
-Fracas Vertical,Dark,16,350,Empoisonnement,100,https://paldb.cc/fr/Prixter,2026-08-05
-Uppercut Fulgurant,Electric,30,600,Électrisation,100,https://paldb.cc/fr/Prixter_Lux,2026-08-05
-Laser Léthal,Electric,30,600,Électrisation,100,https://paldb.cc/fr/Prixter_Lux,2026-08-05
-Presse Cubique,Ground,30,600,Embourbement,100,https://paldb.cc/fr/Tetroise,2026-08-05
-Écrasement Sacré,Neutral,30,700,,,https://paldb.cc/fr/Tetroise_Primo,2026-08-05
-Griffe Maléfique,Dark,16,350,Cécité,30,https://paldb.cc/fr/Xenovader,2026-08-05
-Vol d'Âme,Dark,20,400,,,https://paldb.cc/fr/Omascul,2026-08-05
-Cryolance,Ice,30,600,Gel,100,https://paldb.cc/fr/Whalaska,2026-08-05
-Ruée Rotative,Grass,12,250,Entrave,100,https://paldb.cc/fr/Verdash,2026-08-05
-Rancune Déchaînée,Dark,24,500,Cécité,100,https://paldb.cc/fr/Splatterina,2026-08-05
-Ruée Écrasante,Ground,24,500,Embourbement,100,https://paldb.cc/fr/Gildane,2026-08-05
-Posture Résolue,Neutral,20,450,,,https://paldb.cc/fr/Dogen,2026-08-05
-Plaquage Dosukoï,Ground,24,550,Embourbement,100,https://paldb.cc/fr/Bulldosu,2026-08-05
-Nova Sacrée,Neutral,30,700,,,https://paldb.cc/fr/Celesdir,2026-08-05
-Salve Lumineuse,Neutral,30,700,,,https://paldb.cc/fr/Celesdir,2026-08-05
-Nova Noire,Dark,30,700,Cécité,100,https://paldb.cc/fr/Celesdir_Noct,2026-08-05
-Poing Brûlant,Dragon,20,450,Brûlure,100,https://paldb.cc/fr/Astegon,2026-08-05
-Coupe-Sol,Ground,20,450,,,https://paldb.cc/fr/Knocklem,2026-08-05
-Trancheflamme,Fire,30,700,Brûlure,100,https://paldb.cc/fr/Knocklem_Ignis,2026-08-05
-Canon Explosif,Dragon,12,200,Brûlure,100,https://paldb.cc/fr/Silvegis,2026-08-05
-Charge Aegis,Dragon,30,600,,,https://paldb.cc/fr/Silvegis,2026-08-05
-Charge Flash,Electric,24,500,Électrisation,100,https://paldb.cc/fr/Azurmane,2026-08-05
-Électrocarapace,Electric,24,500,Électrisation,100,https://paldb.cc/fr/Snock,2026-08-05
-Chute de Comètes,Dragon,20,450,Brûlure,100,https://paldb.cc/fr/Eidrolon,2026-08-05
-Queue Tranchante,Dragon,24,550,,,https://paldb.cc/fr/Eidrolon,2026-08-05
-Phosphorayon,Dragon,30,700,Brûlure,100,https://paldb.cc/fr/Eidrolon,2026-08-05
-Piétinement Floral,Grass,24,550,,,https://paldb.cc/fr/Tropicaw,2026-08-05
-Lotus Astral,Grass,30,700,Entrave,100,https://paldb.cc/fr/Ophydia,2026-08-05
-Passe-passe,Fire,30,700,Brûlure,100,https://paldb.cc/fr/Dupin,2026-08-05
-Dispersion Toxique,Dark,30,600,Empoisonnement,100,https://paldb.cc/fr/Venusa,2026-08-05
-Feu-Follet,Dark,30,650,Cécité,100,https://paldb.cc/fr/Loomen,2026-08-05
-Pluie d'Étoiles,Neutral,20,400,,,https://paldb.cc/fr/Wistella,2026-08-05
-Danse de la Plume Noire,Dark,24,500,,,https://paldb.cc/fr/Solenne,2026-08-05
-Missile Kaboum,Ground,30,700,,,https://paldb.cc/fr/Aegidron,2026-08-05
-Griffe Éclair,Electric,8,150,Électrisation,100,https://paldb.cc/fr/Grizzbolt,2026-08-05
-Tank Foudroyant,Electric,24,550,Électrisation,100,https://paldb.cc/fr/Grizzbolt,2026-08-05
-Protection de Fertilité,Grass,240,0,,,https://paldb.cc/fr/Lyleen,2026-08-05
-Keraunos,Electric,12,250,Électrisation,100,https://paldb.cc/fr/Orserk,2026-08-05
-Polykeraunos,Electric,30,600,Électrisation,100,https://paldb.cc/fr/Orserk,2026-08-05
-Ailes Flamboyantes,Fire,16,320,Brûlure,100,https://paldb.cc/fr/Faleris,2026-08-05
-Vague Brûlante,Fire,30,650,Brûlure,100,https://paldb.cc/fr/Faleris,2026-08-05
-Ailes Aqueuses,Water,16,320,Trempé,100,https://paldb.cc/fr/Faleris_Aqua,2026-08-05
-Catastrophe Divine,Dark,20,400,,,https://paldb.cc/fr/Shadowbeak,2026-08-05
-Catastrophe Divine II,Dark,30,600,,,https://paldb.cc/fr/Shadowbeak,2026-08-05
-Lame Seigetsu,Neutral,16,350,,,https://paldb.cc/fr/Selyne,2026-08-05
-Rayon Lunaire,Neutral,30,600,Brûlure,100,https://paldb.cc/fr/Selyne,2026-08-05
-Flash Seigetsu,Neutral,30,700,,,https://paldb.cc/fr/Selyne,2026-08-05
-Griffe Glacée,Ice,16,300,Gel,100,https://paldb.cc/fr/Bastigor,2026-08-05
-Impact Glacial,Ice,30,650,Gel,100,https://paldb.cc/fr/Bastigor,2026-08-05
-Double Morsure du Blizzard,Ice,30,700,Gel,100,https://paldb.cc/fr/Bastigor,2026-08-05
-Ruée Azurée,Water,24,500,Trempé,100,https://paldb.cc/fr/Shaolong,2026-08-05
-Dracoflamme Azur,Dragon,30,600,Brûlure,100,https://paldb.cc/fr/Shaolong,2026-08-05
-Tourbillon Céleste,Water,30,700,Trempé,100,https://paldb.cc/fr/Shaolong,2026-08-05
-Mégaspore,Grass,30,700,,,https://paldb.cc/fr/Silvance,2026-08-05
-Spores Explosives,Grass,30,800,,,https://paldb.cc/fr/Silvance,2026-08-05
-Balade Toxique,Dark,30,700,,,https://paldb.cc/fr/Dandilord,2026-08-05
-Danse Toxique,Dark,30,800,,,https://paldb.cc/fr/Dandilord,2026-08-05
-Rayons Cauchemardesques,Dark,30,600,,,https://paldb.cc/fr/Bellanoir,2026-08-05
-Valse Enflammée,Dark,20,450,Brûlure,100,https://paldb.cc/fr/Bellanoir_Libero,2026-08-05
-Floraison Cauchemardesque,Dark,30,600,,,https://paldb.cc/fr/Bellanoir_Libero,2026-08-05
-Ailes Traqueuses,Dragon,20,400,,,https://paldb.cc/fr/Xenolord,2026-08-05
-Taillade Rayonnante,Dragon,20,450,,,https://paldb.cc/fr/Xenolord,2026-08-05
-Rayon Astral,Dark,24,500,Brûlure,100,https://paldb.cc/fr/Xenolord,2026-08-05
-Météore Cosmique,Dragon,30,600,Brûlure,100,https://paldb.cc/fr/Xenolord,2026-08-05
-Laser Oméga,Dragon,30,700,,,https://paldb.cc/fr/Xenolord,2026-08-05
-Ailes Célestes,Neutral,30,700,,,https://paldb.cc/fr/Hartalis,2026-08-05
-Pluie Sacrée,Neutral,30,800,,,https://paldb.cc/fr/Hartalis,2026-08-05
-Lumière Salvatrice,Neutral,100,250,,,https://paldb.cc/fr/Hartalis,2026-08-05
-Lance Sacrée,Neutral,30,700,,,https://paldb.cc/fr/Paladius,2026-08-05
-Lance Double,Dark,30,700,,,https://paldb.cc/fr/Necromus,2026-08-05
-Ailes Cristallines,Ice,30,700,Gel,100,https://paldb.cc/fr/Frostallion,2026-08-05
-Ailes Noires,Dark,30,700,Cécité,100,https://paldb.cc/fr/Frostallion_Noct,2026-08-05
-Laser Torrentiel,Water,30,700,Trempé,100,https://paldb.cc/fr/Neptilius,2026-08-05
-Faisceau Stellaire,Dragon,30,700,Brûlure,100,https://paldb.cc/fr/Jetragon,2026-08-05
-Pluie de Bulles,Water,12,200,Trempé,100,https://paldb.cc/fr/Panthalus,2026-08-05
-Marche d'Écume,Water,12,200,Trempé,100,https://paldb.cc/fr/Panthalus,2026-08-05
-Lames Marines,Water,16,300,Trempé,100,https://paldb.cc/fr/Panthalus,2026-08-05
-Déferlante Abyssale,Water,20,400,Trempé,100,https://paldb.cc/fr/Panthalus,2026-08-05
-Maelström,Water,24,500,Trempé,100,https://paldb.cc/fr/Panthalus,2026-08-05
-Surgissement Colossal,Water,30,700,Trempé,100,https://paldb.cc/fr/Panthalus,2026-08-05
-Hurle-Cyclone,Water,40,800,Trempé,100,https://paldb.cc/fr/Panthalus,2026-08-05
-Écrasement Gélatineux (plante),Grass,1,50,Entrave,50,https://paldb.cc/fr/Green_Slime,2026-08-05
-Écrasement Gélatineux (eau),Water,1,50,Trempé,50,https://paldb.cc/fr/Blue_Slime,2026-08-05
-Écrasement Gélatineux (feu),Fire,1,50,Brûlure,50,https://paldb.cc/fr/Red_Slime,2026-08-05
-Écrasement Gélatineux (ténèbres),Dark,1,50,Cécité,50,https://paldb.cc/fr/Purple_Slime,2026-08-05
-Écrasement Gélatineux (non élémentaire),Neutral,1,50,,,https://paldb.cc/fr/Illuminant_Slime,2026-08-05
-Écrasement Gélatineux (arc-en-ciel),Neutral,1,100,,,https://paldb.cc/fr/Rainbow_Slime,2026-08-05
-Charge de l'Épée,Neutral,1,80,,,https://paldb.cc/fr/Enchanted_Sword,2026-08-05
-Assaut Vampire,Neutral,1,70,,,https://paldb.cc/fr/Cave_Bat,2026-08-05
-Charge Hypnotique,Dark,15,300,,,https://paldb.cc/fr/Eye_of_Cthulhu,2026-08-05
-Invocation de Serviteurs,Dark,10,300,,,https://paldb.cc/fr/Eye_of_Cthulhu,2026-08-05
-Charge Oculaire,Dark,1,60,Cécité,50,https://paldb.cc/fr/Demon_Eye,2026-08-05
+Skill,Element,Cooldown (s),Power,Status,Status Build-up,Transferable,Source URL,Data Date
+Roulé-Boulé,Neutral,2,40,,,False,https://paldb.cc/fr/Lamball,2026-08-06
+Canon à Air,Neutral,2,40,,,True,https://paldb.cc/fr/Lamball,2026-08-06
+Tir Puissant,Neutral,4,80,,,True,https://paldb.cc/fr/Lamball,2026-08-06
+Autodestruction,Neutral,16,300,Brûlure,100,True,https://paldb.cc/fr/Lamball,2026-08-06
+Boule de Foudre,Electric,8,100,Électrisation,50,True,https://paldb.cc/fr/Lamball,2026-08-06
+Boule d'Énergie,Neutral,8,120,,,True,https://paldb.cc/fr/Lamball,2026-08-06
+Hyper Rayon,Neutral,20,450,,,True,https://paldb.cc/fr/Lamball,2026-08-06
+Explosion Sacrée,Neutral,30,700,,,True,https://paldb.cc/fr/Lamball,2026-08-06
+Enchaînement de Poings,Neutral,2,40,,,False,https://paldb.cc/fr/Cattiva,2026-08-06
+Tir Boueux,Ground,2,40,Embourbement,50,True,https://paldb.cc/fr/Cattiva,2026-08-06
+Coupe-Rafale,Grass,2,40,Entrave,35,True,https://paldb.cc/fr/Cattiva,2026-08-06
+Mitraille-Graines,Grass,4,80,Entrave,100,True,https://paldb.cc/fr/Cattiva,2026-08-06
+Coup de Bec,Neutral,2,30,,,False,https://paldb.cc/fr/Chikipi,2026-08-06
+Tornade Verte,Grass,12,200,Entrave,65,True,https://paldb.cc/fr/Chikipi,2026-08-06
+Tornade de Sable,Ground,12,200,Embourbement,65,True,https://paldb.cc/fr/Chikipi,2026-08-06
+Tempête Ardente,Fire,12,200,Brûlure,65,True,https://paldb.cc/fr/Chikipi,2026-08-06
+Lierre Rampant,Grass,12,250,Entrave,100,True,https://paldb.cc/fr/Lifmunk,2026-08-06
+Rayon Solaire,Grass,20,450,Entrave,100,True,https://paldb.cc/fr/Lifmunk,2026-08-06
+Rafale Vent,Grass,30,600,Entrave,100,True,https://paldb.cc/fr/Lifmunk,2026-08-06
+Tir Aquatique,Water,2,50,Trempé,50,True,https://paldb.cc/fr/Fuack,2026-08-06
+Jet d'Eau,Water,2,40,Trempé,35,True,https://paldb.cc/fr/Fuack,2026-08-06
+Missile de Glace,Ice,2,40,Gel,102,True,https://paldb.cc/fr/Fuack,2026-08-06
+Tir Bulleux,Water,4,80,Trempé,100,True,https://paldb.cc/fr/Fuack,2026-08-06
+Bombao,Water,12,200,Trempé,100,True,https://paldb.cc/fr/Fuack,2026-08-06
+Hydro-Laser,Water,20,450,Trempé,100,True,https://paldb.cc/fr/Fuack,2026-08-06
+Éruption Aquatique,Water,30,600,Trempé,100,True,https://paldb.cc/fr/Fuack,2026-08-06
+Tir Enflammé,Fire,2,40,Brûlure,50,True,https://paldb.cc/fr/Fuack_Ignis,2026-08-06
+Flammes Scindées,Fire,4,80,Brûlure,100,True,https://paldb.cc/fr/Fuack_Ignis,2026-08-06
+Souffle Enflammé,Fire,8,160,Brûlure,100,True,https://paldb.cc/fr/Fuack_Ignis,2026-08-06
+Mur de Flammes,Fire,12,250,Brûlure,100,True,https://paldb.cc/fr/Fuack_Ignis,2026-08-06
+Hydro Tranchant,Water,16,350,Trempé,100,True,https://paldb.cc/fr/Fuack_Ignis,2026-08-06
+Pluie Volcanique,Fire,20,450,Brûlure,100,True,https://paldb.cc/fr/Fuack_Ignis,2026-08-06
+Boule Enflammée,Fire,30,600,Brûlure,100,True,https://paldb.cc/fr/Fuack_Ignis,2026-08-06
+Lance Foudroyante,Electric,2,40,Électrisation,35,True,https://paldb.cc/fr/Celaray_Lux,2026-08-06
+Onde Électrique,Electric,4,80,Électrisation,103,True,https://paldb.cc/fr/Celaray_Lux,2026-08-06
+Éclair Horizontal,Electric,8,160,Électrisation,100,True,https://paldb.cc/fr/Celaray_Lux,2026-08-06
+Geyser,Water,8,160,Trempé,100,True,https://paldb.cc/fr/Celaray_Lux,2026-08-06
+Double-Aqua,Water,12,250,Trempé,100,True,https://paldb.cc/fr/Celaray_Lux,2026-08-06
+Éclair Fulgurant,Electric,20,450,Électrisation,100,True,https://paldb.cc/fr/Celaray_Lux,2026-08-06
+Tempête Éclair,Electric,30,600,,,True,https://paldb.cc/fr/Celaray_Lux,2026-08-06
+Tir Étincelant,Electric,2,50,Électrisation,100,True,https://paldb.cc/fr/Cremis,2026-08-06
+Pluie Acide,Water,8,120,Trempé,100,True,https://paldb.cc/fr/Croajiro,2026-08-06
+Éclabousse-Mur,Water,16,300,Trempé,100,True,https://paldb.cc/fr/Croajiro,2026-08-06
+Tir Empoisonné,Dark,2,30,Empoisonnement,100,True,https://paldb.cc/fr/Croajiro_Noct,2026-08-06
+Tir Obscur,Dark,2,40,Cécité,20,True,https://paldb.cc/fr/Croajiro_Noct,2026-08-06
+Flèche Noire,Dark,8,120,Cécité,102,True,https://paldb.cc/fr/Croajiro_Noct,2026-08-06
+Balle Cauchemar,Dark,16,300,Cécité,65,True,https://paldb.cc/fr/Croajiro_Noct,2026-08-06
+Laser Noir,Dark,20,450,Cécité,100,True,https://paldb.cc/fr/Croajiro_Noct,2026-08-06
+Légion Sombre,Dark,30,600,Cécité,100,True,https://paldb.cc/fr/Croajiro_Noct,2026-08-06
+Lame Aérienne,Neutral,8,160,,,True,https://paldb.cc/fr/Herbil,2026-08-06
+Volte-Feuille,Grass,12,250,Entrave,100,False,https://paldb.cc/fr/Herbil,2026-08-06
+Feuille Ricochet,Grass,20,400,Entrave,100,True,https://paldb.cc/fr/Herbil,2026-08-06
+Vent Croisé,Grass,24,500,Entrave,100,True,https://paldb.cc/fr/Herbil,2026-08-06
+Explosion Rocailleuse,Ground,4,80,Embourbement,100,True,https://paldb.cc/fr/Gumoss,2026-08-06
+Explose-Graines,Grass,8,120,Entrave,100,True,https://paldb.cc/fr/Gumoss,2026-08-06
+Double Croc (Terra),Ground,2,40,Embourbement,50,False,https://paldb.cc/fr/Pupperai,2026-08-06
+Croc Sauvage (Terra),Ground,2,50,Embourbement,50,False,https://paldb.cc/fr/Pupperai,2026-08-06
+Taillade Vaillante,Ground,4,90,,,False,https://paldb.cc/fr/Pupperai,2026-08-06
+Canon à Pierre,Ground,8,120,Embourbement,35,True,https://paldb.cc/fr/Pupperai,2026-08-06
+Lance-Roche,Ground,20,400,Embourbement,100,True,https://paldb.cc/fr/Pupperai,2026-08-06
+Tourbillon de Sable,Ground,24,500,Embourbement,100,True,https://paldb.cc/fr/Pupperai,2026-08-06
+Impact Rocheux,Ground,30,600,Embourbement,100,True,https://paldb.cc/fr/Pupperai,2026-08-06
+Triple Éclair,Electric,12,200,Électrisation,103,True,https://paldb.cc/fr/Jolthog,2026-08-06
+Canon Fulgurant,Electric,30,600,Électrisation,100,False,https://paldb.cc/fr/Jolthog,2026-08-06
+Iceberg,Ice,8,120,Gel,100,True,https://paldb.cc/fr/Jolthog_Cryst,2026-08-06
+Coupe-Glace,Ice,4,80,Gel,50,True,https://paldb.cc/fr/Jolthog_Cryst,2026-08-06
+Souffle Givré,Ice,8,160,Gel,100,True,https://paldb.cc/fr/Jolthog_Cryst,2026-08-06
+Morsure du Blizzard,Ice,20,450,Gel,100,True,https://paldb.cc/fr/Jolthog_Cryst,2026-08-06
+Chute de Diamants,Ice,30,600,Gel,100,True,https://paldb.cc/fr/Jolthog_Cryst,2026-08-06
+Balle Sombre,Dark,2,50,Cécité,50,False,https://paldb.cc/fr/Depresso,2026-08-06
+Déchaînement d'Ombre,Dark,4,80,Cécité,50,True,https://paldb.cc/fr/Depresso,2026-08-06
+Triple Étincelle,Electric,12,250,Électrisation,100,True,https://paldb.cc/fr/Pengullet_Lux,2026-08-06
+Coup de Foudre,Electric,16,300,Électrisation,100,True,https://paldb.cc/fr/Pengullet_Lux,2026-08-06
+Capitaine Glissade,Ice,8,140,Gel,50,False,https://paldb.cc/fr/Penking,2026-08-06
+Orbes de Plasma,Electric,8,120,Électrisation,100,True,https://paldb.cc/fr/Penking_Lux,2026-08-06
+Glissade Foudroyante,Electric,20,400,Électrisation,100,False,https://paldb.cc/fr/Penking_Lux,2026-08-06
+Vague Scélérate,Water,24,500,Trempé,100,True,https://paldb.cc/fr/Penking_Lux,2026-08-06
+Flamme Spirituelle,Dark,12,200,Brûlure,102,True,https://paldb.cc/fr/Hoocrates,2026-08-06
+Tacle Duveteux,Neutral,2,50,,,False,https://paldb.cc/fr/Melpaca,2026-08-06
+Presse Royale,Neutral,12,200,,,False,https://paldb.cc/fr/Kingpaca,2026-08-06
+Presse Glaciale,Ice,20,400,Gel,100,False,https://paldb.cc/fr/Kingpaca_Cryst,2026-08-06
+Trait de Feu,Fire,8,120,Brûlure,102,True,https://paldb.cc/fr/Tanzee_Ignis,2026-08-06
+Concentration de Flammes,Fire,16,300,Brûlure,100,True,https://paldb.cc/fr/Tanzee_Ignis,2026-08-06
+Inferno,Fire,24,500,Brûlure,100,True,https://paldb.cc/fr/Tanzee_Ignis,2026-08-06
+Charge Furieuse,Ground,4,60,,,False,https://paldb.cc/fr/Rushoar,2026-08-06
+Météore Draconique,Dragon,30,600,Brûlure,45,True,https://paldb.cc/fr/Foxparks,2026-08-06
+Grêle Tranchante,Ice,12,250,Gel,100,True,https://paldb.cc/fr/Foxparks_Cryst,2026-08-06
+Fouission,Ground,4,60,Embourbement,50,False,https://paldb.cc/fr/Fuddler,2026-08-06
+Corne Ascendante,Neutral,4,90,,,False,https://paldb.cc/fr/Eikthyrdeer,2026-08-06
+Corne Boueuse,Ground,8,120,Embourbement,100,False,https://paldb.cc/fr/Eikthyrdeer_Terra,2026-08-06
+Double Croc,Neutral,2,40,,,False,https://paldb.cc/fr/Direhowl,2026-08-06
+Croc Sauvage,Neutral,2,50,,,False,https://paldb.cc/fr/Direhowl,2026-08-06
+Nuage Toxique,Dark,30,0,Empoisonnement,9999,False,https://paldb.cc/fr/Caprity_Noct,2026-08-06
+Multi-Coupe,Grass,8,160,Entrave,35,True,https://paldb.cc/fr/Caprity_Noct,2026-08-06
+Douche Toxique,Dark,8,160,Empoisonnement,100,True,https://paldb.cc/fr/Caprity_Noct,2026-08-06
+Lierre Circulaire,Grass,16,300,Entrave,100,True,https://paldb.cc/fr/Caprity_Noct,2026-08-06
+Hydro-Tourbillon,Water,8,160,Trempé,100,False,https://paldb.cc/fr/Turtacle,2026-08-06
+Tremblement,Ground,16,300,Embourbement,100,True,https://paldb.cc/fr/Turtacle_Terra,2026-08-06
+Canon Draconique,Dragon,2,40,Brûlure,35,True,https://paldb.cc/fr/Azurobe,2026-08-06
+Déchaînement Draconique,Dragon,4,80,Brûlure,50,True,https://paldb.cc/fr/Azurobe,2026-08-06
+Souffle Draconique,Dragon,8,160,Brûlure,100,True,https://paldb.cc/fr/Azurobe,2026-08-06
+Canon Chargé,Dragon,20,400,Brûlure,100,True,https://paldb.cc/fr/Azurobe_Cryst,2026-08-06
+Tranche Venteuse,Grass,12,200,Entrave,35,False,https://paldb.cc/fr/Ribbuny_Botan,2026-08-06
+Noirceur Expansive,Dark,4,60,Cécité,35,True,https://paldb.cc/fr/Jellroy,2026-08-06
+Fumée de Jais,Water,8,120,Trempé,100,False,https://paldb.cc/fr/Gloopie,2026-08-06
+Griffe Planante,Neutral,4,80,,,False,https://paldb.cc/fr/Galeclaw,2026-08-06
+Apocalypse,Dark,20,400,Cécité,100,True,https://paldb.cc/fr/Wispaw,2026-08-06
+Attaque Tornade,Neutral,4,80,,,False,https://paldb.cc/fr/Nitewing,2026-08-06
+Autodestruction Ultime,Neutral,60,1200,Brûlure,100,False,https://paldb.cc/fr/Tocotoco,2026-08-06
+Ruée Foudroyante,Electric,8,120,Électrisation,100,False,https://paldb.cc/fr/Univolt,2026-08-06
+Laser Chercheur,Electric,8,140,Électrisation,100,True,https://paldb.cc/fr/Univolt,2026-08-06
+Mur de Glace,Ice,12,200,Gel,100,True,https://paldb.cc/fr/Univolt_Cryst,2026-08-06
+Ère Glaciaire,Ice,30,700,Gel,100,True,https://paldb.cc/fr/Univolt_Cryst,2026-08-06
+Ouraglace,Ice,30,600,Gel,100,False,https://paldb.cc/fr/Univolt_Cryst,2026-08-06
+Griffe Sautée,Dark,4,80,Cécité,50,False,https://paldb.cc/fr/Loupmoon,2026-08-06
+Griffe Neigeuse,Ice,8,160,Gel,100,False,https://paldb.cc/fr/Loupmoon_Cryst,2026-08-06
+Trident Glacé,Ice,16,300,Gel,100,True,https://paldb.cc/fr/Loupmoon_Cryst,2026-08-06
+Assaut Fantôme,Dark,4,70,Cécité,50,False,https://paldb.cc/fr/Cawgnito,2026-08-06
+Corne Brûlante,Fire,4,80,Brûlure,50,False,https://paldb.cc/fr/Arsox,2026-08-06
+Double Croc (Fulgura),Electric,2,40,Électrisation,50,False,https://paldb.cc/fr/Puffolt,2026-08-06
+Croc Sauvage (Fulgura),Electric,2,50,Électrisation,50,False,https://paldb.cc/fr/Puffolt,2026-08-06
+Tonnerre Omniprésent,Electric,24,500,Électrisation,100,True,https://paldb.cc/fr/Puffolt,2026-08-06
+Ouragan Mystique,Dragon,8,150,,,False,https://paldb.cc/fr/Elphidran,2026-08-06
+Souffle Aérien,Fire,12,200,Brûlure,100,False,https://paldb.cc/fr/Vanwyrm,2026-08-06
+Tempête de Glace,Ice,12,200,Gel,100,False,https://paldb.cc/fr/Vanwyrm_Cryst,2026-08-06
+Lance Aiguille,Grass,8,120,Empoisonnement,55,False,https://paldb.cc/fr/Beegarde,2026-08-06
+Sacrifice Ultime,Grass,16,300,Brûlure,100,False,https://paldb.cc/fr/Beegarde,2026-08-06
+Bâton Tournoyant,Grass,8,160,Entrave,100,False,https://paldb.cc/fr/Elizabee,2026-08-06
+Presse Féline,Neutral,8,120,,,False,https://paldb.cc/fr/Grintale,2026-08-06
+Charge Arachnéenne,Dark,12,250,Empoisonnement,100,False,https://paldb.cc/fr/Tarantriss,2026-08-06
+Combo Gorille,Neutral,8,120,,,False,https://paldb.cc/fr/Gorirat,2026-08-06
+Combo Primate,Ground,16,300,Embourbement,100,False,https://paldb.cc/fr/Gorirat_Terra,2026-08-06
+Tir Précis,Grass,8,120,Entrave,100,False,https://paldb.cc/fr/Robinquill,2026-08-06
+Canon Noir,Dark,4,70,Cécité,20,True,https://paldb.cc/fr/Wixen_Noct,2026-08-06
+Pluie Foudroyante,Electric,20,400,Électrisation,100,True,https://paldb.cc/fr/Helzephyr_Lux,2026-08-06
+Ruée Taurine,Grass,12,250,Entrave,100,False,https://paldb.cc/fr/Elgrove,2026-08-06
+Ruée Taurine Furieuse,Grass,30,650,Entrave,100,False,https://paldb.cc/fr/Elgrove,2026-08-06
+Ruée Boréale,Ice,12,250,Gel,100,False,https://paldb.cc/fr/Elgrove_Cryst,2026-08-06
+Ruée Boréale Furieuse,Ice,30,650,Gel,100,False,https://paldb.cc/fr/Elgrove_Cryst,2026-08-06
+Tempête Nuageuse,Neutral,8,120,,,False,https://paldb.cc/fr/Fenglope,2026-08-06
+Tempête Orageuse,Electric,16,300,Électrisation,100,False,https://paldb.cc/fr/Fenglope_Lux,2026-08-06
+Fracas Botanique,Grass,4,80,Entrave,100,False,https://paldb.cc/fr/Dinossom,2026-08-06
+Fracas Éclair,Electric,16,300,Électrisation,100,False,https://paldb.cc/fr/Dinossom_Lux,2026-08-06
+Iaigiri,Fire,8,160,Brûlure,50,False,https://paldb.cc/fr/Bushi,2026-08-06
+Crachat Glacé,Ice,8,180,Gel,100,False,https://paldb.cc/fr/Munchill,2026-08-06
+Impact Terrestre,Ground,16,300,,,False,https://paldb.cc/fr/Mammorest,2026-08-06
+Fou de la Gâchette,Water,16,300,Trempé,100,False,https://paldb.cc/fr/Finsider,2026-08-06
+Combo Mawashi,Grass,12,250,Entrave,100,False,https://paldb.cc/fr/Leafan,2026-08-06
+Tranche-Rafale,Grass,20,400,Entrave,35,False,https://paldb.cc/fr/Leafan,2026-08-06
+Griffe Infernale,Fire,12,200,Brûlure,100,False,https://paldb.cc/fr/Incineram,2026-08-06
+Griffe Cauchemardesque,Dark,20,400,Cécité,100,False,https://paldb.cc/fr/Incineram_Noct,2026-08-06
+Charge-Flammes,Fire,16,300,Brûlure,100,False,https://paldb.cc/fr/Pyrin,2026-08-06
+Charge-Ombre,Dark,16,300,Cécité,50,False,https://paldb.cc/fr/Pyrin_Noct,2026-08-06
+Plongeon Éclair,Electric,8,180,Électrisation,100,False,https://paldb.cc/fr/Beakon,2026-08-06
+Plongeon Glacial,Ice,30,600,Gel,100,False,https://paldb.cc/fr/Beakon_Cryst,2026-08-06
+Fouet-Lanterne,Water,20,450,Trempé,100,False,https://paldb.cc/fr/Ghangler,2026-08-06
+Fouet-Lanterne Ardente,Fire,20,450,Brûlure,100,False,https://paldb.cc/fr/Ghangler_Ignis,2026-08-06
+Appel Éclair,Electric,8,100,Électrisation,100,False,https://paldb.cc/fr/Rayhound,2026-08-06
+Double Croc (Glacia),Ice,2,40,Gel,50,False,https://paldb.cc/fr/Rayhound_Cryst,2026-08-06
+Croc Sauvage (Glacia),Ice,2,50,Gel,50,False,https://paldb.cc/fr/Rayhound_Cryst,2026-08-06
+Frimas,Ice,16,300,Gel,100,False,https://paldb.cc/fr/Rayhound_Cryst,2026-08-06
+Piqûre Sautée,Ground,16,350,Empoisonnement,100,False,https://paldb.cc/fr/Menasting,2026-08-06
+Ruée Glacée,Ice,8,120,Gel,50,False,https://paldb.cc/fr/Reindrix,2026-08-06
+Poing Musclé,Grass,8,120,,,False,https://paldb.cc/fr/Mossanda,2026-08-06
+Explo-Poing,Electric,8,180,Électrisation,100,False,https://paldb.cc/fr/Mossanda_Lux,2026-08-06
+Piqué Fusée,Dragon,4,80,,,False,https://paldb.cc/fr/Chillet,2026-08-06
+Ruée Aviaire,Fire,12,200,Brûlure,100,False,https://paldb.cc/fr/Ragnahawk,2026-08-06
+Crache-Magma,Fire,30,600,Brûlure,100,False,https://paldb.cc/fr/Moldron,2026-08-06
+Laser Magma,Fire,30,700,Brûlure,100,False,https://paldb.cc/fr/Moldron,2026-08-06
+Crache-Glace,Ice,30,600,Gel,100,False,https://paldb.cc/fr/Moldron_Cryst,2026-08-06
+Laser-Glace,Ice,30,700,Gel,100,False,https://paldb.cc/fr/Moldron_Cryst,2026-08-06
+Coup de Pied Fulgurant,Grass,16,300,Entrave,100,False,https://paldb.cc/fr/Palumba,2026-08-06
+Coquille Rotative,Ground,8,120,,,False,https://paldb.cc/fr/Digtoise,2026-08-06
+Fracas Corporel,Grass,8,120,,,False,https://paldb.cc/fr/Broncherry,2026-08-06
+Plaquage Trempé,Water,12,250,Trempé,100,False,https://paldb.cc/fr/Broncherry_Aqua,2026-08-06
+Souffle Persistant,Grass,20,400,Entrave,50,False,https://paldb.cc/fr/Braloha,2026-08-06
+Double Croc (Flamma),Fire,2,40,Brûlure,50,False,https://paldb.cc/fr/Kitsun,2026-08-06
+Croc Sauvage (Flamma),Fire,2,50,Brûlure,50,False,https://paldb.cc/fr/Kitsun,2026-08-06
+Flammes Azur,Fire,12,200,Brûlure,100,False,https://paldb.cc/fr/Kitsun,2026-08-06
+Double Croc (Tenebrae),Dark,2,40,Cécité,50,False,https://paldb.cc/fr/Kitsun_Noct,2026-08-06
+Croc Sauvage (Tenebrae),Dark,2,50,Cécité,50,False,https://paldb.cc/fr/Kitsun_Noct,2026-08-06
+Éclair Ardent de l'Ombre,Dark,12,250,Cécité,50,False,https://paldb.cc/fr/Kitsun_Noct,2026-08-06
+Croc Volcanique,Fire,20,400,Brûlure,50,False,https://paldb.cc/fr/Blazehowl,2026-08-06
+Gigacorne,Ground,12,250,,,False,https://paldb.cc/fr/Warsect,2026-08-06
+Ruée Spirituelle,Dark,16,300,Cécité,100,False,https://paldb.cc/fr/Maraith,2026-08-06
+Momirage,Dark,24,500,Cécité,100,False,https://paldb.cc/fr/Gildra,2026-08-06
+Serpent Marin,Water,20,400,Trempé,100,False,https://paldb.cc/fr/Jormuntide,2026-08-06
+Serpent de Feu,Fire,20,400,Brûlure,100,False,https://paldb.cc/fr/Jormuntide_Ignis,2026-08-06
+Ruée Terrestre,Ground,12,250,,,False,https://paldb.cc/fr/Dazemu,2026-08-06
+Comète,Dragon,8,180,Brûlure,100,True,https://paldb.cc/fr/Quivern_Botan,2026-08-06
+Déchaînement Volcanique,Fire,16,300,Brûlure,100,False,https://paldb.cc/fr/Reptyro,2026-08-06
+Explosion Givrée,Ice,20,400,Gel,100,False,https://paldb.cc/fr/Reptyro_Cryst,2026-08-06
+Galopade Spectrale,Dark,20,450,Cécité,50,False,https://paldb.cc/fr/Starryon,2026-08-06
+Piétinement Mortel,Dark,24,550,Cécité,100,False,https://paldb.cc/fr/Starryon,2026-08-06
+Galopade Argentée,Neutral,30,700,,,False,https://paldb.cc/fr/Starryon_Primo,2026-08-06
+Pas Royal,Neutral,30,800,,,False,https://paldb.cc/fr/Starryon_Primo,2026-08-06
+Carnage Cornu,Ground,30,600,Embourbement,100,False,https://paldb.cc/fr/Pierdon,2026-08-06
+Carnage Glacé,Ice,30,600,Gel,100,False,https://paldb.cc/fr/Pierdon_Cryst,2026-08-06
+Griffe Blizzard,Ice,16,300,Gel,100,False,https://paldb.cc/fr/Cryolinx,2026-08-06
+Griffe Rocailleuse,Ground,16,300,Embourbement,100,False,https://paldb.cc/fr/Cryolinx_Terra,2026-08-06
+Boule de Neige,Ice,20,400,Gel,100,False,https://paldb.cc/fr/Wumpo,2026-08-06
+Roulade Herbeuse,Grass,20,400,Entrave,100,False,https://paldb.cc/fr/Wumpo_Botan,2026-08-06
+Impact Brûlant,Fire,30,600,Brûlure,100,False,https://paldb.cc/fr/Blazamut,2026-08-06
+Tranche-Faisceau,Dragon,16,350,Brûlure,100,True,https://paldb.cc/fr/Blazamut_Ryu,2026-08-06
+Magna-Écrasement,Dragon,30,700,Brûlure,100,False,https://paldb.cc/fr/Blazamut_Ryu,2026-08-06
+Pluie de Météorites,Dragon,30,700,Brûlure,100,False,https://paldb.cc/fr/Blazamut_Ryu,2026-08-06
+Bras Fusée,Ground,30,600,,,False,https://paldb.cc/fr/Dualith,2026-08-06
+Germocanon,Grass,30,700,Entrave,100,False,https://paldb.cc/fr/Dualith,2026-08-06
+Obscuracine,Dark,30,700,,,False,https://paldb.cc/fr/Dualith_Noct,2026-08-06
+Coup de Pied tournoyant,Ground,16,300,,,False,https://paldb.cc/fr/Anubis,2026-08-06
+Frappe Énergique,Ground,20,400,,,False,https://paldb.cc/fr/Anubis,2026-08-06
+Fracasse-Sol,Ground,24,500,Embourbement,100,False,https://paldb.cc/fr/Anubis,2026-08-06
+Saltogriffe,Ground,16,300,,,False,https://paldb.cc/fr/Sekhmet,2026-08-06
+Roulagriffe,Ground,20,400,,,False,https://paldb.cc/fr/Sekhmet,2026-08-06
+Fracas Vertical,Dark,16,350,Empoisonnement,100,False,https://paldb.cc/fr/Prixter,2026-08-06
+Uppercut Fulgurant,Electric,30,600,Électrisation,100,False,https://paldb.cc/fr/Prixter_Lux,2026-08-06
+Laser Léthal,Electric,30,600,Électrisation,100,False,https://paldb.cc/fr/Prixter_Lux,2026-08-06
+Presse Cubique,Ground,30,600,Embourbement,100,False,https://paldb.cc/fr/Tetroise,2026-08-06
+Écrasement Sacré,Neutral,30,700,,,False,https://paldb.cc/fr/Tetroise_Primo,2026-08-06
+Griffe Maléfique,Dark,16,350,Cécité,30,False,https://paldb.cc/fr/Xenovader,2026-08-06
+Vol d'Âme,Dark,20,400,,,False,https://paldb.cc/fr/Omascul,2026-08-06
+Cryolance,Ice,30,600,Gel,100,False,https://paldb.cc/fr/Whalaska,2026-08-06
+Ruée Rotative,Grass,12,250,Entrave,100,False,https://paldb.cc/fr/Verdash,2026-08-06
+Rancune Déchaînée,Dark,24,500,Cécité,100,False,https://paldb.cc/fr/Splatterina,2026-08-06
+Ruée Écrasante,Ground,24,500,Embourbement,100,False,https://paldb.cc/fr/Gildane,2026-08-06
+Posture Résolue,Neutral,20,450,,,False,https://paldb.cc/fr/Dogen,2026-08-06
+Plaquage Dosukoï,Ground,24,550,Embourbement,100,False,https://paldb.cc/fr/Bulldosu,2026-08-06
+Nova Sacrée,Neutral,30,700,,,False,https://paldb.cc/fr/Celesdir,2026-08-06
+Salve Lumineuse,Neutral,30,700,,,False,https://paldb.cc/fr/Celesdir,2026-08-06
+Nova Noire,Dark,30,700,Cécité,100,False,https://paldb.cc/fr/Celesdir_Noct,2026-08-06
+Poing Brûlant,Dragon,20,450,Brûlure,100,False,https://paldb.cc/fr/Astegon,2026-08-06
+Coupe-Sol,Ground,20,450,,,False,https://paldb.cc/fr/Knocklem,2026-08-06
+Trancheflamme,Fire,30,700,Brûlure,100,False,https://paldb.cc/fr/Knocklem_Ignis,2026-08-06
+Canon Explosif,Dragon,12,200,Brûlure,100,True,https://paldb.cc/fr/Silvegis,2026-08-06
+Charge Aegis,Dragon,30,600,,,False,https://paldb.cc/fr/Silvegis,2026-08-06
+Charge Flash,Electric,24,500,Électrisation,100,False,https://paldb.cc/fr/Azurmane,2026-08-06
+Électrocarapace,Electric,24,500,Électrisation,100,False,https://paldb.cc/fr/Snock,2026-08-06
+Chute de Comètes,Dragon,20,450,Brûlure,100,False,https://paldb.cc/fr/Eidrolon,2026-08-06
+Queue Tranchante,Dragon,24,550,,,False,https://paldb.cc/fr/Eidrolon,2026-08-06
+Phosphorayon,Dragon,30,700,Brûlure,100,False,https://paldb.cc/fr/Eidrolon,2026-08-06
+Piétinement Floral,Grass,24,550,,,False,https://paldb.cc/fr/Tropicaw,2026-08-06
+Lotus Astral,Grass,30,700,Entrave,100,False,https://paldb.cc/fr/Ophydia,2026-08-06
+Passe-passe,Fire,30,700,Brûlure,100,False,https://paldb.cc/fr/Dupin,2026-08-06
+Dispersion Toxique,Dark,30,600,Empoisonnement,100,False,https://paldb.cc/fr/Venusa,2026-08-06
+Feu-Follet,Dark,30,650,Cécité,100,False,https://paldb.cc/fr/Loomen,2026-08-06
+Pluie d'Étoiles,Neutral,20,400,,,False,https://paldb.cc/fr/Wistella,2026-08-06
+Danse de la Plume Noire,Dark,24,500,,,False,https://paldb.cc/fr/Solenne,2026-08-06
+Missile Kaboum,Ground,30,700,,,False,https://paldb.cc/fr/Aegidron,2026-08-06
+Griffe Éclair,Electric,8,150,Électrisation,100,False,https://paldb.cc/fr/Grizzbolt,2026-08-06
+Tank Foudroyant,Electric,24,550,Électrisation,100,False,https://paldb.cc/fr/Grizzbolt,2026-08-06
+Protection de Fertilité,Grass,240,0,,,False,https://paldb.cc/fr/Lyleen,2026-08-06
+Keraunos,Electric,12,250,Électrisation,100,False,https://paldb.cc/fr/Orserk,2026-08-06
+Polykeraunos,Electric,30,600,Électrisation,100,False,https://paldb.cc/fr/Orserk,2026-08-06
+Ailes Flamboyantes,Fire,16,320,Brûlure,100,False,https://paldb.cc/fr/Faleris,2026-08-06
+Vague Brûlante,Fire,30,650,Brûlure,100,False,https://paldb.cc/fr/Faleris,2026-08-06
+Ailes Aqueuses,Water,16,320,Trempé,100,False,https://paldb.cc/fr/Faleris_Aqua,2026-08-06
+Catastrophe Divine,Dark,20,400,,,False,https://paldb.cc/fr/Shadowbeak,2026-08-06
+Catastrophe Divine II,Dark,30,600,,,False,https://paldb.cc/fr/Shadowbeak,2026-08-06
+Lame Seigetsu,Neutral,16,350,,,False,https://paldb.cc/fr/Selyne,2026-08-06
+Rayon Lunaire,Neutral,30,600,Brûlure,100,False,https://paldb.cc/fr/Selyne,2026-08-06
+Flash Seigetsu,Neutral,30,700,,,False,https://paldb.cc/fr/Selyne,2026-08-06
+Griffe Glacée,Ice,16,300,Gel,100,False,https://paldb.cc/fr/Bastigor,2026-08-06
+Impact Glacial,Ice,30,650,Gel,100,False,https://paldb.cc/fr/Bastigor,2026-08-06
+Double Morsure du Blizzard,Ice,30,700,Gel,100,False,https://paldb.cc/fr/Bastigor,2026-08-06
+Ruée Azurée,Water,24,500,Trempé,100,False,https://paldb.cc/fr/Shaolong,2026-08-06
+Dracoflamme Azur,Dragon,30,600,Brûlure,100,False,https://paldb.cc/fr/Shaolong,2026-08-06
+Tourbillon Céleste,Water,30,700,Trempé,100,False,https://paldb.cc/fr/Shaolong,2026-08-06
+Mégaspore,Grass,30,700,,,False,https://paldb.cc/fr/Silvance,2026-08-06
+Spores Explosives,Grass,30,800,,,False,https://paldb.cc/fr/Silvance,2026-08-06
+Balade Toxique,Dark,30,700,,,False,https://paldb.cc/fr/Dandilord,2026-08-06
+Danse Toxique,Dark,30,800,,,False,https://paldb.cc/fr/Dandilord,2026-08-06
+Rayons Cauchemardesques,Dark,30,600,,,False,https://paldb.cc/fr/Bellanoir,2026-08-06
+Valse Enflammée,Dark,20,450,Brûlure,100,False,https://paldb.cc/fr/Bellanoir_Libero,2026-08-06
+Floraison Cauchemardesque,Dark,30,600,,,False,https://paldb.cc/fr/Bellanoir_Libero,2026-08-06
+Ailes Traqueuses,Dragon,20,400,,,False,https://paldb.cc/fr/Xenolord,2026-08-06
+Taillade Rayonnante,Dragon,20,450,,,False,https://paldb.cc/fr/Xenolord,2026-08-06
+Rayon Astral,Dark,24,500,Brûlure,100,False,https://paldb.cc/fr/Xenolord,2026-08-06
+Météore Cosmique,Dragon,30,600,Brûlure,100,False,https://paldb.cc/fr/Xenolord,2026-08-06
+Laser Oméga,Dragon,30,700,,,False,https://paldb.cc/fr/Xenolord,2026-08-06
+Ailes Célestes,Neutral,30,700,,,False,https://paldb.cc/fr/Hartalis,2026-08-06
+Pluie Sacrée,Neutral,30,800,,,False,https://paldb.cc/fr/Hartalis,2026-08-06
+Lumière Salvatrice,Neutral,100,250,,,False,https://paldb.cc/fr/Hartalis,2026-08-06
+Lance Sacrée,Neutral,30,700,,,False,https://paldb.cc/fr/Paladius,2026-08-06
+Lance Double,Dark,30,700,,,False,https://paldb.cc/fr/Necromus,2026-08-06
+Ailes Cristallines,Ice,30,700,Gel,100,False,https://paldb.cc/fr/Frostallion,2026-08-06
+Ailes Noires,Dark,30,700,Cécité,100,False,https://paldb.cc/fr/Frostallion_Noct,2026-08-06
+Laser Torrentiel,Water,30,700,Trempé,100,False,https://paldb.cc/fr/Neptilius,2026-08-06
+Faisceau Stellaire,Dragon,30,700,Brûlure,100,False,https://paldb.cc/fr/Jetragon,2026-08-06
+Pluie de Bulles,Water,12,200,Trempé,100,False,https://paldb.cc/fr/Panthalus,2026-08-06
+Marche d'Écume,Water,12,200,Trempé,100,False,https://paldb.cc/fr/Panthalus,2026-08-06
+Lames Marines,Water,16,300,Trempé,100,False,https://paldb.cc/fr/Panthalus,2026-08-06
+Déferlante Abyssale,Water,20,400,Trempé,100,False,https://paldb.cc/fr/Panthalus,2026-08-06
+Maelström,Water,24,500,Trempé,100,False,https://paldb.cc/fr/Panthalus,2026-08-06
+Surgissement Colossal,Water,30,700,Trempé,100,False,https://paldb.cc/fr/Panthalus,2026-08-06
+Hurle-Cyclone,Water,40,800,Trempé,100,False,https://paldb.cc/fr/Panthalus,2026-08-06
+Écrasement Gélatineux (plante),Grass,1,50,Entrave,50,False,https://paldb.cc/fr/Green_Slime,2026-08-06
+Écrasement Gélatineux (eau),Water,1,50,Trempé,50,False,https://paldb.cc/fr/Blue_Slime,2026-08-06
+Écrasement Gélatineux (feu),Fire,1,50,Brûlure,50,False,https://paldb.cc/fr/Red_Slime,2026-08-06
+Écrasement Gélatineux (ténèbres),Dark,1,50,Cécité,50,False,https://paldb.cc/fr/Purple_Slime,2026-08-06
+Écrasement Gélatineux (non élémentaire),Neutral,1,50,,,False,https://paldb.cc/fr/Illuminant_Slime,2026-08-06
+Écrasement Gélatineux (arc-en-ciel),Neutral,1,100,,,False,https://paldb.cc/fr/Rainbow_Slime,2026-08-06
+Charge de l'Épée,Neutral,1,80,,,False,https://paldb.cc/fr/Enchanted_Sword,2026-08-06
+Assaut Vampire,Neutral,1,70,,,False,https://paldb.cc/fr/Cave_Bat,2026-08-06
+Charge Hypnotique,Dark,15,300,,,False,https://paldb.cc/fr/Eye_of_Cthulhu,2026-08-06
+Invocation de Serviteurs,Dark,10,300,,,False,https://paldb.cc/fr/Eye_of_Cthulhu,2026-08-06
+Charge Oculaire,Dark,1,60,Cécité,50,False,https://paldb.cc/fr/Demon_Eye,2026-08-06

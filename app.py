@@ -15,7 +15,7 @@ from data_loader import (
     load_pal_passive_skills,
     load_pal_images,
 )
-from engine import score_team, rank_candidates, suggest_team
+from engine import rank_candidates, suggest_team
 
 st.set_page_config(page_title="Palworld Team Optimizer", layout="wide")
 
@@ -86,6 +86,14 @@ with tab_builder:
     )
     active_lookup["Power"] = pd.to_numeric(active_lookup["Power"], errors="coerce").fillna(0)
 
+    # Skills a Pal can be given even if it doesn't learn them naturally:
+    # active skills with a Skill Fruit, and any passive (breeding lets you
+    # pass almost any passive onto almost any Pal).
+    transferable_actives = sorted(
+        data["active_skills"].loc[data["active_skills"]["Transferable"] == True, "Skill"].tolist()
+    )
+    all_passives = sorted(data["passive_skills"]["Passive Skill"].tolist())
+
     cols = st.columns(5)
     team = []
     loadouts = []
@@ -112,15 +120,20 @@ with tab_builder:
                     data["pal_passive_skills"]["Pal"] == name, "Passive Skill"
                 ].tolist()
 
+                # Own skills first, then everything else transferable via
+                # Skill Fruit (actives) / breeding (passives).
+                active_options = pal_actives + [s for s in transferable_actives if s not in pal_actives]
+                passive_options = pal_passives + [p for p in all_passives if p not in pal_passives]
+
                 active_selected = st.multiselect(
-                    "Active skills", pal_actives, default=pal_actives[:3], key=f"active_skills_{i}_{name}"
+                    "Active skills", active_options, default=pal_actives[:3], key=f"active_skills_{i}_{name}"
                 )
                 if len(active_selected) > 3:
                     st.caption("Only the first 3 are used.")
                     active_selected = active_selected[:3]
 
                 passive_selected = st.multiselect(
-                    "Passive skills", pal_passives, default=pal_passives[:4], key=f"passive_skills_{i}_{name}"
+                    "Passive skills", passive_options, default=pal_passives[:4], key=f"passive_skills_{i}_{name}"
                 )
                 if len(passive_selected) > 4:
                     st.caption("Only the first 4 are used.")
@@ -128,60 +141,45 @@ with tab_builder:
 
             loadouts.append((name, active_selected, passive_selected))
 
-    result = score_team(team, element, pals, data["partner_skills"], data["buffs"], data["statuses"], data["mounts"])
+    active_info = data["active_skills"].set_index("Skill")[["Element", "Cooldown (s)", "Power"]]
+    passive_info = data["passive_skills"].set_index("Passive Skill")["Description"]
 
-    metrics = st.columns(4)
-    metrics[0].metric("Overall", f"{result.overall:.1f}%")
-    metrics[1].metric("Element match", f"{result.element_match:.1f}%")
-    metrics[2].metric("Combat quality", f"{result.combat_quality:.1f}%")
-    metrics[3].metric("Status synergy", f"{result.status_synergy:.1f}%")
+    active_detail_rows = []
+    passive_detail_rows = []
+    for name, actives, passives in loadouts:
+        if not name:
+            continue
+        for skill in actives:
+            info = active_info.loc[skill] if skill in active_info.index else None
+            power = float(info["Power"]) if info is not None and pd.notna(info["Power"]) else 0.0
+            cooldown = float(info["Cooldown (s)"]) if info is not None and pd.notna(info["Cooldown (s)"]) else 0.0
+            active_detail_rows.append(
+                {
+                    "Pal": name,
+                    "Active Skill": skill,
+                    "Element": info["Element"] if info is not None else "",
+                    "Cooldown (s)": cooldown or None,
+                    "Power": power or None,
+                    "Power per Cooldown": round(power / cooldown, 1) if cooldown else None,
+                }
+            )
+        for skill in passives:
+            passive_detail_rows.append(
+                {
+                    "Pal": name,
+                    "Passive Skill": skill,
+                    "Description": passive_info.get(skill, ""),
+                }
+            )
 
-    for note in result.notes:
-        st.write(f"- {note}")
-
-    loadout_rows = [
-        {
-            "Pal": name,
-            "Active Skills": ";".join(actives),
-            "Passive Skills": ";".join(passives),
-        }
-        for name, actives, passives in loadouts
-        if name
-    ]
-    if loadout_rows:
+    if active_detail_rows or passive_detail_rows:
         st.subheader("Loadout summary")
-        st.dataframe(pd.DataFrame(loadout_rows), use_container_width=True, hide_index=True)
-
-    with st.expander("Score breakdown"):
-        score_df = pd.DataFrame(
-            {
-                "Category": [
-                    "Attack aura",
-                    "Defense aura",
-                    "Weakness amplifier",
-                    "Player conversion",
-                    "Mount utility",
-                ],
-                "Score": [
-                    result.attack_aura,
-                    result.defense_aura,
-                    result.weakness_amp,
-                    result.player_conversion,
-                    result.mount_utility,
-                ],
-            }
-        )
-        st.bar_chart(score_df.set_index("Category"))
-
-        selected = pals[pals["Pal"].isin([x for x in team if x])]
-        if not selected.empty:
-            show_cols = [
-                c for c in [
-                    "Pal", "Primary Element", "Secondary Element",
-                    "Role", "Combat Rating (/10)", "Partner Skill",
-                ] if c in selected.columns
-            ]
-            st.dataframe(selected[show_cols], use_container_width=True)
+    if active_detail_rows:
+        st.markdown("**Active skills**")
+        st.dataframe(pd.DataFrame(active_detail_rows), use_container_width=True, hide_index=True)
+    if passive_detail_rows:
+        st.markdown("**Passive skills**")
+        st.dataframe(pd.DataFrame(passive_detail_rows), use_container_width=True, hide_index=True)
 
 with tab_candidates:
     ranked = rank_candidates(element, pals, data["partner_skills"], data["buffs"], data["mounts"])

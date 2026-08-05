@@ -6,16 +6,16 @@ A small Python project generated from the Phase 1–5 Palworld workbook.
 
 - Five-Pal team builder
 - Automatic team suggestion (full team, or fill around Pals you already picked)
-- Elemental synergy scoring
-- Attack/defense aura detection
-- Weakness amplifier detection
-- Player elemental conversion detection
-- Status setup/payoff detection
-- Mount utility scoring
-- Candidate ranking per element
+- Candidate ranking per element (elemental synergy, auras, weakness
+  amplification, player conversion, mount utility, combat rating)
 - Pal icons (scraped from paldb.cc, stored as base64 in the database)
 - Per-Pal active/passive skill loadout picker (session-only, capped at 3
-  actives / 4 passives, restricted to what that Pal actually learns)
+  actives / 4 passives). Each Pal's own learnset is preselected, but the
+  picker also offers every active skill obtainable via Skill Fruit and
+  every passive skill (breeding lets you put almost any passive on almost
+  any Pal)
+- Loadout summary tables: active skills with Element/Cooldown/Power/Power
+  per Cooldown, and passive skills with their effect description
 - Reference tables for Pals, Partner Skills, Active Skills and Passives
 - Streamlit UI and CLI
 
