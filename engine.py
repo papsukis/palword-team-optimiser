@@ -236,6 +236,17 @@ def suggest_team(
         - universal_pals
     )
 
+    # Universal-support Pals (Orserk, Silvegis, ...) buff the whole team
+    # regardless of its element, so they must be ranked independently of
+    # `element` -- rank_candidates() filters to Pals of that element, which
+    # would silently drop every universal support Pal whose own element
+    # doesn't match the target (e.g. Orserk is Dragon/Electric, so a "Water"
+    # suggestion would never see it and would fall back to more attackers).
+    rating_lookup = pd.to_numeric(pals.set_index("Pal")["Combat Rating (/10)"], errors="coerce")
+    support_ranked = sorted(
+        universal_pals, key=lambda n: rating_lookup.get(n, 0) or 0, reverse=True
+    )
+
     chosen: set[str] = set(locked)
     counts = {role: 0 for role in ROLE_TARGET_COUNTS}
     for name in locked:
@@ -244,12 +255,9 @@ def suggest_team(
             counts[role] += 1
 
     candidates_by_role = {
-        role: [
-            n
-            for n in ranked_names
-            if n not in chosen and _role_of(n, universal_pals, buffer_pals) == role
-        ]
-        for role in ROLE_TARGET_COUNTS
+        "support": [n for n in support_ranked if n not in chosen],
+        "buffer": [n for n in ranked_names if n not in chosen and _role_of(n, universal_pals, buffer_pals) == "buffer"],
+        "attacker": [n for n in ranked_names if n not in chosen and _role_of(n, universal_pals, buffer_pals) == "attacker"],
     }
     fallback = [n for n in ranked_names if n not in chosen]
 
