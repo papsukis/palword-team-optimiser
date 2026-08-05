@@ -35,3 +35,15 @@ def load_status_engine() -> pd.DataFrame:
 
 def load_mount_engine() -> pd.DataFrame:
     return _read_table("mount_engine")
+
+
+def load_pal_active_skills() -> pd.DataFrame:
+    return _read_table("pal_active_skills")
+
+
+def load_pal_passive_skills() -> pd.DataFrame:
+    return _read_table("pal_passive_skills")
+
+
+def load_pal_images() -> pd.DataFrame:
+    return _read_table("pal_images")

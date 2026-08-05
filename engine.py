@@ -165,7 +165,7 @@ def rank_candidates(
         "Pal",
         "Primary Element",
         "Secondary Element",
-        "Primary Role",
+        "Role",
         "Combat Rating (/10)",
         "Has Attack Aura",
         "Has Defense Aura",
@@ -178,3 +178,103 @@ def rank_candidates(
         ["Candidate Score", "Combat Rating (/10)"],
         ascending=False,
     )
+
+
+# Roles used when auto-assembling a team, following the game8.co guide:
+# https://game8.co/games/Palworld/archives/440398 (2 Ace Attackers of the
+# target element + 1 elemental buffer + 2 universal support Pals like
+# Orserk/Silvegis, whose buff isn't locked to one element).
+ROLE_LABELS = {
+    "support": "Universal support",
+    "buffer": "Elemental buffer",
+    "attacker": "Ace Attacker",
+}
+ROLE_TARGET_COUNTS = {"buffer": 1, "support": 2, "attacker": 2}
+ROLE_PRIORITY = ["buffer", "support", "attacker"]
+
+
+def _role_of(name: str, universal_pals: set[str], buffer_pals: set[str]) -> str:
+    if name in universal_pals:
+        return "support"
+    if name in buffer_pals:
+        return "buffer"
+    return "attacker"
+
+
+def suggest_team(
+    element: str,
+    locked: Iterable[str],
+    pals: pd.DataFrame,
+    partner_skills: pd.DataFrame,
+    buffs: pd.DataFrame,
+    mounts: pd.DataFrame,
+) -> list[tuple[str, str]]:
+    """Suggest up to 5 Pals for the target element.
+
+    If `locked` already contains Pals, they are kept as-is and only the
+    remaining slots are filled around them.
+    """
+    locked = [name for name in locked if name][:5]
+    ranked_names = list(
+        rank_candidates(element, pals, partner_skills, buffs, mounts)["Pal"]
+    )
+
+    universal_pals = set(
+        buffs.loc[
+            buffs["Attack Buff"].astype(str).str.strip().eq("All")
+            | buffs["Defense Buff"].astype(str).str.strip().eq("All"),
+            "Pal",
+        ]
+    )
+    buffer_pals = (
+        set(
+            buffs.loc[
+                buffs["Attack Buff"].astype(str).str.contains(element, case=False, na=False),
+                "Pal",
+            ]
+        )
+        - universal_pals
+    )
+
+    chosen: set[str] = set(locked)
+    counts = {role: 0 for role in ROLE_TARGET_COUNTS}
+    for name in locked:
+        role = _role_of(name, universal_pals, buffer_pals)
+        if role in counts:
+            counts[role] += 1
+
+    candidates_by_role = {
+        role: [
+            n
+            for n in ranked_names
+            if n not in chosen and _role_of(n, universal_pals, buffer_pals) == role
+        ]
+        for role in ROLE_TARGET_COUNTS
+    }
+    fallback = [n for n in ranked_names if n not in chosen]
+
+    team: list[tuple[str, str]] = [(name, "User pick") for name in locked]
+
+    while len(team) < 5:
+        pick: tuple[str, str] | None = None
+        for role in ROLE_PRIORITY:
+            if counts[role] < ROLE_TARGET_COUNTS[role] and candidates_by_role[role]:
+                name = candidates_by_role[role].pop(0)
+                pick = (name, ROLE_LABELS[role])
+                counts[role] += 1
+                break
+        if pick is None:
+            # Every role quota is already filled (or has no eligible Pal left
+            # for this element) -- any extra slot is just more firepower.
+            remaining = [n for n in fallback if n not in chosen]
+            if not remaining:
+                break
+            pick = (remaining[0], ROLE_LABELS["attacker"])
+
+        chosen.add(pick[0])
+        for names in candidates_by_role.values():
+            if pick[0] in names:
+                names.remove(pick[0])
+        team.append(pick)
+
+    return team

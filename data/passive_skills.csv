@@ -1,52 +1,102 @@
-﻿Passive Skill,Tier,Category,Primary Effect,Secondary Effect / Penalty,Applies To,Element,Combat Value (/10),Boss Value (/10),Raid Value (/10),Mount Value (/10),Worker Value (/10),Breeding Priority,Transfer Method,Best Archetypes,Recommended Pairings,Avoid When,Source,Data Date,Notes
-God of Destruction,World Tree,Hybrid Offense,Attack +40%; Defense +20%,Max Health -50%,Self,All,9,9,9,8,2,Situational,Breeding or Disposable Implant,Glass-cannon DPS; burst raids,Elemental damage passive; cooldown passive,Long endurance fights without healing,https://paldb.cc/en/World_Tree_Passive_Skills,2026-08-05,Extremely powerful but the HP penalty is severe.
-Twin-Edged Holy Blade,World Tree,Raw Offense,Attack +50%,Defense -30%,Self,All,9.5,9.5,9.5,8.5,1,High for glass cannon,Breeding or Disposable Implant,Maximum DPS; player-support Pal,Elemental boost; cooldown reduction,Tank or frontline Pal,https://paldb.cc/en/World_Tree_Passive_Skills,2026-08-05,Highest raw Attack option with a major defensive cost.
-Sanctified Meat Shield,World Tree,Raw Defense,Defense +50%,Attack -30%,Self,All,7,8,8.5,7,2,High for tanks,Breeding or Disposable Implant,Tank; defensive aura carrier,HP passive; resistance passive,Main DPS,https://paldb.cc/en/World_Tree_Passive_Skills,2026-08-05,Dedicated tank passive.
-Demon's Hand,World Tree,Work,Work Speed +90%,SAN drains 15% faster,Self,All,1,1,1,1,10,High for workers,Breeding or Disposable Implant,Base worker,Artisan; Serious; Nocturnal,Combat Pal,https://paldb.cc/en/World_Tree_Passive_Skills,2026-08-05,Best-in-class work speed with SAN drawback.
-World Tree Seedbed,World Tree,Sustain / Work,Hunger depletion 50% slower,Max Health -20%,Self,All,4,4,5,5,7.5,Situational,Breeding or Disposable Implant,Long work shifts; exploration,SAN and hunger passives,Frontline combat Pal,https://paldb.cc/en/World_Tree_Passive_Skills,2026-08-05,Convenience passive rather than combat optimization.
-Hermit Sage,World Tree,SAN Sustain,SAN depletion 50% slower,Work Speed -20%,Self,All,2,2,2,2,7,Situational,Breeding or Disposable Implant,Base sustain,Nocturnal; hunger sustain,Maximum work-speed build,https://paldb.cc/en/World_Tree_Passive_Skills,2026-08-05,Useful where SAN management matters.
-Dimensional Leap,World Tree,Movement,Movement Speed +50%,Hunger drains 15% faster,Self,All,6.5,5,5,10,3,Top mount priority,Breeding or Disposable Implant,Ground/flying/water mount,Swift; Runner; mount stamina,Stationary combat Pal,https://paldb.cc/en/World_Tree_Passive_Skills,2026-08-05,Current premium movement passive.
-Legend,Legendary,Hybrid Combat,Attack +20%; Defense +20%; Movement Speed +15%,,Self,All,9.5,9.5,9.5,9.5,3,Very High,Breed from legendary carriers,General DPS; tank; mount,Elemental Emperor/Lord; Serenity,Dedicated base worker,https://paldb.cc/Passive_Skills,2026-08-05,Still one of the strongest no-downside combat passives.
-Demon God,Legendary,Hybrid Combat,Attack +30%; Defense +5%,,Self,All,9.5,9.5,9.5,8,2,Very High,Breeding / implant availability,General DPS,Elemental boost; Serenity; Legend,Pure tank,https://paldb.cc/Passive_Skills,2026-08-05,Excellent universally applicable offense.
-Musclehead,Gold,Raw Offense,Attack +30%,Work Speed -50%,Self,All,9,9,9,7,0,Very High for combat,Natural / breeding / implant,Combat-only Pal,Elemental boost; Serenity; Legend,Base worker,https://paldb.cc/Passive_Skills,2026-08-05,Core combat passive when work speed is irrelevant.
-Ferocious,Gold,Raw Offense,Attack +20%,,Self,All,8,8,8,6,2,Medium,Natural / breeding,Early and midgame DPS,Musclehead; elemental boost,Optimized endgame build if stronger options available,https://paldb.cc/Passive_Skills,2026-08-05,Reliable no-downside attack passive.
-Serenity,Gold,Skill Rotation,Active skill cooldown reduced 30%,Attack +10%,Self,All,10,10,10,8,2,Essential,Natural / breeding / implant,All active-skill DPS,Elemental boost; Demon God; Legend,Partner-skill-only support that rarely attacks,https://paldb.cc/fr/Passive_Skills,2026-08-05,One of the highest-value general combat passives.
-Impatient,Silver,Skill Rotation,Active skill cooldown reduced 15%,,Self,All,7.5,8,8,6,1,Medium,Natural / breeding,Cooldown build before Serenity,Serenity; attack passive,Four-slot endgame build with stronger choices,https://paldb.cc/fr/Passive_Skills,2026-08-05,Useful when stacking cooldown reduction.
-Burly Body,Gold,Defense,Defense +20%,,Self,All,7.5,8,8,6,1,Medium,Natural / breeding,Tank; aura support,Legend; HP passive,Glass-cannon DPS,https://paldb.cc/Passive_Skills,2026-08-05,General tank passive.
-Diamond Body,Legendary,Defense,Defense +30%; immune to flinch and knockback,,Self,All,9.5,9.5,10,8,1,Very High for tanks,Natural / breeding / implant,Raid tank; melee DPS,HP passive; Legend; resistance,Backline glass cannon,https://paldb.cc/fr/Passive_Skills,2026-08-05,Excellent raid consistency through crowd-control immunity.
-Vanguard,Gold,Player Support,Player Attack +10%,,Player,All,8.5,9,9,5,1,High for support roster,Natural / breeding,Player-DPS support Pal,Stronghold Strategist; elemental Partner Skill,Pal-only damage team,https://paldb.cc/en/PassiveSkills_Table,2026-08-05,Stacks through separate party Pals under normal passive rules.
-Stronghold Strategist,Gold,Player Support,Player Defense +10%,,Player,All,7.5,8.5,9,5,1,High for support roster,Natural / breeding,Player survivability support,Vanguard; elemental Partner Skill,Pure Pal damage team,https://paldb.cc/en/PassiveSkills_Table,2026-08-05,Good on support Pals that remain in the party.
-Swift,Gold,Movement,Movement Speed +30%,,Self,All,5,4,4,9,3,High for mounts,Natural / breeding,Mount,Dimensional Leap; Runner; Infinite Stamina,Stationary combat Pal,https://paldb.cc/fr/Passive_Skills,2026-08-05,Classic movement passive.
-Runner,Silver,Movement,Movement Speed +20%,,Self,All,4,3,3,7.5,2,Medium for mounts,Natural / breeding,Mount,Swift; Dimensional Leap,Combat-only Pal,https://paldb.cc/fr/Passive_Skills,2026-08-05,Secondary speed passive.
-Nimble,Bronze,Movement,Movement Speed +10%,,Self,All,2.5,2,2,5.5,1,Low,Natural / breeding,Early mount,Runner; Swift,Endgame four-slot mount,https://paldb.cc/fr/Passive_Skills,2026-08-05,Entry-level speed passive.
-Infinite Stamina,Gold,Mount Endurance,Maximum stamina +75%,Rideable Pals only,Self,All,5,4,4,10,1,Essential for long-distance mounts,Natural / breeding / implant,Flying or water mount,Dimensional Leap; Swift,Non-rideable Pal,https://paldb.cc/fr/Passive_Skills,2026-08-05,Premium traversal stamina passive.
-Eternal Engine,Gold,Mount Endurance,Maximum stamina +50%,Rideable Pals only,Self,All,4,3,3,8.5,1,High for mounts,Natural / breeding,Mount,Swift; Dimensional Leap,Non-rideable Pal,https://paldb.cc/fr/Passive_Skills,2026-08-05,Strong if Infinite Stamina is unavailable.
-Stamina Body,Silver,Mount Endurance,Maximum stamina +25%,Rideable Pals only,Self,All,2.5,2,2,6.5,1,Low/Medium,Natural / breeding,Early mount,Runner; Swift,Optimized endgame mount,https://paldb.cc/fr/Passive_Skills,2026-08-05,Budget stamina passive.
-Artisan,Gold,Work,Work Speed +50%,,Self,All,1,1,1,1,9,Very High for workers,Natural / breeding,Base worker,Demon's Hand; Serious; Work Slave,Combat Pal,https://paldb.cc/en/PassiveSkills_Table,2026-08-05,Core worker passive.
-Serious,Silver,Work,Work Speed +20%,,Self,All,1,1,1,1,6.5,Medium for workers,Natural / breeding,Base worker,Artisan; Work Slave,Combat Pal,https://paldb.cc/fr/Passive_Skills,2026-08-05,No downside.
-Work Slave,Gold,Work,Work Speed +30%,Attack -30%,Self,All,0.5,0.5,0.5,0.5,7.5,High for workers,Natural / breeding,Base-only worker,Artisan; Serious,Combat or defense Pal,https://paldb.cc/Passive_Skills,2026-08-05,Good when Attack is irrelevant.
-Nocturnal,Gold,Work Schedule,Does not sleep and works at night,,Self,All,1,1,1,1,8.5,High for workers,Natural / breeding,24-hour base worker,Artisan; Demon’s Hand,Combat-only Pal,https://paldb.cc/Passive_Skills,2026-08-05,Major throughput improvement for daytime species.
-Workaholic,Gold,SAN Sustain,SAN depletion 15% slower,,Self,All,1,1,1,1,5.5,Medium,Natural / breeding / implant,Base sustain,Nocturnal; Artisan,Maximum raw speed build,https://paldb.cc/fr/Passive_Skills,2026-08-05,Reduces downtime.
-Positive Thinker,Silver,SAN Sustain,SAN depletion 10% slower,,Self,All,1,1,1,1,4,Low/Medium,Natural / breeding / implant,Early worker sustain,Workaholic,Optimized worker build,https://paldb.cc/fr/Passive_Skills,2026-08-05,Budget SAN passive.
-Diet Lover,Gold,Hunger Sustain,Hunger depletion 20% slower,,Self,All,2,2,2,3,5,Medium,Natural / breeding,Exploration; base worker,Nocturnal; SAN sustain,Maximum combat DPS build,https://paldb.cc/fr/Passive_Skills,2026-08-05,Convenience over damage.
-Dainty Eater,Silver,Hunger Sustain,Hunger depletion 10% slower,,Self,All,1,1,1,2,3,Low,Natural / breeding,Early worker / mount,Diet Lover,Endgame four-slot build,https://paldb.cc/fr/Passive_Skills,2026-08-05,Minor convenience.
-Noble,Gold,Economy,Selling price +5%,,Player economy,All,1,1,1,1,1,High for merchant party,Natural / breeding,Merchant roster,Fine Furs on multiple Pals,Combat team,https://paldb.cc/en/Caravan_Merchant,2026-08-05,Five Pals with Noble + Fine Furs can provide a large commerce bonus.
-Fine Furs,Silver,Economy,Selling price +3%,,Player economy,All,1,1,1,1,1,High for merchant party,Natural / breeding,Merchant roster,Noble on multiple Pals,Combat team,https://paldb.cc/en/Caravan_Merchant,2026-08-05,Economy-only passive.
-Mercy Hit,Utility,Capture Utility,Cannot reduce enemy below 1 HP,,Self,All,2,1,1,1,1,Situational,Natural / breeding,Capture Pal,Fast low-power skills,Boss-killing DPS,https://paldb.cc/fr/Passive_Skills,2026-08-05,"Useful for capturing, not optimized combat."
-Blood Is Fuel,Legendary,Lifesteal / Work,Restores HP from damage dealt; works at night,,Self,All,8.5,9,9,6,7,High,Special / breeding where allowed,Sustained DPS; nocturnal worker,Serenity; attack passive,Burst-only fights,https://paldb.cc/en/PassiveSkills_Table,2026-08-05,Hybrid sustain and work utility.
-Immortality,Mutation,Survivability,Special immortality-related effect,,Self,All,8,8.5,9,6,2,Specialized,Mutation,Raid survival build,Defense and HP passives,Standard breeding-only plan,https://paldb.cc/en/PassiveSkills_Table,2026-08-05,Mutation passive; exact behavior should be verified per Pal/version.
-Heavily Armored,Mutation,Explosion Resistance,Improved resistance to explosive damage,,Self,All,7,8,8.5,5,1,Matchup-dependent,Mutation,Explosive boss counter,Diamond Body; HP passive,Non-explosive encounters,https://paldb.cc/en/PassiveSkills_Table,2026-08-05,Special matchup passive.
-Flame Emperor,Legendary,Element Damage,Fire damage +20%,,Self,Fire,9,9,9,7,1,Very High for Fire DPS,Breed from carrier,Mono-Fire DPS,Serenity; Demon God; Legend,Non-Fire moveset,https://paldb.cc/Passive_Skills,2026-08-05,Use only when the Pal's main damage is Fire.
-Lord of the Sea,Legendary,Element Damage,Water damage +20%,,Self,Water,9,9,9,7,1,Very High for Water DPS,Breed from carrier,Mono-Water DPS,Serenity; Demon God; Legend,Non-Water moveset,https://paldb.cc/Passive_Skills,2026-08-05,Core Water elemental passive.
-Lord of Lightning,Legendary,Element Damage,Electric damage +20%,,Self,Electric,9,9,9,7,1,Very High for Electric DPS,Breed from carrier,Mono-Electric DPS,Serenity; Demon God; Legend,Non-Electric moveset,https://paldb.cc/Passive_Skills,2026-08-05,Core Electric elemental passive.
-Spirit Emperor,Legendary,Element Damage,Grass damage +20%,,Self,Grass,9,9,9,7,1,Very High for Grass DPS,Breed from carrier,Mono-Grass DPS,Serenity; Demon God; Legend,Non-Grass moveset,https://paldb.cc/Passive_Skills,2026-08-05,Core Grass elemental passive.
-Ice Emperor,Legendary,Element Damage,Ice damage +20%,,Self,Ice,9,9,9,7,1,Very High for Ice DPS,Breed from carrier,Mono-Ice DPS,Serenity; Demon God; Legend,Non-Ice moveset,https://paldb.cc/Passive_Skills,2026-08-05,Core Ice elemental passive.
-Earth Emperor,Legendary,Element Damage,Ground damage +20%,,Self,Ground,9,9,9,7,1,Very High for Ground DPS,Breed from carrier,Mono-Ground DPS,Serenity; Demon God; Legend,Non-Ground moveset,https://paldb.cc/Passive_Skills,2026-08-05,Core Ground elemental passive.
-Lord of the Underworld,Legendary,Element Damage,Dark damage +20%,,Self,Dark,9,9,9,7,1,Very High for Dark DPS,Breed from carrier,Mono-Dark DPS,Serenity; Demon God; Legend,Non-Dark moveset,https://paldb.cc/Passive_Skills,2026-08-05,Core Dark elemental passive.
-Divine Dragon,Legendary,Element Damage,Dragon damage +20%,,Self,Dragon,9,9,9,7,1,Very High for Dragon DPS,Breed from carrier,Mono-Dragon DPS,Serenity; Demon God; Legend,Non-Dragon moveset,https://paldb.cc/Passive_Skills,2026-08-05,Core Dragon elemental passive.
-Celestial Emperor,Legendary,Element Damage,Neutral damage +20%,,Self,Neutral,9,9,9,7,1,Very High for Neutral DPS,Breed from carrier,Mono-Neutral DPS,Serenity; Demon God; Legend,Non-Neutral moveset,https://paldb.cc/Passive_Skills,2026-08-05,Core Neutral elemental passive.
-Eternal Flame,Legendary,Dual Element Damage,Fire damage +30%; Electric damage +30%,,Self,Fire / Electric,10,10,10,8,1,Essential for eligible dual builds,Special carrier / breeding,Fire-Electric hybrid,Serenity; Legend; Demon God,Single unrelated element,https://paldb.cc/fr/Passive_Skills,2026-08-05,Outperforms single-element +20% passives for eligible skills.
-Sirens of the Void,Legendary,Dual Element Damage,Dark damage +30%; Ice damage +30%,,Self,Dark / Ice,10,10,10,8,1,Essential for eligible dual builds,Special carrier / breeding,Dark-Ice hybrid,Serenity; Legend; Demon God,Single unrelated element,https://paldb.cc/fr/Passive_Skills,2026-08-05,Premium dual-element passive.
-Invader,Legendary,Dual Element Damage,Dark damage +30%; Dragon damage +30%,,Self,Dark / Dragon,10,10,10,8,1,Essential for eligible dual builds,Special carrier / breeding,Dark-Dragon hybrid,Serenity; Legend; Demon God,Single unrelated element,https://paldb.cc/fr/Passive_Skills,2026-08-05,Premium Xenolord-style damage passive.
-Glacial Warrior,Legendary,Dual Element Damage,Water damage +20%; Ice damage +20%,,Self,Water / Ice,9.5,9.5,9.5,7,1,Very High for eligible builds,Special carrier / breeding,Water-Ice hybrid,Serenity; Legend,Unrelated element,https://paldb.cc/fr/Passive_Skills,2026-08-05,Strong dual-element coverage.
-Remarkable Craftsmanship,Legendary,Work,Work Speed +75%,,Self,All,1,1,1,1,10,Essential for workers,Special / implant / breeding,Maximum work-speed worker,Demon's Hand; Artisan; Nocturnal,Combat Pal,https://paldb.cc/fr/Passive_Skills,2026-08-05,Premium worker passive introduced in later content.
+Passive Skill,Source URL,Data Date
+Lâche,https://paldb.cc/fr/Cattiva,2026-08-05
+Poids Lourd,https://paldb.cc/fr/Kingpaca,2026-08-05
+Anormal,https://paldb.cc/fr/Lovander,2026-08-05
+Trouble-Fête,https://paldb.cc/fr/Gorirat,2026-08-05
+Glouton,https://paldb.cc/fr/Relaxaurus,2026-08-05
+Peau dure,https://paldb.cc/fr/Digtoise,2026-08-05
+Seigneur des Mers,https://paldb.cc/fr/Jormuntide,2026-08-05
+Colère Divine,https://paldb.cc/fr/Yakumo,2026-08-05
+Corps Adamantin,https://paldb.cc/fr/Yakumo,2026-08-05
+Vigueur Éternelle,https://paldb.cc/fr/Yakumo,2026-08-05
+Inébranlable,https://paldb.cc/fr/Yakumo,2026-08-05
+Roi des Vagues,https://paldb.cc/fr/Yakumo,2026-08-05
+Grand Prince,https://paldb.cc/fr/Yakumo,2026-08-05
+Légèreté,https://paldb.cc/fr/Yakumo,2026-08-05
+Maîtrise de la Faim,https://paldb.cc/fr/Yakumo,2026-08-05
+Maître Éleveur,https://paldb.cc/fr/Yakumo,2026-08-05
+Maîtrise Exceptionnelle,https://paldb.cc/fr/Yakumo,2026-08-05
+Sprinteur,https://paldb.cc/fr/Yakumo,2026-08-05
+Vampire,https://paldb.cc/fr/Yakumo,2026-08-05
+Coursier Marin,https://paldb.cc/fr/Yakumo,2026-08-05
+Appliqué,https://paldb.cc/fr/Yakumo,2026-08-05
+Corps Robuste,https://paldb.cc/fr/Yakumo,2026-08-05
+Nutritionniste,https://paldb.cc/fr/Yakumo,2026-08-05
+Apprenti Éleveur,https://paldb.cc/fr/Yakumo,2026-08-05
+Féroce,https://paldb.cc/fr/Yakumo,2026-08-05
+Ange Médecin,https://paldb.cc/fr/Yakumo,2026-08-05
+Infatigable,https://paldb.cc/fr/Yakumo,2026-08-05
+Chef d'Abattage,https://paldb.cc/fr/Yakumo,2026-08-05
+Chef d'Extraction,https://paldb.cc/fr/Yakumo,2026-08-05
+Motivateur,https://paldb.cc/fr/Yakumo,2026-08-05
+Noble,https://paldb.cc/fr/Yakumo,2026-08-05
+Philanthrope,https://paldb.cc/fr/Yakumo,2026-08-05
+Instructeur de Tir,https://paldb.cc/fr/Yakumo,2026-08-05
+Coursier,https://paldb.cc/fr/Yakumo,2026-08-05
+Sérénité,https://paldb.cc/fr/Yakumo,2026-08-05
+Généreux,https://paldb.cc/fr/Yakumo,2026-08-05
+Stratège de Forteresse,https://paldb.cc/fr/Yakumo,2026-08-05
+Chef d'Assaut,https://paldb.cc/fr/Yakumo,2026-08-05
+Guide de l'effort,https://paldb.cc/fr/Yakumo,2026-08-05
+Acharné,https://paldb.cc/fr/Yakumo,2026-08-05
+Impulsif,https://paldb.cc/fr/Yakumo,2026-08-05
+Rentre-Dedans,https://paldb.cc/fr/Yakumo,2026-08-05
+Sang de Dragon,https://paldb.cc/fr/Yakumo,2026-08-05
+Protection Végétale,https://paldb.cc/fr/Yakumo,2026-08-05
+Brave,https://paldb.cc/fr/Yakumo,2026-08-05
+Condensateur,https://paldb.cc/fr/Yakumo,2026-08-05
+Lumineux,https://paldb.cc/fr/Yakumo,2026-08-05
+Sang Froid,https://paldb.cc/fr/Yakumo,2026-08-05
+Vaniteux,https://paldb.cc/fr/Yakumo,2026-08-05
+Frugal,https://paldb.cc/fr/Yakumo,2026-08-05
+Tueur de Dragons,https://paldb.cc/fr/Yakumo,2026-08-05
+Parasismique,https://paldb.cc/fr/Yakumo,2026-08-05
+Belle Fourrure,https://paldb.cc/fr/Yakumo,2026-08-05
+Force de la Nature,https://paldb.cc/fr/Yakumo,2026-08-05
+Fragrance Boisée,https://paldb.cc/fr/Yakumo,2026-08-05
+Sang Chaud,https://paldb.cc/fr/Yakumo,2026-08-05
+Hydrophile,https://paldb.cc/fr/Yakumo,2026-08-05
+Impatient,https://paldb.cc/fr/Yakumo,2026-08-05
+Nocturne,https://paldb.cc/fr/Yakumo,2026-08-05
+Isolant,https://paldb.cc/fr/Yakumo,2026-08-05
+Masochiste,https://paldb.cc/fr/Yakumo,2026-08-05
+Vif,https://paldb.cc/fr/Yakumo,2026-08-05
+Optimiste,https://paldb.cc/fr/Yakumo,2026-08-05
+Force Tellurique,https://paldb.cc/fr/Yakumo,2026-08-05
+Pyromane,https://paldb.cc/fr/Yakumo,2026-08-05
+Sadique,https://paldb.cc/fr/Yakumo,2026-08-05
+Sérieux,https://paldb.cc/fr/Yakumo,2026-08-05
+Nage Fluide,https://paldb.cc/fr/Yakumo,2026-08-05
+Esprit Zen,https://paldb.cc/fr/Yakumo,2026-08-05
+Bronzage Naturel,https://paldb.cc/fr/Yakumo,2026-08-05
+Voile des Ténèbres,https://paldb.cc/fr/Yakumo,2026-08-05
+Imperméabilité,https://paldb.cc/fr/Yakumo,2026-08-05
+Soumis,https://paldb.cc/fr/Yakumo,2026-08-05
+Maladroit,https://paldb.cc/fr/Yakumo,2026-08-05
+Vulnérable aux Coups,https://paldb.cc/fr/Yakumo,2026-08-05
+Tranquille,https://paldb.cc/fr/Yakumo,2026-08-05
+Pitié,https://paldb.cc/fr/Yakumo,2026-08-05
+Oiseau de Nuit,https://paldb.cc/fr/Yakumo,2026-08-05
+Miteux,https://paldb.cc/fr/Yakumo,2026-08-05
+Reclus,https://paldb.cc/fr/Yakumo,2026-08-05
+Mentalement Instable,https://paldb.cc/fr/Yakumo,2026-08-05
+Estomac sans Fond,https://paldb.cc/fr/Yakumo,2026-08-05
+Soif de Destruction,https://paldb.cc/fr/Yakumo,2026-08-05
+Os fragiles,https://paldb.cc/fr/Yakumo,2026-08-05
+Pacifiste,https://paldb.cc/fr/Yakumo,2026-08-05
+Négligent,https://paldb.cc/fr/Yakumo,2026-08-05
+Empereur Enflammé,https://paldb.cc/fr/Blazamut,2026-08-05
+Feu Éternel,https://paldb.cc/fr/Blazamut_Ryu,2026-08-05
+Empereur Terrestre,https://paldb.cc/fr/Anubis,2026-08-05
+Organisme Inconnu,https://paldb.cc/fr/Xenovader,2026-08-05
+Divinité de la Forêt,https://paldb.cc/fr/Lyleen,2026-08-05
+Seigneur des Tempêtes,https://paldb.cc/fr/Orserk,2026-08-05
+Sorcière,https://paldb.cc/fr/Bellanoir_Libero,2026-08-05
+Envahisseur,https://paldb.cc/fr/Xenolord,2026-08-05
+Sauveur,https://paldb.cc/fr/Hartalis,2026-08-05
+Légende,https://paldb.cc/fr/Paladius,2026-08-05
+Empereur Céleste,https://paldb.cc/fr/Paladius,2026-08-05
+Seigneur des Enfers,https://paldb.cc/fr/Necromus,2026-08-05
+Empereur Glacial,https://paldb.cc/fr/Frostallion,2026-08-05
+Trophée des Flots,https://paldb.cc/fr/Neptilius,2026-08-05
+Dragon Divin,https://paldb.cc/fr/Jetragon,2026-08-05

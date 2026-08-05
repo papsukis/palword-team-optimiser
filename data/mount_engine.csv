@@ -1,7 +1,107 @@
-﻿Mount,Element,Flying,Ground,Water,Player Conversion,Combat Rating,Travel Rating,Notes
-Beakon,Electric,Yes,,,Electric,9.5,9.5,Electric converter
-Helzephyr,Dark,Yes,,,Dark,9,9,Dark converter
-Azurobe,Water,,,Yes,Water,9,8.5,Water converter
-Chillet,Dragon,,Yes,,Dragon,9,8,Early dragon
-Pyrin,Fire,,Yes,,Fire,9,8.5,Fast ground
-Univolt Cryst,Ice,,Yes,,Ice,9,8,Ice converter
+Mount,Element,Combat Rating,Travel Rating,Source URL,Data Date
+Melpaca,Neutral,2.1,2.7,https://paldb.cc/fr/Melpaca,2026-08-05
+Kingpaca,Neutral,2.8,3.2,https://paldb.cc/fr/Kingpaca,2026-08-05
+Kingpaca Cryst,Ice,2.8,3.2,https://paldb.cc/fr/Kingpaca_Cryst,2026-08-05
+Rushoar,Ground,1.4,2.4,https://paldb.cc/fr/Rushoar,2026-08-05
+Eikthyrdeer,Neutral,2.1,2.7,https://paldb.cc/fr/Eikthyrdeer,2026-08-05
+Eikthyrdeer Terra,Ground,2.1,2.7,https://paldb.cc/fr/Eikthyrdeer_Terra,2026-08-05
+Sweepa,Ice,2.7,3.1,https://paldb.cc/fr/Sweepa,2026-08-05
+Azurobe,Water,3.4,2.7,https://paldb.cc/fr/Azurobe,2026-08-05
+Azurobe Cryst,Ice,3.7,2.7,https://paldb.cc/fr/Azurobe_Cryst,2026-08-05
+Nitewing,Neutral,2.6,2.3,https://paldb.cc/fr/Nitewing,2026-08-05
+Univolt,Electric,3.2,3.3,https://paldb.cc/fr/Univolt,2026-08-05
+Univolt Cryst,Ice,3.3,3.3,https://paldb.cc/fr/Univolt_Cryst,2026-08-05
+Arsox,Fire,2.8,3.2,https://paldb.cc/fr/Arsox,2026-08-05
+Elphidran,Dragon,2.5,3.0,https://paldb.cc/fr/Elphidran,2026-08-05
+Elphidran Aqua,Dragon,2.7,3.0,https://paldb.cc/fr/Elphidran_Aqua,2026-08-05
+Vanwyrm,Fire,3.3,2.6,https://paldb.cc/fr/Vanwyrm,2026-08-05
+Vanwyrm Cryst,Ice,3.6,2.6,https://paldb.cc/fr/Vanwyrm_Cryst,2026-08-05
+Grintale,Neutral,2.3,3.0,https://paldb.cc/fr/Grintale,2026-08-05
+Tarantriss,Dark,3.4,3.0,https://paldb.cc/fr/Tarantriss,2026-08-05
+Polapup,Ice,3.4,1.1,https://paldb.cc/fr/Polapup,2026-08-05
+Polapup Terra,Ice,3.5,1.1,https://paldb.cc/fr/Polapup_Terra,2026-08-05
+Surfent,Water,2.3,2.4,https://paldb.cc/fr/Surfent,2026-08-05
+Surfent Terra,Ground,2.8,2.4,https://paldb.cc/fr/Surfent_Terra,2026-08-05
+Helzephyr,Dark,4.0,3.3,https://paldb.cc/fr/Helzephyr,2026-08-05
+Helzephyr Lux,Dark,4.1,3.3,https://paldb.cc/fr/Helzephyr_Lux,2026-08-05
+Fenglope,Neutral,3.4,3.2,https://paldb.cc/fr/Fenglope,2026-08-05
+Fenglope Lux,Electric,3.6,3.2,https://paldb.cc/fr/Fenglope_Lux,2026-08-05
+Dinossom,Grass,2.7,3.1,https://paldb.cc/fr/Dinossom,2026-08-05
+Dinossom Lux,Electric,2.8,3.1,https://paldb.cc/fr/Dinossom_Lux,2026-08-05
+Mammorest,Grass,3.3,3.1,https://paldb.cc/fr/Mammorest,2026-08-05
+Mammorest Cryst,Ice,3.3,3.1,https://paldb.cc/fr/Mammorest_Cryst,2026-08-05
+Pyrin,Fire,2.9,3.9,https://paldb.cc/fr/Pyrin,2026-08-05
+Pyrin Noct,Fire,2.9,3.9,https://paldb.cc/fr/Pyrin_Noct,2026-08-05
+Beakon,Electric,3.3,3.6,https://paldb.cc/fr/Beakon,2026-08-05
+Beakon Cryst,Ice,3.4,3.6,https://paldb.cc/fr/Beakon_Cryst,2026-08-05
+Ghangler,Dark,4.0,2.4,https://paldb.cc/fr/Ghangler,2026-08-05
+Ghangler Ignis,Fire,4.1,2.4,https://paldb.cc/fr/Ghangler_Ignis,2026-08-05
+Rayhound,Electric,2.6,3.5,https://paldb.cc/fr/Rayhound,2026-08-05
+Rayhound Cryst,Ice,2.8,3.5,https://paldb.cc/fr/Rayhound_Cryst,2026-08-05
+Reindrix,Ice,3.0,3.2,https://paldb.cc/fr/Reindrix,2026-08-05
+Chillet,Ice,2.0,3.2,https://paldb.cc/fr/Chillet,2026-08-05
+Chillet Ignis,Fire,2.2,3.2,https://paldb.cc/fr/Chillet_Ignis,2026-08-05
+Ragnahawk,Fire,3.8,3.9,https://paldb.cc/fr/Ragnahawk,2026-08-05
+Moldron,Fire,4.5,2.6,https://paldb.cc/fr/Moldron,2026-08-05
+Moldron Cryst,Ice,4.6,2.6,https://paldb.cc/fr/Moldron_Cryst,2026-08-05
+Palumba,Grass,4.0,3.0,https://paldb.cc/fr/Palumba,2026-08-05
+Broncherry,Grass,3.2,3.1,https://paldb.cc/fr/Broncherry,2026-08-05
+Broncherry Aqua,Grass,3.4,3.1,https://paldb.cc/fr/Broncherry_Aqua,2026-08-05
+Braloha,Grass,4.0,3.1,https://paldb.cc/fr/Braloha,2026-08-05
+Kitsun,Fire,3.7,3.3,https://paldb.cc/fr/Kitsun,2026-08-05
+Kitsun Noct,Dark,3.8,3.3,https://paldb.cc/fr/Kitsun_Noct,2026-08-05
+Blazehowl,Fire,3.1,3.6,https://paldb.cc/fr/Blazehowl,2026-08-05
+Blazehowl Noct,Fire,3.3,3.6,https://paldb.cc/fr/Blazehowl_Noct,2026-08-05
+Maraith,Dark,2.6,3.3,https://paldb.cc/fr/Maraith,2026-08-05
+Shroomer,Grass,2.5,3.2,https://paldb.cc/fr/Shroomer,2026-08-05
+Shroomer Noct,Grass,2.7,3.2,https://paldb.cc/fr/Shroomer_Noct,2026-08-05
+Jormuntide,Dragon,4.3,3.0,https://paldb.cc/fr/Jormuntide,2026-08-05
+Jormuntide Ignis,Dragon,4.6,3.0,https://paldb.cc/fr/Jormuntide_Ignis,2026-08-05
+Suzaku,Fire,3.8,3.3,https://paldb.cc/fr/Suzaku,2026-08-05
+Suzaku Aqua,Water,3.9,3.3,https://paldb.cc/fr/Suzaku_Aqua,2026-08-05
+Dazemu,Ground,2.4,3.6,https://paldb.cc/fr/Dazemu,2026-08-05
+Quivern,Dragon,3.3,4.2,https://paldb.cc/fr/Quivern,2026-08-05
+Quivern Botan,Dragon,3.5,4.2,https://paldb.cc/fr/Quivern_Botan,2026-08-05
+Yakumo,Neutral,2.2,3.3,https://paldb.cc/fr/Yakumo,2026-08-05
+Reptyro,Fire,4.0,3.0,https://paldb.cc/fr/Reptyro,2026-08-05
+Reptyro Cryst,Ice,4.2,3.0,https://paldb.cc/fr/Reptyro_Cryst,2026-08-05
+Starryon,Dark,3.4,3.8,https://paldb.cc/fr/Starryon,2026-08-05
+Starryon Primo,Neutral,3.5,3.8,https://paldb.cc/fr/Starryon_Primo,2026-08-05
+Wumpo,Ice,3.2,3.2,https://paldb.cc/fr/Wumpo,2026-08-05
+Wumpo Botan,Grass,3.4,3.2,https://paldb.cc/fr/Wumpo_Botan,2026-08-05
+Blazamut,Fire,4.5,3.6,https://paldb.cc/fr/Blazamut,2026-08-05
+Blazamut Ryu,Dragon,4.8,3.6,https://paldb.cc/fr/Blazamut_Ryu,2026-08-05
+Dualith,Ground,4.1,2.4,https://paldb.cc/fr/Dualith,2026-08-05
+Dualith Noct,Ground,4.3,2.4,https://paldb.cc/fr/Dualith_Noct,2026-08-05
+Tetroise,Ground,4.0,1.6,https://paldb.cc/fr/Tetroise,2026-08-05
+Tetroise Primo,Neutral,4.1,1.6,https://paldb.cc/fr/Tetroise_Primo,2026-08-05
+Xenogard,Dragon,4.7,3.6,https://paldb.cc/fr/Xenogard,2026-08-05
+Whalaska,Ice,4.0,2.3,https://paldb.cc/fr/Whalaska,2026-08-05
+Whalaska Ignis,Ice,4.1,2.3,https://paldb.cc/fr/Whalaska_Ignis,2026-08-05
+Gildane,Ground,4.1,3.8,https://paldb.cc/fr/Gildane,2026-08-05
+Bulldosu,Ground,3.3,2.5,https://paldb.cc/fr/Bulldosu,2026-08-05
+Celesdir,Neutral,3.8,3.6,https://paldb.cc/fr/Celesdir,2026-08-05
+Celesdir Noct,Dark,4.0,3.6,https://paldb.cc/fr/Celesdir_Noct,2026-08-05
+Astegon,Dragon,4.6,3.3,https://paldb.cc/fr/Astegon,2026-08-05
+Silvegis,Dragon,4.2,3.2,https://paldb.cc/fr/Silvegis,2026-08-05
+Azurmane,Electric,4.5,3.8,https://paldb.cc/fr/Azurmane,2026-08-05
+Solmora,Water,2.4,2.7,https://paldb.cc/fr/Solmora,2026-08-05
+Solmora Lux,Water,2.6,2.7,https://paldb.cc/fr/Solmora_Lux,2026-08-05
+Eidrolon,Dragon,4.7,8.3,https://paldb.cc/fr/Eidrolon,2026-08-05
+Eidrolon Ignis,Dragon,4.8,8.3,https://paldb.cc/fr/Eidrolon_Ignis,2026-08-05
+Dynamoff,Electric,2.0,3.0,https://paldb.cc/fr/Dynamoff,2026-08-05
+Ophydia,Grass,4.6,4.5,https://paldb.cc/fr/Ophydia,2026-08-05
+Roujay,Dark,3.7,4.1,https://paldb.cc/fr/Roujay,2026-08-05
+Aegidron,Dragon,5.0,3.3,https://paldb.cc/fr/Aegidron,2026-08-05
+Faleris,Fire,4.0,4.2,https://paldb.cc/fr/Faleris,2026-08-05
+Faleris Aqua,Water,4.0,4.2,https://paldb.cc/fr/Faleris_Aqua,2026-08-05
+Shadowbeak,Dark,5.1,4.9,https://paldb.cc/fr/Shadowbeak,2026-08-05
+Selyne,Dark,4.4,1.7,https://paldb.cc/fr/Selyne,2026-08-05
+Shaolong,Dragon,5.3,8.5,https://paldb.cc/fr/Shaolong,2026-08-05
+Xenolord,Dark,4.7,8.2,https://paldb.cc/fr/Xenolord,2026-08-05
+Hartalis,Neutral,4.9,5.8,https://paldb.cc/fr/Hartalis,2026-08-05
+Paladius,Neutral,5.3,5.5,https://paldb.cc/fr/Paladius,2026-08-05
+Necromus,Dark,5.5,5.8,https://paldb.cc/fr/Necromus,2026-08-05
+Frostallion,Ice,5.5,5.5,https://paldb.cc/fr/Frostallion,2026-08-05
+Frostallion Noct,Dark,5.8,5.5,https://paldb.cc/fr/Frostallion_Noct,2026-08-05
+Neptilius,Water,5.2,3.4,https://paldb.cc/fr/Neptilius,2026-08-05

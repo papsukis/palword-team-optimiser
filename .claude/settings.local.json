@@ -1,7 +1,11 @@
 {
   "permissions": {
     "allow": [
-      "Bash(\"C:\\\\Users\\\\alibe\\\\Documents\\\\palword\\\\palworld_team_optimizer\\\\.venv\\\\Scripts\\\\python.exe\" -m pip list)"
+      "Bash(\"C:\\\\Users\\\\alibe\\\\Documents\\\\palword\\\\palworld_team_optimizer\\\\.venv\\\\Scripts\\\\python.exe\" -m pip list)",
+      "Bash(PYTHONIOENCODING=utf-8 .venv/Scripts/python.exe -c ' *)",
+      "Bash(PYTHONIOENCODING=utf-8 \".venv/Scripts/python.exe\" scrape_paldb.py --limit 3)",
+      "Bash(PYTHONIOENCODING=utf-8 \".venv/Scripts/python.exe\" scrape_paldb.py)",
+      "Bash(rm -f \"C:\\\\Users\\\\alibe\\\\Documents\\\\palword\\\\palworld_team_optimizer\\\\.env\" \"C:\\\\Users\\\\alibe\\\\AppData\\\\Local\\\\Temp\\\\palworld_test3.db\" *)"
     ]
   }
 }

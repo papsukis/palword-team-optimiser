@@ -1,0 +1,2520 @@
+Pal,Level,Skill
+Lamball,1,Roulé-Boulé
+Lamball,7,Canon à Air
+Lamball,15,Tir Puissant
+Lamball,22,Autodestruction
+Lamball,30,Boule de Foudre
+Lamball,40,Boule d'Énergie
+Lamball,50,Hyper Rayon
+Lamball,70,Explosion Sacrée
+Lamball,1,Roulé-Boulé
+Lamball,7,Canon à Air
+Lamball,15,Tir Puissant
+Lamball,22,Autodestruction
+Lamball,30,Boule de Foudre
+Lamball,40,Boule d'Énergie
+Lamball,50,Hyper Rayon
+Lamball,70,Explosion Sacrée
+Cattiva,1,Enchaînement de Poings
+Cattiva,7,Canon à Air
+Cattiva,15,Tir Boueux
+Cattiva,22,Tir Puissant
+Cattiva,30,Coupe-Rafale
+Cattiva,40,Mitraille-Graines
+Cattiva,50,Hyper Rayon
+Cattiva,70,Explosion Sacrée
+Cattiva,1,Enchaînement de Poings
+Cattiva,7,Canon à Air
+Cattiva,15,Tir Boueux
+Cattiva,22,Tir Puissant
+Cattiva,30,Coupe-Rafale
+Cattiva,40,Mitraille-Graines
+Cattiva,50,Hyper Rayon
+Cattiva,70,Explosion Sacrée
+Chikipi,1,Coup de Bec
+Chikipi,7,Canon à Air
+Chikipi,15,Tir Puissant
+Chikipi,22,Autodestruction
+Chikipi,30,Tornade Verte
+Chikipi,40,Tornade de Sable
+Chikipi,50,Tempête Ardente
+Chikipi,70,Explosion Sacrée
+Lifmunk,1,Coupe-Rafale
+Lifmunk,7,Canon à Air
+Lifmunk,15,Tir Puissant
+Lifmunk,22,Mitraille-Graines
+Lifmunk,30,Boule d'Énergie
+Lifmunk,40,Lierre Rampant
+Lifmunk,50,Rayon Solaire
+Lifmunk,70,Rafale Vent
+Fuack,1,Tir Aquatique
+Fuack,7,Tir Puissant
+Fuack,15,Jet d'Eau
+Fuack,22,Missile de Glace
+Fuack,30,Tir Bulleux
+Fuack,40,Bombao
+Fuack,50,Hydro-Laser
+Fuack,70,Éruption Aquatique
+Fuack Ignis,1,Tir Enflammé
+Fuack Ignis,7,Flammes Scindées
+Fuack Ignis,15,Tir Bulleux
+Fuack Ignis,22,Souffle Enflammé
+Fuack Ignis,30,Mur de Flammes
+Fuack Ignis,40,Hydro Tranchant
+Fuack Ignis,50,Pluie Volcanique
+Fuack Ignis,70,Boule Enflammée
+Vixy,1,Canon à Air
+Vixy,7,Tir Boueux
+Vixy,15,Tir Puissant
+Vixy,22,Coupe-Rafale
+Vixy,30,Mitraille-Graines
+Vixy,40,Boule d'Énergie
+Vixy,50,Hyper Rayon
+Vixy,70,Explosion Sacrée
+Celaray,1,Jet d'Eau
+Celaray,7,Tir Aquatique
+Celaray,15,Tir Puissant
+Celaray,22,Tir Bulleux
+Celaray,30,Mitraille-Graines
+Celaray,40,Bombao
+Celaray,50,Hydro-Laser
+Celaray,70,Éruption Aquatique
+Celaray Lux,1,Lance Foudroyante
+Celaray Lux,7,Onde Électrique
+Celaray Lux,15,Tir Bulleux
+Celaray Lux,22,Éclair Horizontal
+Celaray Lux,30,Geyser
+Celaray Lux,40,Double-Aqua
+Celaray Lux,50,Éclair Fulgurant
+Celaray Lux,70,Tempête Éclair
+Cremis,1,Canon à Air
+Cremis,7,Tir Boueux
+Cremis,15,Tir Étincelant
+Cremis,22,Tir Puissant
+Cremis,30,Onde Électrique
+Cremis,40,Boule d'Énergie
+Cremis,50,Éclair Fulgurant
+Cremis,70,Explosion Sacrée
+Croajiro,1,Tir Aquatique
+Croajiro,7,Tir Bulleux
+Croajiro,15,Pluie Acide
+Croajiro,22,Bombao
+Croajiro,30,Geyser
+Croajiro,40,Éclabousse-Mur
+Croajiro,50,Hydro-Laser
+Croajiro,70,Éruption Aquatique
+Croajiro Noct,1,Tir Empoisonné
+Croajiro Noct,7,Tir Obscur
+Croajiro Noct,15,Flèche Noire
+Croajiro Noct,22,Pluie Acide
+Croajiro Noct,30,Balle Cauchemar
+Croajiro Noct,40,Hydro Tranchant
+Croajiro Noct,50,Laser Noir
+Croajiro Noct,70,Légion Sombre
+Herbil,1,Coupe-Rafale
+Herbil,7,Mitraille-Graines
+Herbil,15,Tornade Verte
+Herbil,22,Lame Aérienne
+Herbil,30,Volte-Feuille
+Herbil,40,Feuille Ricochet
+Herbil,50,Vent Croisé
+Herbil,70,Rafale Vent
+Teafant,1,Tir Aquatique
+Teafant,7,Jet d'Eau
+Teafant,15,Tir Boueux
+Teafant,22,Tir Bulleux
+Teafant,30,Pluie Acide
+Teafant,40,Bombao
+Teafant,50,Hydro-Laser
+Teafant,70,Éruption Aquatique
+Gumoss,1,Tir Boueux
+Gumoss,7,Coupe-Rafale
+Gumoss,15,Explosion Rocailleuse
+Gumoss,22,Mitraille-Graines
+Gumoss,30,Explose-Graines
+Gumoss,40,Tornade de Sable
+Gumoss,50,Rayon Solaire
+Gumoss,70,Rafale Vent
+Gumoss,1,Tir Boueux
+Gumoss,7,Coupe-Rafale
+Gumoss,15,Explosion Rocailleuse
+Gumoss,22,Mitraille-Graines
+Gumoss,30,Explose-Graines
+Gumoss,40,Tornade de Sable
+Gumoss,50,Rayon Solaire
+Gumoss,70,Rafale Vent
+Pupperai,1,Double Croc (Terra)
+Pupperai,2,Croc Sauvage (Terra)
+Pupperai,7,Explosion Rocailleuse
+Pupperai,15,Taillade Vaillante
+Pupperai,22,Canon à Pierre
+Pupperai,30,Tornade de Sable
+Pupperai,40,Lance-Roche
+Pupperai,50,Tourbillon de Sable
+Pupperai,70,Impact Rocheux
+Clovee,1,Canon à Air
+Clovee,7,Mitraille-Graines
+Clovee,15,Explose-Graines
+Clovee,22,Lame Aérienne
+Clovee,30,Tornade Verte
+Clovee,40,Rayon Solaire
+Clovee,50,Vent Croisé
+Clovee,70,Rafale Vent
+Jolthog,1,Onde Électrique
+Jolthog,7,Tir Puissant
+Jolthog,15,Boule de Foudre
+Jolthog,22,Boule d'Énergie
+Jolthog,30,Triple Éclair
+Jolthog,40,Éclair Horizontal
+Jolthog,50,Éclair Fulgurant
+Jolthog,70,Canon Fulgurant
+Jolthog Cryst,1,Missile de Glace
+Jolthog Cryst,7,Tir Puissant
+Jolthog Cryst,15,Iceberg
+Jolthog Cryst,22,Boule d'Énergie
+Jolthog Cryst,30,Coupe-Glace
+Jolthog Cryst,40,Souffle Givré
+Jolthog Cryst,50,Morsure du Blizzard
+Jolthog Cryst,70,Chute de Diamants
+Depresso,1,Tir Empoisonné
+Depresso,7,Tir Boueux
+Depresso,15,Balle Sombre
+Depresso,22,Missile de Glace
+Depresso,30,Déchaînement d'Ombre
+Depresso,40,Balle Cauchemar
+Depresso,50,Laser Noir
+Depresso,70,Légion Sombre
+Pengullet,1,Missile de Glace
+Pengullet,7,Jet d'Eau
+Pengullet,15,Tir Aquatique
+Pengullet,22,Coupe-Glace
+Pengullet,30,Iceberg
+Pengullet,40,Morsure du Blizzard
+Pengullet,50,Hydro-Laser
+Pengullet,70,Éruption Aquatique
+Pengullet Lux,1,Lance Foudroyante
+Pengullet Lux,7,Boule de Foudre
+Pengullet Lux,15,Tir Bulleux
+Pengullet Lux,22,Geyser
+Pengullet Lux,30,Bombao
+Pengullet Lux,40,Triple Étincelle
+Pengullet Lux,50,Coup de Foudre
+Pengullet Lux,70,Tempête Éclair
+Penking,1,Tir Aquatique
+Penking,7,Iceberg
+Penking,15,Capitaine Glissade
+Penking,22,Souffle Givré
+Penking,30,Bombao
+Penking,40,Morsure du Blizzard
+Penking,50,Hydro-Laser
+Penking,70,Éruption Aquatique
+Penking Lux,1,Lance Foudroyante
+Penking Lux,7,Orbes de Plasma
+Penking Lux,15,Tir Bulleux
+Penking Lux,22,Triple Étincelle
+Penking Lux,30,Glissade Foudroyante
+Penking Lux,40,Vague Scélérate
+Penking Lux,50,Tempête Éclair
+Penking Lux,70,Éruption Aquatique
+Hoocrates,1,Canon à Air
+Hoocrates,7,Balle Sombre
+Hoocrates,15,Déchaînement d'Ombre
+Hoocrates,22,Tornade de Sable
+Hoocrates,30,Flamme Spirituelle
+Hoocrates,40,Balle Cauchemar
+Hoocrates,50,Laser Noir
+Hoocrates,70,Légion Sombre
+Melpaca,1,Canon à Air
+Melpaca,7,Tacle Duveteux
+Melpaca,15,Tir Boueux
+Melpaca,22,Tir Puissant
+Melpaca,30,Onde Électrique
+Melpaca,40,Boule d'Énergie
+Melpaca,50,Hyper Rayon
+Melpaca,70,Explosion Sacrée
+Kingpaca,1,Tir Boueux
+Kingpaca,7,Tir Puissant
+Kingpaca,15,Boule d'Énergie
+Kingpaca,22,Presse Royale
+Kingpaca,30,Triple Éclair
+Kingpaca,40,Lance-Roche
+Kingpaca,50,Hyper Rayon
+Kingpaca,70,Explosion Sacrée
+Kingpaca Cryst,1,Missile de Glace
+Kingpaca Cryst,7,Coupe-Glace
+Kingpaca Cryst,15,Iceberg
+Kingpaca Cryst,22,Presse Royale
+Kingpaca Cryst,30,Souffle Givré
+Kingpaca Cryst,40,Bombao
+Kingpaca Cryst,45,Presse Glaciale
+Kingpaca Cryst,50,Morsure du Blizzard
+Kingpaca Cryst,70,Chute de Diamants
+Daedream,1,Balle Sombre
+Daedream,7,Tir Empoisonné
+Daedream,15,Déchaînement d'Ombre
+Daedream,22,Souffle Givré
+Daedream,30,Flamme Spirituelle
+Daedream,40,Balle Cauchemar
+Daedream,50,Laser Noir
+Daedream,70,Légion Sombre
+Tanzee,1,Coupe-Rafale
+Tanzee,7,Tir Boueux
+Tanzee,15,Mitraille-Graines
+Tanzee,22,Explose-Graines
+Tanzee,30,Canon à Pierre
+Tanzee,40,Tornade Verte
+Tanzee,50,Rayon Solaire
+Tanzee,70,Rafale Vent
+Tanzee Ignis,1,Tir Enflammé
+Tanzee Ignis,7,Flammes Scindées
+Tanzee Ignis,15,Trait de Feu
+Tanzee Ignis,22,Mur de Flammes
+Tanzee Ignis,30,Concentration de Flammes
+Tanzee Ignis,40,Pluie Volcanique
+Tanzee Ignis,50,Inferno
+Tanzee Ignis,70,Boule Enflammée
+Nox,1,Canon à Air
+Nox,7,Balle Sombre
+Nox,15,Déchaînement d'Ombre
+Nox,22,Boule d'Énergie
+Nox,30,Flamme Spirituelle
+Nox,40,Balle Cauchemar
+Nox,50,Laser Noir
+Nox,70,Légion Sombre
+Flambelle,1,Tir Enflammé
+Flambelle,7,Flammes Scindées
+Flambelle,15,Trait de Feu
+Flambelle,22,Flamme Spirituelle
+Flambelle,30,Tempête Ardente
+Flambelle,40,Inferno
+Flambelle,50,Boule Enflammée
+Flambelle,70,Impact Rocheux
+Rooby,1,Tir Enflammé
+Rooby,7,Tir Puissant
+Rooby,15,Flammes Scindées
+Rooby,22,Trait de Feu
+Rooby,30,Tempête Ardente
+Rooby,40,Inferno
+Rooby,50,Boule Enflammée
+Rooby,70,Rafale Vent
+Mau,1,Tir Boueux
+Mau,7,Balle Sombre
+Mau,15,Déchaînement d'Ombre
+Mau,22,Tornade de Sable
+Mau,30,Flamme Spirituelle
+Mau,40,Balle Cauchemar
+Mau,50,Laser Noir
+Mau,70,Légion Sombre
+Mau Cryst,1,Missile de Glace
+Mau Cryst,7,Canon à Air
+Mau Cryst,15,Tir Boueux
+Mau Cryst,22,Coupe-Glace
+Mau Cryst,30,Iceberg
+Mau Cryst,40,Souffle Givré
+Mau Cryst,50,Morsure du Blizzard
+Mau Cryst,70,Chute de Diamants
+Rushoar,1,Charge Furieuse
+Rushoar,7,Tir Boueux
+Rushoar,15,Tir Puissant
+Rushoar,22,Explosion Rocailleuse
+Rushoar,30,Boule d'Énergie
+Rushoar,40,Lance-Roche
+Rushoar,50,Hyper Rayon
+Rushoar,70,Impact Rocheux
+Foxparks,1,Tir Enflammé
+Foxparks,7,Tir Boueux
+Foxparks,15,Flammes Scindées
+Foxparks,22,Trait de Feu
+Foxparks,30,Souffle Enflammé
+Foxparks,40,Flamme Spirituelle
+Foxparks,50,Boule Enflammée
+Foxparks,70,Météore Draconique
+Foxparks Cryst,1,Missile de Glace
+Foxparks Cryst,7,Jet d'Eau
+Foxparks Cryst,15,Coupe-Glace
+Foxparks Cryst,22,Iceberg
+Foxparks Cryst,30,Souffle Givré
+Foxparks Cryst,40,Grêle Tranchante
+Foxparks Cryst,50,Morsure du Blizzard
+Foxparks Cryst,70,Chute de Diamants
+Killamari,1,Jet d'Eau
+Killamari,7,Tir Empoisonné
+Killamari,15,Balle Sombre
+Killamari,22,Déchaînement d'Ombre
+Killamari,30,Pluie Acide
+Killamari,40,Balle Cauchemar
+Killamari,50,Laser Noir
+Killamari,70,Légion Sombre
+Killamari Primo,1,Canon à Air
+Killamari Primo,7,Tir Puissant
+Killamari Primo,15,Tir Bulleux
+Killamari Primo,22,Boule d'Énergie
+Killamari Primo,30,Pluie Acide
+Killamari Primo,40,Double-Aqua
+Killamari Primo,50,Hydro-Laser
+Killamari Primo,70,Explosion Sacrée
+Fuddler,1,Tir Boueux
+Fuddler,5,Fouission
+Fuddler,7,Tir Puissant
+Fuddler,15,Explosion Rocailleuse
+Fuddler,22,Canon à Pierre
+Fuddler,30,Boule d'Énergie
+Fuddler,40,Tornade de Sable
+Fuddler,50,Lance-Roche
+Fuddler,70,Impact Rocheux
+Eikthyrdeer,1,Tir Puissant
+Eikthyrdeer,7,Corne Ascendante
+Eikthyrdeer,15,Explosion Rocailleuse
+Eikthyrdeer,22,Canon à Pierre
+Eikthyrdeer,30,Boule d'Énergie
+Eikthyrdeer,40,Lance-Roche
+Eikthyrdeer,50,Hyper Rayon
+Eikthyrdeer,70,Explosion Sacrée
+Eikthyrdeer Terra,1,Tir Puissant
+Eikthyrdeer Terra,7,Corne Ascendante
+Eikthyrdeer Terra,15,Explosion Rocailleuse
+Eikthyrdeer Terra,18,Corne Boueuse
+Eikthyrdeer Terra,22,Canon à Pierre
+Eikthyrdeer Terra,30,Boule d'Énergie
+Eikthyrdeer Terra,40,Tornade de Sable
+Eikthyrdeer Terra,50,Lance-Roche
+Eikthyrdeer Terra,70,Impact Rocheux
+Direhowl,1,Double Croc
+Direhowl,2,Croc Sauvage
+Direhowl,7,Tir Boueux
+Direhowl,15,Canon à Air
+Direhowl,22,Tir Puissant
+Direhowl,30,Tir Enflammé
+Direhowl,40,Boule d'Énergie
+Direhowl,50,Hyper Rayon
+Direhowl,70,Explosion Sacrée
+Caprity,1,Coupe-Rafale
+Caprity,7,Canon à Air
+Caprity,15,Tir Boueux
+Caprity,22,Tir Puissant
+Caprity,30,Tornade Verte
+Caprity,40,Lierre Rampant
+Caprity,50,Rayon Solaire
+Caprity,70,Rafale Vent
+Caprity Noct,1,Nuage Toxique
+Caprity Noct,7,Coupe-Rafale
+Caprity Noct,15,Tir Empoisonné
+Caprity Noct,22,Multi-Coupe
+Caprity Noct,30,Douche Toxique
+Caprity Noct,40,Lierre Circulaire
+Caprity Noct,50,Laser Noir
+Caprity Noct,70,Légion Sombre
+Swee,1,Canon à Air
+Swee,7,Missile de Glace
+Swee,15,Coupe-Glace
+Swee,22,Boule d'Énergie
+Swee,30,Iceberg
+Swee,40,Souffle Givré
+Swee,50,Morsure du Blizzard
+Swee,70,Chute de Diamants
+Sweepa,1,Tir Puissant
+Sweepa,7,Missile de Glace
+Sweepa,15,Coupe-Glace
+Sweepa,22,Iceberg
+Sweepa,30,Souffle Givré
+Sweepa,40,Hyper Rayon
+Sweepa,50,Morsure du Blizzard
+Sweepa,70,Chute de Diamants
+Turtacle,1,Jet d'Eau
+Turtacle,7,Tir Bulleux
+Turtacle,15,Hydro-Tourbillon
+Turtacle,22,Bombao
+Turtacle,30,Double-Aqua
+Turtacle,40,Hydro Tranchant
+Turtacle,50,Hydro-Laser
+Turtacle,70,Éruption Aquatique
+Turtacle Terra,1,Tir Boueux
+Turtacle Terra,7,Tir Bulleux
+Turtacle Terra,15,Hydro-Tourbillon
+Turtacle Terra,22,Bombao
+Turtacle Terra,30,Tremblement
+Turtacle Terra,40,Lance-Roche
+Turtacle Terra,50,Impact Rocheux
+Turtacle Terra,70,Éruption Aquatique
+Hangyu,1,Tir Boueux
+Hangyu,7,Canon à Air
+Hangyu,15,Coupe-Rafale
+Hangyu,22,Tir Puissant
+Hangyu,30,Boule d'Énergie
+Hangyu,40,Tornade de Sable
+Hangyu,50,Lance-Roche
+Hangyu,70,Impact Rocheux
+Hangyu Cryst,1,Canon à Air
+Hangyu Cryst,7,Missile de Glace
+Hangyu Cryst,15,Tir Puissant
+Hangyu Cryst,22,Coupe-Glace
+Hangyu Cryst,30,Iceberg
+Hangyu Cryst,40,Souffle Givré
+Hangyu Cryst,50,Morsure du Blizzard
+Hangyu Cryst,70,Chute de Diamants
+Woolipop,1,Canon à Air
+Woolipop,7,Tir Boueux
+Woolipop,15,Tir Puissant
+Woolipop,22,Coupe-Rafale
+Woolipop,30,Tir Bulleux
+Woolipop,40,Boule d'Énergie
+Woolipop,50,Hyper Rayon
+Woolipop,70,Explosion Sacrée
+Woolipop Terra,1,Tir Boueux
+Woolipop Terra,7,Explosion Rocailleuse
+Woolipop Terra,15,Canon à Pierre
+Woolipop Terra,22,Tornade de Sable
+Woolipop Terra,30,Tremblement
+Woolipop Terra,40,Lance-Roche
+Woolipop Terra,50,Tourbillon de Sable
+Woolipop Terra,70,Impact Rocheux
+Mozzarina,1,Tir Puissant
+Mozzarina,7,Tir Boueux
+Mozzarina,15,Canon à Air
+Mozzarina,22,Explosion Rocailleuse
+Mozzarina,30,Canon à Pierre
+Mozzarina,40,Boule d'Énergie
+Mozzarina,50,Hyper Rayon
+Mozzarina,70,Explosion Sacrée
+Azurobe,1,Tir Aquatique
+Azurobe,7,Canon Draconique
+Azurobe,15,Tir Bulleux
+Azurobe,22,Déchaînement Draconique
+Azurobe,30,Souffle Draconique
+Azurobe,40,Hydro-Laser
+Azurobe,50,Météore Draconique
+Azurobe,70,Éruption Aquatique
+Azurobe Cryst,1,Missile de Glace
+Azurobe Cryst,7,Déchaînement Draconique
+Azurobe Cryst,15,Iceberg
+Azurobe Cryst,22,Souffle Draconique
+Azurobe Cryst,30,Souffle Givré
+Azurobe Cryst,40,Canon Chargé
+Azurobe Cryst,50,Chute de Diamants
+Azurobe Cryst,70,Météore Draconique
+Sparkit,1,Tir Étincelant
+Sparkit,7,Tir Boueux
+Sparkit,15,Onde Électrique
+Sparkit,22,Boule de Foudre
+Sparkit,30,Triple Éclair
+Sparkit,40,Éclair Horizontal
+Sparkit,50,Éclair Fulgurant
+Sparkit,70,Canon Fulgurant
+Kelpsea,1,Jet d'Eau
+Kelpsea,7,Canon Draconique
+Kelpsea,15,Tir Aquatique
+Kelpsea,22,Tir Bulleux
+Kelpsea,30,Boule d'Énergie
+Kelpsea,40,Bombao
+Kelpsea,50,Hydro-Laser
+Kelpsea,70,Éruption Aquatique
+Kelpsea Ignis,1,Tir Enflammé
+Kelpsea Ignis,7,Canon Draconique
+Kelpsea Ignis,15,Flammes Scindées
+Kelpsea Ignis,22,Trait de Feu
+Kelpsea Ignis,30,Déchaînement Draconique
+Kelpsea Ignis,40,Souffle Enflammé
+Kelpsea Ignis,50,Boule Enflammée
+Kelpsea Ignis,70,Météore Draconique
+Ribbuny,1,Canon à Air
+Ribbuny,7,Tir Puissant
+Ribbuny,15,Missile de Glace
+Ribbuny,22,Morsure du Blizzard
+Ribbuny,30,Boule d'Énergie
+Ribbuny,40,Iceberg
+Ribbuny,50,Hyper Rayon
+Ribbuny,70,Explosion Sacrée
+Ribbuny Botan,1,Coupe-Rafale
+Ribbuny Botan,7,Tir Boueux
+Ribbuny Botan,15,Mitraille-Graines
+Ribbuny Botan,22,Explose-Graines
+Ribbuny Botan,30,Tranche Venteuse
+Ribbuny Botan,40,Lierre Circulaire
+Ribbuny Botan,50,Rayon Solaire
+Ribbuny Botan,70,Rafale Vent
+Jelliette,1,Jet d'Eau
+Jelliette,7,Tir Aquatique
+Jelliette,15,Tir Bulleux
+Jelliette,22,Bombao
+Jelliette,30,Éclabousse-Mur
+Jelliette,40,Hydro Tranchant
+Jelliette,50,Vague Scélérate
+Jelliette,70,Éruption Aquatique
+Jellroy,1,Tir Empoisonné
+Jellroy,7,Noirceur Expansive
+Jellroy,15,Tir Bulleux
+Jellroy,22,Flamme Spirituelle
+Jellroy,30,Douche Toxique
+Jellroy,40,Hydro Tranchant
+Jellroy,50,Légion Sombre
+Jellroy,70,Éruption Aquatique
+Amione,1,Jet d'Eau
+Amione,7,Tir Bulleux
+Amione,15,Geyser
+Amione,22,Double-Aqua
+Amione,30,Hydro Tranchant
+Amione,40,Hydro-Laser
+Amione,50,Vague Scélérate
+Amione,70,Éruption Aquatique
+Gloopie,1,Jet d'Eau
+Gloopie,7,Déchaînement d'Ombre
+Gloopie,15,Fumée de Jais
+Gloopie,22,Geyser
+Gloopie,30,Balle Cauchemar
+Gloopie,40,Double-Aqua
+Gloopie,50,Hydro Tranchant
+Gloopie,70,Légion Sombre
+Gloopie Primo,1,Jet d'Eau
+Gloopie Primo,7,Tir Puissant
+Gloopie Primo,15,Fumée de Jais
+Gloopie Primo,22,Lame Aérienne
+Gloopie Primo,30,Hydro Tranchant
+Gloopie Primo,40,Hydro-Laser
+Gloopie Primo,50,Éruption Aquatique
+Gloopie Primo,70,Explosion Sacrée
+Galeclaw,1,Griffe Planante
+Galeclaw,7,Canon à Air
+Galeclaw,15,Tir Boueux
+Galeclaw,22,Coupe-Rafale
+Galeclaw,30,Tornade de Sable
+Galeclaw,40,Tornade Verte
+Galeclaw,50,Hyper Rayon
+Galeclaw,70,Explosion Sacrée
+Wispaw,1,Balle Sombre
+Wispaw,7,Déchaînement d'Ombre
+Wispaw,15,Flamme Spirituelle
+Wispaw,22,Balle Cauchemar
+Wispaw,30,Morsure du Blizzard
+Wispaw,40,Apocalypse
+Wispaw,50,Laser Noir
+Wispaw,70,Légion Sombre
+Nitewing,1,Canon à Air
+Nitewing,7,Attaque Tornade
+Nitewing,15,Coupe-Rafale
+Nitewing,22,Boule d'Énergie
+Nitewing,30,Tornade de Sable
+Nitewing,40,Tornade Verte
+Nitewing,50,Hyper Rayon
+Nitewing,70,Explosion Sacrée
+Tombat,1,Canon à Air
+Tombat,7,Tir Empoisonné
+Tombat,15,Balle Sombre
+Tombat,22,Déchaînement d'Ombre
+Tombat,30,Flamme Spirituelle
+Tombat,40,Balle Cauchemar
+Tombat,50,Laser Noir
+Tombat,70,Légion Sombre
+Tocotoco,1,Autodestruction
+Tocotoco,7,Canon à Air
+Tocotoco,15,Tir Puissant
+Tocotoco,22,Autodestruction Ultime
+Tocotoco,30,Tornade de Sable
+Tocotoco,40,Boule d'Énergie
+Tocotoco,50,Hyper Rayon
+Tocotoco,70,Explosion Sacrée
+Univolt,1,Tir Étincelant
+Univolt,7,Onde Électrique
+Univolt,11,Ruée Foudroyante
+Univolt,15,Laser Chercheur
+Univolt,22,Éclair Horizontal
+Univolt,30,Triple Éclair
+Univolt,40,Coup de Foudre
+Univolt,50,Éclair Fulgurant
+Univolt,70,Canon Fulgurant
+Univolt Cryst,1,Missile de Glace
+Univolt Cryst,7,Coupe-Glace
+Univolt Cryst,15,Iceberg
+Univolt Cryst,22,Mur de Glace
+Univolt Cryst,30,Morsure du Blizzard
+Univolt Cryst,40,Chute de Diamants
+Univolt Cryst,50,Ère Glaciaire
+Univolt Cryst,70,Ouraglace
+Gobfin,1,Jet d'Eau
+Gobfin,7,Tir Puissant
+Gobfin,15,Tir Aquatique
+Gobfin,22,Tir Bulleux
+Gobfin,30,Coupe-Glace
+Gobfin,40,Bombao
+Gobfin,50,Hydro-Laser
+Gobfin,70,Éruption Aquatique
+Gobfin Ignis,1,Tir Enflammé
+Gobfin Ignis,7,Tir Puissant
+Gobfin Ignis,15,Flammes Scindées
+Gobfin Ignis,22,Trait de Feu
+Gobfin Ignis,30,Éclair Horizontal
+Gobfin Ignis,40,Boule Enflammée
+Gobfin Ignis,50,Inferno
+Gobfin Ignis,70,Tempête Éclair
+Loupmoon,1,Balle Sombre
+Loupmoon,7,Griffe Sautée
+Loupmoon,15,Déchaînement d'Ombre
+Loupmoon,22,Coupe-Glace
+Loupmoon,30,Flamme Spirituelle
+Loupmoon,40,Balle Cauchemar
+Loupmoon,50,Laser Noir
+Loupmoon,70,Légion Sombre
+Loupmoon Cryst,1,Missile de Glace
+Loupmoon Cryst,7,Coupe-Glace
+Loupmoon Cryst,15,Griffe Neigeuse
+Loupmoon Cryst,22,Mur de Glace
+Loupmoon Cryst,30,Grêle Tranchante
+Loupmoon Cryst,40,Trident Glacé
+Loupmoon Cryst,50,Morsure du Blizzard
+Loupmoon Cryst,70,Chute de Diamants
+Cawgnito,1,Canon à Air
+Cawgnito,7,Balle Sombre
+Cawgnito,15,Assaut Fantôme
+Cawgnito,22,Déchaînement d'Ombre
+Cawgnito,30,Flamme Spirituelle
+Cawgnito,40,Balle Cauchemar
+Cawgnito,50,Laser Noir
+Cawgnito,70,Légion Sombre
+Arsox,1,Tir Enflammé
+Arsox,7,Corne Brûlante
+Arsox,15,Flammes Scindées
+Arsox,22,Trait de Feu
+Arsox,30,Souffle Enflammé
+Arsox,40,Inferno
+Arsox,50,Boule Enflammée
+Arsox,70,Impact Rocheux
+Muffly,1,Canon à Air
+Muffly,7,Coupe-Glace
+Muffly,15,Lame Aérienne
+Muffly,22,Souffle Givré
+Muffly,30,Grêle Tranchante
+Muffly,40,Trident Glacé
+Muffly,50,Morsure du Blizzard
+Muffly,70,Chute de Diamants
+Bristla,1,Coupe-Rafale
+Bristla,7,Mitraille-Graines
+Bristla,15,Missile de Glace
+Bristla,22,Tornade Verte
+Bristla,30,Iceberg
+Bristla,40,Lierre Rampant
+Bristla,50,Rayon Solaire
+Bristla,70,Rafale Vent
+Cinnamoth,1,Canon à Air
+Cinnamoth,7,Coupe-Rafale
+Cinnamoth,15,Nuage Toxique
+Cinnamoth,22,Tornade de Sable
+Cinnamoth,30,Explose-Graines
+Cinnamoth,40,Tornade Verte
+Cinnamoth,50,Rayon Solaire
+Cinnamoth,70,Rafale Vent
+Puffolt,1,Double Croc (Fulgura)
+Puffolt,2,Croc Sauvage (Fulgura)
+Puffolt,7,Onde Électrique
+Puffolt,15,Boule de Foudre
+Puffolt,22,Triple Étincelle
+Puffolt,30,Coup de Foudre
+Puffolt,40,Éclair Fulgurant
+Puffolt,50,Tonnerre Omniprésent
+Puffolt,70,Canon Fulgurant
+Elphidran,1,Canon Draconique
+Elphidran,7,Déchaînement Draconique
+Elphidran,15,Trait de Feu
+Elphidran,22,Ouragan Mystique
+Elphidran,30,Souffle Draconique
+Elphidran,40,Hyper Rayon
+Elphidran,50,Météore Draconique
+Elphidran,70,Rafale Vent
+Elphidran Aqua,1,Tir Aquatique
+Elphidran Aqua,7,Canon Draconique
+Elphidran Aqua,15,Déchaînement Draconique
+Elphidran Aqua,22,Ouragan Mystique
+Elphidran Aqua,30,Pluie Acide
+Elphidran Aqua,40,Hydro-Laser
+Elphidran Aqua,50,Météore Draconique
+Elphidran Aqua,70,Éruption Aquatique
+Vanwyrm,1,Canon à Air
+Vanwyrm,7,Tir Enflammé
+Vanwyrm,15,Flammes Scindées
+Vanwyrm,22,Souffle Enflammé
+Vanwyrm,26,Souffle Aérien
+Vanwyrm,30,Balle Cauchemar
+Vanwyrm,40,Boule Enflammée
+Vanwyrm,50,Laser Noir
+Vanwyrm,70,Légion Sombre
+Vanwyrm Cryst,1,Canon à Air
+Vanwyrm Cryst,7,Missile de Glace
+Vanwyrm Cryst,15,Coupe-Glace
+Vanwyrm Cryst,22,Souffle Givré
+Vanwyrm Cryst,26,Tempête de Glace
+Vanwyrm Cryst,30,Balle Cauchemar
+Vanwyrm Cryst,40,Morsure du Blizzard
+Vanwyrm Cryst,50,Laser Noir
+Vanwyrm Cryst,70,Chute de Diamants
+Felbat,1,Tir Empoisonné
+Felbat,7,Balle Sombre
+Felbat,15,Déchaînement d'Ombre
+Felbat,22,Flamme Spirituelle
+Felbat,30,Balle Cauchemar
+Felbat,40,Inferno
+Felbat,50,Laser Noir
+Felbat,70,Légion Sombre
+Vaelet,1,Nuage Toxique
+Vaelet,7,Coupe-Rafale
+Vaelet,15,Tir Empoisonné
+Vaelet,22,Explose-Graines
+Vaelet,30,Tornade Verte
+Vaelet,40,Balle Cauchemar
+Vaelet,50,Rayon Solaire
+Vaelet,70,Rafale Vent
+Beegarde,1,Canon à Air
+Beegarde,7,Coupe-Rafale
+Beegarde,11,Lance Aiguille
+Beegarde,15,Sacrifice Ultime
+Beegarde,22,Tir Empoisonné
+Beegarde,30,Pluie Acide
+Beegarde,40,Tornade Verte
+Beegarde,50,Rayon Solaire
+Beegarde,70,Rafale Vent
+Elizabee,1,Canon à Air
+Elizabee,7,Coupe-Rafale
+Elizabee,15,Tir Empoisonné
+Elizabee,22,Bâton Tournoyant
+Elizabee,30,Tornade Verte
+Elizabee,40,Lierre Rampant
+Elizabee,50,Rayon Solaire
+Elizabee,70,Rafale Vent
+Lovander,1,Tir Puissant
+Lovander,7,Tir Empoisonné
+Lovander,15,Déchaînement d'Ombre
+Lovander,22,Pluie Acide
+Lovander,30,Boule d'Énergie
+Lovander,35,Douche Toxique
+Lovander,40,Autodestruction
+Lovander,50,Hyper Rayon
+Lovander,55,Laser Noir
+Lovander,70,Légion Sombre
+Grintale,1,Tir Boueux
+Grintale,7,Tir Puissant
+Grintale,15,Presse Féline
+Grintale,22,Explosion Rocailleuse
+Grintale,30,Canon à Pierre
+Grintale,40,Boule d'Énergie
+Grintale,50,Hyper Rayon
+Grintale,70,Explosion Sacrée
+Tarantriss,1,Nuage Toxique
+Tarantriss,7,Tir Empoisonné
+Tarantriss,15,Noirceur Expansive
+Tarantriss,22,Flèche Noire
+Tarantriss,30,Charge Arachnéenne
+Tarantriss,40,Douche Toxique
+Tarantriss,50,Apocalypse
+Tarantriss,70,Légion Sombre
+Polapup,1,Missile de Glace
+Polapup,7,Tir Aquatique
+Polapup,15,Iceberg
+Polapup,22,Geyser
+Polapup,30,Mur de Glace
+Polapup,40,Trident Glacé
+Polapup,50,Vague Scélérate
+Polapup,70,Chute de Diamants
+Polapup Terra,1,Missile de Glace
+Polapup Terra,7,Explosion Rocailleuse
+Polapup Terra,15,Iceberg
+Polapup Terra,22,Tremblement
+Polapup Terra,30,Morsure du Blizzard
+Polapup Terra,40,Tourbillon de Sable
+Polapup Terra,50,Impact Rocheux
+Polapup Terra,70,Chute de Diamants
+Leezpunk,1,Tir Empoisonné
+Leezpunk,7,Balle Sombre
+Leezpunk,15,Déchaînement d'Ombre
+Leezpunk,22,Flamme Spirituelle
+Leezpunk,30,Balle Cauchemar
+Leezpunk,40,Souffle Enflammé
+Leezpunk,50,Laser Noir
+Leezpunk,70,Légion Sombre
+Leezpunk,1,Tir Empoisonné
+Leezpunk,7,Balle Sombre
+Leezpunk,15,Déchaînement d'Ombre
+Leezpunk,22,Flamme Spirituelle
+Leezpunk,30,Balle Cauchemar
+Leezpunk,40,Souffle Enflammé
+Leezpunk,50,Laser Noir
+Leezpunk,70,Légion Sombre
+Leezpunk Ignis,1,Tir Enflammé
+Leezpunk Ignis,7,Tir Empoisonné
+Leezpunk Ignis,15,Flammes Scindées
+Leezpunk Ignis,22,Souffle Enflammé
+Leezpunk Ignis,30,Tempête Ardente
+Leezpunk Ignis,40,Inferno
+Leezpunk Ignis,50,Boule Enflammée
+Leezpunk Ignis,70,Tempête Éclair
+Gorirat,1,Tir Boueux
+Gorirat,7,Tir Puissant
+Gorirat,15,Combo Gorille
+Gorirat,22,Explosion Rocailleuse
+Gorirat,30,Mitraille-Graines
+Gorirat,40,Boule d'Énergie
+Gorirat,50,Hyper Rayon
+Gorirat,70,Explosion Sacrée
+Gorirat Terra,1,Tir Puissant
+Gorirat Terra,7,Tir Boueux
+Gorirat Terra,15,Explosion Rocailleuse
+Gorirat Terra,22,Canon à Pierre
+Gorirat Terra,30,Combo Gorille
+Gorirat Terra,35,Combo Primate
+Gorirat Terra,40,Tremblement
+Gorirat Terra,50,Lance-Roche
+Gorirat Terra,70,Impact Rocheux
+Surfent,1,Jet d'Eau
+Surfent,7,Canon Draconique
+Surfent,15,Tir Aquatique
+Surfent,22,Tir Bulleux
+Surfent,30,Déchaînement Draconique
+Surfent,40,Souffle Draconique
+Surfent,50,Hydro-Laser
+Surfent,70,Éruption Aquatique
+Surfent Terra,1,Tir Boueux
+Surfent Terra,7,Canon Draconique
+Surfent Terra,15,Explosion Rocailleuse
+Surfent Terra,22,Canon à Pierre
+Surfent Terra,30,Tornade de Sable
+Surfent Terra,40,Souffle Draconique
+Surfent Terra,50,Lance-Roche
+Surfent Terra,70,Impact Rocheux
+Robinquill,1,Coupe-Rafale
+Robinquill,7,Tir Puissant
+Robinquill,15,Tir Précis
+Robinquill,22,Explose-Graines
+Robinquill,30,Tornade Verte
+Robinquill,40,Lierre Rampant
+Robinquill,50,Rayon Solaire
+Robinquill,70,Rafale Vent
+Robinquill Terra,1,Tir Boueux
+Robinquill Terra,7,Coupe-Rafale
+Robinquill Terra,15,Tir Précis
+Robinquill Terra,22,Explosion Rocailleuse
+Robinquill Terra,30,Tornade de Sable
+Robinquill Terra,40,Rayon Solaire
+Robinquill Terra,50,Lance-Roche
+Robinquill Terra,70,Impact Rocheux
+Flopie,1,Coupe-Rafale
+Flopie,7,Canon à Air
+Flopie,15,Jet d'Eau
+Flopie,22,Mitraille-Graines
+Flopie,30,Tir Bulleux
+Flopie,40,Tornade Verte
+Flopie,50,Rayon Solaire
+Flopie,70,Rafale Vent
+Wixen,1,Tir Enflammé
+Wixen,7,Flammes Scindées
+Wixen,15,Trait de Feu
+Wixen,22,Flamme Spirituelle
+Wixen,30,Tempête Ardente
+Wixen,40,Boule Enflammée
+Wixen,50,Météore Draconique
+Wixen,70,Explosion Sacrée
+Wixen Noct,1,Noirceur Expansive
+Wixen Noct,7,Canon Noir
+Wixen Noct,15,Flèche Noire
+Wixen Noct,22,Tempête Ardente
+Wixen Noct,30,Flamme Spirituelle
+Wixen Noct,40,Mur de Flammes
+Wixen Noct,50,Apocalypse
+Wixen Noct,70,Légion Sombre
+Katress,1,Tir Enflammé
+Katress,7,Balle Sombre
+Katress,15,Trait de Feu
+Katress,22,Déchaînement d'Ombre
+Katress,30,Flamme Spirituelle
+Katress,40,Balle Cauchemar
+Katress,50,Laser Noir
+Katress,70,Légion Sombre
+Katress Ignis,1,Tir Enflammé
+Katress Ignis,7,Canon Noir
+Katress Ignis,15,Trait de Feu
+Katress Ignis,22,Tempête Ardente
+Katress Ignis,30,Mur de Flammes
+Katress Ignis,40,Concentration de Flammes
+Katress Ignis,50,Boule Enflammée
+Katress Ignis,70,Légion Sombre
+Helzephyr,1,Flammes Scindées
+Helzephyr,7,Balle Sombre
+Helzephyr,15,Déchaînement d'Ombre
+Helzephyr,22,Tempête Ardente
+Helzephyr,30,Flamme Spirituelle
+Helzephyr,40,Balle Cauchemar
+Helzephyr,50,Laser Noir
+Helzephyr,70,Légion Sombre
+Helzephyr,1,Flammes Scindées
+Helzephyr,7,Balle Sombre
+Helzephyr,15,Déchaînement d'Ombre
+Helzephyr,22,Tempête Ardente
+Helzephyr,30,Flamme Spirituelle
+Helzephyr,40,Balle Cauchemar
+Helzephyr,50,Laser Noir
+Helzephyr,70,Légion Sombre
+Helzephyr Lux,1,Tir Étincelant
+Helzephyr Lux,7,Onde Électrique
+Helzephyr Lux,15,Flèche Noire
+Helzephyr Lux,22,Balle Cauchemar
+Helzephyr Lux,30,Triple Étincelle
+Helzephyr Lux,40,Pluie Foudroyante
+Helzephyr Lux,50,Tempête Éclair
+Helzephyr Lux,70,Canon Fulgurant
+Elgrove,1,Tir Boueux
+Elgrove,7,Tornade Verte
+Elgrove,15,Tremblement
+Elgrove,22,Ruée Taurine
+Elgrove,30,Lierre Circulaire
+Elgrove,40,Vent Croisé
+Elgrove,50,Rafale Vent
+Elgrove,70,Ruée Taurine Furieuse
+Elgrove Cryst,1,Tir Boueux
+Elgrove Cryst,7,Souffle Givré
+Elgrove Cryst,15,Mur de Glace
+Elgrove Cryst,22,Ruée Boréale
+Elgrove Cryst,30,Trident Glacé
+Elgrove Cryst,40,Morsure du Blizzard
+Elgrove Cryst,50,Chute de Diamants
+Elgrove Cryst,70,Ruée Boréale Furieuse
+Lunaris,1,Canon à Air
+Lunaris,7,Tir Puissant
+Lunaris,15,Coupe-Glace
+Lunaris,22,Orbes de Plasma
+Lunaris,30,Boule d'Énergie
+Lunaris,40,Morsure du Blizzard
+Lunaris,50,Hyper Rayon
+Lunaris,70,Explosion Sacrée
+Fenglope,1,Canon à Air
+Fenglope,7,Tir Aquatique
+Fenglope,15,Tempête Nuageuse
+Fenglope,22,Pluie Acide
+Fenglope,30,Bombao
+Fenglope,40,Morsure du Blizzard
+Fenglope,50,Hyper Rayon
+Fenglope,70,Explosion Sacrée
+Fenglope Lux,1,Onde Électrique
+Fenglope Lux,7,Éclair Horizontal
+Fenglope Lux,15,Pluie Acide
+Fenglope Lux,22,Tempête Orageuse
+Fenglope Lux,30,Pluie Foudroyante
+Fenglope Lux,40,Éclair Fulgurant
+Fenglope Lux,50,Tempête Éclair
+Fenglope Lux,70,Canon Fulgurant
+Dinossom,1,Coupe-Rafale
+Dinossom,7,Fracas Botanique
+Dinossom,15,Déchaînement Draconique
+Dinossom,22,Explose-Graines
+Dinossom,30,Souffle Draconique
+Dinossom,40,Lierre Rampant
+Dinossom,50,Rayon Solaire
+Dinossom,70,Rafale Vent
+Dinossom Lux,1,Onde Électrique
+Dinossom Lux,7,Orbes de Plasma
+Dinossom Lux,15,Fracas Botanique
+Dinossom Lux,22,Souffle Draconique
+Dinossom Lux,30,Triple Éclair
+Dinossom Lux,35,Fracas Éclair
+Dinossom Lux,40,Coup de Foudre
+Dinossom Lux,50,Éclair Fulgurant
+Dinossom Lux,70,Tempête Éclair
+Bushi,1,Tir Enflammé
+Bushi,7,Coupe-Rafale
+Bushi,15,Coupe-Glace
+Bushi,22,Iaigiri
+Bushi,30,Souffle Enflammé
+Bushi,40,Coup de Foudre
+Bushi,50,Inferno
+Bushi,70,Boule Enflammée
+Bushi Noct,1,Flammes Scindées
+Bushi Noct,7,Noirceur Expansive
+Bushi Noct,15,Canon Noir
+Bushi Noct,18,Iaigiri
+Bushi Noct,22,Flèche Noire
+Bushi Noct,30,Flamme Spirituelle
+Bushi Noct,40,Mur de Flammes
+Bushi Noct,50,Apocalypse
+Bushi Noct,70,Légion Sombre
+Munchill,1,Tir Aquatique
+Munchill,7,Coupe-Glace
+Munchill,15,Souffle Givré
+Munchill,22,Crachat Glacé
+Munchill,30,Mur de Glace
+Munchill,40,Double-Aqua
+Munchill,50,Chute de Diamants
+Munchill,70,Éruption Aquatique
+Mammorest,1,Tir Boueux
+Mammorest,7,Mitraille-Graines
+Mammorest,15,Boule d'Énergie
+Mammorest,22,Tornade Verte
+Mammorest,30,Impact Terrestre
+Mammorest,40,Lierre Rampant
+Mammorest,50,Rayon Solaire
+Mammorest,70,Rafale Vent
+Mammorest Cryst,1,Canon à Pierre
+Mammorest Cryst,7,Coupe-Glace
+Mammorest Cryst,15,Boule d'Énergie
+Mammorest Cryst,22,Iceberg
+Mammorest Cryst,30,Impact Terrestre
+Mammorest Cryst,40,Souffle Givré
+Mammorest Cryst,50,Morsure du Blizzard
+Mammorest Cryst,70,Chute de Diamants
+Finsider,1,Tir Aquatique
+Finsider,7,Tir Bulleux
+Finsider,15,Boule d'Énergie
+Finsider,22,Double-Aqua
+Finsider,30,Fou de la Gâchette
+Finsider,40,Éclabousse-Mur
+Finsider,50,Hydro-Laser
+Finsider,70,Éruption Aquatique
+Finsider Ignis,1,Tir Enflammé
+Finsider Ignis,7,Flammes Scindées
+Finsider Ignis,15,Souffle Enflammé
+Finsider Ignis,22,Geyser
+Finsider Ignis,30,Fou de la Gâchette
+Finsider Ignis,40,Concentration de Flammes
+Finsider Ignis,50,Boule Enflammée
+Finsider Ignis,70,Éruption Aquatique
+Petallia,1,Coupe-Rafale
+Petallia,7,Tir Aquatique
+Petallia,15,Mitraille-Graines
+Petallia,22,Tir Bulleux
+Petallia,30,Tornade Verte
+Petallia,40,Lierre Rampant
+Petallia,50,Rayon Solaire
+Petallia,70,Rafale Vent
+Petallia Ignis,1,Tir Enflammé
+Petallia Ignis,7,Flammes Scindées
+Petallia Ignis,15,Trait de Feu
+Petallia Ignis,22,Tempête Ardente
+Petallia Ignis,30,Inferno
+Petallia Ignis,40,Concentration de Flammes
+Petallia Ignis,50,Boule Enflammée
+Petallia Ignis,70,Rafale Vent
+Leafan,1,Mitraille-Graines
+Leafan,7,Multi-Coupe
+Leafan,15,Tranche Venteuse
+Leafan,22,Combo Mawashi
+Leafan,30,Tranche-Rafale
+Leafan,40,Feuille Ricochet
+Leafan,50,Vent Croisé
+Leafan,70,Rafale Vent
+Incineram,1,Tir Enflammé
+Incineram,7,Flammes Scindées
+Incineram,15,Trait de Feu
+Incineram,22,Griffe Infernale
+Incineram,30,Déchaînement d'Ombre
+Incineram,40,Boule Enflammée
+Incineram,50,Inferno
+Incineram,70,Légion Sombre
+Incineram Noct,1,Tir Enflammé
+Incineram Noct,7,Flammes Scindées
+Incineram Noct,15,Trait de Feu
+Incineram Noct,22,Griffe Infernale
+Incineram Noct,30,Déchaînement d'Ombre
+Incineram Noct,35,Griffe Cauchemardesque
+Incineram Noct,40,Boule Enflammée
+Incineram Noct,50,Inferno
+Incineram Noct,70,Légion Sombre
+Incineram Noct,1,Tir Enflammé
+Incineram Noct,7,Flammes Scindées
+Incineram Noct,15,Trait de Feu
+Incineram Noct,22,Griffe Infernale
+Incineram Noct,30,Déchaînement d'Ombre
+Incineram Noct,35,Griffe Cauchemardesque
+Incineram Noct,40,Boule Enflammée
+Incineram Noct,50,Inferno
+Incineram Noct,70,Légion Sombre
+Dazzi,1,Canon à Air
+Dazzi,7,Onde Électrique
+Dazzi,15,Pluie Acide
+Dazzi,22,Éclair Horizontal
+Dazzi,30,Triple Éclair
+Dazzi,40,Coup de Foudre
+Dazzi,50,Éclair Fulgurant
+Dazzi,70,Tempête Éclair
+Dazzi Noct,1,Canon à Air
+Dazzi Noct,7,Déchaînement d'Ombre
+Dazzi Noct,15,Flèche Noire
+Dazzi Noct,22,Pluie Acide
+Dazzi Noct,30,Triple Éclair
+Dazzi Noct,40,Apocalypse
+Dazzi Noct,50,Pluie Foudroyante
+Dazzi Noct,70,Légion Sombre
+Pyrin,1,Tir Boueux
+Pyrin,7,Tir Enflammé
+Pyrin,15,Flammes Scindées
+Pyrin,22,Trait de Feu
+Pyrin,30,Charge-Flammes
+Pyrin,40,Inferno
+Pyrin,50,Boule Enflammée
+Pyrin,70,Impact Rocheux
+Pyrin Noct,1,Tir Enflammé
+Pyrin Noct,7,Déchaînement d'Ombre
+Pyrin Noct,15,Souffle Enflammé
+Pyrin Noct,22,Flamme Spirituelle
+Pyrin Noct,30,Charge-Ombre
+Pyrin Noct,40,Inferno
+Pyrin Noct,50,Laser Noir
+Pyrin Noct,70,Légion Sombre
+Relaxaurus,1,Canon Draconique
+Relaxaurus,7,Tir Aquatique
+Relaxaurus,15,Déchaînement Draconique
+Relaxaurus,22,Tir Bulleux
+Relaxaurus,30,Souffle Draconique
+Relaxaurus,40,Bombao
+Relaxaurus,50,Météore Draconique
+Relaxaurus,70,Éruption Aquatique
+Relaxaurus Lux,1,Tir Étincelant
+Relaxaurus Lux,7,Canon Draconique
+Relaxaurus Lux,15,Onde Électrique
+Relaxaurus Lux,22,Éclair Horizontal
+Relaxaurus Lux,30,Souffle Draconique
+Relaxaurus Lux,40,Coup de Foudre
+Relaxaurus Lux,50,Éclair Fulgurant
+Relaxaurus Lux,70,Canon Fulgurant
+Relaxaurus Lux,1,Tir Étincelant
+Relaxaurus Lux,7,Canon Draconique
+Relaxaurus Lux,15,Onde Électrique
+Relaxaurus Lux,22,Éclair Horizontal
+Relaxaurus Lux,30,Souffle Draconique
+Relaxaurus Lux,40,Coup de Foudre
+Relaxaurus Lux,50,Éclair Fulgurant
+Relaxaurus Lux,70,Canon Fulgurant
+Foxcicle,1,Canon à Air
+Foxcicle,7,Missile de Glace
+Foxcicle,15,Coupe-Glace
+Foxcicle,22,Flamme Spirituelle
+Foxcicle,30,Iceberg
+Foxcicle,40,Souffle Givré
+Foxcicle,50,Morsure du Blizzard
+Foxcicle,70,Chute de Diamants
+Beakon,1,Canon à Air
+Beakon,7,Tir Étincelant
+Beakon,15,Onde Électrique
+Beakon,22,Éclair Horizontal
+Beakon,26,Plongeon Éclair
+Beakon,30,Triple Éclair
+Beakon,40,Tornade de Sable
+Beakon,50,Éclair Fulgurant
+Beakon,70,Tempête Éclair
+Beakon Cryst,1,Missile de Glace
+Beakon Cryst,7,Iceberg
+Beakon Cryst,15,Souffle Givré
+Beakon Cryst,22,Grêle Tranchante
+Beakon Cryst,30,Trident Glacé
+Beakon Cryst,40,Morsure du Blizzard
+Beakon Cryst,50,Chute de Diamants
+Beakon Cryst,70,Plongeon Glacial
+Ghangler,1,Tir Aquatique
+Ghangler,7,Balle Sombre
+Ghangler,15,Flèche Noire
+Ghangler,22,Flamme Spirituelle
+Ghangler,30,Fouet-Lanterne
+Ghangler,40,Laser Noir
+Ghangler,50,Vague Scélérate
+Ghangler,70,Éruption Aquatique
+Ghangler Ignis,1,Tir Enflammé
+Ghangler Ignis,7,Trait de Feu
+Ghangler Ignis,15,Tir Bulleux
+Ghangler Ignis,22,Mur de Flammes
+Ghangler Ignis,30,Fouet-Lanterne Ardente
+Ghangler Ignis,40,Boule Enflammée
+Ghangler Ignis,50,Vague Scélérate
+Ghangler Ignis,70,Éruption Aquatique
+Rayhound,1,Double Croc (Fulgura)
+Rayhound,2,Croc Sauvage (Fulgura)
+Rayhound,3,Tir Boueux
+Rayhound,7,Onde Électrique
+Rayhound,15,Tir Étincelant
+Rayhound,22,Explosion Rocailleuse
+Rayhound,26,Appel Éclair
+Rayhound,30,Boule de Foudre
+Rayhound,40,Éclair Horizontal
+Rayhound,50,Éclair Fulgurant
+Rayhound,70,Tempête Éclair
+Rayhound Cryst,1,Double Croc (Glacia)
+Rayhound Cryst,2,Croc Sauvage (Glacia)
+Rayhound Cryst,3,Tir Boueux
+Rayhound Cryst,7,Coupe-Glace
+Rayhound Cryst,15,Iceberg
+Rayhound Cryst,22,Souffle Givré
+Rayhound Cryst,30,Frimas
+Rayhound Cryst,40,Trident Glacé
+Rayhound Cryst,50,Morsure du Blizzard
+Rayhound Cryst,70,Chute de Diamants
+Menasting,1,Tir Boueux
+Menasting,7,Tir Empoisonné
+Menasting,15,Déchaînement d'Ombre
+Menasting,22,Canon à Pierre
+Menasting,30,Balle Cauchemar
+Menasting,35,Piqûre Sautée
+Menasting,40,Lance-Roche
+Menasting,50,Laser Noir
+Menasting,70,Légion Sombre
+Menasting Terra,1,Tir Boueux
+Menasting Terra,7,Explosion Rocailleuse
+Menasting Terra,15,Canon à Pierre
+Menasting Terra,22,Tornade de Sable
+Menasting Terra,30,Piqûre Sautée
+Menasting Terra,40,Lance-Roche
+Menasting Terra,50,Tremblement
+Menasting Terra,70,Impact Rocheux
+Needoll,1,Mitraille-Graines
+Needoll,7,Explose-Graines
+Needoll,15,Lierre Rampant
+Needoll,22,Lierre Circulaire
+Needoll,30,Feuille Ricochet
+Needoll,40,Rayon Solaire
+Needoll,50,Vent Croisé
+Needoll,70,Rafale Vent
+Needoll Noct,1,Tir Empoisonné
+Needoll Noct,7,Explose-Graines
+Needoll Noct,15,Douche Toxique
+Needoll Noct,22,Lierre Circulaire
+Needoll Noct,30,Laser Noir
+Needoll Noct,40,Vent Croisé
+Needoll Noct,50,Légion Sombre
+Needoll Noct,70,Rafale Vent
+Reindrix,1,Canon à Air
+Reindrix,7,Missile de Glace
+Reindrix,15,Coupe-Glace
+Reindrix,22,Ruée Glacée
+Reindrix,30,Iceberg
+Reindrix,40,Souffle Givré
+Reindrix,50,Morsure du Blizzard
+Reindrix,70,Chute de Diamants
+Mossanda,1,Tir Puissant
+Mossanda,7,Mitraille-Graines
+Mossanda,15,Canon à Pierre
+Mossanda,22,Poing Musclé
+Mossanda,30,Explose-Graines
+Mossanda,40,Lierre Rampant
+Mossanda,50,Rayon Solaire
+Mossanda,70,Rafale Vent
+Mossanda Lux,1,Tir Étincelant
+Mossanda Lux,7,Onde Électrique
+Mossanda Lux,15,Éclair Horizontal
+Mossanda Lux,22,Explo-Poing
+Mossanda Lux,30,Triple Éclair
+Mossanda Lux,40,Coup de Foudre
+Mossanda Lux,50,Éclair Fulgurant
+Mossanda Lux,70,Canon Fulgurant
+Mossanda Lux,1,Tir Étincelant
+Mossanda Lux,7,Onde Électrique
+Mossanda Lux,15,Éclair Horizontal
+Mossanda Lux,22,Explo-Poing
+Mossanda Lux,30,Triple Éclair
+Mossanda Lux,40,Coup de Foudre
+Mossanda Lux,50,Éclair Fulgurant
+Mossanda Lux,70,Canon Fulgurant
+Chillet,1,Missile de Glace
+Chillet,7,Canon Draconique
+Chillet,11,Piqué Fusée
+Chillet,15,Déchaînement Draconique
+Chillet,22,Coupe-Glace
+Chillet,30,Souffle Draconique
+Chillet,40,Souffle Givré
+Chillet,50,Météore Draconique
+Chillet,70,Chute de Diamants
+Chillet Ignis,1,Tir Enflammé
+Chillet Ignis,7,Déchaînement Draconique
+Chillet Ignis,15,Trait de Feu
+Chillet Ignis,22,Souffle Enflammé
+Chillet Ignis,30,Piqué Fusée
+Chillet Ignis,40,Mur de Flammes
+Chillet Ignis,50,Boule Enflammée
+Chillet Ignis,70,Météore Draconique
+Ragnahawk,1,Canon à Air
+Ragnahawk,7,Flammes Scindées
+Ragnahawk,15,Trait de Feu
+Ragnahawk,22,Tornade de Sable
+Ragnahawk,26,Ruée Aviaire
+Ragnahawk,30,Tempête Ardente
+Ragnahawk,40,Souffle Enflammé
+Ragnahawk,50,Boule Enflammée
+Ragnahawk,70,Tempête Éclair
+Moldron,1,Flammes Scindées
+Moldron,7,Souffle Enflammé
+Moldron,15,Mur de Flammes
+Moldron,22,Tremblement
+Moldron,30,Pluie Volcanique
+Moldron,40,Impact Rocheux
+Moldron,50,Crache-Magma
+Moldron,70,Laser Magma
+Moldron Cryst,1,Iceberg
+Moldron Cryst,7,Souffle Givré
+Moldron Cryst,15,Trident Glacé
+Moldron Cryst,22,Tremblement
+Moldron Cryst,30,Morsure du Blizzard
+Moldron Cryst,40,Impact Rocheux
+Moldron Cryst,50,Crache-Glace
+Moldron Cryst,70,Laser-Glace
+Palumba,1,Mitraille-Graines
+Palumba,7,Explose-Graines
+Palumba,15,Tornade Verte
+Palumba,22,Tranche Venteuse
+Palumba,30,Coup de Pied Fulgurant
+Palumba,40,Feuille Ricochet
+Palumba,50,Vent Croisé
+Palumba,70,Rafale Vent
+Digtoise,1,Tir Aquatique
+Digtoise,7,Explosion Rocailleuse
+Digtoise,15,Coquille Rotative
+Digtoise,22,Canon à Pierre
+Digtoise,30,Tornade de Sable
+Digtoise,40,Bombao
+Digtoise,50,Lance-Roche
+Digtoise,70,Impact Rocheux
+Broncherry,1,Coupe-Rafale
+Broncherry,7,Tir Boueux
+Broncherry,15,Fracas Corporel
+Broncherry,22,Explose-Graines
+Broncherry,30,Tornade Verte
+Broncherry,40,Lierre Rampant
+Broncherry,50,Rayon Solaire
+Broncherry,70,Rafale Vent
+Broncherry Aqua,1,Tir Aquatique
+Broncherry Aqua,7,Tir Bulleux
+Broncherry Aqua,15,Fracas Corporel
+Broncherry Aqua,22,Explose-Graines
+Broncherry Aqua,26,Plaquage Trempé
+Broncherry Aqua,30,Lierre Rampant
+Broncherry Aqua,40,Bombao
+Broncherry Aqua,50,Hydro-Laser
+Broncherry Aqua,70,Éruption Aquatique
+Dumud,1,Tir Boueux
+Dumud,7,Tir Aquatique
+Dumud,15,Explosion Rocailleuse
+Dumud,22,Tir Bulleux
+Dumud,30,Bombao
+Dumud,40,Lance-Roche
+Dumud,50,Hydro-Laser
+Dumud,70,Éruption Aquatique
+Dumud Gild,1,Tir Boueux
+Dumud Gild,7,Tir Aquatique
+Dumud Gild,15,Explosion Rocailleuse
+Dumud Gild,22,Tornade de Sable
+Dumud Gild,30,Double-Aqua
+Dumud Gild,40,Tremblement
+Dumud Gild,50,Tourbillon de Sable
+Dumud Gild,70,Impact Rocheux
+Braloha,1,Tir Boueux
+Braloha,7,Explose-Graines
+Braloha,15,Tornade Verte
+Braloha,22,Lierre Rampant
+Braloha,30,Souffle Persistant
+Braloha,40,Rayon Solaire
+Braloha,50,Impact Rocheux
+Braloha,70,Rafale Vent
+Kitsun,1,Double Croc (Flamma)
+Kitsun,2,Croc Sauvage (Flamma)
+Kitsun,3,Tir Enflammé
+Kitsun,7,Flammes Scindées
+Kitsun,15,Flamme Spirituelle
+Kitsun,22,Flammes Azur
+Kitsun,30,Tempête Ardente
+Kitsun,40,Inferno
+Kitsun,50,Boule Enflammée
+Kitsun,70,Explosion Sacrée
+Kitsun Noct,1,Double Croc (Tenebrae)
+Kitsun Noct,2,Croc Sauvage (Tenebrae)
+Kitsun Noct,3,Canon Noir
+Kitsun Noct,7,Flammes Scindées
+Kitsun Noct,15,Flamme Spirituelle
+Kitsun Noct,22,Éclair Ardent de l'Ombre
+Kitsun Noct,30,Balle Cauchemar
+Kitsun Noct,40,Concentration de Flammes
+Kitsun Noct,50,Légion Sombre
+Kitsun Noct,70,Météore Draconique
+Kitsun Noct,1,Double Croc (Tenebrae)
+Kitsun Noct,2,Croc Sauvage (Tenebrae)
+Kitsun Noct,3,Canon Noir
+Kitsun Noct,7,Flammes Scindées
+Kitsun Noct,15,Flamme Spirituelle
+Kitsun Noct,22,Éclair Ardent de l'Ombre
+Kitsun Noct,30,Balle Cauchemar
+Kitsun Noct,40,Concentration de Flammes
+Kitsun Noct,50,Légion Sombre
+Kitsun Noct,70,Météore Draconique
+Kitsun Noct,1,Double Croc (Tenebrae)
+Kitsun Noct,2,Croc Sauvage (Tenebrae)
+Kitsun Noct,3,Canon Noir
+Kitsun Noct,7,Flammes Scindées
+Kitsun Noct,15,Flamme Spirituelle
+Kitsun Noct,22,Éclair Ardent de l'Ombre
+Kitsun Noct,30,Balle Cauchemar
+Kitsun Noct,40,Concentration de Flammes
+Kitsun Noct,50,Légion Sombre
+Kitsun Noct,70,Météore Draconique
+Blazehowl,1,Tir Enflammé
+Blazehowl,7,Tir Puissant
+Blazehowl,15,Trait de Feu
+Blazehowl,22,Souffle Enflammé
+Blazehowl,30,Inferno
+Blazehowl,35,Croc Volcanique
+Blazehowl,40,Boule Enflammée
+Blazehowl,50,Hyper Rayon
+Blazehowl,70,Tempête Éclair
+Blazehowl Noct,1,Déchaînement d'Ombre
+Blazehowl Noct,7,Trait de Feu
+Blazehowl Noct,15,Souffle Enflammé
+Blazehowl Noct,22,Flamme Spirituelle
+Blazehowl Noct,30,Inferno
+Blazehowl Noct,35,Croc Volcanique
+Blazehowl Noct,40,Boule Enflammée
+Blazehowl Noct,50,Laser Noir
+Blazehowl Noct,70,Légion Sombre
+Warsect,1,Coupe-Rafale
+Warsect,7,Mitraille-Graines
+Warsect,15,Explosion Rocailleuse
+Warsect,22,Canon à Pierre
+Warsect,30,Gigacorne
+Warsect,40,Lance-Roche
+Warsect,50,Rayon Solaire
+Warsect,70,Rafale Vent
+Warsect Terra,1,Tir Boueux
+Warsect Terra,7,Mitraille-Graines
+Warsect Terra,15,Gigacorne
+Warsect Terra,22,Canon à Pierre
+Warsect Terra,30,Tranche Venteuse
+Warsect Terra,40,Tremblement
+Warsect Terra,50,Impact Rocheux
+Warsect Terra,70,Canon Fulgurant
+Frostplume,1,Missile de Glace
+Frostplume,7,Coupe-Glace
+Frostplume,15,Iceberg
+Frostplume,22,Souffle Givré
+Frostplume,30,Mur de Glace
+Frostplume,40,Grêle Tranchante
+Frostplume,50,Chute de Diamants
+Frostplume,70,Ère Glaciaire
+Majex,1,Tir Obscur
+Majex,7,Flammes Scindées
+Majex,15,Flèche Noire
+Majex,22,Mur de Flammes
+Majex,30,Pluie Volcanique
+Majex,40,Laser Noir
+Majex,50,Boule Enflammée
+Majex,70,Légion Sombre
+Sibelyx,1,Missile de Glace
+Sibelyx,7,Coupe-Glace
+Sibelyx,15,Iceberg
+Sibelyx,22,Souffle Givré
+Sibelyx,30,Flamme Spirituelle
+Sibelyx,40,Bombao
+Sibelyx,50,Morsure du Blizzard
+Sibelyx,70,Chute de Diamants
+Sibelyx Primo,1,Canon à Air
+Sibelyx Primo,7,Tir Puissant
+Sibelyx Primo,15,Boule d'Énergie
+Sibelyx Primo,22,Lame Aérienne
+Sibelyx Primo,30,Morsure du Blizzard
+Sibelyx Primo,40,Hyper Rayon
+Sibelyx Primo,50,Chute de Diamants
+Sibelyx Primo,70,Explosion Sacrée
+Maraith,1,Tir Enflammé
+Maraith,7,Balle Sombre
+Maraith,15,Trait de Feu
+Maraith,22,Déchaînement d'Ombre
+Maraith,30,Flamme Spirituelle
+Maraith,35,Ruée Spirituelle
+Maraith,40,Balle Cauchemar
+Maraith,50,Laser Noir
+Maraith,70,Légion Sombre
+Shroomer,1,Tir Empoisonné
+Shroomer,7,Mitraille-Graines
+Shroomer,15,Tornade Verte
+Shroomer,22,Explose-Graines
+Shroomer,30,Lierre Rampant
+Shroomer,40,Lierre Circulaire
+Shroomer,50,Rayon Solaire
+Shroomer,70,Rafale Vent
+Shroomer Noct,1,Tir Empoisonné
+Shroomer Noct,7,Déchaînement d'Ombre
+Shroomer Noct,15,Tornade Verte
+Shroomer Noct,22,Explose-Graines
+Shroomer Noct,30,Balle Cauchemar
+Shroomer Noct,40,Lierre Circulaire
+Shroomer Noct,50,Laser Noir
+Shroomer Noct,70,Légion Sombre
+Icelyn,1,Missile de Glace
+Icelyn,7,Coupe-Glace
+Icelyn,15,Iceberg
+Icelyn,22,Souffle Givré
+Icelyn,30,Mur de Glace
+Icelyn,40,Morsure du Blizzard
+Icelyn,50,Chute de Diamants
+Icelyn,70,Ère Glaciaire
+Gildra,1,Balle Sombre
+Gildra,7,Flamme Spirituelle
+Gildra,15,Tornade de Sable
+Gildra,22,Balle Cauchemar
+Gildra,30,Tourbillon de Sable
+Gildra,40,Momirage
+Gildra,50,Légion Sombre
+Gildra,70,Impact Rocheux
+Jormuntide,1,Tir Aquatique
+Jormuntide,7,Canon Draconique
+Jormuntide,15,Souffle Draconique
+Jormuntide,22,Bombao
+Jormuntide,30,Triple Éclair
+Jormuntide,35,Serpent Marin
+Jormuntide,40,Hydro-Laser
+Jormuntide,50,Météore Draconique
+Jormuntide,70,Éruption Aquatique
+Jormuntide Ignis,1,Tir Enflammé
+Jormuntide Ignis,7,Canon Draconique
+Jormuntide Ignis,15,Tempête Ardente
+Jormuntide Ignis,22,Souffle Enflammé
+Jormuntide Ignis,30,Triple Éclair
+Jormuntide Ignis,35,Serpent de Feu
+Jormuntide Ignis,40,Boule Enflammée
+Jormuntide Ignis,50,Météore Draconique
+Jormuntide Ignis,70,Tempête Éclair
+Suzaku,1,Canon à Air
+Suzaku,7,Tir Enflammé
+Suzaku,15,Flammes Scindées
+Suzaku,22,Trait de Feu
+Suzaku,30,Souffle Enflammé
+Suzaku,40,Tempête Ardente
+Suzaku,50,Boule Enflammée
+Suzaku,70,Explosion Sacrée
+Suzaku Aqua,1,Jet d'Eau
+Suzaku Aqua,7,Missile de Glace
+Suzaku Aqua,15,Tir Aquatique
+Suzaku Aqua,22,Souffle Givré
+Suzaku Aqua,30,Bombao
+Suzaku Aqua,40,Morsure du Blizzard
+Suzaku Aqua,50,Hydro-Laser
+Suzaku Aqua,70,Éruption Aquatique
+Dazemu,1,Tir Boueux
+Dazemu,7,Tir Puissant
+Dazemu,15,Explosion Rocailleuse
+Dazemu,22,Canon à Pierre
+Dazemu,30,Ruée Terrestre
+Dazemu,40,Tremblement
+Dazemu,50,Tourbillon de Sable
+Dazemu,70,Impact Rocheux
+Quivern,1,Canon Draconique
+Quivern,7,Flammes Scindées
+Quivern,15,Pluie Acide
+Quivern,22,Souffle Draconique
+Quivern,30,Tornade Verte
+Quivern,40,Bombao
+Quivern,50,Météore Draconique
+Quivern,70,Chute de Diamants
+Quivern Botan,1,Canon Draconique
+Quivern Botan,7,Coupe-Rafale
+Quivern Botan,15,Mitraille-Graines
+Quivern Botan,22,Souffle Draconique
+Quivern Botan,30,Tornade Verte
+Quivern Botan,40,Comète
+Quivern Botan,50,Lierre Circulaire
+Quivern Botan,70,Rafale Vent
+Lullu,1,Coupe-Rafale
+Lullu,7,Mitraille-Graines
+Lullu,15,Multi-Coupe
+Lullu,22,Tornade Verte
+Lullu,30,Explosion Sacrée
+Lullu,40,Lierre Circulaire
+Lullu,50,Rayon Solaire
+Lullu,70,Rafale Vent
+Kikit,1,Tir Puissant
+Kikit,7,Tir Boueux
+Kikit,15,Explosion Rocailleuse
+Kikit,22,Boule d'Énergie
+Kikit,30,Tornade de Sable
+Kikit,40,Tremblement
+Kikit,50,Lance-Roche
+Kikit,70,Impact Rocheux
+Yakumo,1,Double Croc
+Yakumo,2,Croc Sauvage
+Yakumo,3,Tir Boueux
+Yakumo,7,Tir Puissant
+Yakumo,15,Explosion Rocailleuse
+Yakumo,22,Boule d'Énergie
+Yakumo,30,Lame Aérienne
+Yakumo,40,Explosion Sacrée
+Yakumo,50,Hyper Rayon
+Yakumo,70,Impact Rocheux
+Skutlass,1,Jet d'Eau
+Skutlass,7,Tir Bulleux
+Skutlass,15,Geyser
+Skutlass,22,Double-Aqua
+Skutlass,30,Hydro Tranchant
+Skutlass,40,Hydro-Laser
+Skutlass,50,Vague Scélérate
+Skutlass,70,Éruption Aquatique
+Skutlass Ignis,1,Jet d'Eau
+Skutlass Ignis,7,Trait de Feu
+Skutlass Ignis,15,Tempête Ardente
+Skutlass Ignis,22,Double-Aqua
+Skutlass Ignis,30,Hydro Tranchant
+Skutlass Ignis,40,Hydro-Laser
+Skutlass Ignis,50,Boule Enflammée
+Skutlass Ignis,70,Éruption Aquatique
+Reptyro,1,Tir Enflammé
+Reptyro,7,Explosion Rocailleuse
+Reptyro,15,Canon à Pierre
+Reptyro,22,Souffle Enflammé
+Reptyro,30,Déchaînement Volcanique
+Reptyro,40,Inferno
+Reptyro,50,Lance-Roche
+Reptyro,70,Boule Enflammée
+Reptyro Cryst,1,Missile de Glace
+Reptyro Cryst,7,Explosion Rocailleuse
+Reptyro Cryst,15,Iceberg
+Reptyro Cryst,22,Souffle Givré
+Reptyro Cryst,30,Explosion Givrée
+Reptyro Cryst,40,Morsure du Blizzard
+Reptyro Cryst,50,Lance-Roche
+Reptyro Cryst,70,Chute de Diamants
+Starryon,1,Tir Boueux
+Starryon,7,Balle Sombre
+Starryon,15,Flamme Spirituelle
+Starryon,22,Balle Cauchemar
+Starryon,30,Inferno
+Starryon,40,Apocalypse
+Starryon,45,Galopade Spectrale
+Starryon,50,Piétinement Mortel
+Starryon,70,Légion Sombre
+Starryon Primo,1,Tir Boueux
+Starryon Primo,7,Tir Puissant
+Starryon Primo,15,Boule d'Énergie
+Starryon Primo,22,Lame Aérienne
+Starryon Primo,30,Hyper Rayon
+Starryon Primo,40,Galopade Argentée
+Starryon Primo,50,Explosion Sacrée
+Starryon Primo,70,Pas Royal
+Pierdon,1,Tir Boueux
+Pierdon,7,Explosion Rocailleuse
+Pierdon,15,Canon à Pierre
+Pierdon,22,Tremblement
+Pierdon,30,Lance-Roche
+Pierdon,40,Tourbillon de Sable
+Pierdon,50,Carnage Cornu
+Pierdon,70,Impact Rocheux
+Pierdon Cryst,1,Missile de Glace
+Pierdon Cryst,7,Coupe-Glace
+Pierdon Cryst,15,Iceberg
+Pierdon Cryst,22,Trident Glacé
+Pierdon Cryst,30,Morsure du Blizzard
+Pierdon Cryst,40,Chute de Diamants
+Pierdon Cryst,50,Carnage Glacé
+Pierdon Cryst,70,Ère Glaciaire
+Cryolinx,1,Tir Puissant
+Cryolinx,7,Missile de Glace
+Cryolinx,15,Canon à Pierre
+Cryolinx,22,Coupe-Glace
+Cryolinx,30,Iceberg
+Cryolinx,35,Griffe Blizzard
+Cryolinx,40,Souffle Givré
+Cryolinx,50,Morsure du Blizzard
+Cryolinx,70,Chute de Diamants
+Cryolinx Terra,1,Tir Puissant
+Cryolinx Terra,7,Explosion Rocailleuse
+Cryolinx Terra,15,Canon à Pierre
+Cryolinx Terra,22,Tornade de Sable
+Cryolinx Terra,30,Griffe Rocailleuse
+Cryolinx Terra,35,Tremblement
+Cryolinx Terra,40,Lance-Roche
+Cryolinx Terra,50,Impact Rocheux
+Cryolinx Terra,70,Tempête Éclair
+Snugloo,1,Missile de Glace
+Snugloo,7,Coupe-Glace
+Snugloo,15,Iceberg
+Snugloo,22,Souffle Givré
+Snugloo,30,Grêle Tranchante
+Snugloo,40,Trident Glacé
+Snugloo,50,Morsure du Blizzard
+Snugloo,70,Chute de Diamants
+Wumpo,1,Missile de Glace
+Wumpo,7,Coupe-Rafale
+Wumpo,15,Coupe-Glace
+Wumpo,22,Iceberg
+Wumpo,30,Souffle Givré
+Wumpo,35,Boule de Neige
+Wumpo,40,Morsure du Blizzard
+Wumpo,50,Rayon Solaire
+Wumpo,70,Chute de Diamants
+Wumpo Botan,1,Coupe-Rafale
+Wumpo Botan,7,Tir Aquatique
+Wumpo Botan,15,Explose-Graines
+Wumpo Botan,22,Tornade Verte
+Wumpo Botan,30,Lierre Rampant
+Wumpo Botan,35,Roulade Herbeuse
+Wumpo Botan,40,Bombao
+Wumpo Botan,50,Rayon Solaire
+Wumpo Botan,70,Rafale Vent
+Sootseer,1,Tir Enflammé
+Sootseer,7,Balle Sombre
+Sootseer,15,Flammes Scindées
+Sootseer,22,Flamme Spirituelle
+Sootseer,30,Balle Cauchemar
+Sootseer,40,Concentration de Flammes
+Sootseer,50,Pluie Volcanique
+Sootseer,70,Légion Sombre
+Carnibora,1,Tir Empoisonné
+Carnibora,7,Mitraille-Graines
+Carnibora,15,Explose-Graines
+Carnibora,22,Lierre Rampant
+Carnibora,30,Lierre Circulaire
+Carnibora,40,Rayon Solaire
+Carnibora,50,Vent Croisé
+Carnibora,70,Rafale Vent
+Blazamut,1,Tir Puissant
+Blazamut,7,Tir Enflammé
+Blazamut,15,Explosion Rocailleuse
+Blazamut,22,Souffle Enflammé
+Blazamut,30,Inferno
+Blazamut,35,Impact Brûlant
+Blazamut,40,Boule Enflammée
+Blazamut,50,Lance-Roche
+Blazamut,70,Impact Rocheux
+Blazamut Ryu,1,Déchaînement Draconique
+Blazamut Ryu,7,Souffle Enflammé
+Blazamut Ryu,15,Mur de Flammes
+Blazamut Ryu,22,Comète
+Blazamut Ryu,30,Tranche-Faisceau
+Blazamut Ryu,40,Impact Brûlant
+Blazamut Ryu,50,Magna-Écrasement
+Blazamut Ryu,70,Pluie de Météorites
+Dualith,1,Tir Boueux
+Dualith,7,Explosion Rocailleuse
+Dualith,15,Explose-Graines
+Dualith,22,Tremblement
+Dualith,30,Rayon Solaire
+Dualith,40,Bras Fusée
+Dualith,50,Rafale Vent
+Dualith,70,Germocanon
+Dualith Noct,1,Noirceur Expansive
+Dualith Noct,7,Canon Noir
+Dualith Noct,15,Flèche Noire
+Dualith Noct,22,Tremblement
+Dualith Noct,30,Laser Noir
+Dualith Noct,40,Bras Fusée
+Dualith Noct,50,Légion Sombre
+Dualith Noct,70,Obscuracine
+Anubis,1,Explosion Rocailleuse
+Anubis,7,Boule d'Énergie
+Anubis,15,Tornade de Sable
+Anubis,22,Coup de Pied tournoyant
+Anubis,30,Frappe Énergique
+Anubis,40,Fracasse-Sol
+Anubis,50,Lance-Roche
+Anubis,55,Tourbillon de Sable
+Anubis,70,Impact Rocheux
+Sekhmet,1,Tir Boueux
+Sekhmet,7,Tir Puissant
+Sekhmet,15,Explosion Rocailleuse
+Sekhmet,22,Lame Aérienne
+Sekhmet,30,Saltogriffe
+Sekhmet,40,Roulagriffe
+Sekhmet,50,Tourbillon de Sable
+Sekhmet,70,Impact Rocheux
+Prixter,1,Tir Empoisonné
+Prixter,7,Canon Noir
+Prixter,15,Explosion Rocailleuse
+Prixter,22,Tornade de Sable
+Prixter,30,Fracas Vertical
+Prixter,40,Lance-Roche
+Prixter,50,Laser Noir
+Prixter,70,Légion Sombre
+Prixter Lux,1,Tir Boueux
+Prixter Lux,7,Onde Électrique
+Prixter Lux,15,Éclair Horizontal
+Prixter Lux,22,Tornade de Sable
+Prixter Lux,30,Triple Étincelle
+Prixter Lux,40,Tonnerre Omniprésent
+Prixter Lux,50,Uppercut Fulgurant
+Prixter Lux,70,Laser Léthal
+Tetroise,1,Explosion Rocailleuse
+Tetroise,7,Canon à Pierre
+Tetroise,15,Tornade de Sable
+Tetroise,22,Tremblement
+Tetroise,30,Lance-Roche
+Tetroise,40,Tourbillon de Sable
+Tetroise,50,Presse Cubique
+Tetroise,70,Impact Rocheux
+Tetroise Primo,1,Tir Puissant
+Tetroise Primo,7,Boule d'Énergie
+Tetroise Primo,15,Lame Aérienne
+Tetroise Primo,22,Trident Glacé
+Tetroise Primo,30,Hyper Rayon
+Tetroise Primo,40,Chute de Diamants
+Tetroise Primo,50,Explosion Sacrée
+Tetroise Primo,70,Écrasement Sacré
+Nyafia,1,Nuage Toxique
+Nyafia,7,Tir Empoisonné
+Nyafia,15,Explosion Rocailleuse
+Nyafia,22,Déchaînement d'Ombre
+Nyafia,30,Douche Toxique
+Nyafia,40,Balle Cauchemar
+Nyafia,50,Laser Noir
+Nyafia,70,Légion Sombre
+Mimog,1,Tir Puissant
+Mimog,7,Canon Noir
+Mimog,15,Flamme Spirituelle
+Mimog,22,Boule d'Énergie
+Mimog,30,Lame Aérienne
+Mimog,40,Explosion Sacrée
+Mimog,50,Hyper Rayon
+Mimog,70,Légion Sombre
+Xenovader,1,Tir Puissant
+Xenovader,7,Tir Empoisonné
+Xenovader,15,Noirceur Expansive
+Xenovader,22,Flèche Noire
+Xenovader,30,Balle Cauchemar
+Xenovader,40,Griffe Maléfique
+Xenovader,50,Laser Noir
+Xenovader,70,Légion Sombre
+Xenovader,1,Griffe Maléfique
+Xenovader,2,Tir Empoisonné
+Xenovader,3,Canon Noir
+Xenovader,1,Griffe Maléfique
+Xenovader,2,Balle Cauchemar
+Xenovader,3,Canon Noir
+Xenovader,1,Tir Puissant
+Xenovader,7,Tir Empoisonné
+Xenovader,15,Noirceur Expansive
+Xenovader,22,Flèche Noire
+Xenovader,30,Balle Cauchemar
+Xenovader,40,Griffe Maléfique
+Xenovader,50,Laser Noir
+Xenovader,70,Légion Sombre
+Xenogard,1,Canon Draconique
+Xenogard,7,Déchaînement Draconique
+Xenogard,15,Lame Aérienne
+Xenogard,22,Souffle Draconique
+Xenogard,30,Trident Glacé
+Xenogard,40,Comète
+Xenogard,50,Tranche-Faisceau
+Xenogard,70,Météore Draconique
+Xenogard,1,Souffle Draconique
+Xenogard,2,Comète
+Xenogard,3,Canon Draconique
+Xenogard,1,Canon Draconique
+Xenogard,2,Comète
+Xenogard,3,Tranche-Faisceau
+Prunelia,1,Nuage Toxique
+Prunelia,7,Coupe-Rafale
+Prunelia,15,Tir Empoisonné
+Prunelia,22,Explose-Graines
+Prunelia,30,Douche Toxique
+Prunelia,40,Lierre Rampant
+Prunelia,50,Rayon Solaire
+Prunelia,70,Rafale Vent
+Nitemary,1,Balle Sombre
+Nitemary,7,Noirceur Expansive
+Nitemary,15,Canon Noir
+Nitemary,22,Flèche Noire
+Nitemary,30,Flamme Spirituelle
+Nitemary,40,Balle Cauchemar
+Nitemary,50,Légion Sombre
+Nitemary,70,Boule Enflammée
+Nitemary Botan,1,Coupe-Rafale
+Nitemary Botan,7,Explose-Graines
+Nitemary Botan,15,Tornade Verte
+Nitemary Botan,22,Lierre Circulaire
+Nitemary Botan,30,Feuille Ricochet
+Nitemary Botan,40,Rayon Solaire
+Nitemary Botan,50,Vent Croisé
+Nitemary Botan,70,Rafale Vent
+Smokie,1,Double Croc (Tenebrae)
+Smokie,2,Croc Sauvage (Tenebrae)
+Smokie,3,Tir Boueux
+Smokie,7,Noirceur Expansive
+Smokie,15,Canon Noir
+Smokie,22,Déchaînement d'Ombre
+Smokie,30,Balle Cauchemar
+Smokie,40,Comète
+Smokie,50,Laser Noir
+Smokie,70,Légion Sombre
+Smokie Cryst,1,Double Croc (Tenebrae)
+Smokie Cryst,2,Croc Sauvage (Tenebrae)
+Smokie Cryst,7,Coupe-Glace
+Smokie Cryst,15,Souffle Givré
+Smokie Cryst,22,Grêle Tranchante
+Smokie Cryst,30,Trident Glacé
+Smokie Cryst,40,Morsure du Blizzard
+Smokie Cryst,50,Laser Noir
+Smokie Cryst,70,Chute de Diamants
+Omascul,1,Balle Sombre
+Omascul,7,Noirceur Expansive
+Omascul,15,Canon Noir
+Omascul,22,Déchaînement d'Ombre
+Omascul,30,Balle Cauchemar
+Omascul,40,Vol d'Âme
+Omascul,50,Laser Noir
+Omascul,70,Légion Sombre
+Whalaska,1,Missile de Glace
+Whalaska,7,Coupe-Glace
+Whalaska,15,Iceberg
+Whalaska,22,Geyser
+Whalaska,30,Mur de Glace
+Whalaska,40,Cryolance
+Whalaska,50,Éruption Aquatique
+Whalaska,70,Chute de Diamants
+Whalaska Ignis,1,Tir Enflammé
+Whalaska Ignis,7,Trait de Feu
+Whalaska Ignis,15,Iceberg
+Whalaska Ignis,22,Mur de Flammes
+Whalaska Ignis,30,Mur de Glace
+Whalaska Ignis,40,Pluie Volcanique
+Whalaska Ignis,50,Cryolance
+Whalaska Ignis,70,Boule Enflammée
+Verdash,1,Coupe-Rafale
+Verdash,7,Canon à Pierre
+Verdash,15,Mitraille-Graines
+Verdash,22,Explosion Rocailleuse
+Verdash,30,Tornade Verte
+Verdash,35,Ruée Rotative
+Verdash,40,Lierre Rampant
+Verdash,50,Rayon Solaire
+Verdash,70,Rafale Vent
+Splatterina,1,Balle Sombre
+Splatterina,7,Noirceur Expansive
+Splatterina,15,Canon Noir
+Splatterina,22,Déchaînement d'Ombre
+Splatterina,30,Balle Cauchemar
+Splatterina,40,Rancune Déchaînée
+Splatterina,50,Légion Sombre
+Splatterina,70,Boule Enflammée
+Gildane,1,Double Croc (Terra)
+Gildane,2,Croc Sauvage (Terra)
+Gildane,3,Tir Puissant
+Gildane,7,Tir Boueux
+Gildane,15,Explosion Rocailleuse
+Gildane,22,Boule d'Énergie
+Gildane,30,Tremblement
+Gildane,40,Ruée Écrasante
+Gildane,50,Impact Rocheux
+Gildane,70,Explosion Sacrée
+Dogen,1,Canon à Air
+Dogen,7,Tir Puissant
+Dogen,15,Canon à Pierre
+Dogen,22,Boule d'Énergie
+Dogen,30,Lame Aérienne
+Dogen,40,Posture Résolue
+Dogen,50,Hyper Rayon
+Dogen,70,Explosion Sacrée
+Bulldosu,1,Tir Boueux
+Bulldosu,7,Explosion Rocailleuse
+Bulldosu,15,Canon à Pierre
+Bulldosu,22,Tremblement
+Bulldosu,30,Lance-Roche
+Bulldosu,40,Tourbillon de Sable
+Bulldosu,50,Plaquage Dosukoï
+Bulldosu,70,Impact Rocheux
+Celesdir,1,Tir Puissant
+Celesdir,7,Boule d'Énergie
+Celesdir,15,Lame Aérienne
+Celesdir,22,Comète
+Celesdir,30,Explosion Sacrée
+Celesdir,40,Hyper Rayon
+Celesdir,50,Nova Sacrée
+Celesdir,70,Salve Lumineuse
+Celesdir Noct,1,Canon Noir
+Celesdir Noct,7,Flèche Noire
+Celesdir Noct,15,Flamme Spirituelle
+Celesdir Noct,22,Balle Cauchemar
+Celesdir Noct,30,Apocalypse
+Celesdir Noct,40,Laser Noir
+Celesdir Noct,50,Légion Sombre
+Celesdir Noct,70,Nova Noire
+Astegon,1,Canon Draconique
+Astegon,7,Flamme Spirituelle
+Astegon,15,Déchaînement Draconique
+Astegon,22,Balle Cauchemar
+Astegon,30,Souffle Draconique
+Astegon,35,Poing Brûlant
+Astegon,40,Laser Noir
+Astegon,50,Météore Draconique
+Astegon,70,Légion Sombre
+Knocklem,1,Tir Puissant
+Knocklem,7,Explosion Rocailleuse
+Knocklem,15,Canon à Pierre
+Knocklem,22,Tremblement
+Knocklem,30,Lance-Roche
+Knocklem,40,Coupe-Sol
+Knocklem,50,Tourbillon de Sable
+Knocklem,70,Impact Rocheux
+Knocklem,1,Tir Puissant
+Knocklem,7,Explosion Rocailleuse
+Knocklem,15,Canon à Pierre
+Knocklem,22,Tremblement
+Knocklem,30,Lance-Roche
+Knocklem,40,Coupe-Sol
+Knocklem,50,Tourbillon de Sable
+Knocklem Ignis,1,Trait de Feu
+Knocklem Ignis,7,Tempête Ardente
+Knocklem Ignis,15,Mur de Flammes
+Knocklem Ignis,22,Concentration de Flammes
+Knocklem Ignis,30,Pluie Volcanique
+Knocklem Ignis,40,Inferno
+Knocklem Ignis,50,Boule Enflammée
+Knocklem Ignis,70,Trancheflamme
+Silvegis,1,Canon Draconique
+Silvegis,7,Coupe-Glace
+Silvegis,15,Iceberg
+Silvegis,22,Souffle Draconique
+Silvegis,30,Canon Explosif
+Silvegis,40,Canon Chargé
+Silvegis,50,Charge Aegis
+Silvegis,70,Météore Draconique
+Azurmane,1,Tir Étincelant
+Azurmane,7,Onde Électrique
+Azurmane,15,Éclair Horizontal
+Azurmane,22,Triple Étincelle
+Azurmane,30,Tonnerre Omniprésent
+Azurmane,40,Canon Fulgurant
+Azurmane,45,Charge Flash
+Azurmane,50,Charge Flash
+Azurmane,70,Tempête Éclair
+Valentail,1,Tir Boueux
+Valentail,7,Canon à Air
+Valentail,15,Tir Puissant
+Valentail,22,Boule d'Énergie
+Valentail,30,Lame Aérienne
+Valentail,40,Tornade de Sable
+Valentail,50,Hyper Rayon
+Valentail,70,Explosion Sacrée
+Snock,1,Onde Électrique
+Snock,7,Éclair Horizontal
+Snock,15,Triple Étincelle
+Snock,22,Coup de Foudre
+Snock,30,Éclair Fulgurant
+Snock,40,Tonnerre Omniprésent
+Snock,50,Électrocarapace
+Snock,70,Canon Fulgurant
+Snock Lux,1,Onde Électrique
+Snock Lux,7,Canon à Pierre
+Snock Lux,15,Tremblement
+Snock Lux,22,Triple Étincelle
+Snock Lux,30,Lance-Roche
+Snock Lux,40,Tourbillon de Sable
+Snock Lux,50,Électrocarapace
+Snock Lux,70,Impact Rocheux
+Souffline,1,Coupe-Rafale
+Souffline,7,Mitraille-Graines
+Souffline,15,Explose-Graines
+Souffline,22,Tornade Verte
+Souffline,30,Feuille Ricochet
+Souffline,40,Rayon Solaire
+Souffline,50,Vent Croisé
+Souffline,70,Rafale Vent
+Lapiron,1,Tir Boueux
+Lapiron,7,Explosion Rocailleuse
+Lapiron,15,Canon à Pierre
+Lapiron,22,Tornade de Sable
+Lapiron,30,Tremblement
+Lapiron,40,Lance-Roche
+Lapiron,50,Tourbillon de Sable
+Lapiron,70,Impact Rocheux
+Hoodle,1,Balle Sombre
+Hoodle,7,Canon Noir
+Hoodle,15,Déchaînement d'Ombre
+Hoodle,22,Flamme Spirituelle
+Hoodle,30,Balle Cauchemar
+Hoodle,40,Apocalypse
+Hoodle,50,Laser Noir
+Hoodle,70,Légion Sombre
+Slowatt,1,Lance Foudroyante
+Slowatt,7,Onde Électrique
+Slowatt,15,Orbes de Plasma
+Slowatt,22,Éclair Horizontal
+Slowatt,30,Triple Étincelle
+Slowatt,40,Éclair Fulgurant
+Slowatt,50,Tonnerre Omniprésent
+Slowatt,70,Canon Fulgurant
+Bakemi,1,Balle Sombre
+Bakemi,7,Déchaînement d'Ombre
+Bakemi,15,Flamme Spirituelle
+Bakemi,22,Balle Cauchemar
+Bakemi,30,Apocalypse
+Bakemi,40,Laser Noir
+Bakemi,50,Boule Enflammée
+Bakemi,70,Légion Sombre
+Solmora,1,Tir Bulleux
+Solmora,7,Geyser
+Solmora,15,Double-Aqua
+Solmora,22,Éclabousse-Mur
+Solmora,30,Hydro Tranchant
+Solmora,40,Hydro-Laser
+Solmora,50,Vague Scélérate
+Solmora,70,Éruption Aquatique
+Solmora Lux,1,Tir Aquatique
+Solmora Lux,7,Onde Électrique
+Solmora Lux,15,Double-Aqua
+Solmora Lux,22,Triple Étincelle
+Solmora Lux,30,Pluie Foudroyante
+Solmora Lux,40,Vague Scélérate
+Solmora Lux,50,Tempête Éclair
+Solmora Lux,70,Éruption Aquatique
+Lapure,1,Tir Puissant
+Lapure,7,Tir Bulleux
+Lapure,15,Boule d'Énergie
+Lapure,22,Lame Aérienne
+Lapure,30,Éclabousse-Mur
+Lapure,40,Hydro Tranchant
+Lapure,50,Hyper Rayon
+Lapure,70,Explosion Sacrée
+Eidrolon,1,Déchaînement Draconique
+Eidrolon,7,Souffle Draconique
+Eidrolon,15,Tranche-Faisceau
+Eidrolon,22,Chute de Comètes
+Eidrolon,30,Queue Tranchante
+Eidrolon,40,Météore Draconique
+Eidrolon,50,Phosphorayon
+Eidrolon,70,Pluie de Météorites
+Eidrolon Ignis,1,Déchaînement Draconique
+Eidrolon Ignis,7,Souffle Enflammé
+Eidrolon Ignis,15,Canon Explosif
+Eidrolon Ignis,22,Canon Chargé
+Eidrolon Ignis,30,Queue Tranchante
+Eidrolon Ignis,40,Boule Enflammée
+Eidrolon Ignis,50,Phosphorayon
+Eidrolon Ignis,70,Pluie de Météorites
+Dynamoff,1,Tir Étincelant
+Dynamoff,7,Onde Électrique
+Dynamoff,15,Boule de Foudre
+Dynamoff,22,Lame Aérienne
+Dynamoff,30,Triple Éclair
+Dynamoff,40,Coup de Foudre
+Dynamoff,50,Pluie Foudroyante
+Dynamoff,70,Tempête Éclair
+Tropicaw,1,Coupe-Rafale
+Tropicaw,7,Mitraille-Graines
+Tropicaw,15,Tornade Verte
+Tropicaw,22,Tranche Venteuse
+Tropicaw,30,Feuille Ricochet
+Tropicaw,40,Vent Croisé
+Tropicaw,50,Piétinement Floral
+Tropicaw,70,Rafale Vent
+Flaracle,1,Tir Enflammé
+Flaracle,7,Trait de Feu
+Flaracle,15,Souffle Enflammé
+Flaracle,22,Mur de Flammes
+Flaracle,30,Concentration de Flammes
+Flaracle,40,Laser Noir
+Flaracle,50,Pluie Volcanique
+Flaracle,70,Boule Enflammée
+Ophydia,1,Tir Bulleux
+Ophydia,7,Explose-Graines
+Ophydia,15,Double-Aqua
+Ophydia,22,Lierre Circulaire
+Ophydia,30,Hydro-Laser
+Ophydia,40,Rafale Vent
+Ophydia,50,Lotus Astral
+Ophydia,70,Éruption Aquatique
+Dupin,1,Flammes Scindées
+Dupin,7,Souffle Enflammé
+Dupin,15,Mur de Flammes
+Dupin,22,Concentration de Flammes
+Dupin,30,Pluie Volcanique
+Dupin,40,Inferno
+Dupin,50,Boule Enflammée
+Dupin,70,Passe-passe
+Roujay,1,Noirceur Expansive
+Roujay,7,Canon Noir
+Roujay,15,Flèche Noire
+Roujay,22,Lame Aérienne
+Roujay,30,Balle Cauchemar
+Roujay,40,Apocalypse
+Roujay,50,Laser Noir
+Roujay,70,Légion Sombre
+Venusa,1,Nuage Toxique
+Venusa,7,Tir Empoisonné
+Venusa,15,Déchaînement d'Ombre
+Venusa,22,Flamme Spirituelle
+Venusa,30,Douche Toxique
+Venusa,40,Laser Noir
+Venusa,50,Légion Sombre
+Venusa,70,Dispersion Toxique
+Mycora,1,Coupe-Rafale
+Mycora,7,Tir Empoisonné
+Mycora,15,Tornade Verte
+Mycora,22,Tranche Venteuse
+Mycora,30,Douche Toxique
+Mycora,40,Rayon Solaire
+Mycora,50,Vent Croisé
+Mycora,70,Rafale Vent
+Loomen,1,Balle Sombre
+Loomen,7,Flammes Scindées
+Loomen,15,Flamme Spirituelle
+Loomen,22,Balle Cauchemar
+Loomen,30,Concentration de Flammes
+Loomen,40,Pluie Volcanique
+Loomen,50,Légion Sombre
+Loomen,70,Feu-Follet
+Wistella,1,Canon Noir
+Wistella,7,Flèche Noire
+Wistella,15,Comète
+Wistella,22,Balle Cauchemar
+Wistella,30,Chute de Comètes
+Wistella,40,Pluie d'Étoiles
+Wistella,50,Météore Draconique
+Wistella,70,Légion Sombre
+Solenne,1,Tir Obscur
+Solenne,7,Canon Noir
+Solenne,15,Lame Aérienne
+Solenne,22,Balle Cauchemar
+Solenne,30,Laser Noir
+Solenne,40,Danse de la Plume Noire
+Solenne,50,Légion Sombre
+Solenne,70,Explosion Sacrée
+Renjishi,1,Tir Enflammé
+Renjishi,7,Flammes Scindées
+Renjishi,15,Souffle Enflammé
+Renjishi,22,Mur de Flammes
+Renjishi,30,Concentration de Flammes
+Renjishi,40,Pluie Volcanique
+Renjishi,50,Inferno
+Renjishi,70,Boule Enflammée
+Aegidron,1,Explosion Rocailleuse
+Aegidron,7,Canon Explosif
+Aegidron,15,Tremblement
+Aegidron,22,Canon Chargé
+Aegidron,30,Tourbillon de Sable
+Aegidron,40,Impact Rocheux
+Aegidron,50,Météore Draconique
+Aegidron,70,Missile Kaboum
+Grizzbolt,1,Tir Étincelant
+Grizzbolt,7,Onde Électrique
+Grizzbolt,15,Griffe Éclair
+Grizzbolt,22,Éclair Horizontal
+Grizzbolt,30,Triple Éclair
+Grizzbolt,40,Coup de Foudre
+Grizzbolt,50,Éclair Fulgurant
+Grizzbolt,55,Tank Foudroyant
+Grizzbolt,70,Laser Léthal
+Lyleen,1,Coupe-Rafale
+Lyleen,7,Mitraille-Graines
+Lyleen,15,Explose-Graines
+Lyleen,22,Bombao
+Lyleen,30,Tornade Verte
+Lyleen,40,Lierre Rampant
+Lyleen,50,Rayon Solaire
+Lyleen,55,Protection de Fertilité
+Lyleen,70,Rafale Vent
+Lyleen Noct,1,Balle Sombre
+Lyleen Noct,7,Coupe-Glace
+Lyleen Noct,15,Déchaînement d'Ombre
+Lyleen Noct,22,Souffle Givré
+Lyleen Noct,30,Balle Cauchemar
+Lyleen Noct,40,Morsure du Blizzard
+Lyleen Noct,45,Pluie d'Étoiles
+Lyleen Noct,50,Laser Noir
+Lyleen Noct,70,Légion Sombre
+Orserk,1,Keraunos
+Orserk,7,Coup de Foudre
+Orserk,15,Tir Étincelant
+Orserk,22,Souffle Draconique
+Orserk,30,Éclair Horizontal
+Orserk,40,Triple Éclair
+Orserk,50,Éclair Fulgurant
+Orserk,55,Polykeraunos
+Orserk,70,Pluie de Météorites
+Faleris,1,Tir Enflammé
+Faleris,7,Trait de Feu
+Faleris,15,Flammes Scindées
+Faleris,22,Souffle Enflammé
+Faleris,30,Ailes Flamboyantes
+Faleris,40,Inferno
+Faleris,50,Boule Enflammée
+Faleris,55,Vague Brûlante
+Faleris,70,Explosion Sacrée
+Faleris,1,Tir Enflammé
+Faleris,7,Trait de Feu
+Faleris,15,Flammes Scindées
+Faleris,22,Souffle Enflammé
+Faleris,30,Ailes Flamboyantes
+Faleris,40,Inferno
+Faleris,50,Boule Enflammée
+Faleris,55,Vague Brûlante
+Faleris,70,Explosion Sacrée
+Faleris Aqua,1,Jet d'Eau
+Faleris Aqua,7,Tir Bulleux
+Faleris Aqua,15,Pluie Acide
+Faleris Aqua,22,Geyser
+Faleris Aqua,30,Éclabousse-Mur
+Faleris Aqua,40,Ailes Aqueuses
+Faleris Aqua,50,Hydro-Laser
+Faleris Aqua,70,Éruption Aquatique
+Shadowbeak,1,Canon à Air
+Shadowbeak,7,Balle Sombre
+Shadowbeak,15,Déchaînement d'Ombre
+Shadowbeak,22,Flamme Spirituelle
+Shadowbeak,30,Balle Cauchemar
+Shadowbeak,40,Catastrophe Divine
+Shadowbeak,50,Laser Noir
+Shadowbeak,55,Catastrophe Divine II
+Shadowbeak,70,Légion Sombre
+Selyne,1,Canon Noir
+Selyne,7,Flèche Noire
+Selyne,15,Lame Aérienne
+Selyne,18,Comète
+Selyne,22,Explosion Sacrée
+Selyne,30,Lame Seigetsu
+Selyne,40,Pluie d'Étoiles
+Selyne,50,Rayon Lunaire
+Selyne,70,Flash Seigetsu
+Selyne,1,Boule d'Énergie
+Selyne,2,Lame Aérienne
+Selyne,3,Explosion Sacrée
+Selyne,4,Flèche Noire
+Selyne,5,Flamme Spirituelle
+Selyne,6,Balle Cauchemar
+Selyne,7,Mur de Glace
+Selyne,8,Comète
+Bastigor,1,Canon à Pierre
+Bastigor,7,Iceberg
+Bastigor,15,Souffle Givré
+Bastigor,22,Griffe Glacée
+Bastigor,30,Tremblement
+Bastigor,40,Impact Rocheux
+Bastigor,50,Chute de Diamants
+Bastigor,55,Impact Glacial
+Bastigor,70,Double Morsure du Blizzard
+Shaolong,1,Tir Aquatique
+Shaolong,7,Pluie Acide
+Shaolong,15,Comète
+Shaolong,22,Canon Explosif
+Shaolong,30,Ruée Azurée
+Shaolong,40,Dracoflamme Azur
+Shaolong,50,Tourbillon Céleste
+Shaolong,70,Pluie de Météorites
+Silvance,1,Lame Aérienne
+Silvance,7,Feuille Ricochet
+Silvance,15,Morsure du Blizzard
+Silvance,22,Vent Croisé
+Silvance,30,Rafale Vent
+Silvance,40,Explosion Sacrée
+Silvance,50,Mégaspore
+Silvance,70,Spores Explosives
+Dandilord,1,Canon Noir
+Dandilord,7,Explose-Graines
+Dandilord,15,Lierre Circulaire
+Dandilord,22,Laser Noir
+Dandilord,30,Légion Sombre
+Dandilord,40,Rafale Vent
+Dandilord,50,Balade Toxique
+Dandilord,70,Danse Toxique
+Bellanoir,1,Canon Noir
+Bellanoir,7,Noirceur Expansive
+Bellanoir,15,Flèche Noire
+Bellanoir,22,Flamme Spirituelle
+Bellanoir,30,Balle Cauchemar
+Bellanoir,40,Apocalypse
+Bellanoir,50,Rayons Cauchemardesques
+Bellanoir,70,Légion Sombre
+Bellanoir Libero,1,Canon Noir
+Bellanoir Libero,7,Noirceur Expansive
+Bellanoir Libero,15,Flèche Noire
+Bellanoir Libero,22,Balle Cauchemar
+Bellanoir Libero,30,Apocalypse
+Bellanoir Libero,40,Valse Enflammée
+Bellanoir Libero,50,Floraison Cauchemardesque
+Bellanoir Libero,70,Légion Sombre
+Xenolord,1,Canon Draconique
+Xenolord,7,Noirceur Expansive
+Xenolord,15,Ailes Traqueuses
+Xenolord,22,Taillade Rayonnante
+Xenolord,30,Rayon Astral
+Xenolord,40,Météore Cosmique
+Xenolord,50,Laser Oméga
+Xenolord,70,Pluie de Météorites
+Hartalis,1,Tir Puissant
+Hartalis,7,Boule d'Énergie
+Hartalis,15,Explosion Sacrée
+Hartalis,22,Salve Lumineuse
+Hartalis,30,Ailes Célestes
+Hartalis,40,Pluie Sacrée
+Hartalis,50,Lumière Salvatrice
+Hartalis,70,Rafale Vent
+Paladius,1,Tir Puissant
+Paladius,7,Missile de Glace
+Paladius,15,Iceberg
+Paladius,22,Boule d'Énergie
+Paladius,30,Morsure du Blizzard
+Paladius,40,Lance Sacrée
+Paladius,50,Hyper Rayon
+Paladius,55,Ère Glaciaire
+Paladius,60,Explosion Sacrée
+Paladius,70,Salve Lumineuse
+Necromus,1,Déchaînement d'Ombre
+Necromus,7,Flammes Scindées
+Necromus,15,Flamme Spirituelle
+Necromus,22,Balle Cauchemar
+Necromus,30,Lance-Roche
+Necromus,40,Lance Double
+Necromus,50,Laser Noir
+Necromus,55,Apocalypse
+Necromus,60,Impact Rocheux
+Necromus,70,Légion Sombre
+Frostallion,1,Canon à Air
+Frostallion,7,Missile de Glace
+Frostallion,15,Coupe-Glace
+Frostallion,22,Iceberg
+Frostallion,30,Ailes Cristallines
+Frostallion,40,Souffle Givré
+Frostallion,50,Morsure du Blizzard
+Frostallion,55,Explosion Sacrée
+Frostallion,60,Double Morsure du Blizzard
+Frostallion,70,Ère Glaciaire
+Frostallion Noct,1,Canon à Air
+Frostallion Noct,7,Balle Sombre
+Frostallion Noct,15,Déchaînement d'Ombre
+Frostallion Noct,22,Flamme Spirituelle
+Frostallion Noct,30,Ailes Cristallines
+Frostallion Noct,40,Balle Cauchemar
+Frostallion Noct,45,Ailes Noires
+Frostallion Noct,50,Laser Noir
+Frostallion Noct,55,Double Morsure du Blizzard
+Frostallion Noct,60,Légion Sombre
+Frostallion Noct,70,Ère Glaciaire
+Neptilius,1,Tir Aquatique
+Neptilius,7,Tir Bulleux
+Neptilius,15,Geyser
+Neptilius,22,Double-Aqua
+Neptilius,30,Éclabousse-Mur
+Neptilius,40,Vague Scélérate
+Neptilius,50,Éruption Aquatique
+Neptilius,60,Laser Torrentiel
+Neptilius,70,Tempête Éclair
+Jetragon,1,Flammes Scindées
+Jetragon,7,Déchaînement Draconique
+Jetragon,15,Tempête Ardente
+Jetragon,22,Souffle Draconique
+Jetragon,30,Faisceau Stellaire
+Jetragon,40,Boule Enflammée
+Jetragon,50,Météore Draconique
+Jetragon,55,Tranche-Faisceau
+Jetragon,60,Pluie de Météorites
+Jetragon,70,Pluie d'Étoiles
+Panthalus,1,Pluie de Bulles
+Panthalus,7,Marche d'Écume
+Panthalus,15,Lames Marines
+Panthalus,22,Déferlante Abyssale
+Panthalus,30,Maelström
+Panthalus,40,Surgissement Colossal
+Panthalus,50,Explosion Sacrée
+Panthalus,60,Hurle-Cyclone
+Panthalus,1,Pluie de Bulles
+Panthalus,7,Marche d'Écume
+Panthalus,15,Lames Marines
+Panthalus,22,Déferlante Abyssale
+Panthalus,30,Maelström
+Panthalus,40,Surgissement Colossal
+Panthalus,50,Explosion Sacrée
+Panthalus,60,Hurle-Cyclone
+Gelée verte,1,Écrasement Gélatineux (plante)
+Gelée bleue,1,Écrasement Gélatineux (eau)
+Gelée rouge,1,Écrasement Gélatineux (feu)
+Gelée violette,1,Écrasement Gélatineux (ténèbres)
+Gelée lumineuse,1,Écrasement Gélatineux (non élémentaire)
+Gelée arc-en-ciel,1,Écrasement Gélatineux (arc-en-ciel)
+Épée envoûtée,1,Charge de l'Épée
+Chauve-souris des grottes,1,Assaut Vampire
+Chauve-souris lumineuse,1,Assaut Vampire
+Œil de Cthulhu,1,Charge Hypnotique
+Œil de Cthulhu,2,Invocation de Serviteurs
+Œil de Cthulhu,1,Charge Hypnotique
+Œil de Cthulhu,2,Invocation de Serviteurs
+Œil de démon,1,Charge Oculaire

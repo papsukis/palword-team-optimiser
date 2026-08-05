@@ -1,65 +1,762 @@
-﻿Pal,Partner Skill,Pal Element,Category,Activation,Primary Effect,Target,Affected Element,Effect Range / Scaling,Player Buff,Pal Buff,Team Buff,Enemy / Status Interaction,Element Conversion,Mount / Gear Requirement,Stacks with Same Species?,Elemental Team Value (/10),Recommended Role,Source,Data Date,Notes
-Aegidron,Indestructible Fortress,Dragon,Resistance / Mount,In party,Reduces explosive damage and grants Stun immunity,Player + party,All,Rank-scaled,Damage resistance,,Explosive resistance; Stun immunity,,,Saddle / Tech 79,No,8,Defensive mount,https://www.palworld.tools/partner-skills,2026-08-05,Useful against explosive-heavy encounters.
-Anubis,Guardian of the Desert,Ground,Conversion / Combat,Activated,Converts player attacks to Ground and increases Attack,Player,Ground,Rank-scaled,Attack increase,,,,Ground,None stated,No,9.5,Player-DPS converter,https://paldb.cc/fr/Partner_Skill,2026-08-05,Core Ground player-damage option.
-Azurobe,Waterwing Dance,Water / Dragon,Conversion / Mount,Mounted,Converts player attacks to Water and increases Attack,Player,Water,Attack +5% to +20%,Attack increase,,,,Water,Saddle / Tech 24,No,9,Water converter mount,https://paldb.cc/fr/Partner_Skill,2026-08-05,Water-travel mount and player conversion.
-Azurobe Cryst,Icewing Dance,Ice / Dragon,Conversion / Mount,Mounted,Converts player attacks to Ice and increases Attack,Player,Ice,Attack +5% to +20%,Attack increase,,,,Ice,Saddle / Tech 27,No,9,Ice converter mount,https://paldb.cc/fr/Partner_Skill,2026-08-05,Water-travel mount with Ice conversion.
-Beakon,Thunderous,Electric,Conversion / Flying Mount,Mounted,"Converts player attacks to Electric, increases Attack, and gains speed from other Electric Pals",Player + self,Electric,Rank-scaled,Attack increase,Movement speed by team composition,,,Electric,Saddle / Tech 29,Composition-based; duplicate effect excluded,9.5,Electric converter mount,https://www.palworld.tools/partner-skills,2026-08-05,Strong mono-Electric mount.
-Beakon Cryst,Coldsnap,Ice,Conversion / Flying Mount,Mounted,"Converts player attacks to Ice, increases Attack, and gains speed from other Ice Pals",Player + self,Ice,Rank-scaled,Attack increase,Movement speed by team composition,,,Ice,Saddle / Tech 71,Composition-based; duplicate effect excluded,9.5,Ice converter mount,https://www.palworld.tools/partner-skills,2026-08-05,Strong mono-Ice mount.
-Blazamut,Magma Kaiser,Fire,Conditional Combat Buff,In party,"Defeating an enemy raises the active Pal's Attack and Defense for 20 seconds, stacking up to five times",Active Pal,All,Up to 5 stacks,,Attack + Defense,,On-kill stacking,,Saddle / Tech 46,Internal stacks; duplicate Pal rule separate,8.5,Snowball buffer,https://www.palworld.tools/partner-skills,2026-08-05,Best in encounters with adds.
-Blazamut Ryu,Dragon Kaiser,Dragon / Fire,Weakness Amplifier / Mount,In party,Increases Dragon weak-point damage dealt by player and Pals,Player + party,Dragon,25% to 40% on PalDB-style rank scaling,Dragon weak-point damage,Dragon weak-point damage,Dragon weakness amplification,,,Saddle / Tech 55,No,10,Dragon team amplifier,https://www.palworld.tools/partner-skills,2026-08-05,Premium Dragon support and mount.
-Bristla,Princess Gaze,Grass,Element Attack Aura,In party,Increases Attack of Grass Pals,Party Pals,Grass,15% to 30% typical elemental aura,,Grass Attack,Grass Attack aura,,,,No,8.5,Grass attack buffer,https://www.palworld.tools/partner-skills,2026-08-05,Same-species duplicates do not stack.
-Bulldosu,Yokozuna's Presence,Ground,Resistance / Mount,In party,Reduces Electric damage and grants immunity to Electrical,Player + party,Ground counter,Rank-scaled,Electric resistance,,Electric resistance; Electrical immunity,,,Saddle / Tech 53,No,8,Ground defensive support,https://www.palworld.tools/partner-skills,2026-08-05,Excellent into Electric enemies.
-Chillet,Wriggling Weasel,Ice / Dragon,Conversion / Mount,Mounted,Converts player attacks to Dragon and increases Attack,Player,Dragon,Rank-scaled,Attack increase,,,,Dragon,Saddle / Tech 11,No,9,Dragon converter mount,https://www.palworld.tools/partner-skills,2026-08-05,Accessible Dragon player-DPS converter.
-Chillet Ignis,Sparkling Weasel,Fire / Dragon,Conversion / Mount,Mounted,Converts player attacks to Fire and increases Attack,Player,Fire,Rank-scaled,Attack increase,,,,Fire,Saddle / Tech 40,No,9,Fire converter mount,https://www.palworld.tools/partner-skills,2026-08-05,Fire player-DPS converter.
-Cremis,Fluffy Wool,Neutral,Element Attack Aura,In party,Increases Attack of Neutral Pals,Party Pals,Neutral,15% to 30%,,Neutral Attack,Neutral Attack aura,,,,No,8.5,Neutral attack buffer,https://paldb.cc/fr/Partner_Skill,2026-08-05,Also produces Wool at a ranch.
-Croajiro Noct,Shadow Stance,Water / Dark,Weakness Amplifier / Mobility,In party + activated jump,Improves Dark weak-point damage for player and Pals,Player + party,Dark,25% to 40%,Dark weak-point damage,Dark weak-point damage,Dark weakness amplification,,,,No,9.5,Dark team amplifier,https://paldb.cc/fr/Partner_Skill,2026-08-05,Also launches the player upward.
-Dandilord,Mist Stalwart,Grass / Dark,Status / Resistance,Activated + in party,Player attacks inflict Poison; party gains Poison immunity,Player + party,Grass / Dark synergy,Rank-scaled,Poison application,,Poison immunity,Poison application and toxic-gas protection,,,No,9,Poison enabler,https://www.palworld.tools/partner-skills,2026-08-05,Pairs with Prixter and other Poison payoff Pals.
-Dinossom,Fragrant Dragon,Grass / Dragon,Element Defense Aura / Mount,In party,Increases Defense of Dragon Pals,Party Pals,Dragon,15% to 30% typical aura,,Dragon Defense,Dragon Defense aura,,,Saddle / Tech 24,No,8,Dragon defense buffer,https://www.palworld.tools/partner-skills,2026-08-05,Defensive mono-Dragon support.
-Dinossom Lux,Thunder Dragon,Electric / Dragon,Element Defense Aura / Mount,In party,Increases Defense of Electric Pals,Party Pals,Electric,15% to 30% typical aura,,Electric Defense,Electric Defense aura,,,Saddle / Tech 34,No,8,Electric defense buffer,https://www.palworld.tools/partner-skills,2026-08-05,Defensive mono-Electric support.
-Dumud,Soil Improver,Ground / Water,Element Attack Aura,In party,Increases Attack of Ground Pals,Party Pals,Ground,15% to 30%,,Ground Attack,Ground Attack aura,,,,No,8.5,Ground attack buffer,https://paldb.cc/fr/Partner_Skill,2026-08-05,Also produces High Quality Pal Oil.
-Elgrove,Mother Nature's Menace,Grass,Conversion / Combat,Activated,Converts player attacks to Grass and increases Attack,Player,Grass,Attack +30% to +50%,Attack increase,,,,Grass,None stated,No,9.5,Grass player-DPS converter,https://paldb.cc/fr/Partner_Skill,2026-08-05,High-value Grass conversion.
-Elgrove Cryst,Father Winter's Threat,Ice,Status Combo,In party,Player instantly Freezes enemies already affected by Wetness,Player,Ice,Conditional trigger,Freeze trigger,,,Wetness → Freeze,,,No,9,Freeze combo enabler,https://paldb.cc/fr/Partner_Skill,2026-08-05,Excellent with Water status application.
-Elphidran Aqua,Amicable Water Dragon,Dragon / Water,Resistance / Flying Mount,In party,Reduces Fire damage and grants Burn immunity,Player + party,Water counter,Rank-scaled,Fire resistance,,Fire resistance; Burn immunity,,,Saddle / Tech 32,No,8.5,Water defensive support,https://www.palworld.tools/partner-skills,2026-08-05,Useful against Fire bosses.
-Flambelle,Magma Tears,Fire,Regeneration Aura,Out of combat,Regenerates player and party Pal HP each second,Player + party,All,0.1% to 0.5% HP/sec,HP regeneration,HP regeneration,Party sustain,,,,No,7.5,Sustain support,https://paldb.cc/fr/Partner_Skill,2026-08-05,Out-of-combat regeneration.
-Helzephyr,Wings of the Underworld,Dark,Conversion / Flying Mount,Mounted,Converts player attacks to Dark and increases Attack,Player,Dark,Attack +5% to +20%,Attack increase,,,,Dark,Saddle / Tech 25,No,9,Dark converter mount,https://paldb.cc/fr/Partner_Skill,2026-08-05,Flying Dark conversion.
-Helzephyr Lux,Thunderous Wings,Dark / Electric,Conversion / Flying Mount,Mounted,Converts player attacks to Electric and increases Attack,Player,Electric,Attack +5% to +20%,Attack increase,,,,Electric,Saddle / Tech 47,No,9,Electric converter mount,https://paldb.cc/fr/Partner_Skill,2026-08-05,Flying Electric conversion.
-Hoocrates,Dark Knowledge,Dark,Element Attack Aura,In party,Increases Attack of Dark Pals,Party Pals,Dark,15% to 30%,,Dark Attack,Dark Attack aura,,,,No,8.5,Dark attack buffer,https://paldb.cc/fr/Partner_Skill,2026-08-05,Core Dark aura support.
-Jormuntide,Stormbringer Sea Dragon,Dragon / Water,Status Damage Amplifier / Mount,In party,Increases damage dealt to enemies affected by Wetness,Player + party,Water synergy,Rank-scaled,Damage vs Wet,Damage vs Wet,Wetness damage amplification,Wetness payoff,,Saddle / Tech 40,No,9.5,Wetness payoff,https://www.palworld.tools/partner-skills,2026-08-05,Key Water/status team piece.
-Jormuntide Ignis,Stormbringer Lava Dragon,Dragon / Fire,Status Damage Amplifier / Mount,In party,Increases damage dealt to Burning enemies and nullifies lava damage,Player + party,Fire,Rank-scaled,Damage vs Burn,Damage vs Burn,Burn damage amplification,Burn payoff,,Saddle / Tech 59,No,9.5,Burn payoff,https://www.palworld.tools/partner-skills,2026-08-05,Key Fire/status team piece.
-Kelpsea,Aqua Spout,Water,Element Attack Aura,In party,Increases Attack of Water Pals,Party Pals,Water,15% to 30%,,Water Attack,Water Attack aura,,,,No,8.5,Water attack buffer,https://www.palworld.tools/partner-skills,2026-08-05,Also produces Pal Fluids.
-Kelpsea Ignis,Lava Spout,Fire,Element Attack Aura,In party,Increases Attack of Fire Pals,Party Pals,Fire,15% to 30%,,Fire Attack,Fire Attack aura,,,,No,8.5,Fire attack buffer,https://www.palworld.tools/partner-skills,2026-08-05,Also produces Fire Organs.
-Kikit,Sandball Soccer,Ground,Element Defense Aura,In party,Increases Defense of Ground Pals,Party Pals,Ground,15% to 30% typical aura,,Ground Defense,Ground Defense aura,,,,No,8,Ground defense buffer,https://www.palworld.tools/partner-skills,2026-08-05,Defensive mono-Ground support.
-Kitsun,Wolf of the Sun,Fire,Resistance / Mount,In party,Reduces Ice damage and grants Freeze immunity,Player + party,Fire counter,15% to 30% resistance,Ice resistance,,Ice resistance; Freeze immunity,,,Saddle / Tech 57,No,8.5,Fire defensive support,https://www.palworld.tools/partner-skills,2026-08-05,Strong matchup support.
-Kitsun Noct,Gloomhowl,Dark,Resistance / Mount,In party,Reduces Dark damage and grants Darkness immunity,Player + party,Dark,15% to 30% resistance,Dark resistance,,Dark resistance; Darkness immunity,,,Saddle / Tech 59,No,8,Dark defensive support,https://www.palworld.tools/partner-skills,2026-08-05,Defensive mirror-match option.
-Moldron Cryst,Ice Overload,Ice / Ground,Weakness Amplifier / Mount,In party,Improves Ice weak-point damage for player and Pals,Player + party,Ice,25% to 40% typical weak-point scaling,Ice weak-point damage,Ice weak-point damage,Ice weakness amplification,,,Saddle / Tech 70,No,9.5,Ice team amplifier,https://www.palworld.tools/partner-skills,2026-08-05,Premium Ice support.
-Nitemary Botan,Soul Binder,Grass,Element Defense Aura,In party,Increases Defense of Grass Pals,Party Pals,Grass,15% to 30%,,Grass Defense,Grass Defense aura,,,,No,8,Grass defense buffer,https://www.palworld.tools/partner-skills,2026-08-05,Defensive mono-Grass support.
-Penking Lux,Unyielding Storm Commander,Water / Electric,Weakness Amplifier,In party,Improves Water weak-point damage for player and Pals,Player + party,Water,25% to 40%,Water weak-point damage,Water weak-point damage,Water weakness amplification,,,,No,9.5,Water team amplifier,https://paldb.cc/fr/Partner_Skill,2026-08-05,Core mono-Water support.
-Petallia Ignis,Passion of the Flower Spirit,Grass / Fire,Healing / Resistance,Activated + in party,Heals player; reduces Grass damage and grants IvyCling immunity,Player + party,Fire countering Grass,Heal 80% to 90% shown by source; resistance rank-scaled,Healing; Grass resistance,,Grass resistance; Ivy immunity,,,,No,9,Healer / resistance,https://www.palworld.tools/partner-skills,2026-08-05,Strong sustain and matchup utility.
-Pierdon,Power Stone,Ground,Status Damage Amplifier,In party,Increases damage dealt to enemies affected by Muddy,Player + party,Ground,Rank-scaled,Damage vs Muddy,Damage vs Muddy,Muddy damage amplification,Muddy payoff,,,No,9,Muddy payoff,https://www.palworld.tools/partner-skills,2026-08-05,Pairs with Ground status applicators.
-Pierdon Cryst,Power Crystal,Ice,Resistance,In party,Reduces Dragon damage,Player + party,Ice countering Dragon,Rank-scaled,Dragon resistance,,Dragon resistance,,,,No,8,Ice defensive support,https://www.palworld.tools/partner-skills,2026-08-05,Useful against Dragon bosses.
-Prixter,Phantom Venom,Dark / Ground,Status Damage Amplifier,In party,Increases damage dealt to Poisoned enemies,Player + party,Dark / Grass synergy,50% to 65% on PalDB,Damage vs Poison,Damage vs Poison,Poison damage amplification,Poison payoff,,,No,9.5,Poison payoff,https://paldb.cc/fr/Partner_Skill,2026-08-05,Pairs especially well with Dandilord.
-Prixter Lux,Scorpion Longwave,Electric / Ground,Conversion / Combat,Activated,Converts player attacks to Electric and increases Attack,Player,Electric,Attack +30% to +50%,Attack increase,,,,Electric,None stated,No,9.5,Electric player-DPS converter,https://paldb.cc/fr/Partner_Skill,2026-08-05,Non-mount Electric conversion.
-Pupperai,Best Boy,Ground,Player Weapon Buff,In party,Increases player melee weapon damage,Player,All,10% to 35%,Melee damage,,,,,,No,7.5,Melee player support,https://paldb.cc/fr/Partner_Skill,2026-08-05,Useful in melee-oriented elemental builds.
-Pyrin,Red Hare,Fire,Conversion / Mount,Mounted,Converts player attacks to Fire and increases Attack,Player,Fire,Rank-scaled,Attack increase,,,,Fire,Saddle / Tech 29,No,9,Fire converter mount,https://www.palworld.tools/partner-skills,2026-08-05,Ground mount alternative.
-Pyrin Noct,Black Hare,Fire / Dark,Conversion / Mount,Mounted,Converts player attacks to Dark and increases Attack,Player,Dark,Rank-scaled,Attack increase,,,,Dark,Saddle / Tech 34,No,9,Dark converter mount,https://www.palworld.tools/partner-skills,2026-08-05,Ground mount Dark conversion.
-Quivern,Sky Dragon Affection,Dragon,Element Attack Aura / Flying Mount,In party,Increases Attack of Dragon Pals,Party Pals,Dragon,15% to 30% typical aura,,Dragon Attack,Dragon Attack aura,,,Saddle / Tech 38,No,8.5,Dragon attack buffer,https://www.palworld.tools/partner-skills,2026-08-05,Core Dragon aura support.
-Rayhound Cryst,Snow Shepherd,Ice,Element Defense Aura / Mount,In party,Increases Defense of Ice Pals,Party Pals,Ice,15% to 30% typical aura,,Ice Defense,Ice Defense aura,,,Saddle,No,8,Ice defense buffer,https://www.palworld.tools/partner-skills,2026-08-05,Defensive mono-Ice support.
-Renjishi,Stage Combat,Fire,Status Enabler,In party,Player attacks inflict Burn,Player,Fire,Rank-scaled,Burn application,,,Burn application,,,No,9,Burn enabler,https://www.palworld.tools/partner-skills,2026-08-05,Pairs with Jormuntide Ignis.
-Ribbuny,Happy-Go-Lucky Bunny,Neutral,Element Attack Aura / Base,In party + base,Increases Neutral Pal Attack; boosts base Handiwork suitability,Party Pals,Neutral,15% to 30% typical aura,,Neutral Attack,Neutral Attack aura,,,,No,8.5,Neutral buffer,https://www.palworld.tools/partner-skills,2026-08-05,Combat and base utility.
-Ribbuny Botan,Ground 'n' Pound,Grass,Weakness Amplifier / Base,In party,Improves Grass weak-point damage for player and Pals,Player + party,Grass,25% to 40% typical weak-point scaling,Grass weak-point damage,Grass weak-point damage,Grass weakness amplification,,,,No,9.5,Grass team amplifier,https://www.palworld.tools/partner-skills,2026-08-05,Also improves weapon-production work.
-Rooby,Tiny Spark,Fire,Element Defense Aura,In party,Increases Defense of Fire Pals,Party Pals,Fire,15% to 30%,,Fire Defense,Fire Defense aura,,,,No,8,Fire defense buffer,https://paldb.cc/fr/Partner_Skill,2026-08-05,Also produces Fire Organs.
-Roujay,Dark-Nester,Dark,Status Damage Amplifier / Flying Mount,In party,Increases damage dealt to enemies affected by Darkness,Player + party,Dark,Rank-scaled,Damage vs Darkness,Damage vs Darkness,Darkness damage amplification,Darkness payoff,,Saddle / Tech 72,No,9,Darkness payoff,https://www.palworld.tools/partner-skills,2026-08-05,Pairs with Darkness application.
-Sibelyx Primo,Gilded Shroud,Neutral,Element Defense Aura,In party,Increases Defense of Neutral Pals,Party Pals,Neutral,15% to 30% typical aura,,Neutral Defense,Neutral Defense aura,,,,No,8,Neutral defense buffer,https://www.palworld.tools/partner-skills,2026-08-05,Also produces high-grade cloth.
-Slowatt,Chillswitch,Electric,Status Combo,In party,Attacking an Electrified enemy triggers an area discharge,Player / enemies,Electric,Damage based on player Attack,AoE discharge,,,Electrical payoff,,,No,9,Electrical payoff,https://www.palworld.tools/partner-skills,2026-08-05,Pairs with Snock.
-Snock,Charging Shell,Electric,Status Enabler,In party,Player attacks inflict Electrical,Player,Electric,Rank-scaled,Electrical application,,,Electrical application,,,No,9,Electrical enabler,https://www.palworld.tools/partner-skills,2026-08-05,Pairs with Slowatt.
-Snock Lux,Grounding Shell,Electric / Ground,Resistance,In party,Reduces Water damage and grants Wetness immunity,Player + party,Electric countering Water,Rank-scaled,Water resistance,,Water resistance; Wetness immunity,,,,No,8.5,Electric defensive support,https://www.palworld.tools/partner-skills,2026-08-05,Useful into Water teams.
-Solmora Lux,Shocking Fish,Water / Electric,Conversion / Water Mount,Mounted + in party,Converts player attacks to Electric and increases Attack; improves fishing quality,Player,Electric,Rank-scaled,Attack increase,,,,Electric,Saddle / Tech 66,No,9,Electric converter mount,https://www.palworld.tools/partner-skills,2026-08-05,Water-travel Electric converter.
-Sootseer,Grave Robber,Dark / Fire,Resistance,In party,Reduces Neutral damage,Player + party,Dark countering Neutral,Rank-scaled,Neutral resistance,,Neutral resistance,,,,No,7.5,Dark defensive support,https://www.palworld.tools/partner-skills,2026-08-05,Also produces Bone at a ranch.
-Sparkit,Static Electricity,Electric,Element Attack Aura,In party,Increases Attack of Electric Pals,Party Pals,Electric,15% to 30%,,Electric Attack,Electric Attack aura,,,,No,8.5,Electric attack buffer,https://www.palworld.tools/partner-skills,2026-08-05,Core Electric aura support.
-Turtacle Terra,Shiny Hauler,Water / Ground,Weakness Amplifier / Utility,In party,Reduces Sulfur and Coal weight; improves Ground weak-point damage,Player + party,Ground,25% to 40% Ground weak-point damage,Ground weak-point damage,Ground weak-point damage,Ground weakness amplification,,,,No,9.5,Ground team amplifier,https://paldb.cc/fr/Partner_Skill,2026-08-05,Core Ground support plus inventory utility.
-Univolt,Swift Deity,Electric,Weakness Amplifier / Mount,In party,Improves Electric weak-point damage for player and Pals,Player + party,Electric,25% to 40% typical weak-point scaling,Electric weak-point damage,Electric weak-point damage,Electric weakness amplification,,,Saddle / Tech 14,No,9.5,Electric team amplifier,https://www.palworld.tools/partner-skills,2026-08-05,Accessible Electric amplifier.
-Univolt Cryst,Frigid Deity,Ice,Conversion / Mount,Mounted,Converts player attacks to Ice and increases Attack,Player,Ice,Rank-scaled,Attack increase,,,,Ice,Saddle / Tech 64,No,9,Ice converter mount,https://www.palworld.tools/partner-skills,2026-08-05,Ground mount Ice conversion.
-Wixen,Master Fox,Fire,Conversion / Combat,Activated,Converts player attacks to Fire and increases Attack,Player,Fire,Attack +30% to +50%,Attack increase,,,,Fire,None stated,No,9.5,Fire player-DPS converter,https://paldb.cc/fr/Partner_Skill,2026-08-05,Non-mount Fire conversion.
-Wixen Noct,Great Black Fox,Fire / Dark,Conversion / Combat,Activated,Converts player attacks to Dark and increases Attack,Player,Dark,Attack +30% to +50%,Attack increase,,,,Dark,None stated,No,9.5,Dark player-DPS converter,https://paldb.cc/fr/Partner_Skill,2026-08-05,Non-mount Dark conversion.
-Xenogard,Unknown Intruder,Dragon,Player Weapon Buff / Mount,In party,Increases player energy-weapon damage,Player,All,10% to 35%,Energy-weapon damage,,,,,Saddle / Tech 41,No,8,Energy weapon support,https://paldb.cc/fr/Partner_Skill,2026-08-05,Useful for player-centric endgame builds.
-Xenolord,Meteor Wings,Dark / Dragon,Partner-Skill Amplifier / Flying Mount,In party,Increases damage dealt by weapon-wielding Pal Partner Skills,Party Pals,All,20% at rank 1 reported for v1.0,,Partner Skill damage,Weapon-Pal Partner Skill amplification,,,Saddle / Tech 66,No,9,Weapon-Pal team support,https://www.palworld.tools/partner-skills,2026-08-05,"Supports Lifmunk, Tanzee, Grizzbolt and similar Partner Skills."
+Pal,Partner Skill,Primary Element,Secondary Element,Description,Attack Buff,Defense Buff,Weakness Amp,Player Conversion,Source URL,Data Date
+Lamball,Bouclier Duveteux,Neutral,,"Lorsqu'il est activé, s'équipe au joueur et sert de bouclier.
+
+Peut être assigné à une Ferme avec une chance de produire de la Laine .",,All,,,https://paldb.cc/fr/Lamball,2026-08-05
+Cattiva,Chat Porteur,Neutral,,"Lorsqu'il est dans l'équipe, augmente la capacité de charge du joueur de (100~200) en portant une partie de son inventaire. (effet non cumulable)",,,,,https://paldb.cc/fr/Cattiva,2026-08-05
+Chikipi,Production d'œufs,Neutral,,À affecter à une Ferme pour une chance d'obtenir des Œuf .,,,,,https://paldb.cc/fr/Chikipi,2026-08-05
+Lifmunk,Soutien de Lifmunk,Grass,,"Lorsqu'activée, il monte sur la tête du joueur et accompagne ses attaques avec un pistolet-mitrailleur. Technologies 11",,,,,https://paldb.cc/fr/Lifmunk,2026-08-05
+Fuack,Coud'Surf,Water,,"Lorsqu'activée, Fuack fonce sur l'ennemi en faisant du bodyboard.",,,,,https://paldb.cc/fr/Fuack,2026-08-05
+Fuack Ignis,Tacle de Feu,Water,Fire,"Lorsqu'activée, Fuack Ignis fonce sur l'ennemi en surfant sur des flammes.",,,,,https://paldb.cc/fr/Fuack_Ignis,2026-08-05
+Vixy,Creuse et creuse,Neutral,,À affecter à une Ferme pour une chance de déterrer des objets.,,,,,https://paldb.cc/fr/Vixy,2026-08-05
+Celaray,Planeur sur Brise,Water,,"Lorsqu'il est dans l'équipe, modifie les performances du planeur équipé et annule les dégâts de chute du joueur.
+
+Permet de planer rapidement pendant une longue durée.",,,,,https://paldb.cc/fr/Celaray,2026-08-05
+Celaray Lux,Planair,Water,Electric,"Modifie les performances du planeur équipé lorsqu'il est dans l'équipe et annule les dégâts de chute subis par le joueur.
+
+Permet de planer rapidement pendant une longue durée.",,,,,https://paldb.cc/fr/Celaray_Lux,2026-08-05
+Cremis,Laine Soyeuse,Neutral,,"Lorsqu'il est dans l'équipe, augmente l'attaque des Pals de type Non élém. de (15~30)% . (effet non cumulable)
+
+Peut être assigné à une Ferme avec une chance de produire de la Laine .",,,,,https://paldb.cc/fr/Cremis,2026-08-05
+Croajiro,Position Saut,Water,,"Lorsqu'activée, Croajiro , animé par une forte loyauté, 
+
+gonfle son abdomen afin d'accumuler de l'énergie.
+
+Le joueur peut alors sauter sur son dos pour être propulsé haut dans les airs.
+
+Augmente l'attaque du joueur de (50~86) % jusqu'à son atterrissage.",,,,,https://paldb.cc/fr/Croajiro,2026-08-05
+Croajiro Noct,Posture Annonciatrice,Water,Dark,"Lorsqu'activée, Croajiro Noct accumule de l'énergie grâce à sa loyauté et son ventre rebondi.
+
+Le joueur saute très haut lorsqu'il monte dessus.
+
+Lorsqu'il est dans l'équipe, augmente de (25~40)% les dégâts de type Ténèbres infligés aux points faibles. (effet non cumulable)",,,,,https://paldb.cc/fr/Croajiro_Noct,2026-08-05
+Herbil,Herbapulsion,Grass,Neutral,"Lorsqu'il est dans l'équipe, Herbil ressuscite le joueur avec (30~60)% de ses PV max lorsqu'il est mis K.O., grâce à ses pouvoirs apaisants.",,,,,https://paldb.cc/fr/Herbil,2026-08-05
+Teafant,Douche Apaisante,Water,,"Lorsqu'il est dans l'équipe, restaure de (20~40)% les PV du joueur si ceux-ci tombent sous 30%. (effet non cumulable)
+
+
+
+* Après activation, un temps de recharge de 120 secondes est nécessaire avant une nouvelle utilisation.",,,,,https://paldb.cc/fr/Teafant,2026-08-05
+Gumoss,Aide aux Bûcherons,Grass,Ground,"Lorsqu'il est dans l'équipe, augmente de (30~50)% les dégâts infligés lors de l'abattage d'arbres, et réduit de (40~60)% le poids de tous les types de bois. (effet non cumulable)",,,,,https://paldb.cc/fr/Gumoss,2026-08-05
+Pupperai,Soutien Sincère,Ground,,Les dégâts des armes de mêlée utilisées par le joueur augmentent de (10~35) % lorsqu'il est dans l'équipe. (Effet non cumulable),,,,,https://paldb.cc/fr/Pupperai,2026-08-05
+Clovee,Joyeux Trèfle,Grass,Neutral,"Dans la base, le niveau de la capacité de travail Collecte des autres Pals du camp augmente de +1 . (Effet non cumulable)",,,,,https://paldb.cc/fr/Clovee,2026-08-05
+Jolthog,Bombe Zap,Electric,,"Lorsqu'activée, Jolthog s'équipe dans la main du joueur. Le lancer sur un ennemi provoque une explosion de type Électricité à l'impact.",,,,,https://paldb.cc/fr/Jolthog,2026-08-05
+Jolthog Cryst,Bombe Glagla,Ice,,"Lorsqu'il est activé, Jolthog Cryst est équipé dans la main. Lorsqu'il est lancé sur un ennemi, il provoque une explosion de type Glace à l'impact.",,,,,https://paldb.cc/fr/Jolthog_Cryst,2026-08-05
+Depresso,Shot de Caféine,Dark,,"Lorsqu'activée, Depresso boit une boisson énergisante, augmentant de (100~900)% sa vitesse de déplacement et de travail.
+
+Peut être assigné à une Ferme avec une chance de produire de la Glande à venin .",,,,,https://paldb.cc/fr/Depresso,2026-08-05
+Pengullet,Lance-Pengullet,Water,Ice,"Lorsqu'il est activé, équipe le joueur d'un Lance-fusées et permet d'utiliser Pengullet comme projectile.
+
+À l'impact, il explose et est mis K.O. Technologies 17",,,,,https://paldb.cc/fr/Pengullet,2026-08-05
+Pengullet Lux,Lance-Pengullet Lux,Water,Electric,"Lorsqu'activée, le joueur s'équipe d'un Lance-fusées et propulse Pengullet Lux comme projectile.
+
+À l'impact, il explose et est mis K.O. Technologies 18",,,,,https://paldb.cc/fr/Pengullet_Lux,2026-08-05
+Penking,Guerrier des Mers,Water,Ice,"Lorsqu'il est dans l'équipe, augmente de (40~80)% la quantité d'objets obtenus en battant des Pals de type Feu . (Effet non cumulable)",,,,,https://paldb.cc/fr/Penking,2026-08-05
+Penking Lux,Commandement Inflexible,Water,Electric,"Lorsqu'il est dans l'équipe, augmente de (25~40)% les dégâts de type Eau infligés aux points faibles. (effet non cumulable)",,,,,https://paldb.cc/fr/Penking_Lux,2026-08-05
+Hoocrates,Sagesse Obscure,Dark,,"Lorsqu'il est dans l'équipe, augmente l'attaque des Pals de type Ténèbres de (15~30)% . (effet non cumulable)",Dark,,,,https://paldb.cc/fr/Hoocrates,2026-08-05
+Melpaca,Paca-Laine,Neutral,,"Peut être utilisé comme monture pour se déplacer.
+
+Lorsqu'il est dans l'équipe, augmente la défense et la vitesse de déplacement de Kingpaca .
+
+À affecter à une Ferme pour une chance d'obtenir de la Laine . Technologies 7",,,,,https://paldb.cc/fr/Melpaca,2026-08-05
+Kingpaca,Montagne de Muscles,Neutral,,"Peut être utilisé comme monture pour se déplacer.
+
+La défense et la vitesse de déplacement de ce Pal augmentent en fonction du nombre de Melpaca dans l'équipe, à raison de (5~14)% par Alpaca. Technologies 23",,,,,https://paldb.cc/fr/Kingpaca,2026-08-05
+Kingpaca Cryst,Roi des Glaces,Ice,,"Peut être utilisé comme monture pour se déplacer.
+
+La défense et la vitesse de déplacement de ce Pal augmentent en fonction du nombre de Melpaca dans l'équipe, à raison de (5~14)% par Alpaca. Technologies 46",,,,,https://paldb.cc/fr/Kingpaca_Cryst,2026-08-05
+Daedream,Charognard Onirique,Dark,,"Tant qu'il est dans l'équipe, il apparaît aux côtés du joueur.
+
+Il lance des projectiles magiques de type Ténèbres pour attaquer les ennemis hostiles.
+
+Il ne peut pas achever les adversaires de lui-même.",,,,,https://paldb.cc/fr/Daedream,2026-08-05
+Tanzee,Fusil Jovial,Grass,,"Lorsqu'activée, Tanzee mitraille les ennemis à proximité avec un fusil d'assaut pendant un certain temps. Technologies 12",,,,,https://paldb.cc/fr/Tanzee,2026-08-05
+Tanzee Ignis,Fou de la Gâchette,Fire,,"Lorsqu'activée, Tanzee Ignis rejoint le joueur et mitraille sans relâche les ennemis à proximité avec un fusil d'assaut de type Feu . Technologies 13",,,,,https://paldb.cc/fr/Tanzee_Ignis,2026-08-05
+Nox,Cœur de Pierre,Dark,,Détecte les statues de Pal à proximité lorsqu'il est appelé.,,,,,https://paldb.cc/fr/Nox,2026-08-05
+Flambelle,Larmes de Lave,Fire,,"Lorsqu'il est dans l'équipe, restaure chaque seconde (0.1~0.5)% des PV du joueur et des Pals de l'équipe hors combat. (effet non cumulable)
+
+Peut être assigné à une Ferme avec une chance de produire un Organe de feu .",,,,,https://paldb.cc/fr/Flambelle,2026-08-05
+Rooby,Petite Étincelle,Fire,,"Lorsqu'il est dans l'équipe, augmente la défense des Pals de type Feu de (15~30)% . (effet non cumulable)
+
+Peut être assigné à une Ferme avec une chance de produire un Organe de feu .",,Fire,,,https://paldb.cc/fr/Rooby,2026-08-05
+Mau,Chercheur d'or,Dark,,À affecter à une Ferme pour une chance de déterrer des Pièce d'or .,,,,,https://paldb.cc/fr/Mau,2026-08-05
+Mau Cryst,Douche Froide,Ice,,À affecter à une Ferme pour une chance d'obtenir un Organe de glace .,,,,,https://paldb.cc/fr/Mau_Cryst,2026-08-05
+Rushoar,Tête Dure,Ground,,"Peut être utilisé comme monture pour se déplacer.
+
+Lorsqu'il est monté, l'efficacité contre les rochers augmente de (500~2000)% . Technologies 6",,,,,https://paldb.cc/fr/Rushoar,2026-08-05
+Foxparks,Câlin de Flammes,Fire,,"Lorsqu'activée, il se joint au joueur pour faire office de lance-flammes. Technologies 6",,,,,https://paldb.cc/fr/Foxparks,2026-08-05
+Foxparks Cryst,Câlin Glacé,Ice,,"Lorsqu'activée, se joint au joueur et permet d'attaquer en libérant un souffle glacé. Technologies 24",,,,,https://paldb.cc/fr/Foxparks_Cryst,2026-08-05
+Killamari,Calamar Frit,Dark,Water,"Lorsqu'il est dans l'équipe, modifie les performances du planeur équipé.
+
+Permet de flotter doucement pendant une longue durée en vol plané.",,,,,https://paldb.cc/fr/Killamari,2026-08-05
+Killamari Primo,Aspirêves,Neutral,Water,"Lorsqu'il est dans l'équipe, modifie les performances du planeur équipé.
+
+Permet de flotter doucement pendant une longue durée en vol plané.",,,,,https://paldb.cc/fr/Killamari_Primo,2026-08-05
+Fuddler,Appui Minier,Ground,,"Lorsqu'il est dans l'équipe, augmente de (30~60)% les dégâts infligés lors de l'extraction de minerais par le joueur, et réduit de (80~100)% le poids de la Pierre . (Effet non cumulable)",,,,,https://paldb.cc/fr/Fuddler,2026-08-05
+Eikthyrdeer,Gardien des Bois,Neutral,,"Peut être utilisé comme monture pour se déplacer.
+
+Permet l'utilisation du double saut lorsqu'il est monté et augmente l'efficacité de l'abattage des arbres de (220~500)% . Technologies 12",,,,,https://paldb.cc/fr/Eikthyrdeer,2026-08-05
+Eikthyrdeer Terra,Gardien des Bois Dorés,Ground,,"Peut être utilisé comme monture pour se déplacer, ce qui permet l'utilisation du double saut .
+
+Dans la base, le niveau de la capacité de travail Abattage des autres Pals du camp augmente de 1 . (Effet non cumulable) Technologies 21",,,,,https://paldb.cc/fr/Eikthyrdeer_Terra,2026-08-05
+Direhowl,Virée Sauvage,Neutral,,"Peut être utilisé comme monture pour se déplacer.
+
+Augmente légèrement la vitesse de déplacement lorsqu'il est monté. Technologies 9",,,,,https://paldb.cc/fr/Direhowl,2026-08-05
+Caprity,Cueillette de baies,Grass,,"Placé dans une Ferme , des Baie rouge tombent parfois de son dos.
+
+Dans l'équipe, il restaure (100~200) de satiété au Pal le plus affamé toutes les 5 min. (Non cumulable)",,,,,https://paldb.cc/fr/Caprity,2026-08-05
+Caprity Noct,Pince-Venin,Dark,,"Placé dans une Ferme , de la Baie rouge tombe parfois de son dos.
+
+Dans l'équipe, il restaure (100~200) de satiété au Pal le plus affamé toutes les 5 min. (Non cumulable)",,,,,https://paldb.cc/fr/Caprity_Noct,2026-08-05
+Swee,Gouzi-Gouzi,Ice,,"Lorsqu'il est dans l'équipe, augmente la défense et l'attaque de Sweepa .",,,,,https://paldb.cc/fr/Swee,2026-08-05
+Sweepa,Gouzi-Gouzi Royal,Ice,,"Peut être utilisé comme monture pour se déplacer.
+
+L'attaque et la défense de ce Pal augmentent de (12~24)% pour chaque Swee dans l'équipe. Technologies 20",,,,,https://paldb.cc/fr/Sweepa,2026-08-05
+Turtacle,Support Pointu,Water,,"Lorsqu'il est dans l'équipe, réduit de (80~100)% le poids du Minerai de métal . (effet non cumulable)",,,,,https://paldb.cc/fr/Turtacle,2026-08-05
+Turtacle Terra,Support Brillant,Water,Ground,"Lorsqu'il est dans l'équipe, réduit de (80~100)% le poids du Soufre et du Charbon , et augmente de (25~40)% les dégâts de type Terre infligés aux points faibles. (effet non cumulable)",,,,,https://paldb.cc/fr/Turtacle_Terra,2026-08-05
+Hangyu,Trapéziste,Ground,,"Lorsqu'il est dans l'équipe, modifie les performances du planeur équipé.
+
+Permet de s'élever lentement pendant le vol plané.",,,,,https://paldb.cc/fr/Hangyu,2026-08-05
+Hangyu Cryst,Trapéziste du Froid,Ice,,"Lorsqu'il est dans l'équipe, modifie les performances du planeur équipé.
+
+Permet de s'élever lentement pendant le vol plané.",,,,,https://paldb.cc/fr/Hangyu_Cryst,2026-08-05
+Woolipop,Petit Bonbon,Neutral,,"Placé dans une Ferme , de la Barbe à papa tombe parfois de son dos.
+
+Dans la base, il ralentit de (-10~-20)% l'évolution de la Repu des Pals. (Non cumulable)",,,,,https://paldb.cc/fr/Woolipop,2026-08-05
+Woolipop Terra,Bonbon Amer,Ground,,"Lorsqu'il est assigné à une Ferme , il peut laisser tomber de la Barbe à papa caramel .
+
+Lorsqu'il est dans la base, le taux de diminution de la Repu des Pals de la base est réduit de (-15~-25) % . (Effet non cumulable)",,,,,https://paldb.cc/fr/Woolipop_Terra,2026-08-05
+Mozzarina,Production de lait,Neutral,,À affecter à une Ferme pour une chance d'obtenir du Lait .,,,,,https://paldb.cc/fr/Mozzarina,2026-08-05
+Azurobe,Danse de l'eau,Water,Dragon,"Peut être utilisé comme monture pour nager.
+
+Lorsqu'il est monté, les attaques du joueur deviennent de type Eau , et son attaque augmente de (5~20)% . Technologies 24",Water,,,,https://paldb.cc/fr/Azurobe,2026-08-05
+Azurobe Cryst,Danse Glagla,Ice,Dragon,"Peut être utilisé comme monture pour nager.
+
+Une fois monté, les attaques du joueur deviennent de type Glace et sa puissance d'attaque augmente de (5~20)% . Technologies 27",Ice,,,,https://paldb.cc/fr/Azurobe_Cryst,2026-08-05
+Sparkit,Électricité Statique,Electric,,"Augmente l'attaque des Pals de type Électricité de (15~30) % lorsqu'il est dans l'équipe. (Effet non cumulable)
+
+À affecter à une Ferme pour une chance d'obtenir un Organe électrique .",Electric,,,,https://paldb.cc/fr/Sparkit,2026-08-05
+Kelpsea,Giclée d'eau,Water,,"Lorsqu'il est dans l'équipe, augmente de (15~30)% l'attaque des Pals de type Eau . (effet non cumulable)
+
+Peut être assigné à une Ferme avec une chance de produire un Fluides de Pal .",Water,,,,https://paldb.cc/fr/Kelpsea,2026-08-05
+Kelpsea Ignis,Jet de Lave,Fire,,"Lorsqu'il est dans l'équipe, augmente de (15~30)% l'attaque des Pals de type Feu . (effet non cumulable)
+
+Peut être assigné à une Ferme avec une chance de produire un Organe de feu .",Fire,,,,https://paldb.cc/fr/Kelpsea_Ignis,2026-08-05
+Ribbuny,Princesse Lapinou Souriant,Neutral,,"Lorsqu'il est dans l'équipe, augmente de (15~30)% l'attaque des Pals de type Non élém. . (effet non cumulable)
+
+Dans la base, augmente de 1 le niveau de compétence de travail Artisanat des autres Pals. (effet non cumulable)",Water,,,,https://paldb.cc/fr/Ribbuny,2026-08-05
+Ribbuny Botan,Lapin Dézerbe,Grass,,"Lorsqu'il est dans l'équipe, augmente de (25~40)% les dégâts infligés en touchant les faiblesses avec des attaques de type Herbe . (Effet non cumulable)
+
+Augmente de (200~400)% l'efficacité de travail de Ribbuny Botan lorsqu'il travaille sur un établi ou dans une usine d'armes.",Grass,,Grass,,https://paldb.cc/fr/Ribbuny_Botan,2026-08-05
+Jelliette,Largue-Jelliette,Water,,"Lorsqu'il est dans l'équipe, augmente de (55~95)% la quantité d'objets obtenus à la pêche. (Effet non cumulable)
+
+De plus, lorsque Jelliette et Jellroy se trouvent dans la base, la vitesse de travail d'arrosage de Jelliette augmente de (50~120)% . (Effet non cumulable)",,,,,https://paldb.cc/fr/Jelliette,2026-08-05
+Jellroy,Largue-Jellroy,Water,Dark,"Lorsqu'il est dans l'équipe, augmente de (55~95)% la quantité d'objets obtenus par récupération. (Effet non cumulable)
+
+De plus, lorsque Jelliette et Jellroy se trouvent dans la base, la vitesse de travail d'arrosage de Jellroy augmente de (50~120)% . (Effet non cumulable)",,,,,https://paldb.cc/fr/Jellroy,2026-08-05
+Amione,Jumelage Magique,Water,,"Dans la base, le niveau de la capacité de travail Arrosage des autres Pals du camp augmente de +1 . (Effet non cumulable)",,,,,https://paldb.cc/fr/Amione,2026-08-05
+Gloopie,Tapette Princière,Water,Dark,"Lorsqu'il est dans l'équipe, réduit de (12~35)% la diminution de la jauge de capture lorsque les barres ne sont pas superposées dans le mini-jeu de pêche. (Effet non cumulable)",,,,,https://paldb.cc/fr/Gloopie,2026-08-05
+Gloopie Primo,Princesse Ventouse,Water,Neutral,"Lorsqu'il est dans l'équipe, augmente la défense des Pals de type Eau de (15~30) % . (Effet non cumulable)",,Water,,,https://paldb.cc/fr/Gloopie_Primo,2026-08-05
+Galeclaw,Monte-Galeclaw,Neutral,,"Lorsqu'il est dans l'équipe, modifie les performances du planeur équipé.
+
+Permet de planer à grande vitesse tout en tirant avec l'arme tenue dans la main droite.",,,,,https://paldb.cc/fr/Galeclaw,2026-08-05
+Wispaw,Félin Possédé,Dark,,"Lorsqu'il est dans l'équipe, augmente les chances de capture des Pals lors du bonus d'attaque par derrière . (Effet non cumulable)",,,,,https://paldb.cc/fr/Wispaw,2026-08-05
+Nitewing,Compagnon de Voyage,Neutral,,Peut être utilisé comme monture pour voler. Technologies 15,,,,,https://paldb.cc/fr/Nitewing,2026-08-05
+Tombat,Sixième Sens,Dark,,"Lorsqu'activée, détecte grâce à des ultrasons l'emplacement des donjons, coffres et débris à proximité.",,,,,https://paldb.cc/fr/Tombat,2026-08-05
+Tocotoco,Lance-œufs Explosifs,Neutral,,"Lorsqu'activé, il s'équipe au joueur et se transforme en lanceur d'œufs explosifs. Technologies 18",,,,,https://paldb.cc/fr/Tocotoco,2026-08-05
+Univolt,Éclair Foudroyant,Electric,,"Peut être utilisé comme monture pour se déplacer.
+
+Lorsqu'il est dans l'équipe, augmente de (25~40)% les dégâts infligés aux points faibles par les attaques de type Électricité . (effet non cumulable) Technologies 14",Electric,,,,https://paldb.cc/fr/Univolt,2026-08-05
+Univolt Cryst,Conflit Polaire,Ice,,"Peut être utilisé comme monture pour se déplacer.
+
+Une fois monté, les attaques du joueur deviennent de type Glace et sa puissance d'attaque augmente de (5~20)% . Technologies 64",Ice,,,,https://paldb.cc/fr/Univolt_Cryst,2026-08-05
+Gobfin,Squale Ronchon,Water,,"Lorsqu'il est activé, attaque l'ennemi ciblé avec Tir Aquatique .
+
+La puissance de cette compétence est multipliée par (1.1~2.5) .
+
+Lorsqu'il est dans l'équipe, augmente de (10~20)% l'attaque du joueur.",,,,,https://paldb.cc/fr/Gobfin,2026-08-05
+Gobfin Ignis,Squale Ronchon,Fire,,"Lorsqu'il est activé, attaque l'ennemi ciblé avec Flammes Scindées .
+
+La puissance de cette compétence est multipliée par (1.1~2.5) .
+
+Lorsqu'il est dans l'équipe, augmente de (10~20)% l'attaque du joueur.",,,,,https://paldb.cc/fr/Gobfin_Ignis,2026-08-05
+Loupmoon,Grilles Scintillantes,Dark,,"Lorsqu'il est activé, attaque l'ennemi ciblé avec Griffe Sautée .
+
+La puissance de cette compétence est multipliée par (1.1~2.5) .
+
+Lorsqu'il est dans l'équipe, augmente de (15~30)% la vitesse d'attaque des armes de corps-à-corps du joueur. (effet non cumulable)",,,,,https://paldb.cc/fr/Loupmoon,2026-08-05
+Loupmoon Cryst,Coup de Griffes Glacées,Ice,,"Lorsqu'activée, attaque l'ennemi visé avec Griffe Neigeuse .
+
+La puissance de Griffe Neigeuse utilisée par ce Pal est multipliée par (1.1~2.5) .
+
+Lorsqu'il est dans l'équipe, augmente de (15~30)% la vitesse d'attaque des armes de corps à corps du joueur. (Effet non cumulable)",,,,,https://paldb.cc/fr/Loupmoon_Cryst,2026-08-05
+Cawgnito,Oiseau de Nuit,Dark,,"Lorsqu'activée, active la Vision nocturne pour voir dans l'obscurité.
+
+L'effet est annulé lors de la prochaine activation.
+
+À affecter à une Ferme pour une chance de déterrer des Os .",,,,,https://paldb.cc/fr/Cawgnito,2026-08-05
+Arsox,Chaleur Corporelle,Fire,,"Peut être utilisé comme monture pour se déplacer.
+
+Augmente de +2 la résistance au froid du joueur lorsqu'il est dans l'équipe. (effet non cumulable) Technologies 15",,,,,https://paldb.cc/fr/Arsox,2026-08-05
+Muffly,Tourontoudou,Ice,,"Lorsqu'il est dans l'équipe, augmente les chances de capturer les Pals affectés par Gel . (Effet non cumulable)",,,,,https://paldb.cc/fr/Muffly,2026-08-05
+Bristla,Regard de Princesse,Grass,,"Lorsqu'il est dans l'équipe, augmente de (15~30)% l'attaque des Pals de type Herbe . (effet non cumulable)",Grass,,,,https://paldb.cc/fr/Bristla,2026-08-05
+Cinnamoth,Écailles Mystérieuses,Grass,,"Lorsqu'activée, attaque l'ennemi ciblé avec Nuage Toxique .
+
+Lorsqu'il est dans la base, augmente de +1 le niveau d'aptitude au travail Exploitation des autres Pals de la base. (Effet non cumulable)",Water,,,,https://paldb.cc/fr/Cinnamoth,2026-08-05
+Puffolt,Poussée Crépitante,Electric,,"Dans la base, le niveau de la compétence de travail Génération d'énergie des autres Pals du camp augmente de 1 . (Effet non cumulable)",,,,,https://paldb.cc/fr/Puffolt,2026-08-05
+Elphidran,Dragon Sacré au Grand Cœur,Dragon,,"Peut être utilisé comme monture pour voler.
+
+La vitesse de déplacement augmente en vol.
+
+Lorsqu'il est dans l'équipe, augmente de (40~80)% la quantité d'objets obtenus en vainquant des Pals de type Ténèbres . (effet non cumulable) Technologies 20",,,,,https://paldb.cc/fr/Elphidran,2026-08-05
+Elphidran Aqua,Dragon Aquatique au Grand Cœur,Dragon,Water,"Peut être utilisé comme monture pour voler.
+
+La vitesse de déplacement augmente en vol.
+
+Lorsqu'il est dans l'équipe, réduit de (15~30)% les dégâts de type Feu subis par le joueur et les Pals, et annule l'état Brûlure . (effet non cumulable) Technologies 32",,,,,https://paldb.cc/fr/Elphidran_Aqua,2026-08-05
+Vanwyrm,Assaillant Céleste,Fire,Dark,"Peut être utilisé comme monture pour voler.
+
+Lorsqu'il est dans l'équipe, augmente de (20~40)% les dégâts infligés par le joueur aux points faibles ennemis. (Effet non cumulable) Technologies 21",,,,,https://paldb.cc/fr/Vanwyrm,2026-08-05
+Vanwyrm Cryst,Assaillant Céleste,Ice,Dark,"Peut être utilisé comme monture pour voler.
+
+Lorsqu'il est dans l'équipe, augmente de (30~50)% les dégâts infligés par le joueur aux points faibles ennemis. (Effet non cumulable) Technologies 22",,,,,https://paldb.cc/fr/Vanwyrm_Cryst,2026-08-05
+Felbat,Vol de vie,Dark,,"En combattant à ses côtés, confère au joueur et à Felbat un effet de Vol de vie permettant d'absorber (5~9)% des dégâts infligés pour restaurer leurs PV .",,,,,https://paldb.cc/fr/Felbat,2026-08-05
+Vaelet,Purification Tellurique,Grass,,"Lorsqu'il est dans l'équipe, augmente de (40~80)% la quantité d'objets obtenus en terrassant des Pals de type Terre . (effet non cumulable)
+
+Peut être assigné à une Ferme avec une chance de produire diverses graines .",,,,,https://paldb.cc/fr/Vaelet,2026-08-05
+Beegarde,Abeille Ouvrière,Grass,,"Peut être assigné à une Ferme avec une chance de produire du Miel .
+
+Lorsqu'il est dans l'équipe, augmente l'attaque de Elizabee .",,,,,https://paldb.cc/fr/Beegarde,2026-08-05
+Elizabee,Reine des Abeilles,Grass,,Son attaque augmente de (12~24)% pour chaque Beegarde dans l'équipe.,,,,,https://paldb.cc/fr/Elizabee,2026-08-05
+Lovander,Draine-Cœur,Dark,,"En combat, confère un effet de vol de vie au joueur et à lui-même, absorbant (5~9)% des dégâts infligés et restaurant leurs PV .",,,,,https://paldb.cc/fr/Lovander,2026-08-05
+Grintale,Œil de Lynx,Neutral,,"Peut être utilisé comme monture pour se déplacer.
+
+Lorsqu'il est dans l'équipe, augmente de (50~75)% les chances de ramasser un œuf supplémentaire lorsqu'un œuf de Pal est obtenu. (effet non cumulable) Technologies 19",,,,,https://paldb.cc/fr/Grintale,2026-08-05
+Tarantriss,Toile de Tarantriss,Dark,,"Peut être utilisé comme monture pour se déplacer.
+
+Permet d'effectuer un double saut lorsqu'il est monté.
+
+Permet également de projeter une toile vers un point ciblé afin de s'y déplacer rapidement à l'aide d'un grappin. Technologies 20",,,,,https://paldb.cc/fr/Tarantriss,2026-08-05
+Polapup,Dévale Montagne,Ice,Water,"Peut être utilisé comme monture pour se déplacer.
+
+La vitesse de déplacement augmente de (80~160)% sur la neige .
+
+Permet également de dévaler les pentes à toute vitesse. Technologies 26",,,,,https://paldb.cc/fr/Polapup,2026-08-05
+Polapup Terra,Dévale-Montagne,Ice,Ground,"Peut être utilisé comme monture pour se déplacer.
+
+Augmente de (80~160) % la vitesse de déplacement sur la neige .
+
+Permet également de dévaler les pentes à grande vitesse.
+
+Lors des glissades, la vitesse de départ est faible, mais la vitesse maximale est élevée. Technologies 55",,,,,https://paldb.cc/fr/Polapup_Terra,2026-08-05
+Leezpunk,Camouflage,Dark,,"Lorsqu'activée, rend le joueur et Leezpunk invisibles pendant (10~20) secondes, leur permettant d'échapper à la vigilance des ennemis.",,,,,https://paldb.cc/fr/Leezpunk,2026-08-05
+Leezpunk Ignis,Camouflage,Fire,,"Lorsqu'activée, rend le joueur et Leezpunk Ignis invisibles pendant (10~20) secondes, leur permettant d'échapper à la vigilance des ennemis.",,,,,https://paldb.cc/fr/Leezpunk_Ignis,2026-08-05
+Gorirat,Mode Enragé,Neutral,,"Lorsqu'activée, Gorirat libère sa nature sauvage et augmente temporairement son attaque de (75~300)% .",,,,,https://paldb.cc/fr/Gorirat,2026-08-05
+Gorirat Terra,Bras de Gorille Ultime,Ground,,"Lorsqu'il est dans l'équipe, augmente la vitesse d'escalade du joueur de (50~100)% . (Effet non cumulable)",,,,,https://paldb.cc/fr/Gorirat_Terra,2026-08-05
+Surfent,Fouisseur Furtif,Water,,"Peut être utilisé comme monture pour se déplacer sur l'eau.
+
+Peut être assigné à une Ferme avec une chance de produire du Cuir . Technologies 16",,,,,https://paldb.cc/fr/Surfent,2026-08-05
+Surfent Terra,Fouisseur des Sables,Ground,,"Peut être utilisé comme monture pour se déplacer.
+
+Lorsqu'il est dans l'équipe, ajoute (2~6) d'accumulation d'état Embourbement aux attaques du joueur. (effet non cumulable) Technologies 25",,,,,https://paldb.cc/fr/Surfent_Terra,2026-08-05
+Robinquill,Maître Archer,Grass,,Les dégâts des arcs utilisés par le joueur augmentent de (10~35) % lorsqu'il est dans l'équipe. (Effet non cumulable),,,,,https://paldb.cc/fr/Robinquill,2026-08-05
+Robinquill Terra,Archer d’Elite,Grass,Ground,La vitesse de recharge des arcs utilisés par le joueur augmente de (15~30) % lorsqu'il est dans l'équipe. (Effet non cumulable),,,,,https://paldb.cc/fr/Robinquill_Terra,2026-08-05
+Flopie,Lapin Serviable,Grass,,"Lorsqu'il est dans l'équipe, apparaît aux côtés du joueur et ramasse automatiquement les objets à proximité.",,,,,https://paldb.cc/fr/Flopie,2026-08-05
+Wixen,Maître Renard,Fire,,"Lorsqu'il est activé, Wixen transfère son pouvoir au joueur, convertissant ses attaques en Feu et augmentant son attaque de (30~50) % .",,,,Fire,https://paldb.cc/fr/Wixen,2026-08-05
+Wixen Noct,Grand Renard Noir,Fire,Dark,"Lorsqu'activé, Wixen Noct transfère son pouvoir au joueur, convertissant ses attaques en Ténèbres et augmentant son attaque de (30~50) % .",,,,Dark,https://paldb.cc/fr/Wixen_Noct,2026-08-05
+Katress,Étrange Sorcellerie,Dark,,"Lorsqu'il est dans l'équipe, augmente de (40~80)% la quantité d'objets obtenus en battant des Pals de type Non élém. .
+
+De plus, les sphères de Pal lancées ont (10~50)% de chances de ne pas être consommées. (Effet non cumulable)",,,,,https://paldb.cc/fr/Katress,2026-08-05
+Katress Ignis,Passion Magie Noire,Dark,Fire,"Dans la base, augmente de +1 le niveau de la capacité de travail Allumage de feu des autres Pals du camp. (Effet non cumulable)",,,,,https://paldb.cc/fr/Katress_Ignis,2026-08-05
+Helzephyr,Ailes des Enfers,Dark,,"Peut être utilisé comme monture pour voler.
+
+Lorsqu'il est monté, les attaques du joueur deviennent de type Ténèbres et sa puissance d'attaque augmente de (5~20)% . Technologies 25",Dark,,,,https://paldb.cc/fr/Helzephyr,2026-08-05
+Helzephyr Lux,Ailes Foudroyantes,Dark,Electric,"Peut être utilisé comme monture pour voler.
+
+Une fois monté, les attaques du joueur deviennent de type Électricité et sa puissance d'attaque augmente de (5~20)% . Technologies 47",Electric,,,,https://paldb.cc/fr/Helzephyr_Lux,2026-08-05
+Elgrove,Menace Naturelle,Grass,,"Lorsqu'il est activé, Elgrove transfère son pouvoir au joueur, convertissant ses attaques en Herbe et augmentant son attaque de (30~50) % .",,,,Grass,https://paldb.cc/fr/Elgrove,2026-08-05
+Elgrove Cryst,Pergélisol Menaçant,Ice,,"Lorsqu'il est dans l'équipe, lorsqu'un ennemi affecté par Trempé est attaqué par le joueur, il est immédiatement affecté par Gel .",,,,,https://paldb.cc/fr/Elgrove_Cryst,2026-08-05
+Lunaris,Antigravité,Neutral,,"Lorsqu'il est dans l'équipe, les sphères deviennent téléguidées et suivent automatiquement les Pals, et la limite de poids porté augmente de (300~600) . (effet non cumulable)",,,,,https://paldb.cc/fr/Lunaris,2026-08-05
+Fenglope,Vent et Nuages,Neutral,,"Peut être utilisé comme monture pour se déplacer.
+
+Lorsqu'il est monté, permet d'effectuer un double saut . Technologies 26",,,,,https://paldb.cc/fr/Fenglope,2026-08-05
+Fenglope Lux,Nuage d'Orage,Electric,,"Peut être utilisé comme monture pour se déplacer.
+
+Permet d'utiliser le double saut une fois monté.
+
+Lorsqu'il est dans l'équipe, augmente de (40~80)% la quantité d'objets obtenus en terrassant des Pals de type Eau . (Effet non cumulable) Technologies 57",,,,,https://paldb.cc/fr/Fenglope_Lux,2026-08-05
+Dinossom,Dragon Fleurissant,Grass,Dragon,"Peut être utilisé comme monture pour se déplacer.
+
+Augmente de (15~30)% la défense des Pals de type Dragon lorsqu'il est dans l'équipe. (effet non cumulable) Technologies 24",,Dragon,,,https://paldb.cc/fr/Dinossom,2026-08-05
+Dinossom Lux,Dragon Orageux,Electric,Dragon,"Peut être utilisé comme monture pour se déplacer.
+
+Augmente de (15~30)% la défense des Pals de type Électricité lorsqu'il est dans l'équipe. (effet non cumulable) Technologies 34",,Electric,,,https://paldb.cc/fr/Dinossom_Lux,2026-08-05
+Bushi,Flash Furtif,Fire,,"Lorsqu'il est activé, attaque l'ennemi ciblé avec Iaigiri .
+
+La puissance de cette compétence est multipliée par (1.1~2.5) .",,,,,https://paldb.cc/fr/Bushi,2026-08-05
+Bushi Noct,Flash Furtif Inversé,Fire,Dark,"Lorsqu'activée, attaque l'ennemi visé avec Iaigiri .
+
+La puissance de Iaigiri utilisée par ce Pal est multipliée par (1.1~2.5) .
+
+
+
+Lorsqu'il est dans l'équipe, les attaques portées avec une arme de corps à corps avant l'engagement du combat infligent (30~65)% de dégâts supplémentaires. (Effet non cumulable)",,,,,https://paldb.cc/fr/Bushi_Noct,2026-08-05
+Munchill,Entrailles Glacées,Ice,Water,"Lorsqu'il est dans l'équipe, réduit de (30~60)% le poids des ingrédients et des plats .
+
+
+
+De plus, les aliments se détériorent (-30~-80)% plus lentement, en complément de l'effet de conservation déjà conféré par les Pals de type Glace . (Effet non cumulable)",,,,,https://paldb.cc/fr/Munchill,2026-08-05
+Mammorest,Broyeur Tellurique,Grass,Ground,"Peut être utilisé comme monture pour se déplacer.
+
+Lorsqu'il est monté, augmente de (220~500)% l'efficacité pour détruire les arbres et de (500~2000)% l'efficacité pour détruire les minerais. Technologies 28",,,,,https://paldb.cc/fr/Mammorest,2026-08-05
+Mammorest Cryst,Broyeur à Glace,Ice,Ground,"Peut être utilisé comme monture pour se déplacer.
+
+Lorsqu'il est monté, augmente de (220~500)% l'efficacité pour détruire les arbres et de (500~2000)% l'efficacité pour détruire les minerais. Technologies 41",,,,,https://paldb.cc/fr/Mammorest_Cryst,2026-08-05
+Finsider,Aqua-Gâchette,Water,,"Lorsqu'activé, Finsider transfère son pouvoir au joueur, convertissant ses attaques en Eau et augmentant son attaque de (30~50) % .",,,,Water,https://paldb.cc/fr/Finsider,2026-08-05
+Finsider Ignis,Chambre de Braises,Water,Fire,"Lorsqu'il est dans l'équipe, Finsider Ignis porte les affaires du joueur et réduit de (60~100)% le poids des armes dans l'inventaire.
+
+Augmente également de (25~40)% les dégâts de type Feu infligés aux points faibles. (effet non cumulable)",,,,,https://paldb.cc/fr/Finsider_Ignis,2026-08-05
+Petallia,Bénédiction Florale,Grass,,"Déclenche une restauration des PV du joueur de (75~85)% grâce au pouvoir des fleurs.
+
+Dans la base, augmente de +1 le niveau d'aptitude au travail Semence des autres Pals de la base. (effet non cumulable)",,,,,https://paldb.cc/fr/Petallia,2026-08-05
+Petallia Ignis,Ferveur Florale,Grass,Fire,"Lorsqu'activée, utilise le pouvoir des fleurs pour restaurer (80~90) % des PV du joueur.
+
+Réduit de (15~30) % les dégâts de type Herbe subis par le joueur et les Pals, et immunise contre Entrave lorsqu'il est dans l'équipe. (Effet non cumulable)",,,,,https://paldb.cc/fr/Petallia_Ignis,2026-08-05
+Leafan,Abnégation,Grass,,"L'attaque et la défense de ce Pal augmentent de (2~6)% pour chaque Pal de type Herbe présent dans l'équipe, à l'exception de Leafan .",Grass,Grass,,,https://paldb.cc/fr/Leafan,2026-08-05
+Incineram,Chasseur aux Griffes Ardentes,Fire,Dark,"Lorsqu'activée, attaque l'ennemi ciblé avec Griffe Infernale .
+
+La puissance de Griffe Infernale utilisée par ce Pal est multipliée par (1.1~2.5) .",,,,,https://paldb.cc/fr/Incineram,2026-08-05
+Incineram Noct,Chasseur aux Griffes Noires,Dark,,"Lorsqu'activée, attaque l'ennemi ciblé avec Griffe Cauchemardesque .
+
+La puissance de Griffe Cauchemardesque utilisée par ce Pal est multipliée par (1.1~2.5) .",,,,,https://paldb.cc/fr/Incineram_Noct,2026-08-05
+Dazzi,Fille de la Foudre,Electric,,"Tant qu'il est dans l'équipe, il apparaît aux côtés du joueur.
+
+Il lance des éclairs de type Électricité pour attaquer les ennemis hostiles.
+
+Il ne peut pas achever les adversaires de lui-même.",,,,,https://paldb.cc/fr/Dazzi,2026-08-05
+Dazzi Noct,Fille de l'Orage Obscur,Dark,Electric,"Tant qu'il est dans l'équipe, il apparaît aux côtés du joueur.
+
+Il lance des éclairs de type Ténèbres pour attaquer les ennemis hostiles.
+
+Il ne peut pas achever les adversaires de lui-même.",,,,,https://paldb.cc/fr/Dazzi_Noct,2026-08-05
+Pyrin,Cheval Rouge,Fire,,"Peut être utilisé comme monture pour se déplacer.
+
+Lorsqu'il est monté, les attaques du joueur deviennent de type Feu et sa puissance d'attaque augmente de (5~20)% . Technologies 29",Fire,,,,https://paldb.cc/fr/Pyrin,2026-08-05
+Pyrin Noct,Cheval Noir,Fire,Dark,"Peut être utilisé comme monture pour se déplacer.
+
+Lorsqu'il est monté, les attaques du joueur deviennent de type Ténèbres et sa puissance d'attaque augmente de (5~20)% . Technologies 34",Dark,,,,https://paldb.cc/fr/Pyrin_Noct,2026-08-05
+Relaxaurus,Missile Affamé,Dragon,Water,"Peut être utilisé comme monture pour se déplacer.
+
+Permet de tirer en rafale avec un lance-missiles lorsqu'il est monté. Technologies 45",,,,,https://paldb.cc/fr/Relaxaurus,2026-08-05
+Relaxaurus Lux,Fête aux Missiles,Dragon,Electric,"Peut être utilisé comme monture pour se déplacer.
+
+Permet de tirer en rafale avec un lance-missiles lorsqu'il est monté. Technologies 48",,,,,https://paldb.cc/fr/Relaxaurus_Lux,2026-08-05
+Foxcicle,Instinct Boréal,Ice,,"Lorsqu'il est dans l'équipe, augmente de (15~30)% l'attaque des Pals de type Glace . (effet non cumulable)
+
+Peut être assigné à une Ferme avec une chance de produire un Organe de glace .",Ice,,,,https://paldb.cc/fr/Foxcicle,2026-08-05
+Beakon,Orage,Electric,,"Peut être utilisé comme monture pour voler.
+
+Lorsqu'il est monté, les attaques du joueur deviennent de type Électricité et sa puissance d'attaque augmente de (5~20)% .
+
+La vitesse de déplacement de ce Pal augmente de (5~25)% pour chaque Pal de type Électricité dans l'équipe, à l'exception de Beakon . Technologies 29",Electric,,,,https://paldb.cc/fr/Beakon,2026-08-05
+Beakon Cryst,Grésil Céleste,Ice,,"Peut être utilisé comme monture pour voler.
+
+Lorsqu'il est monté, les attaques du joueur sont converties en Glace , et son attaque augmente de (5~20)% .
+
+La vitesse de déplacement de ce Pal augmente de (5~25)% pour chaque Pal de type Glace présent dans l'équipe, à l'exception de Beakon Cryst . Technologies 71",Ice,,,,https://paldb.cc/fr/Beakon_Cryst,2026-08-05
+Ghangler,Guide des Ténèbres,Dark,Water,"Peut être utilisé comme monture pour se déplacer sur l'eau.
+
+La vitesse de déplacement de ce Pal augmente de (5~25)% pour chaque Pal de type Ténèbres ou Eau présent dans l'équipe, à l'exception de Ghangler . Technologies 31",,,,,https://paldb.cc/fr/Ghangler,2026-08-05
+Ghangler Ignis,Cordon-bleu des Profondeurs,Fire,Water,"Peut être utilisé comme monture pour nager.
+
+La vitesse de déplacement de ce Pal augmente de (5~25)% pour chaque Pal de type Feu ou Eau présent dans l'équipe, à l'exception de Ghangler Ignis . Technologies 42",,,,,https://paldb.cc/fr/Ghangler_Ignis,2026-08-05
+Rayhound,Chien Électrique,Electric,,"Peut être utilisé comme monture pour se déplacer.
+
+Permet d'effectuer un double saut lorsqu'il est monté.
+
+La vitesse de déplacement de ce Pal augmente de (5~25)% pour chaque Pal de type Électricité dans l'équipe, à l'exception de Rayhound . Technologies 30",,,,,https://paldb.cc/fr/Rayhound,2026-08-05
+Rayhound Cryst,Blizzarus-K9,Ice,,"Peut être utilisé comme monture pour se déplacer.
+
+Permet d'effectuer un double saut une fois monté.
+
+Augmente la défense des Pals de type Glace de (15~30) % lorsqu'il est dans l'équipe. (Effet non cumulable) Technologies 32",,Ice,,,https://paldb.cc/fr/Rayhound_Cryst,2026-08-05
+Menasting,Scorpion d'Acier,Dark,Ground,"Lorsqu'activé, augmente la défense du joueur de (5~10)% et augmente de (40~80)% la probabilité d'obtenir des objets en terrassant des Pals de type Électricité . (Effet non cumulable)",,Electric,,,https://paldb.cc/fr/Menasting,2026-08-05
+Menasting Terra,Scorpion Doré,Ground,,"Lorsqu'il est dans l'équipe, augmente la défense du joueur de (5~10)% et augmente de (40~80)% la quantité d'objets obtenus en terrassant des Pals de type Électricité . (Effet non cumulable)",,Electric,,,https://paldb.cc/fr/Menasting_Terra,2026-08-05
+Needoll,Free Hug,Grass,,Augmente de (50~65) % les dégâts infligés par le joueur et les Pals aux ennemis affectés par l'état Entrave lorsqu'il est dans l'équipe. (Effet non cumulable),,,,,https://paldb.cc/fr/Needoll,2026-08-05
+Needoll Noct,Câlin Piquant,Dark,Grass,"Lorsqu'il est dans l'équipe, ajoute une valeur d'accumulation d'état Entrave de (2~6) aux attaques du joueur. (Effet non cumulable)",,,,,https://paldb.cc/fr/Needoll_Noct,2026-08-05
+Reindrix,Fraîcheur Corporelle,Ice,,"Peut être utilisé comme monture pour se déplacer.
+
+Augmente de 2 la résistance à la chaleur du joueur lorsqu'il est dans l'équipe. (effet non cumulable) Technologies 31",,,,,https://paldb.cc/fr/Reindrix,2026-08-05
+Mossanda,Pandanade,Grass,,"Peut être utilisé comme monture pour se déplacer.
+
+Permet de tirer en rafale avec un lance-grenades lorsqu'il est monté. Technologies 32",,,,,https://paldb.cc/fr/Mossanda,2026-08-05
+Mossanda Lux,Pandanade,Electric,,"Peut être utilisé comme monture pour se déplacer.
+
+Permet de tirer en rafale avec un lance-grenades lorsqu'il est monté. Technologies 34",,,,,https://paldb.cc/fr/Mossanda_Lux,2026-08-05
+Chillet,Belette Stupéfiante,Ice,Dragon,"Peut être utilisé comme monture pour se déplacer.
+
+Lorsqu'il est monté, les attaques du joueur deviennent de type Dragon et sa puissance d'attaque augmente de (5~20)% . Technologies 11",Dragon,,,,https://paldb.cc/fr/Chillet,2026-08-05
+Chillet Ignis,Belette Crépitante,Fire,Dragon,"Peut être utilisé comme monture pour se déplacer.
+
+Une fois monté, les attaques du joueur deviennent de type Feu et sa puissance d'attaque augmente de (5~20)% . Technologies 40",Fire,,,,https://paldb.cc/fr/Chillet_Ignis,2026-08-05
+Ragnahawk,Ailes Enflammées,Fire,,"Peut être utilisé comme monture pour voler.
+
+Lorsqu'il est monté, les attaques du joueur deviennent de type Feu et sa puissance d'attaque augmente de (5~20)% . Technologies 33",Fire,,,,https://paldb.cc/fr/Ragnahawk,2026-08-05
+Moldron,Trop-Plein de Magma,Fire,Ground,"Peut être utilisé comme monture pour se déplacer.
+
+L'attaque de ce Pal augmente de (4~8)% pour chaque Pal de type Feu ou Terre présent dans l'équipe, à l'exception de Moldron . Technologies 36",Fire,,,,https://paldb.cc/fr/Moldron,2026-08-05
+Moldron Cryst,Trop-Plein de Glace,Ice,Ground,"Peut être utilisé comme monture pour se déplacer.
+
+Augmente de (25~40) % les dégâts infligés par le joueur et les Pals lorsqu'ils exploitent la faiblesse d'un ennemi avec des attaques de type Glace . (Effet non cumulable) Technologies 70",Ice,,Ice,,https://paldb.cc/fr/Moldron_Cryst,2026-08-05
+Palumba,Bain de Soleil,Grass,,"Peut être utilisé comme monture pour se déplacer.
+
+La vitesse de déplacement augmente de (155~240)% dans les hautes herbes . Technologies 35",,,,,https://paldb.cc/fr/Palumba,2026-08-05
+Digtoise,Perceuse Broyeuse,Ground,,"Provoque Coquille Rotative lorsqu'il est appelé.
+
+Suit le joueur en tournoyant pour faciliter la destruction des minerais de (800~2000) % .",,,,,https://paldb.cc/fr/Digtoise,2026-08-05
+Broncherry,Floraison du Premier Amour,Grass,,"Peut être utilisé comme monture pour se déplacer.
+
+Lorsqu'il est dans l'équipe, chaque œuf ramassé a (35~45)% de chances d'être remplacé par un œuf de Pal Alpha. (effet non cumulable) Technologies 33",,,,,https://paldb.cc/fr/Broncherry,2026-08-05
+Broncherry Aqua,Floraison de Pureté,Grass,Water,"Peut être utilisé comme monture pour se déplacer.
+
+Lorsqu'il est dans l'équipe, chaque œuf ramassé a (45~55)% de chances d'être remplacé par un œuf de Pal Alpha. (effet non cumulable) Technologies 44",,,,,https://paldb.cc/fr/Broncherry_Aqua,2026-08-05
+Dumud,Amélioration Terrestre,Ground,Water,"Lorsqu'il est dans l'équipe, augmente l'attaque des Pals de type Terre de (15~30)% . (effet non cumulable)
+
+Peut être assigné à une Ferme avec une chance de produire de l' Huile de Pal de qualité .",Ground,,,,https://paldb.cc/fr/Dumud,2026-08-05
+Dumud Gild,Ruée vers L'Or,Ground,Water,"Lorsqu'il est dans l'équipe, augmente de +(100~200)% la quantité de Pièce d'or obtenue sur les ennemis vaincus. (effet non cumulable)
+
+Peut être assigné à une Ferme avec une chance de produire de l' Huile de Pal de qualité ou, plus rarement, des Pièce d'or .",,,,,https://paldb.cc/fr/Dumud_Gild,2026-08-05
+Braloha,Soleil Accablant,Grass,Ground,"Peut être utilisé comme monture pour se déplacer.
+
+Dans la base, la vitesse de production des œufs des Pals affectés à un Ranch augmente de (20~50)% . (Effet non cumulable) Technologies 36",,,,,https://paldb.cc/fr/Braloha,2026-08-05
+Kitsun,Loup Solaire,Fire,,"Peut être utilisé comme monture pour se déplacer.
+
+Lorsqu'il est dans l'équipe, réduit de (15~30)% les dégâts de type Glace subis par le joueur et les Pals, et immunise contre l'effet Gel . (Effet non cumulable) Technologies 57",,,,,https://paldb.cc/fr/Kitsun,2026-08-05
+Kitsun Noct,Loup Morose,Dark,,"Peut être utilisé comme monture pour se déplacer.
+
+Lorsqu'il est dans l'équipe, réduit de (15~30)% les dégâts de type Ténèbres subis par le joueur et les Pals, et immunise contre l'état Cécité . (Effet non cumulable) Technologies 59",,,,,https://paldb.cc/fr/Kitsun_Noct,2026-08-05
+Blazehowl,Lion Infernal,Fire,,"Peut être utilisé comme monture pour se déplacer.
+
+Lorsqu'il est dans l'équipe, augmente de (40~80)% la quantité d'objets obtenus en terrassant des Pals de type Herbe . (effet non cumulable) Technologies 33",,,,,https://paldb.cc/fr/Blazehowl,2026-08-05
+Blazehowl Noct,Lion des Flammes Noires,Fire,Dark,"Peut être utilisé comme monture pour se déplacer.
+
+Lorsqu'il est dans l'équipe, augmente de (40~80)% la quantité d'objets obtenus en terrassant des Pals de type Non élém. . (effet non cumulable) Technologies 35",,,,,https://paldb.cc/fr/Blazehowl_Noct,2026-08-05
+Warsect,Armure Noire,Ground,Grass,"Lorsqu'il est dans l'équipe, crée une barrière autour du joueur si celui-ci réussit à toucher un ennemi 5 fois avec des attaques au corps-à-corps dans un délai de (5~9) secondes . (effet non cumulable)",,,,,https://paldb.cc/fr/Warsect,2026-08-05
+Warsect Terra,Armure Or,Ground,,"Lorsqu'il est dans l'équipe, crée une barrière autour du joueur si ce dernier touche une cible 5 fois avec des attaques de corps à corps en moins de (5~9) secondes . (Effet non cumulable)",,,,,https://paldb.cc/fr/Warsect_Terra,2026-08-05
+Frostplume,Paon Pan,Ice,,"Tant qu'il est dans l'équipe, l'air froid de Frostplume améliore la concentration du joueur et augmente sa vitesse de recharge de +(20~50) % . (Non cumulable)",,,,,https://paldb.cc/fr/Frostplume,2026-08-05
+Majex,Incantation Secrète,Dark,Fire,"Lorsqu'il est dans l'équipe et qu'une attaque du joueur touche un ennemi affecté par Brûlure , des flammes apparaissent autour de l'ennemi et les ennemis en contact subissent des dégâts continus équivalents à (15~30) % de l'attaque du joueur. (Effet non cumulable)",,,,,https://paldb.cc/fr/Majex,2026-08-05
+Sibelyx,Voile Soyeux,Ice,,"Lorsqu'il est activé, attaque l'ennemi ciblé avec Morsure du Blizzard .
+
+La puissance de cette compétence est multipliée par (1.1~2.5) .
+
+Peut être assigné à une Ferme avec une chance de produire du Tissu de qualité .",,,,,https://paldb.cc/fr/Sibelyx,2026-08-05
+Sibelyx Primo,Voile Doré,Neutral,,"Lorsqu'il est dans l'équipe, augmente la défense des Pals de type Non élém. de (15~30) % . (Effet non cumulable)
+
+À affecter à une Ferme pour avoir une chance de fabriquer du Tissu de qualité .",,,,,https://paldb.cc/fr/Sibelyx_Primo,2026-08-05
+Maraith,Messager de la Mort,Dark,,"Peut être utilisé comme monture pour se déplacer.
+
+Lorsqu'il est dans l'équipe, réduit le temps de recharge des compétences de tous les Pals de l'équipe de (30~60)% lors de la défaite d'un ennemi. (effet non cumulable) Technologies 37",,,,,https://paldb.cc/fr/Maraith,2026-08-05
+Shroomer,Spores Vivaces,Grass,,"Peut être utilisé comme monture pour se déplacer.
+
+Peut être assigné à une Ferme avec une chance de produire un Champignon ou un Champignon des cavernes . Technologies 39",,,,,https://paldb.cc/fr/Shroomer,2026-08-05
+Shroomer Noct,Spores Fumantes,Grass,Dark,"Peut être utilisé comme monture pour se déplacer.
+
+Dans la base, les mystérieuses spores de Shroomer Noct ralentissent la diminution des points MEN des Pals de (10~15)% . Technologies 39",,,,,https://paldb.cc/fr/Shroomer_Noct,2026-08-05
+Icelyn,Sorcière Frigorifique,Ice,,"Lorsqu'activé, Icelyn transfère son pouvoir au joueur, convertissant ses attaques en Glace et augmentant son attaque de (30~50) % .",,,,Ice,https://paldb.cc/fr/Icelyn,2026-08-05
+Gildra,Résurrection,Dark,Ground,"Lorsqu'il combat à vos côtés, si Gildra est mis K.O., il est ressuscité au prix d'une satiété réduite à 0.",,,,,https://paldb.cc/fr/Gildra,2026-08-05
+Jormuntide,Dragon Marin Tempétueux,Dragon,Water,"Peut être utilisé comme monture pour se déplacer sur l'eau.
+
+Lorsqu'il est dans l'équipe, augmente de (50~65)% les dégâts infligés aux ennemis affectés par Trempé . (effet non cumulable) Technologies 40",,,,,https://paldb.cc/fr/Jormuntide,2026-08-05
+Jormuntide Ignis,Dragon de Lave Tempétueux,Dragon,Fire,"Peut être utilisé comme monture pour se déplacer.
+
+Lorsqu'il est dans l'équipe, annule les dégâts de lave et augmente de (50~65)% les dégâts infligés aux ennemis affectés par Brûlure . (effet non cumulable) Technologies 59",,,,,https://paldb.cc/fr/Jormuntide_Ignis,2026-08-05
+Suzaku,Ailes de Feu,Fire,,"Peut être utilisé comme monture pour voler.
+
+La vitesse de déplacement de ce Pal augmente de (5~25)% pour chaque Pal de type Feu dans l'équipe, à l'exception de Suzaku . Technologies 43",,,,,https://paldb.cc/fr/Suzaku,2026-08-05
+Suzaku Aqua,Ailes d'Eau,Water,,"Peut être utilisé comme monture pour voler.
+
+La vitesse de déplacement de ce Pal augmente de (5~25)% pour chaque Pal de type Eau dans l'équipe, à l'exception de Suzaku Aqua . Technologies 44",,,,,https://paldb.cc/fr/Suzaku_Aqua,2026-08-05
+Dazemu,Ruée Sablonneuse,Ground,,"Peut être utilisé comme monture pour se déplacer.
+
+Sa vitesse de déplacement augmente de (50~100)% lorsqu'il se trouve sur le sable . Technologies 28",,,,,https://paldb.cc/fr/Dazemu,2026-08-05
+Quivern,Compassion du Dragon Céleste,Dragon,,"Peut être utilisé comme monture pour voler.
+
+Lorsqu'il est dans l'équipe, augmente l'attaque des Pals de type Dragon de (15~30)% . (effet non cumulable) Technologies 38",Dragon,,,,https://paldb.cc/fr/Quivern,2026-08-05
+Quivern Botan,Affection du Dragon Sylvestre,Dragon,Grass,"Peut être utilisé comme monture pour voler.
+
+Une fois monté, les attaques du joueur deviennent de type Herbe et sa puissance d'attaque augmente de (5~20)% . Technologies 45",Grass,,,,https://paldb.cc/fr/Quivern_Botan,2026-08-05
+Lullu,Turbo Floral,Grass,,"Dans la base, Lullu insuffle de l'énergie aux plantations pour augmenter la vitesse de croissance des cultures de (50~70)% .",,,,,https://paldb.cc/fr/Lullu,2026-08-05
+Kikit,Balle de Plage,Ground,,"Lorsqu'il est dans l'équipe, augmente la défense des Pals de type Terre de (15~30)% . (Effet non cumulable)",,Ground,,,https://paldb.cc/fr/Kikit,2026-08-05
+Yakumo,Qui se ressemble s'assemble,Neutral,,"Peut être utilisé comme monture pour se déplacer.
+
+Lorsqu'il combat à vos côtés, augmente de (15~30)% les chances de rencontrer des Pals possédant la même compétence passive.
+
+
+
+* À l'exception de certaines compétences passives. Technologies 41",,,,,https://paldb.cc/fr/Yakumo,2026-08-05
+Skutlass,Désossage,Water,,"Lorsqu'activée, Skutlass se transforme en katana à disposition du joueur (Attaque : (2600~3900) ).
+
+S'il ne retrouve pas rapidement sa forme d'origine, Skutlass tombe K.O.
+
+Utiliser une attaque Laigiri le met également K.O.",,,,,https://paldb.cc/fr/Skutlass,2026-08-05
+Skutlass Ignis,Barbecue,Water,Fire,"Lorsqu'activée, Skutlass Ignis se transforme en katana à disposition du joueur (Attaque : (2900~4200) ).
+
+S'il ne retrouve pas rapidement sa forme d'origine, Skutlass Ignis tombe K.O.
+
+Utiliser une attaque Laigiri le met également K.O.",,,,,https://paldb.cc/fr/Skutlass_Ignis,2026-08-05
+Reptyro,Bête Briseuse de Cristal,Fire,Ground,"Peut être utilisé comme monture pour se déplacer.
+
+Lorsqu'il est dans l'équipe, réduit de (30~60)% le poids de tous les minerais . (effet non cumulable) Technologies 42",,,,,https://paldb.cc/fr/Reptyro,2026-08-05
+Reptyro Cryst,Bête Biseuse d'Icebergs,Ice,Ground,"Peut être utilisé comme monture pour se déplacer.
+
+Lorsqu'il est dans l'équipe, réduit de (35~65)% le poids de tous les minerais . (effet non cumulable) Technologies 43",,,,,https://paldb.cc/fr/Reptyro_Cryst,2026-08-05
+Starryon,Danseur de Minuit,Dark,,"Peut être chevauché pour se déplacer. Augmente la hauteur des sauts lorsque vous êtes en selle.
+
+La nuit, la vitesse de déplacement de ce Pal augmente de +(50~100) % . Technologies 57",,,,,https://paldb.cc/fr/Starryon,2026-08-05
+Starryon Primo,Danseur Radieux,Neutral,,"Peut être utilisé comme monture pour se déplacer et permet de sauter plus haut une fois monté.
+
+La vitesse de déplacement de ce Pal augmente de (5~25) % pour chaque Pal de type Non élém. présent dans l'équipe, à l'exception de Starryon Primo . Technologies 77",,,,,https://paldb.cc/fr/Starryon_Primo,2026-08-05
+Pierdon,Pierre de Force,Ground,,Augmente de (50~65) % les dégâts infligés par le joueur et les Pals aux ennemis affectés par l'état Embourbement lorsqu'il est dans l'équipe. (Effet non cumulable),,,,,https://paldb.cc/fr/Pierdon,2026-08-05
+Pierdon Cryst,Cristal de Force,Ice,,"Lorsqu'il est dans l'équipe, réduit de (15~30)% les dégâts de type Dragon subis par le joueur et les Pals. (Effet non cumulable)",,,,,https://paldb.cc/fr/Pierdon_Cryst,2026-08-05
+Cryolinx,Chasseur de Dragons,Ice,,"Lorsqu'il est dans l'équipe, augmente de (40~80)% la quantité d'objets obtenus en terrassant des Pals de type Dragon . (effet non cumulable)",,,,,https://paldb.cc/fr/Cryolinx,2026-08-05
+Cryolinx Terra,Poigne Explosive,Ground,,"Lorsqu'il est dans l'équipe et qu'un point faible est touché, les dégâts du prochain coup porté à un point faible augmentent de (30~60)% . (Effet non cumulable)",,,,,https://paldb.cc/fr/Cryolinx_Terra,2026-08-05
+Snugloo,Œil Invisible,Ice,,"Lorsqu'il est dans l'équipe, réduit la probabilité d'être repéré par les ennemis. (Effet non cumulable)",,,,,https://paldb.cc/fr/Snugloo,2026-08-05
+Wumpo,Gardien des Montagnes Enneigées,Ice,,"Peut être utilisé comme monture pour se déplacer.
+
+Dans la base, augmente de +1 le niveau d'aptitude au travail Transport des autres Pals de la base. (effet non cumulable) Technologies 45",,,,,https://paldb.cc/fr/Wumpo,2026-08-05
+Wumpo Botan,Gardien du Sud,Grass,,"Peut être utilisé comme monture pour se déplacer.
+
+Lorsqu'il est dans l'équipe, réduit de (15~30)% les dégâts de type Terre subis par le joueur et les Pals, et immunise contre l'état Embourbement . (effet non cumulable) Technologies 51",,,,,https://paldb.cc/fr/Wumpo_Botan,2026-08-05
+Sootseer,Pille-Tombes,Dark,Fire,"Lorsqu'il est dans l'équipe, réduit de (15~30)% les dégâts de type Non élém. subis par le joueur et les Pals. (Effet non cumulable)
+
+Peut être assigné à une Ferme avec une chance de déterrer des Os .",,,,,https://paldb.cc/fr/Sootseer,2026-08-05
+Carnibora,Langue Fourchue,Grass,,"Lorsqu'il est dans l'équipe et que le joueur effectue une roulade ou des déplacements rapides, Carnibora génère une tornade qui inflige des dégâts aux ennemis touchés ( Herbe / Puissance : (40~80) ). (Effet non cumulable)",,,,,https://paldb.cc/fr/Carnibora,2026-08-05
+Blazamut,Empereur Magmatique,Fire,,"Peut être utilisé comme monture pour se déplacer.
+
+Lorsqu'il est dans l'équipe, augmente de (5~10)% l'attaque et la défense des Pals en combat à chaque ennemi vaincu.
+
+Cet effet dure 20 secondes et peut se cumuler jusqu'à 5 fois. (effet non cumulable) Technologies 46",All,All,,,https://paldb.cc/fr/Blazamut,2026-08-05
+Blazamut Ryu,Roi des Dragons,Dragon,Fire,"Peut être utilisé comme monture pour se déplacer.
+
+Lorsqu'il est dans l'équipe, augmente de (25~40)% les dégâts infligés en touchant les faiblesses avec des attaques de type Dragon . (Effet non cumulable) Technologies 55",Dragon,,Dragon,,https://paldb.cc/fr/Blazamut_Ryu,2026-08-05
+Dualith,Laser Sylvain,Ground,Grass,"Peut être utilisé comme monture pour se déplacer.
+
+Lorsqu'activée, Dualith projette un puissant laser de type Herbe depuis sa main droite. Technologies 48",,,,,https://paldb.cc/fr/Dualith,2026-08-05
+Dualith Noct,Laser Corrompu,Ground,Dark,"Peut être utilisé comme monture pour se déplacer.
+
+Lorsqu'activée, Dualith Noct projette un puissant laser de type Ténèbres depuis sa main droite. Technologies 69",,,,,https://paldb.cc/fr/Dualith_Noct,2026-08-05
+Anubis,Gardien du Désert,Ground,,"Lorsqu'activé, Anubis transfère son pouvoir au joueur, convertissant ses attaques en Terre et augmentant son attaque de (30~50) % .
+
+
+
+En combat, esquive parfois les attaques grâce à des pas rapides.",,,,Ground,https://paldb.cc/fr/Anubis,2026-08-05
+Sekhmet,Impératrice des Sables,Ground,,"Dans la base, la vitesse de travail des Anubis présents augmente de (20~40) % . (Effet non cumulable)
+
+L'efficacité de travail de Sekhmet augmente de (30~60) % lorsqu'il travaille sur un établi ou dans une usine.",,,,,https://paldb.cc/fr/Sekhmet,2026-08-05
+Prixter,Scorpion Patoxique,Dark,Ground,"Lorsqu'il est dans l'équipe, augmente de (50~65)% les dégâts infligés aux ennemis affectés par Empoisonnement . (effet non cumulable)",,,,,https://paldb.cc/fr/Prixter,2026-08-05
+Prixter Lux,Scorpion Statique,Electric,Ground,"Lorsqu'activé, Prixter Lux transfère son pouvoir au joueur, convertissant ses attaques en Électricité et augmentant son attaque de (30~50) % .",,,,Electric,https://paldb.cc/fr/Prixter_Lux,2026-08-05
+Tetroise,Tortue Maçonne,Ground,,"Peut être utilisé comme monture pour se déplacer.
+
+Lorsqu'il est dans la base, augmente le niveau de la capacité de travail Extraction des autres Pals de la base de 1 . (Effet non cumulable) Technologies 48",,,,,https://paldb.cc/fr/Tetroise,2026-08-05
+Tetroise Primo,Tortue Madone,Neutral,,"Peut être utilisé comme monture pour se déplacer.
+
+Réduit de (80~100) % la perte de durabilité des armes et des armures lorsqu'il est dans l'équipe. (Effet non cumulable) Technologies 75",,,,,https://paldb.cc/fr/Tetroise_Primo,2026-08-05
+Nyafia,Furie Féline,Dark,,"Lorsqu'activée, Nyafia mitraille temporairement les ennemis proches avec un fusil à pompe.
+
+Lorsqu'il est dans l'équipe, augmente les dégâts des fusils à pompe utilisés par le joueur de (10~35)% . (effet non cumulable) Technologies 52",,,,,https://paldb.cc/fr/Nyafia,2026-08-05
+Mimog,Crochetage,Neutral,,"Lorsqu'il combat à vos côtés, le pouvoir de Mimog permet d'ouvrir les coffres sans utiliser de clé.",,,,,https://paldb.cc/fr/Mimog,2026-08-05
+Xenovader,Envahisseur Non Identifié,Dark,,"Lorsqu'il est dans l'équipe, les dégâts infligés par la dernière balle du chargeur des armes automatiques augmentent de (100~160)% . (Effet non cumulable)",,,,,https://paldb.cc/fr/Xenovader,2026-08-05
+Xenogard,Intrus Non Identifié,Dragon,,"Peut être utilisé comme monture pour se déplacer.
+
+Lorsqu'il est dans l'équipe, augmente de (10~35)% les dégâts infligés par les armes énergétiques du joueur. (Effet non cumulable) Technologies 41",,,,,https://paldb.cc/fr/Xenogard,2026-08-05
+Prunelia,Prospérité Agricole,Grass,Dark,"Dans la base, les prières de Prunelia augmentent la quantité de récoltes de (18~35)% .",,,,,https://paldb.cc/fr/Prunelia,2026-08-05
+Nitemary,Lapin Volâme,Dark,,"Lorsqu'il est dans l'équipe, augmente de +(100~200)% la quantité d'âmes obtenues en terrassant des Pals. (Effet non cumulable)",,,,,https://paldb.cc/fr/Nitemary,2026-08-05
+Nitemary Botan,Lapin Blokâme,Grass,,"Lorsqu'il est dans l'équipe, augmente la défense des Pals de type Herbe de (15~30)% . (Effet non cumulable)",,Grass,,,https://paldb.cc/fr/Nitemary_Botan,2026-08-05
+Smokie,Chien fidèle Smokie,Dark,,"Lorsqu'activée, son odorat très développé permet de détecter le Chromite à proximité.
+
+Lorsqu'il combat à vos côtés, la quantité de Chromite obtenue augmente de +(100~200)% . Technologies 58",,,,,https://paldb.cc/fr/Smokie,2026-08-05
+Smokie Cryst,Froide Bête,Dark,Ice,"Dans la base, le niveau de la capacité de travail Réfrigération des autres Pals du camp augmente de +1 . (Effet non cumulable)",,,,,https://paldb.cc/fr/Smokie_Cryst,2026-08-05
+Omascul,Danse du Masque,Dark,,"Lorsqu'il est dans l'équipe, augmente la quantité d'EXP obtenue par les Pals de l'équipe de (40~80)% . (effet non cumulable)",,,,,https://paldb.cc/fr/Omascul,2026-08-05
+Whalaska,Céta-Frais,Ice,Water,"Peut être utilisé comme monture pour se déplacer sur l'eau.
+
+Lorsqu'il est dans l'équipe, les mini-jeux de pêche commencent avec une jauge de capture remplie de (5~14)% supplémentaires, et la progression de la jauge augmente de (5~14)% lorsque les barres sont superposées. (Effet non cumulable) Technologies 42",,,,,https://paldb.cc/fr/Whalaska,2026-08-05
+Whalaska Ignis,Céta-Chaud,Ice,Fire,"Peut être utilisé comme monture pour nager.
+
+Lorsqu'il est dans l'équipe, les mini-jeux de pêche commencent avec une jauge de capture remplie à (7~17)% supplémentaires, et la jauge progresse de (7~17)% supplémentaires lorsque les barres se chevauchent. (effet non cumulable) Technologies 71",,,,,https://paldb.cc/fr/Whalaska_Ignis,2026-08-05
+Verdash,Acrobate des Plaines,Grass,,"Lorsqu'il est dans l'équipe, ajoute + 1 sauts supplémentaires et + 1 sprints aériens supplémentaires. (effet non cumulable)",,,,,https://paldb.cc/fr/Verdash,2026-08-05
+Splatterina,Lame Amoureuse,Dark,,"Lorsqu'il est dans l'équipe, augmente de (100~200)% les objets obtenus lors du dépeçage avec un Couteau de boucher . (effet non cumulable)",,,,,https://paldb.cc/fr/Splatterina,2026-08-05
+Gildane,Protection Sablonneuse,Ground,,"Peut être utilisé comme monture pour se déplacer.
+
+Une fois monté, les attaques du joueur deviennent de type Terre et sa puissance d'attaque augmente de (5~20)% . Technologies 54",Ground,,,,https://paldb.cc/fr/Gildane,2026-08-05
+Dogen,Prière de Retour,Neutral,,"Lorsqu'il est activé, permet de se téléporter vers la base le plus proche.
+
+Inutilisable dans les donjons.",,,,,https://paldb.cc/fr/Dogen,2026-08-05
+Bulldosu,Carrure de Champion,Ground,,"Peut être utilisé comme monture pour se déplacer.
+
+Réduit de (15~30) % les dégâts de type Électricité subis par le joueur et les Pals, et annule l'état Électrisation lorsqu'il est dans l'équipe. (Effet non cumulable) Technologies 53",,,,,https://paldb.cc/fr/Bulldosu,2026-08-05
+Celesdir,Bénédiction Purificatrice,Neutral,,"Peut être utilisé comme monture pour se déplacer.
+
+L'attaque et la vitesse de déplacement de ce Pal augmentent de (2~6)% pour chaque Pal de type Non élém. présent dans l'équipe, à l'exception de Celesdir .
+
+Lorsqu'il est dans l'équipe, restaure chaque seconde les PV du joueur et des Pals de l'équipe de (0.15~0.75)% en dehors des combats. (Effet non cumulable) Technologies 54",,,,,https://paldb.cc/fr/Celesdir,2026-08-05
+Celesdir Noct,Bénédiction du Chaos,Dark,,"Peut être utilisé comme monture pour se déplacer.
+
+Augmente l'attaque des Pals en combat de (40~80) % lorsqu'il est dans l'équipe, mais leurs PV diminuent progressivement. (Effet non cumulable) Technologies 78",,,,,https://paldb.cc/fr/Celesdir_Noct,2026-08-05
+Astegon,Dragon en Armure Noire,Dragon,Dark,"Peut être utilisé comme monture pour voler.
+
+Lorsqu'il est monté, les dégâts infligés aux minerais augmentent de (1100~3300)% , et la quantité de Minerai de métal obtenue augmente de (150~300)% . Technologies 39",,,,,https://paldb.cc/fr/Astegon,2026-08-05
+Knocklem,Mode Gardien d'Acier,Ground,,"Lorsqu'activée, la volonté de fer de Knocklem augmente temporairement son attaque de (50~200)% et sa défense de (50~200)% .",,,,,https://paldb.cc/fr/Knocklem,2026-08-05
+Knocklem Ignis,Mode Gardien de Sang,Fire,,"Lorsqu'il est activé, Knocklem Ignis augmente temporairement son attaque de (60~210) % et sa défense de (60~210) % , grâce à sa volonté de fer.",,,,,https://paldb.cc/fr/Knocklem_Ignis,2026-08-05
+Silvegis,Bouclier Aegis,Dragon,,"Peut être utilisé comme monture pour se déplacer.
+
+Lorsqu'il est dans l'équipe, réduit de (30~60)% le délai avant le début de la régénération du bouclier du joueur et réduit de (65~80)% la perte de durabilité du bouclier. (Effet non cumulable) Technologies 60",,All,,,https://paldb.cc/fr/Silvegis,2026-08-05
+Azurmane,Charge Plasma,Electric,,"Peut être utilisé comme monture pour se déplacer.
+
+Permet également d'effectuer une ruée aérienne pour se déplacer à grande vitesse. Technologies 58",,,,,https://paldb.cc/fr/Azurmane,2026-08-05
+Valentail,Extensibilité Féline,Neutral,,"Lorsqu'il est dans l'équipe, la gravité affectant le joueur est réduite, rendant les sauts et les chutes plus légers. (Effet non cumulable)",,,,,https://paldb.cc/fr/Valentail,2026-08-05
+Snock,Batterie Dissuasive,Electric,,"Lorsqu'il est dans l'équipe, ajoute une valeur d'accumulation d'état Électrisation de (2~6) aux attaques du joueur. (Effet non cumulable)",,,,,https://paldb.cc/fr/Snock,2026-08-05
+Snock Lux,Coquille Invasive,Electric,Ground,"Lorsqu'il est dans l'équipe, réduit de (15~30) % les dégâts de type Eau subis par le joueur et les Pals, et immunise contre Trempé . (Effet non cumulable)",,,,,https://paldb.cc/fr/Snock_Lux,2026-08-05
+Souffline,Fée Duveteuse,Grass,,Augmente le taux de capture des Pals souffrant de Entrave lorsqu'il est dans l'équipe. (Effet non cumulable),,,,,https://paldb.cc/fr/Souffline,2026-08-05
+Lapiron,Terre Chérie,Ground,,"Lorsqu'il est dans l'équipe, réduit de (50~65)% les dégâts subis par le joueur pendant les ruées. (Effet non cumulable)",,,,,https://paldb.cc/fr/Lapiron,2026-08-05
+Hoodle,Rôdeur du Néant,Dark,,"Lorsqu'il est dans l'équipe, les dégâts infligés par le joueur aux ennemis hors combat augmentent de (50~100) % . (Effet non cumulable)",,,,,https://paldb.cc/fr/Hoodle,2026-08-05
+Slowatt,Mode Relax,Electric,,"Lorsqu'il est dans l'équipe et qu'une attaque du joueur touche un ennemi affecté par Électrisation , celui-ci libère de l'électricité et inflige des dégâts aux ennemis proches équivalents à (40~60) % de l'attaque du joueur. (Effet non cumulable)",,,,,https://paldb.cc/fr/Slowatt,2026-08-05
+Bakemi,Fantômette Joviale,Dark,,Réduit de (40~80) % l'attaque des ennemis affectés par Empoisonnement lorsqu'il est dans l'équipe. (Effet non cumulable),,,,,https://paldb.cc/fr/Bakemi,2026-08-05
+Solmora,Môle Charismatique,Water,,"Peut être utilisé comme monture pour nager.
+
+Augmente les chances d'attraper des Pals à potentiel lorsqu'il est dans l'équipe. Technologies 65",,,,,https://paldb.cc/fr/Solmora,2026-08-05
+Solmora Lux,Môle Plasmique,Water,Electric,"Peut être utilisé comme monture pour nager.
+
+Lorsqu'il est monté, les attaques du joueur sont converties en Électricité , et son attaque augmente de (5~20) % .
+
+De plus, pêcher des Pals à potentiel devient plus facile lorsqu'il est dans l'équipe. Technologies 66",Electric,,,,https://paldb.cc/fr/Solmora_Lux,2026-08-05
+Lapure,Manches Longues Triomphantes,Neutral,,"Lorsqu'il est dans l'équipe, réduit de (10~50)% le temps de recharge des compétences partenaires des autres Pals de l'équipe. (Effet non cumulable)",,,,,https://paldb.cc/fr/Lapure,2026-08-05
+Eidrolon,Ptérodactyle Libre,Dragon,Dark,"Peut être utilisé comme monture pour voler.
+
+
+
+L'attaque et la vitesse de déplacement de ce Pal augmentent de (2~6) % pour chaque Pal de type Dragon ou Ténèbres présent dans l'équipe, à l'exception de Eidrolon . Technologies 68",Dark,,,,https://paldb.cc/fr/Eidrolon,2026-08-05
+Eidrolon Ignis,Ptérodactyle Furieux,Dragon,Fire,"Peut être utilisé comme monture pour voler.
+
+
+
+L'attaque et la vitesse de déplacement de ce Pal augmentent de (2~6) % pour chaque Pal de type Dragon ou Feu présent dans l'équipe, à l'exception de Eidrolon Ignis . Technologies 76",Fire,,,,https://paldb.cc/fr/Eidrolon_Ignis,2026-08-05
+Dynamoff,Couvaison Électromassante,Electric,,"Peut être utilisé comme monture pour voler.
+
+Lorsqu'il est dans la base, augmente la vitesse d'éclosion des œufs de (20~40) % . (Effet non cumulable) Technologies 66",,,,,https://paldb.cc/fr/Dynamoff,2026-08-05
+Tropicaw,Danse Florale,Grass,,"Lorsqu'il est dans l'équipe, augmente de (15~30) % la durée d'invincibilité lors des roulades et des esquives du joueur. (Effet non cumulable)",,,,,https://paldb.cc/fr/Tropicaw,2026-08-05
+Flaracle,Avenir Brûlant,Fire,,"Lorsqu'il est dans l'équipe et qu'une attaque du joueur touche un ennemi affecté par Brûlure , celui-ci explose et inflige des dégâts supplémentaires équivalents à (40~60) % de l'attaque du joueur. (Effet non cumulable)",,,,,https://paldb.cc/fr/Flaracle,2026-08-05
+Ophydia,Brume Glorieuse,Grass,Water,"Lorsqu'il est dans l'équipe, ajoute (2~6) d'accumulation d'état Trempé aux attaques du joueur. (Effet non cumulable) Technologies 72",,,,,https://paldb.cc/fr/Ophydia,2026-08-05
+Dupin,Passe-casse,Fire,,"Lorsqu'il est dans l'équipe, Dupin provoque une explosion autour du joueur lorsque ses PV tombent sous 50 % ( Feu / Puissance : (100~200) ).
+
+De plus, l'attaque du joueur augmente de (30~50)% tant que ses PV sont inférieurs à 50 %. (Effet non cumulable)",Fire,,,,https://paldb.cc/fr/Dupin,2026-08-05
+Roujay,Ailes des Ténèbres,Dark,,"Peut être utilisé comme monture pour voler.
+
+Augmente de (50~65) % les dégâts infligés par le joueur et les Pals aux ennemis affectés par l'état Cécité lorsqu'il est dans l'équipe. (Effet non cumulable) Technologies 72",,,,,https://paldb.cc/fr/Roujay,2026-08-05
+Venusa,Sagacité Reptilienne,Dark,,"Lorsqu'il est dans l'équipe, ajoute (2~6) d'accumulation d'état Cécité aux attaques du joueur. (Effet non cumulable)",,,,,https://paldb.cc/fr/Venusa,2026-08-05
+Mycora,Spores Charmants,Grass,,"Dans la base, le niveau d'aptitude au travail Pharmacie des autres Pals du camp augmente de +1 . (Effet non cumulable)",,,,,https://paldb.cc/fr/Mycora,2026-08-05
+Loomen,Lanterne Enchantée,Dark,Fire,"Lorsqu'il est dans l'équipe, les flèches tirées par le joueur explosent à l'impact et infligent des dégâts supplémentaires équivalents à (15~30) % des dégâts d'attaque du joueur. (Effet non cumulable)",,,,,https://paldb.cc/fr/Loomen,2026-08-05
+Wistella,Énergie Noire Secrète,Dark,,"Lorsqu'il est dans l'équipe, augmente la défense des Pals de type Ténèbres de (15~30)% . (Effet non cumulable)",,Dark,,,https://paldb.cc/fr/Wistella,2026-08-05
+Solenne,Princesse Indomptable,Dark,Neutral,"Lorsqu'il est dans l'équipe, l'attaque du joueur augmente de (30~80) % si tous les Pals de l'équipe sont d'espèces différentes. (Effet non cumulable)",,,,,https://paldb.cc/fr/Solenne,2026-08-05
+Renjishi,Scène de Combat,Fire,,"Lorsqu'il est dans l'équipe, ajoute (2~6) d'accumulation d'état Brûlure aux attaques du joueur. (Effet non cumulable)",,,,,https://paldb.cc/fr/Renjishi,2026-08-05
+Aegidron,Dragon Inébranlable,Dragon,Ground,"Peut être utilisé comme monture pour se déplacer.
+
+Réduit de (60~80) % les dégâts des attaques explosives subis par le joueur et les Pals, et immunise contre Étourdissement lorsqu'il est dans l'équipe. (Effet non cumulable) Technologies 79",,,,,https://paldb.cc/fr/Aegidron,2026-08-05
+Grizzbolt,Tank Jaune,Electric,,"Peut être utilisé comme monture pour se déplacer.
+
+Permet de tirer en rafale avec un minigun lorsqu'il est monté. Technologies 40",,,,,https://paldb.cc/fr/Grizzbolt,2026-08-05
+Lyleen,Déesse de la Fertilité,Grass,,"Lorsqu'activée, restaure (80~90)% des PV du joueur et des Pals de l'équipe grâce aux pouvoirs curatifs de la reine.",,,,,https://paldb.cc/fr/Lyleen,2026-08-05
+Lyleen Noct,Déesse de la Pénombre,Dark,,"Lorsqu'activée, restaure (85~95)% des PV du joueur et des Pals de l'équipe grâce aux pouvoirs curatifs de la reine.",,,,,https://paldb.cc/fr/Lyleen_Noct,2026-08-05
+Orserk,Dragon Tempétueux,Dragon,Electric,"Lorsqu'il est dans l'équipe, chaque tir qui touche un ennemi augmente de (1~5)% l'attaque et la défense des Pals combattants.
+
+Cet effet dure 5 secondes et peut se cumuler jusqu'à 30 fois. (effet non cumulable)",All,All,,,https://paldb.cc/fr/Orserk,2026-08-05
+Faleris,Prédateur Brûlant,Fire,,"Peut être utilisé comme monture pour voler.
+
+Lorsqu'il est dans l'équipe, augmente de (40~80)% la quantité d'objets obtenus en vainquant des Pals de type Glace . (effet non cumulable) Technologies 60",,,,,https://paldb.cc/fr/Faleris,2026-08-05
+Faleris Aqua,Prédateur Aquatique,Water,,"Peut être utilisé comme monture pour voler.
+
+Lorsqu'il est dans l'équipe, augmente de (40~80)% la quantité d'objets obtenus en terrassant des Pals de type Feu . (Effet non cumulable) Technologies 60",,,,,https://paldb.cc/fr/Faleris_Aqua,2026-08-05
+Shadowbeak,Gènes modifiés,Dark,,"Peut être utilisé comme monture pour voler.
+
+Lorsqu'il est monté, les attaques de type Ténèbres sont renforcées de (15~30)% .
+
+La vitesse de déplacement augmente pendant le vol. Technologies 47",Dark,,,,https://paldb.cc/fr/Shadowbeak,2026-08-05
+Selyne,Ténèbres Célestes,Dark,Neutral,"Peut être utilisé comme monture pour voler.
+
+Une fois monté, les attaques de type Non élém. et Ténèbres sont renforcées de (15~30)% . Technologies 53",,,,,https://paldb.cc/fr/Selyne,2026-08-05
+Bastigor,Écrasement Blizzard,Ice,,"Peut être utilisé comme monture pour se déplacer.
+
+Permet d'attaquer avec un marteau de type Glace lorsqu'il est monté. Technologies 73",,,,,https://paldb.cc/fr/Bastigor,2026-08-05
+Shaolong,Souverain du Ciel d'Azur,Dragon,Water,"Peut être utilisé comme monture pour voler.
+
+L'attaque de ce Pal augmente de (4~8)% pour chaque Pal de type Dragon présent dans l'équipe, à l'exception de Shaolong . Technologies 77",Dragon,,,,https://paldb.cc/fr/Shaolong,2026-08-05
+Silvance,Gardien des Spores,Grass,,"Lorsqu'il est dans l'équipe, fait exploser les ennemis souffrant de Entrave attaqués par le joueur, et inflige des dégâts supplémentaires équivalents à (40~60) % de l'attaque du joueur. (Effet non cumulable)
+
+De plus, le joueur et les Pals sont immunisés aux spores explosives de l'Arbre-Monde .",,,,,https://paldb.cc/fr/Silvance,2026-08-05
+Dandilord,Gardien du Brouillard,Grass,Dark,"Lorsqu'activée, confère (2~6) de Empoisonnement aux attaques du joueur.
+
+Lorsqu'il est dans l'équipe, le joueur et les Pals deviennent immunisés contre Empoisonnement et les gaz toxiques de la zone de l'Arbre-Monde sont neutralisés. (Effet non cumulable)",,,,,https://paldb.cc/fr/Dandilord,2026-08-05
+Bellanoir,Pupille Cauchemardesque,Dark,,"Lorsqu'activée, attaque l'ennemi ciblé avec Rayons Cauchemardesques .
+
+La puissance de Rayons Cauchemardesques utilisée par ce Pal est multipliée par (1.1~2.5) .",,,,,https://paldb.cc/fr/Bellanoir,2026-08-05
+Bellanoir Libero,Regard Cauchemardesque,Dark,,"Lorsqu'activée, attaque l'ennemi ciblé avec Floraison Cauchemardesque .
+
+La puissance de Floraison Cauchemardesque utilisée par ce Pal est multipliée par (1.1~2.5) .",,,,,https://paldb.cc/fr/Bellanoir_Libero,2026-08-05
+Xenolord,Ailes Météores,Dark,Dragon,"Peut être utilisé comme monture pour voler.
+
+Lorsqu'il est dans l'équipe, augmente de (20~50)% les dégâts des compétences partenaires des Pals équipés d'une arme . (Effet non cumulable) Technologies 66",,,,,https://paldb.cc/fr/Xenolord,2026-08-05
+Hartalis,Barrière Sacrée,Neutral,,"Peut être utilisé comme monture pour se déplacer.
+
+Permet de générer une barrière bloquant toutes les attaques lorsqu'il est monté.
+
+Permet également d'effectuer un triple saut . Technologies 70",,,,,https://paldb.cc/fr/Hartalis,2026-08-05
+Paladius,Chevalier Céleste,Neutral,,"Peut être utilisé comme monture pour se déplacer.
+
+Permet d'effectuer un triple saut lorsqu'il est monté.
+
+Si un Necromus se trouve dans votre équipe, l'utilisation de Lance Sacrée le fera apparaître pour combattre à vos côtés. Technologies 61",,,,,https://paldb.cc/fr/Paladius,2026-08-05
+Necromus,Chevalier Noir Abyssal,Dark,,"Peut être utilisé comme monture pour se déplacer.
+
+Permet d'effectuer un double saut lorsqu'il est monté.
+
+Si un Paladius se trouve dans votre équipe, l'utilisation de Lance Double le fera apparaître pour combattre à vos côtés. Technologies 61",,,,,https://paldb.cc/fr/Necromus,2026-08-05
+Frostallion,Pégase des Glaces,Ice,,"Peut être utilisé comme monture pour voler.
+
+Lorsqu'il est monté, les attaques du joueur deviennent de type Glace , sa puissance d'attaque augmente de (10~40)% , et ses attaques appliquent (2~6) d'accumulation d'état Gel . Technologies 62",Ice,,,,https://paldb.cc/fr/Frostallion,2026-08-05
+Frostallion Noct,Pégase Noir,Dark,,"Peut être utilisé comme monture pour voler.
+
+Lorsqu'il est monté, les attaques du joueur deviennent de type Ténèbres , sa puissance d'attaque augmente de (10~40)% , et ses attaques appliquent (2~6) d'accumulation d'état Cécité . Technologies 62",Dark,,,,https://paldb.cc/fr/Frostallion_Noct,2026-08-05
+Neptilius,Conquérant des Océans,Water,,"Tant qu'il combat activement aux côtés du joueur, il lance des lances d'eau de type Eau pour attaquer les ennemis hostiles.
+
+Peut être chevauché pour se déplacer sur l'eau.
+
+Permet d'effectuer de grands sauts à la surface de l'eau lorsque vous êtes en selle. Technologies 64",,,,,https://paldb.cc/fr/Neptilius,2026-08-05
+Jetragon,Missile Aérien,Dragon,,"Peut être utilisé comme monture pour voler.
+
+Permet de tirer en rafale avec un lance-missiles lorsqu'il est monté. Technologies 79",,,,,https://paldb.cc/fr/Jetragon,2026-08-05
+Panthalus,Gardien des Échos,Water,,"Peut être utilisé comme monture pour voler.
+
+Un seul spécimen peut être invoqué dans la base.
+
+Lorsqu'il est dans la base, il patrouille en permanence dans le ciel au-dessus de celle-ci et attaque les intrus depuis de très haut dans les airs.",,,,,https://paldb.cc/fr/Panthalus,2026-08-05
+Astralym,-,,,Des recherches sont en cours pour déterminer les capacités de ce Pal.,,,,,https://paldb.cc/fr/Astralym,2026-08-05
+Gelée verte,Corps Gélatineux,Grass,,"Peut être utilisé comme monture pour se déplacer.
+
+Permet de sauter plus haut lorsqu'il est monté.",,,,,https://paldb.cc/fr/Green_Slime,2026-08-05
+Gelée bleue,Corps Gélatineux,Water,,"Peut être utilisé comme monture pour se déplacer.
+
+Permet de sauter plus haut lorsqu'il est monté.",,,,,https://paldb.cc/fr/Blue_Slime,2026-08-05
+Gelée rouge,Corps Gélatineux,Fire,,"Peut être utilisé comme monture pour se déplacer.
+
+Permet de sauter plus haut lorsqu'il est monté.",,,,,https://paldb.cc/fr/Red_Slime,2026-08-05
+Gelée violette,Corps Gélatineux,Dark,,"Peut être utilisé comme monture pour se déplacer.
+
+Permet de sauter plus haut lorsqu'il est monté.",,,,,https://paldb.cc/fr/Purple_Slime,2026-08-05
+Gelée lumineuse,Corps Gélatineux,Neutral,,"Peut être utilisé comme monture pour se déplacer.
+
+Permet de sauter plus haut lorsqu'il est monté.",,,,,https://paldb.cc/fr/Illuminant_Slime,2026-08-05
+Gelée arc-en-ciel,Corps Gélatineux,Neutral,,"Peut être utilisé comme monture pour se déplacer.
+
+Permet de sauter plus haut lorsqu'il est monté.",,,,,https://paldb.cc/fr/Rainbow_Slime,2026-08-05
+Épée envoûtée,Enchantement,Neutral,,"Lorsqu'il est dans l'équipe, augmente de (40~80)% la quantité d'objets obtenus en terrassant des Pals de type Ténèbres . (Effet non cumulable)",,,,,https://paldb.cc/fr/Enchanted_Sword,2026-08-05
+Chauve-souris des grottes,Soutien de Chauve-souris,Neutral,,"Lorsqu'il est dans l'équipe, apparaît aux côtés du joueur et ramasse automatiquement les objets à proximité.",,,,,https://paldb.cc/fr/Cave_Bat,2026-08-05
+Chauve-souris lumineuse,Soutien de Chauve-souris,Neutral,,"Lorsqu'il est dans l'équipe, apparaît aux côtés du joueur et ramasse automatiquement les objets à proximité.",,,,,https://paldb.cc/fr/Illuminant_Bat,2026-08-05
+Œil de Cthulhu,Ruée de l’Œil de Cthulhu,Dark,,"Lorsqu'activée, Œil de Cthulhu charge l'ennemi ciblé pour l'attaquer.",,,,,https://paldb.cc/fr/Eye_of_Cthulhu,2026-08-05
+Œil de démon,Vision Démoniaque,Dark,,"Lorsqu'il est dans l'équipe, augmente l'attaque des Pals de type Ténèbres de (15~30)% . (Effet non cumulable)",Dark,,,,https://paldb.cc/fr/Demon_Eye,2026-08-05
